@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
 import { DISCLOSURE } from "../affiliate.js";
 import { SITE } from "../site.js";
+import BrandLockup from "./BrandLockup.jsx";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -9,16 +10,16 @@ export default function Footer() {
     <footer className="mt-20 bg-ink text-slate-300">
       <div className="container-content py-12 grid gap-10 md:grid-cols-4">
         <div>
-          <div className="flex items-center gap-2.5 mb-3">
+          <Link to="/" className="flex items-center gap-3 mb-3 w-fit" aria-label="Gyro Governance Ethical Travel home">
             <img
               src={SITE.travelIcon}
               alt=""
               width="40"
               height="40"
-              className="h-10 w-10 rounded-full"
+              className="h-10 w-10 shrink-0 rounded-full"
             />
-            <span className="font-sans text-white text-lg">Gyro Governance</span>
-          </div>
+            <BrandLockup />
+          </Link>
           <p className="text-sm leading-relaxed text-slate-400">
             Ethical travel, AI-empowered. Guides for human adventures that respect people and planet.
           </p>

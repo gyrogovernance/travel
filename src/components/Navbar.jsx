@@ -3,6 +3,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
 import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
+import BrandLockup from "./BrandLockup.jsx";
 
 const navBase =
   "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
@@ -15,13 +16,43 @@ function linkClass({ isActive }) {
   }`;
 }
 
-// Desktop Domains dropdown: opens on hover and on focus, closes on
-// outside click, Escape, or route change. Keyboard accessible.
-function DomainsMenu() {
+function isGuidesSectionActive(pathname) {
+  return (
+    pathname === "/guides" ||
+    pathname.startsWith("/guides/") ||
+    pathname === "/resources" ||
+    pathname.startsWith("/domains/")
+  );
+}
+
+const menuRow =
+  "flex items-start gap-3 rounded-xl p-2.5 hover:bg-ocean/5 transition-colors";
+
+function MenuRow({ to, icon, iconClass, title, description }) {
+  return (
+    <Link to={to} className={menuRow}>
+      <span
+        className={`mt-0.5 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-white ${iconClass}`}
+      >
+        <Icon name={icon} className="w-4 h-4" />
+      </span>
+      <span>
+        <span className="block text-sm font-bold text-ink">{title}</span>
+        {description ? (
+          <span className="block text-xs text-slate-500 leading-snug">{description}</span>
+        ) : null}
+      </span>
+    </Link>
+  );
+}
+
+// Desktop Guides dropdown. Opens on hover and focus.
+function GuidesMenu() {
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
   const closeTimer = useRef(null);
   const { pathname } = useLocation();
+  const sectionActive = isGuidesSectionActive(pathname);
 
   useEffect(() => setOpen(false), [pathname]);
 
@@ -48,6 +79,11 @@ function DomainsMenu() {
     closeTimer.current = setTimeout(() => setOpen(false), 120);
   };
 
+  const triggerClass =
+    open || sectionActive
+      ? "text-white bg-white/15"
+      : "text-slate-300 hover:text-white hover:bg-white/10";
+
   return (
     <div
       ref={ref}
@@ -57,15 +93,13 @@ function DomainsMenu() {
     >
       <button
         type="button"
-        className={`${navBase} inline-flex items-center gap-1.5 ${
-          open ? "text-white bg-white/15" : "text-slate-300 hover:text-white hover:bg-white/10"
-        }`}
+        className={`${navBase} inline-flex items-center gap-1.5 ${triggerClass}`}
         aria-haspopup="true"
         aria-expanded={open}
         onClick={() => setOpen((v) => !v)}
         onFocus={openNow}
       >
-        Domains
+        Guides
         <svg
           viewBox="0 0 24 24"
           className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
@@ -78,17 +112,31 @@ function DomainsMenu() {
       </button>
 
       <div
-        className={`absolute left-0 top-full pt-2 w-64 transition duration-200 ease-smooth ${
+        className={`absolute left-0 top-full pt-2 transition duration-200 ease-smooth ${
           open ? "opacity-100 translate-y-0 visible" : "opacity-0 -translate-y-1 invisible"
         }`}
       >
-        <div className="rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2">
+        <div className="rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2 w-72">
+          <MenuRow
+            to="/guides"
+            icon="book"
+            iconClass="bg-ocean"
+            title="Travel Guides"
+            description="Articles and walkthroughs"
+          />
+          <MenuRow
+            to="/resources"
+            icon="compass"
+            iconClass="bg-slate2"
+            title="Travel Resources"
+            description="Tools, links, and partners"
+          />
+          <div className="my-1.5 border-t border-black/8" role="separator" />
+          <p className="px-2.5 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
+            Four domains
+          </p>
           {DOMAINS.map((d) => (
-            <Link
-              key={d.slug}
-              to={`/domains/${d.slug}`}
-              className="flex items-start gap-3 rounded-xl p-2.5 hover:bg-ocean/5 transition-colors"
-            >
+            <Link key={d.slug} to={`/domains/${d.slug}`} className={menuRow}>
               <span
                 className="mt-0.5 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-white"
                 style={{ backgroundColor: d.color }}
@@ -109,11 +157,24 @@ function DomainsMenu() {
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
+  const { pathname } = useLocation();
+
+  function goHome() {
+    setOpen(false);
+    if (pathname === "/") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  }
 
   return (
     <header className="sticky top-0 z-40 bg-ink border-b border-white/10">
       <div className="container-content flex items-center justify-between h-18 py-3">
-        <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)} aria-label="Gyro Governance Ethical Travel home">
+        <Link
+          to="/"
+          className="flex items-center gap-3"
+          onClick={goHome}
+          aria-label="Gyro Governance Ethical Travel home"
+        >
           <img
             src={SITE.travelIcon}
             alt=""
@@ -121,23 +182,14 @@ export default function Navbar() {
             height="40"
             className="h-10 w-10 shrink-0 rounded-full"
           />
-          <span className="flex h-10 flex-col items-start gap-0.5 pt-[7px]">
-            <span className="block text-[10px] font-bold uppercase tracking-[3px] text-white/55 leading-none">
-              Gyro Governance
-            </span>
-            <span className="block font-display text-[17px] leading-[17px] font-normal text-slate-200">
-              Ethical Travel
-            </span>
-          </span>
+          <BrandLockup />
         </Link>
 
         <nav className="hidden md:flex items-center gap-1" aria-label="Primary">
           <NavLink to="/" end className={linkClass}>Home</NavLink>
-          <DomainsMenu />
-          <NavLink to="/guides" className={linkClass}>Guides</NavLink>
-          <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
-          <NavLink to="/resources" className={linkClass}>Resources</NavLink>
           <NavLink to="/about" className={linkClass}>About</NavLink>
+          <GuidesMenu />
+          <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
         </nav>
 
         <button
@@ -156,9 +208,16 @@ export default function Navbar() {
         <div className="md:hidden border-t border-white/10 bg-ink">
           <div className="container-content py-3 flex flex-col gap-1">
             <NavLink to="/" end className={linkClass} onClick={() => setOpen(false)}>Home</NavLink>
+            <NavLink to="/about" className={linkClass} onClick={() => setOpen(false)}>About</NavLink>
 
             <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
-              Domains
+              Guides
+            </p>
+            <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Travel Guides</NavLink>
+            <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>Travel Resources</NavLink>
+
+            <p className="px-3.5 pt-2 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
+              Four domains
             </p>
             {DOMAINS.map((d) => (
               <NavLink
@@ -179,13 +238,7 @@ export default function Navbar() {
               </NavLink>
             ))}
 
-            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
-              More
-            </p>
-            <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides</NavLink>
             <NavLink to="/prompts" className={linkClass} onClick={() => setOpen(false)}>AI Prompts</NavLink>
-            <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>Resources</NavLink>
-            <NavLink to="/about" className={linkClass} onClick={() => setOpen(false)}>About</NavLink>
           </div>
         </div>
       )}
