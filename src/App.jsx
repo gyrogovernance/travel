@@ -9,6 +9,7 @@ import Guides from "./pages/Guides.jsx";
 import Post from "./pages/Post.jsx";
 import About from "./pages/About.jsx";
 import Resources from "./pages/Resources.jsx";
+import Prompts from "./pages/Prompts.jsx";
 import Privacy from "./pages/Privacy.jsx";
 import Cookies from "./pages/Cookies.jsx";
 import NotFound from "./pages/NotFound.jsx";
@@ -31,6 +32,7 @@ export default function App() {
           <Route path="/guides" element={<Guides />} />
           <Route path="/guides/:slug" element={<Post />} />
           <Route path="/resources" element={<Resources />} />
+          <Route path="/prompts" element={<Prompts />} />
           <Route path="/about" element={<About />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/cookies" element={<Cookies />} />

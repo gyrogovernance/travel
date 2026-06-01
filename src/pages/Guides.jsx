@@ -19,10 +19,11 @@ export default function Guides() {
         <div className="container-content py-20 relative">
           <span className="eyebrow bg-white/10 text-white">Guides</span>
           <h1 className="mt-4 text-4xl sm:text-6xl leading-tight">
-            Travel <span className="text-amber2">better</span>, on purpose
+            AI-Empowered <span className="text-sky">Ethical Travel</span>
           </h1>
           <p className="mt-4 text-lg text-slate-200 max-w-2xl font-medium">
-            Practical, honest reading to help you travel better across all four domains of ethical travel.
+            Practical, honest reading and AI prompts to help you travel better across all four
+            domains of ethical travel.
           </p>
         </div>
       </section>
@@ -32,7 +33,7 @@ export default function Guides() {
           {POSTS.map((p) => {
             const domain = DOMAINS.find((d) => d.slug === p.domain);
             return (
-              <Link key={p.slug} to={`/guides/${p.slug}`} className="card p-7 hover:shadow-lg hover:-translate-y-1.5 transition-all flex flex-col">
+              <Link key={p.slug} to={`/guides/${p.slug}`} className="card card-hover p-7 flex flex-col">
                 <Chip color={domain?.color} className="self-start">{domain?.name}</Chip>
                 <h2 className="text-xl text-ink mt-4 leading-snug">{p.title}</h2>
                 <p className="text-slate-600 mt-2 flex-1 font-medium">{p.excerpt}</p>

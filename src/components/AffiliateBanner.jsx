@@ -14,7 +14,7 @@ export default function AffiliateBanner({
   return (
     <section className="relative overflow-hidden rounded-4xl bg-gradient-to-br from-slate2 via-ink to-ocean text-white px-6 py-12 sm:px-12 shadow-soft">
       <div className="pointer-events-none absolute -right-20 -top-20 h-72 w-72 rounded-full bg-oceanlight/30 blur-3xl" />
-      <div className="pointer-events-none absolute -left-16 -bottom-20 h-64 w-64 rounded-full bg-amber2/20 blur-3xl" />
+      <div className="pointer-events-none absolute -left-16 -bottom-20 h-64 w-64 rounded-full bg-sky/20 blur-3xl" />
       <div className="relative max-w-2xl">
         <span className="eyebrow bg-white/10 text-white">Plan your trip</span>
         <h2 className="mt-4 text-2xl sm:text-4xl leading-tight">{title}</h2>

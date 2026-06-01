@@ -11,7 +11,8 @@ export default {
         sand: "#f6f2ea",
         cream: "#fffdf9",
         leaf: "#2f7d4c",
-        amber2: "#f0a92b",
+        sky: "#5cc2e6",
+        skylight: "#a9e0f4",
         coral: "#ff6b5e",
       },
       fontFamily: {
@@ -29,11 +30,29 @@ export default {
         "4xl": "2.25rem",
       },
       boxShadow: {
-        soft: "0 10px 40px -12px rgba(12, 21, 36, 0.18)",
-        glow: "0 8px 30px -8px rgba(10, 125, 140, 0.45)",
+        soft: "0 10px 40px -12px rgba(12, 21, 36, 0.15)",
+        glow: "0 8px 30px -10px rgba(10, 125, 140, 0.4)",
       },
       backgroundImage: {
         "grain": "radial-gradient(circle at 1px 1px, rgba(255,255,255,0.18) 1px, transparent 0)",
+      },
+      transitionTimingFunction: {
+        // One natural easing curve used everywhere for consistency.
+        smooth: "cubic-bezier(0.22, 0.61, 0.36, 1)",
+      },
+      keyframes: {
+        "fade-up": {
+          from: { opacity: "0", transform: "translateY(12px)" },
+          to: { opacity: "1", transform: "translateY(0)" },
+        },
+        float: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-10px)" },
+        },
+      },
+      animation: {
+        "fade-up": "fade-up 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both",
+        float: "float 9s ease-in-out infinite",
       },
     },
   },

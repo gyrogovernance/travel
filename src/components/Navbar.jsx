@@ -1,14 +1,108 @@
-import { useState } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { useState, useRef, useEffect } from "react";
+import { Link, NavLink, useLocation } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
+import { SITE } from "../site.js";
+import Icon from "./Icon.jsx";
 
 const navBase =
-  "px-3.5 py-2 text-sm font-bold rounded-full transition-colors";
+  "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
 
 function linkClass({ isActive }) {
   return `${navBase} ${
     isActive ? "text-ocean bg-ocean/10" : "text-slate-700 hover:text-ocean hover:bg-ocean/5"
   }`;
+}
+
+// Desktop Domains dropdown: opens on hover and on focus, closes on
+// outside click, Escape, or route change. Keyboard accessible.
+function DomainsMenu() {
+  const [open, setOpen] = useState(false);
+  const ref = useRef(null);
+  const closeTimer = useRef(null);
+  const { pathname } = useLocation();
+
+  useEffect(() => setOpen(false), [pathname]);
+
+  useEffect(() => {
+    function onClick(e) {
+      if (ref.current && !ref.current.contains(e.target)) setOpen(false);
+    }
+    function onKey(e) {
+      if (e.key === "Escape") setOpen(false);
+    }
+    document.addEventListener("mousedown", onClick);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("mousedown", onClick);
+      document.removeEventListener("keydown", onKey);
+    };
+  }, []);
+
+  const openNow = () => {
+    clearTimeout(closeTimer.current);
+    setOpen(true);
+  };
+  const closeSoon = () => {
+    closeTimer.current = setTimeout(() => setOpen(false), 120);
+  };
+
+  return (
+    <div
+      ref={ref}
+      className="relative"
+      onMouseEnter={openNow}
+      onMouseLeave={closeSoon}
+    >
+      <button
+        type="button"
+        className={`${navBase} inline-flex items-center gap-1.5 ${
+          open ? "text-ocean bg-ocean/10" : "text-slate-700 hover:text-ocean hover:bg-ocean/5"
+        }`}
+        aria-haspopup="true"
+        aria-expanded={open}
+        onClick={() => setOpen((v) => !v)}
+        onFocus={openNow}
+      >
+        Domains
+        <svg
+          viewBox="0 0 24 24"
+          className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.4"
+        >
+          <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      </button>
+
+      <div
+        className={`absolute left-0 top-full pt-2 w-64 transition duration-200 ease-smooth ${
+          open ? "opacity-100 translate-y-0 visible" : "opacity-0 -translate-y-1 invisible"
+        }`}
+      >
+        <div className="rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2">
+          {DOMAINS.map((d) => (
+            <Link
+              key={d.slug}
+              to={`/domains/${d.slug}`}
+              className="flex items-start gap-3 rounded-xl p-2.5 hover:bg-ocean/5 transition-colors"
+            >
+              <span
+                className="mt-0.5 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-white"
+                style={{ backgroundColor: d.color }}
+              >
+                <Icon name={d.icon} className="w-4 h-4" />
+              </span>
+              <span>
+                <span className="block text-sm font-bold text-ink">{d.name}</span>
+                <span className="block text-xs text-slate-500 leading-snug">{d.tagline}</span>
+              </span>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default function Navbar() {
@@ -17,14 +111,14 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-40 bg-sand/85 backdrop-blur-md border-b border-black/5">
       <div className="container-content flex items-center justify-between h-18 py-3">
-        <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)} aria-label="Gyro Governance home">
-          <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-ocean text-white shadow-glow">
-            <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="1.8">
-              <circle cx="12" cy="12" r="8" />
-              <ellipse cx="12" cy="12" rx="8" ry="3.2" />
-              <ellipse cx="12" cy="12" rx="3.2" ry="8" />
-            </svg>
-          </span>
+        <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)} aria-label="Gyro Governance Ethical Travel home">
+          <img
+            src={SITE.travelIcon}
+            alt=""
+            width="40"
+            height="40"
+            className="h-10 w-10 rounded-full"
+          />
           <span className="leading-tight">
             <span className="block text-lg text-ink">Gyro Governance</span>
             <span className="block text-[11px] font-extrabold uppercase tracking-[0.14em] text-ocean">Ethical Travel</span>
@@ -33,12 +127,9 @@ export default function Navbar() {
 
         <nav className="hidden md:flex items-center gap-1" aria-label="Primary">
           <NavLink to="/" end className={linkClass}>Home</NavLink>
-          {DOMAINS.map((d) => (
-            <NavLink key={d.slug} to={`/domains/${d.slug}`} className={linkClass}>
-              {d.name}
-            </NavLink>
-          ))}
+          <DomainsMenu />
           <NavLink to="/guides" className={linkClass}>Guides</NavLink>
+          <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
           <NavLink to="/resources" className={linkClass}>Resources</NavLink>
           <NavLink to="/about" className={linkClass}>About</NavLink>
         </nav>
@@ -59,12 +150,34 @@ export default function Navbar() {
         <div className="md:hidden border-t border-black/5 bg-sand">
           <div className="container-content py-3 flex flex-col gap-1">
             <NavLink to="/" end className={linkClass} onClick={() => setOpen(false)}>Home</NavLink>
+
+            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-400">
+              Domains
+            </p>
             {DOMAINS.map((d) => (
-              <NavLink key={d.slug} to={`/domains/${d.slug}`} className={linkClass} onClick={() => setOpen(false)}>
-                {d.name}
+              <NavLink
+                key={d.slug}
+                to={`/domains/${d.slug}`}
+                className={linkClass}
+                onClick={() => setOpen(false)}
+              >
+                <span className="inline-flex items-center gap-2.5">
+                  <span
+                    className="inline-flex h-6 w-6 items-center justify-center rounded-md text-white"
+                    style={{ backgroundColor: d.color }}
+                  >
+                    <Icon name={d.icon} className="w-3.5 h-3.5" />
+                  </span>
+                  {d.name}
+                </span>
               </NavLink>
             ))}
+
+            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-400">
+              More
+            </p>
             <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides</NavLink>
+            <NavLink to="/prompts" className={linkClass} onClick={() => setOpen(false)}>AI Prompts</NavLink>
             <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>Resources</NavLink>
             <NavLink to="/about" className={linkClass} onClick={() => setOpen(false)}>About</NavLink>
           </div>

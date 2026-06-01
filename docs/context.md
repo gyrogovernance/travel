@@ -12,13 +12,35 @@ For the affiliate and monetization details, see `travelpayouts.md`.
 ## Who we are
 
 **Gyro Governance** is an AI Safety Lab. This website, **Gyro Governance Ethical
-Travel: AI Guides for Human Adventures**, applies the careful, principled
-thinking we use in AI safety to the choices travelers face.
+Travel: AI-Empowered Guides for Human Adventures**, applies the careful,
+principled thinking we use in AI safety to the choices travelers face.
 
-- Mission: help people travel in ways that respect people and the planet.
+- Mission: help people use AI to plan moral travel, make friends locally and
+  abroad, and empower the communities they visit.
 - Promise: practical, honest guidance, never guilt or greenwashing.
 - Funding: travel affiliate links (Travelpayouts). We only recommend services
   that fit our principles, and we always disclose.
+
+### Title and tagline variations
+Use the full title once per page (usually the SEO title and home hero), then vary
+the phrasing elsewhere for freshness. Approved forms:
+
+- Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures (full)
+- AI-Empowered Guides for Human Adventures
+- AI-Empowered Human Adventures
+- AI-Empowered Ethical Travel
+
+Always hyphenate "AI-Empowered". Do not use "AI Guides for Human Adventures"
+(old wording) on its own, it reads awkwardly.
+
+### Brand assets (in src/assets)
+- `GG_Travel_Icon.svg` and `GG_Travel_Logo.svg`: this site's mark (the purple G).
+  Use in the header, footer, and favicon.
+- `gyrogovernance_logo.png` and `gyrogovernance_stamp.png`: the Gyro Governance
+  lab mark (the green T). Use only when we explicitly reference the lab, for
+  example the About page.
+- `GG_Travel_OG.jpg`: default social share image (also copied to `public/og.jpg`
+  for static meta tags in index.html).
 
 ---
 
@@ -74,6 +96,23 @@ Guide building blocks (see `src/data/posts.js`): `p` (paragraph), `h2`, `h3`,
 `ul` (list), and `offer` (an affiliate offer card by key). Optional `faq` array
 of question and answer pairs renders an accordion and FAQ rich snippet data.
 
+### AI Prompts (`/prompts`)
+Copy ready prompts that readers paste into their own AI assistant to plan ethical
+trips, make friends locally and abroad, and empower communities. Each prompt maps
+to a domain. Source: `src/data/prompts.js`. This is core to our direction: we
+help people leverage their own AI, not just read static advice.
+
+| Category | Domain |
+| --- | --- |
+| Plan a moral trip | Economy |
+| Make friends locally and abroad | Education |
+| Empower communities | Employment |
+| Tread lightly on nature | Ecology |
+
+Prompt writing rules: keep them copy ready, use [BRACKETS] for the reader to
+fill in, stay practical and kind, and always include a reminder to verify AI
+output against official sources.
+
 ### Resources (`/resources`)
 A curated directory of trusted booking partners grouped by category, each mapped
 to a domain. Source: `src/data/programs.js`.
@@ -104,8 +143,9 @@ src/
     domains.js     The four domains: summaries, stats, principles, checklists.
     posts.js       All guides and their FAQs.
     programs.js    The curated partner list on the Resources page.
+    prompts.js     The copy ready AI prompts on the AI Prompts page.
   affiliate.js     Affiliate config, offers, widgets, and disclosure text.
-  site.js          Site name, tagline, description, and live URL.
+  site.js          Site name, titles, tagline, brand assets, and live URL.
 docs/
   context.md       This file. The shared brief for content and strategy.
   travelpayouts.md The monetization reference (programs, tools, playbook).
@@ -118,9 +158,11 @@ and `src/affiliate.js`. No component edits are needed for routine content work.
 
 ## Site map
 
-- `/` Home: hero, the four domains, how it works, search, featured guides.
+- `/` Home: hero, the four domains, how it works, AI prompts teaser, search,
+  featured guides.
 - `/domains/economy`, `/employment`, `/education`, `/ecology`
 - `/guides` and each guide at `/guides/<slug>`
+- `/prompts`
 - `/resources`
 - `/about`
 - `/privacy`, `/cookies`

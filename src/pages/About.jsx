@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
 import Icon from "../components/Icon.jsx";
 import Seo from "../components/Seo.jsx";
+import { SITE } from "../site.js";
 
 export default function About() {
   return (
@@ -15,12 +16,23 @@ export default function About() {
         <div className="pointer-events-none absolute -right-24 -top-20 h-80 w-80 rounded-full bg-oceanlight/30 blur-3xl animate-float" />
         <div className="pointer-events-none absolute -left-20 bottom-0 h-72 w-72 rounded-full bg-leaf/30 blur-3xl" />
         <div className="container-content py-20 relative">
-          <span className="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-xs font-extrabold uppercase tracking-wider ring-1 ring-white/25 backdrop-blur">
-            <Icon name="shield" className="w-4 h-4" />
-            AI Safety Lab
-          </span>
-          <h1 className="text-4xl sm:text-6xl mt-6 leading-tight">About Gyro Governance</h1>
-          <p className="mt-5 text-lg text-slate-100 max-w-2xl leading-relaxed font-medium">
+          <div className="flex items-center gap-5">
+            <img
+              src={SITE.labLogo}
+              alt="Gyro Governance lab logo"
+              width="88"
+              height="88"
+              className="h-20 w-20 sm:h-22 sm:w-22 rounded-full shrink-0"
+            />
+            <div>
+              <span className="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-xs font-extrabold uppercase tracking-wider ring-1 ring-white/25 backdrop-blur">
+                <Icon name="shield" className="w-4 h-4" />
+                AI Safety Lab
+              </span>
+              <h1 className="text-4xl sm:text-6xl mt-4 leading-tight">About Gyro Governance</h1>
+            </div>
+          </div>
+          <p className="mt-6 text-lg text-slate-100 max-w-2xl leading-relaxed font-medium">
             Gyro Governance is an AI Safety Lab. We study how to keep intelligent systems aligned with
             human values, and we build tools that help people make better, kinder choices. Ethical
             travel is one of those tools.

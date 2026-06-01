@@ -73,9 +73,19 @@ export default function Domain() {
           <h2>Principles</h2>
           <div className="grid sm:grid-cols-2 gap-5 not-prose">
             {domain.principles.map((pr) => (
-              <div key={pr.title} className="card p-5 border-t-4" style={{ borderTopColor: domain.color }}>
+              <div
+                key={pr.title}
+                className="rounded-3xl p-6 transition duration-300 ease-smooth hover:-translate-y-1"
+                style={{ backgroundColor: `${domain.color}14` }}
+              >
+                <span
+                  className="inline-flex h-9 w-9 items-center justify-center rounded-xl text-white mb-3"
+                  style={{ backgroundColor: domain.color }}
+                >
+                  <Icon name={domain.icon} className="w-5 h-5" />
+                </span>
                 <h3 className="font-display text-lg text-ink">{pr.title}</h3>
-                <p className="text-sm text-slate-600 mt-2 leading-relaxed">{pr.body}</p>
+                <p className="text-sm text-slate-700 mt-2 leading-relaxed">{pr.body}</p>
               </div>
             ))}
           </div>

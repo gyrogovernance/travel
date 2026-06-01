@@ -54,7 +54,7 @@ export default function Home() {
         <div className="absolute inset-0 hero-scrim" />
         {/* Soft floating color blobs for a modern feel. */}
         <div className="pointer-events-none absolute -right-24 -top-24 h-80 w-80 rounded-full bg-oceanlight/30 blur-3xl animate-float" />
-        <div className="pointer-events-none absolute -left-20 bottom-0 h-72 w-72 rounded-full bg-amber2/20 blur-3xl animate-float" style={{ animationDelay: "1.5s" }} />
+        <div className="pointer-events-none absolute -left-20 bottom-0 h-72 w-72 rounded-full bg-sky/20 blur-3xl animate-float" style={{ animationDelay: "1.5s" }} />
 
         <div className="container-content relative py-28 sm:py-36 text-white">
           <div className="max-w-3xl animate-fade-up">
@@ -63,13 +63,13 @@ export default function Home() {
               Built by an AI Safety Lab
             </span>
             <h1 className="mt-6 text-4xl sm:text-6xl lg:text-7xl leading-[1.02] text-balance drop-shadow-sm">
-              Ethical Travel for{" "}
-              <span className="text-amber2">Human Adventures</span>
+              AI-Empowered Guides for{" "}
+              <span className="text-sky">Human Adventures</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-slate-100 max-w-2xl font-medium leading-relaxed">
-              Gyro Governance helps you explore the world in ways that strengthen local economies,
-              respect workers, deepen understanding, and protect nature. Four domains, one simple goal:
-              travel that does good.
+              Gyro Governance Ethical Travel helps you use AI to plan moral trips, make friends
+              locally and abroad, and empower the communities you visit. Four domains, one simple
+              goal: travel that does good.
             </p>
             <div className="mt-9 flex flex-wrap gap-4">
               <Link to="/guides" className="btn-accent">
@@ -87,7 +87,7 @@ export default function Home() {
               <Link
                 key={d.slug}
                 to={`/domains/${d.slug}`}
-                className="group rounded-2xl bg-white/10 ring-1 ring-white/20 px-4 py-4 hover:bg-white/20 hover:-translate-y-1 transition-all backdrop-blur"
+                className="group rounded-2xl bg-white/10 ring-1 ring-white/20 px-4 py-4 backdrop-blur transition duration-300 ease-smooth hover:bg-white/20 hover:-translate-y-1"
               >
                 <span className="flex items-center gap-2.5 text-sm font-bold">
                   <span
@@ -152,18 +152,41 @@ export default function Home() {
             {steps.map((s, i) => (
               <div
                 key={s.title}
-                className="group relative rounded-3xl bg-sand p-8 ring-1 ring-black/5 hover:shadow-soft hover:-translate-y-1 transition-all"
+                className="group relative rounded-3xl bg-sand p-8 ring-1 ring-black/5 transition duration-300 ease-smooth hover:-translate-y-1 hover:shadow-soft"
               >
                 <span className="absolute right-6 top-5 text-5xl text-ocean/10" style={{ fontFamily: "Caprasimo, serif" }}>
                   {i + 1}
                 </span>
-                <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-ocean text-white shadow-glow group-hover:scale-110 transition">
+                <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-ocean text-white shadow-glow transition duration-300 ease-smooth group-hover:scale-105">
                   <Icon name={s.icon} className="w-7 h-7" />
                 </span>
                 <h3 className="mt-5 text-xl text-ink">{s.title}</h3>
                 <p className="mt-2 text-slate-600 leading-relaxed font-medium">{s.body}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* AI Prompts teaser */}
+      <section className="container-content section-pad">
+        <div className="relative overflow-hidden rounded-4xl bg-gradient-to-br from-ocean to-leaf text-white p-8 sm:p-12">
+          <div className="pointer-events-none absolute -right-16 -top-16 h-60 w-60 rounded-full bg-white/15 blur-3xl" />
+          <div className="relative lg:flex lg:items-center lg:justify-between lg:gap-10">
+            <div className="max-w-2xl">
+              <span className="eyebrow bg-white/15 text-white">AI Prompts</span>
+              <h2 className="mt-4 text-3xl sm:text-4xl leading-tight">
+                Let your AI plan a kinder trip
+              </h2>
+              <p className="mt-3 text-white/90 font-medium text-lg">
+                Copy ready prompts that help you build moral itineraries, make friends locally and
+                abroad, and empower the communities you visit. Fill in the blanks and go.
+              </p>
+            </div>
+            <Link to="/prompts" className="btn bg-white text-ink hover:bg-slate-100 mt-6 lg:mt-0 shrink-0">
+              Browse the prompts
+              <Icon name="arrow" className="w-4 h-4" />
+            </Link>
           </div>
         </div>
       </section>
@@ -200,7 +223,7 @@ export default function Home() {
               <Link
                 key={p.slug}
                 to={`/guides/${p.slug}`}
-                className="card p-7 hover:shadow-lg hover:-translate-y-1.5 transition-all flex flex-col"
+                className="card card-hover p-7 flex flex-col"
               >
                 <Chip color={domain?.color} className="self-start">{domain?.name}</Chip>
                 <h3 className="text-xl text-ink mt-4 leading-snug">{p.title}</h3>
@@ -220,7 +243,7 @@ export default function Home() {
         <div className="pointer-events-none absolute -left-16 -bottom-24 h-72 w-72 rounded-full bg-leaf/30 blur-3xl" />
         <div className="container-content py-20 text-center relative">
           <h2 className="text-3xl sm:text-5xl text-balance leading-tight">
-            Adventures that leave the world <span className="text-amber2">better</span>
+            Adventures that leave the world <span className="text-sky">better</span>
           </h2>
           <p className="mt-5 text-lg text-slate-200 max-w-2xl mx-auto font-medium">
             We believe technology should help people make kinder choices. That is why this AI Safety

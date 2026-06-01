@@ -41,6 +41,17 @@ const paths = {
   ),
   arrow: <path d="M5 12h14M13 6l6 6-6 6" />,
   check: <path d="M5 12l4 4 10-10" />,
+  copy: (
+    <>
+      <rect x="9" y="9" width="11" height="11" rx="2" />
+      <path d="M5 15V5a2 2 0 012-2h10" />
+    </>
+  ),
+  spark: (
+    <>
+      <path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z" />
+    </>
+  ),
   mail: (
     <>
       <rect x="3" y="5" width="18" height="14" rx="2" />

@@ -30,7 +30,7 @@ export default function Resources() {
         <div className="container-content py-20 relative">
           <span className="eyebrow bg-white/10 text-white">Resources</span>
           <h1 className="mt-4 text-4xl sm:text-6xl leading-tight">
-            Tools for a <span className="text-amber2">better trip</span>
+            AI-Empowered <span className="text-sky">Human Adventures</span>
           </h1>
           <p className="mt-4 text-lg text-slate-200 max-w-2xl font-medium">
             The booking partners we trust, grouped by what you need and matched to
@@ -61,7 +61,7 @@ export default function Resources() {
                   href={p.url}
                   target="_blank"
                   rel="noopener sponsored nofollow"
-                  className="card group p-5 hover:shadow-lg hover:-translate-y-1 transition-all flex flex-col"
+                  className="card card-hover group p-5 flex flex-col"
                 >
                   <div className="flex items-center justify-between gap-3">
                     <span className="font-extrabold text-ink">{p.name}</span>

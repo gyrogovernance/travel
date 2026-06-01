@@ -14,10 +14,13 @@ export default function Seo({
 }) {
   const fullTitle = title
     ? `${title} | ${SITE.shortName}`
-    : `${SITE.name}: ${SITE.tagline}`;
+    : SITE.fullTitle;
   // Hash routing keeps the canonical on the base document URL.
   const canonical = `${SITE.siteUrl}/${path && path !== "/" ? `#${path}` : ""}`;
-  const ogImage = image ? `${SITE.siteUrl}${image}` : undefined;
+  // Use the page image if provided, otherwise the default OG image.
+  const ogImage = image
+    ? `${SITE.siteUrl}${image}`
+    : new URL(SITE.ogImage, SITE.siteUrl).href;
 
   // Build BreadcrumbList structured data from a [{name, path}] list.
   const breadcrumbLd = breadcrumbs?.length

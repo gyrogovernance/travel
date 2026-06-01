@@ -5,14 +5,14 @@ export default function DomainCard({ domain }) {
   return (
     <Link
       to={`/domains/${domain.slug}`}
-      className="card group overflow-hidden flex flex-col hover:shadow-md hover:-translate-y-0.5 transition"
+      className="card card-hover group overflow-hidden flex flex-col"
     >
       <div className="relative h-40 overflow-hidden">
         <img
           src={domain.image}
           alt={domain.name}
           loading="lazy"
-          className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+          className="h-full w-full object-cover transition duration-500 ease-smooth group-hover:scale-[1.03]"
         />
         <span
           className="absolute inset-0 opacity-40 mix-blend-multiply"
