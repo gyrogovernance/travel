@@ -23,6 +23,19 @@ bun run preview  # preview the production build locally
 The build output in `dist/` is fully static. You can host it on any static host
 such as Netlify, Vercel, Cloudflare Pages, GitHub Pages, or plain object storage.
 
+### GitHub Pages
+
+Do not point Pages at the repository root on `main`. That serves the Vite source
+(`index.html` loads `/src/main.jsx`), which browsers cannot run, so you get a blank
+page. `dist/` is gitignored and is never published that way.
+
+1. In the repo: **Settings > Pages > Build and deployment**, set **Source** to
+   **GitHub Actions** (not "Deploy from a branch").
+2. Push to `main`. The workflow in `.github/workflows/deploy-pages.yml` runs
+   `bun run build` and publishes `dist/`.
+3. Keep the custom domain in Pages settings. `public/CNAME` is copied into
+   `dist/` on each build so the domain file stays on the deployed site.
+
 ## Adding your Travelpayouts affiliate marker
 
 Everything affiliate related lives in ONE file: `src/affiliate.js`.
