@@ -103,9 +103,13 @@ Drive handles automatic conversion, but for hand placed, high intent spots we
 can also use these. They live in `src/affiliate.js`.
 
 ### Affiliate links
-- Create deep links in the dashboard or with the Travelpayouts Chrome extension.
-- Format used here: `https://tp.media/r?...&marker=535198`.
-- Track campaigns with a SubID parameter so we can see which page or button
+- Preferred method here: link to the real brand site and let Drive convert it on
+  click. Drive adds the correct partner id and tracking automatically.
+- Do NOT hand build `https://tp.media/r?u=BRAND` style URLs. That is not a valid
+  deep link format and the redirect fails with errors like "missing argument: p".
+- If you need a fixed, pre tracked link, generate the exact URL in the
+  Travelpayouts dashboard (or Chrome extension) and paste it verbatim.
+- Track placements with a SubID parameter so we can see which page or button
   converts. Docs: How to track the performance of your affiliate links.
 
 ### Widgets (search forms, tables)
@@ -129,8 +133,10 @@ backend.
 First in `<head>` of `index.html`. Auto converts the 53 selected brand links.
 
 ### Manual offers (`src/affiliate.js`)
-`AFFILIATE_OFFERS` powers the offer cards and affiliate banner. `withMarker(url,
-subId)` appends the marker and an optional SubID for tracking.
+`AFFILIATE_OFFERS` powers the offer cards and affiliate banner. They point at the
+real brand websites and Drive converts them on click. `brandLink(url, subId)`
+returns the plain brand URL with an optional SubID added as a normal query
+parameter, which Drive preserves.
 
 ### Search widgets (`WIDGETS` in `src/affiliate.js`)
 Travelpayouts widgets are external `<script>` embeds, which are static friendly.
@@ -148,13 +154,13 @@ To activate a widget: build it in the dashboard (Tools > Widgets), copy the
 script src URL, and paste it into the matching `WIDGETS[...]src` value.
 
 ### Resources page (`/resources`)
-A curated, SEO friendly directory of programs by category, deep linked through
-`tp.media` with the marker and a `resources` SubID. Data lives in
-`src/data/programs.js`. This is a pure static page and a strong conversion and
-search asset.
+A curated, SEO friendly directory of programs by category. Links point at the
+real brand sites with a `resources` SubID, and Drive converts them on click.
+Data lives in `src/data/programs.js`. This is a pure static page and a strong
+conversion and search asset.
 
 ### SubID tracking
-Use `withMarker(url, "placement-name")` so the Performance report shows which
+Use `brandLink(url, "placement-name")` so the Performance report shows which
 page or button earned. The Resources page uses `resources`; add more SubIDs as
 needed (for example `home-hero`, `guide-esim`).
 

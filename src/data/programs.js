@@ -1,14 +1,15 @@
-import { withMarker } from "../affiliate.js";
+import { brandLink } from "../affiliate.js";
 
 // Curated Travelpayouts programs grouped by category. These are all in
-// the selected program list and are deep linked through tp.media with
-// the site marker. Each gets a SubID of "resources" so we can see in
+// the selected program list. We link to the real brand sites and Drive
+// converts them to affiliate links on click, adding the correct partner
+// id and tracking. Each gets a SubID of "resources" so we can see in
 // the Performance report which clicks came from this page.
 //
 // All categories map to our four ethical travel domains so the page
 // stays on message rather than being a generic deal dump.
 function link(brandUrl) {
-  return withMarker(`https://tp.media/r?u=${encodeURIComponent(brandUrl)}`, "resources");
+  return brandLink(brandUrl, "resources");
 }
 
 export const PROGRAM_CATEGORIES = [

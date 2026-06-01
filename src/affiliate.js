@@ -2,64 +2,69 @@
 //  TRAVELPAYOUTS AFFILIATE CONFIG
 //  Update everything here in ONE place.
 //
-//  Two layers work together:
-//  1. DRIVE (the script in index.html) auto converts any links to
-//     the 53 selected brands into affiliate links sitewide. So even
-//     a plain link to a brand becomes an affiliate link.
-//  2. The MANUAL offers below are for intentional, hand placed CTAs
-//     where we want specific copy, styling, and position.
+//  HOW LINKS WORK HERE
+//  Drive (the script in index.html) automatically converts plain
+//  links to the 53 selected brands into proper Travelpayouts
+//  affiliate links, adding the correct partner id and tracking. So
+//  the offers below point at the real brand websites, and Drive does
+//  the conversion at click time. This avoids hand built redirect URLs,
+//  which can break (for example "missing argument: p").
+//
+//  If you want a fixed, pre tracked deep link instead of relying on
+//  Drive, generate it in the Travelpayouts dashboard and paste that
+//  exact URL as the "url" value below.
 //
 //  See docs/travelpayouts.md for the full reference and program list.
 // =============================================================
 
-// Your Travelpayouts project id (marker).
+// Your Travelpayouts project id (marker). Kept for reference and for
+// any dashboard generated links you may paste in.
 export const TP_MARKER = "535198";
 
-// Helper that appends your marker to any partner link.
-// Optionally pass a SubID to track which page or button converted.
-// SubIDs show up in the Travelpayouts Performance report.
-export function withMarker(url, subId) {
+// Build a plain brand link. Drive converts it to an affiliate link on
+// click. An optional SubID is added as a normal query parameter, which
+// Drive preserves for the Performance report.
+export function brandLink(url, subId) {
+  if (!subId) return url;
   const sep = url.includes("?") ? "&" : "?";
-  const sub = subId ? `&sub_id=${encodeURIComponent(subId)}` : "";
-  return `${url}${sep}marker=${TP_MARKER}${sub}`;
+  return `${url}${sep}sub_id=${encodeURIComponent(subId)}`;
 }
 
-// Affiliate offers shown across the site. These point at brands that
-// are in our selected program list. Replace any "url" with a real
-// tracked deep link from the dashboard if you want a specific landing
-// page or SubID. Add &sub_id=PLACEMENT to a link to track placements.
+// Affiliate offers shown across the site. These point at the real brand
+// sites. Drive turns them into affiliate links automatically.
 export const AFFILIATE_OFFERS = {
   flights: {
     label: "Find Fair Flights",
     note: "Compare carbon and price before you book.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Faviasales.com"),
+    url: brandLink("https://www.aviasales.com"),
   },
   hotels: {
     label: "Stay With Locals",
     note: "Choose locally owned stays where you can.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Fwww.booking.com"),
+    url: brandLink("https://www.booking.com"),
   },
   trains: {
     label: "Take the Train",
     note: "Lower carbon ground travel where it works.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Fomio.com"),
+    url: brandLink("https://www.omio.com"),
   },
   tours: {
     label: "Book Ethical Experiences",
     note: "Tours that pay guides fairly.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Fwww.getyourguide.com"),
+    url: brandLink("https://www.getyourguide.com"),
   },
   esim: {
     label: "Get a Travel eSIM",
     note: "Stay connected without roaming waste.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Fairalo.com"),
+    url: brandLink("https://www.airalo.com"),
   },
   insurance: {
     label: "Insure Your Trip",
     note: "Protect yourself and the people who rely on you.",
-    url: withMarker("https://tp.media/r?u=https%3A%2F%2Fekta.travel"),
+    url: brandLink("https://ekta.travel"),
   },
 };
+
 
 
 // Affiliate disclosure text used in the footer and on pages.
