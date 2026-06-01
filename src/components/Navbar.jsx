@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
+import { GUIDES_RESOURCES } from "../data/guidesMenu.js";
 import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
 import BrandLockup from "./BrandLockup.jsx";
@@ -91,25 +92,38 @@ function GuidesMenu() {
       onMouseEnter={openNow}
       onMouseLeave={closeSoon}
     >
-      <button
-        type="button"
-        className={`${navBase} inline-flex items-center gap-1.5 ${triggerClass}`}
-        aria-haspopup="true"
-        aria-expanded={open}
-        onClick={() => setOpen((v) => !v)}
-        onFocus={openNow}
-      >
-        Guides
-        <svg
-          viewBox="0 0 24 24"
-          className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.4"
+      <div className={`inline-flex items-center rounded-full ${triggerClass}`}>
+        <NavLink
+          to="/guides"
+          className={() =>
+            `${linkClass({ isActive: sectionActive })} rounded-r-none !bg-transparent pr-2`
+          }
+          onClick={() => setOpen(false)}
         >
-          <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
-        </svg>
-      </button>
+          Guides
+        </NavLink>
+        <button
+          type="button"
+          className={`px-2 py-2 rounded-l-none rounded-r-full inline-flex items-center ${
+            open || sectionActive ? "text-white" : "text-slate-300 hover:text-white"
+          }`}
+          aria-haspopup="true"
+          aria-expanded={open}
+          aria-label="Open guides menu"
+          onClick={() => setOpen((v) => !v)}
+          onFocus={openNow}
+        >
+          <svg
+            viewBox="0 0 24 24"
+            className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2.4"
+          >
+            <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+      </div>
 
       <div
         className={`absolute left-0 top-full pt-2 transition duration-200 ease-smooth ${
@@ -117,20 +131,7 @@ function GuidesMenu() {
         }`}
       >
         <div className="rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2 w-72">
-          <MenuRow
-            to="/guides"
-            icon="book"
-            iconClass="bg-ocean"
-            title="Travel Guides"
-            description="Articles and walkthroughs"
-          />
-          <MenuRow
-            to="/resources"
-            icon="compass"
-            iconClass="bg-slate2"
-            title="Travel Resources"
-            description="Tools, links, and partners"
-          />
+          <MenuRow {...GUIDES_RESOURCES} />
           <div className="my-1.5 border-t border-black/8" role="separator" />
           <p className="px-2.5 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
             Four domains
@@ -213,8 +214,10 @@ export default function Navbar() {
             <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
               Guides
             </p>
-            <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Travel Guides</NavLink>
-            <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>Travel Resources</NavLink>
+            <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides hub</NavLink>
+            <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>
+              {GUIDES_RESOURCES.title}
+            </NavLink>
 
             <p className="px-3.5 pt-2 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
               Four domains
