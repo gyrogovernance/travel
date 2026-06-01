@@ -9,7 +9,9 @@ const navBase =
 
 function linkClass({ isActive }) {
   return `${navBase} ${
-    isActive ? "text-ocean bg-ocean/10" : "text-slate-700 hover:text-ocean hover:bg-ocean/5"
+    isActive
+      ? "text-white bg-white/15"
+      : "text-slate-300 hover:text-white hover:bg-white/10"
   }`;
 }
 
@@ -56,7 +58,7 @@ function DomainsMenu() {
       <button
         type="button"
         className={`${navBase} inline-flex items-center gap-1.5 ${
-          open ? "text-ocean bg-ocean/10" : "text-slate-700 hover:text-ocean hover:bg-ocean/5"
+          open ? "text-white bg-white/15" : "text-slate-300 hover:text-white hover:bg-white/10"
         }`}
         aria-haspopup="true"
         aria-expanded={open}
@@ -109,7 +111,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 bg-sand/85 backdrop-blur-md border-b border-black/5">
+    <header className="sticky top-0 z-40 bg-ink border-b border-white/10">
       <div className="container-content flex items-center justify-between h-18 py-3">
         <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)} aria-label="Gyro Governance Ethical Travel home">
           <img
@@ -117,11 +119,15 @@ export default function Navbar() {
             alt=""
             width="40"
             height="40"
-            className="h-10 w-10 rounded-full"
+            className="h-10 w-10 shrink-0 rounded-full"
           />
-          <span className="leading-tight">
-            <span className="block text-lg text-ink">Gyro Governance</span>
-            <span className="block text-[11px] font-extrabold uppercase tracking-[0.14em] text-ocean">Ethical Travel</span>
+          <span className="flex h-10 flex-col items-start gap-0.5 pt-[7px]">
+            <span className="block text-[10px] font-bold uppercase tracking-[3px] text-white/55 leading-none">
+              Gyro Governance
+            </span>
+            <span className="block font-display text-[17px] leading-[17px] font-normal text-slate-200">
+              Ethical Travel
+            </span>
           </span>
         </Link>
 
@@ -135,7 +141,7 @@ export default function Navbar() {
         </nav>
 
         <button
-          className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-ink hover:bg-black/5"
+          className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"
           aria-label={open ? "Close menu" : "Open menu"}
           aria-expanded={open}
           onClick={() => setOpen((v) => !v)}
@@ -147,11 +153,11 @@ export default function Navbar() {
       </div>
 
       {open && (
-        <div className="md:hidden border-t border-black/5 bg-sand">
+        <div className="md:hidden border-t border-white/10 bg-ink">
           <div className="container-content py-3 flex flex-col gap-1">
             <NavLink to="/" end className={linkClass} onClick={() => setOpen(false)}>Home</NavLink>
 
-            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-400">
+            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
               Domains
             </p>
             {DOMAINS.map((d) => (
@@ -173,7 +179,7 @@ export default function Navbar() {
               </NavLink>
             ))}
 
-            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-400">
+            <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
               More
             </p>
             <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides</NavLink>

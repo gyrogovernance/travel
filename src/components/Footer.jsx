@@ -17,7 +17,7 @@ export default function Footer() {
               height="40"
               className="h-10 w-10 rounded-full"
             />
-            <span className="font-display text-white text-lg">Gyro Governance</span>
+            <span className="font-sans text-white text-lg">Gyro Governance</span>
           </div>
           <p className="text-sm leading-relaxed text-slate-400">
             Ethical travel, AI-empowered. Guides for human adventures that respect people and planet.
