@@ -25,16 +25,22 @@ such as Netlify, Vercel, Cloudflare Pages, GitHub Pages, or plain object storage
 
 ### GitHub Pages
 
-Do not point Pages at the repository root on `main`. That serves the Vite source
+Do not point Pages at the `main` branch root. That serves Vite source
 (`index.html` loads `/src/main.jsx`), which browsers cannot run, so you get a blank
-page. `dist/` is gitignored and is never published that way.
+page. `dist/` is gitignored and is never on `main`.
 
-1. In the repo: **Settings > Pages > Build and deployment**, set **Source** to
-   **GitHub Actions** (not "Deploy from a branch").
-2. Push to `main`. The workflow in `.github/workflows/deploy-pages.yml` runs
-   `bun run build` and publishes `dist/`.
-3. Keep the custom domain in Pages settings. `public/CNAME` is copied into
-   `dist/` on each build so the domain file stays on the deployed site.
+The workflow builds with Bun and pushes only `dist/` to the `gh-pages` branch.
+
+1. **Settings > Pages > Build and deployment**
+   - **Source:** Deploy from a branch
+   - **Branch:** `gh-pages` / `/ (root)`
+   - Do not use `main` as the Pages branch.
+   - Do not use "GitHub Actions" as the source for this repo; that runs a second
+     Jekyll build on `main` and overwrites the Vite output with source files.
+2. Push to `main` and wait for **Deploy to GitHub Pages** to finish.
+3. Confirm the live HTML references `/assets/index-….js`, not `/src/main.jsx`.
+4. Custom domain: keep it in Pages settings. `public/CNAME` is copied into `dist/`
+   on each build.
 
 ## Adding your Travelpayouts affiliate marker
 
