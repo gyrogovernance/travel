@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Static sitemap. Replace the domain below with your live site URL.
+  Because the site uses hash routing, search engines mainly index the
+  root document. The hash routes are listed here for reference.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gyrogovernance.example/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/domains/economy</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/domains/employment</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/domains/education</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/domains/ecology</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/guides</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/about</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>
