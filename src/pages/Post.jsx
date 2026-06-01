@@ -3,6 +3,8 @@ import { getPost, POSTS } from "../data/posts.js";
 import { DOMAINS } from "../data/domains.js";
 import OfferCard from "../components/OfferCard.jsx";
 import Chip from "../components/Chip.jsx";
+import Faq from "../components/Faq.jsx";
+import CtaBand from "../components/CtaBand.jsx";
 import Seo from "../components/Seo.jsx";
 import { SITE } from "../site.js";
 import { DISCLOSURE } from "../affiliate.js";
@@ -37,7 +39,7 @@ export default function Post() {
   const domain = DOMAINS.find((d) => d.slug === post.domain);
   const more = POSTS.filter((p) => p.slug !== slug).slice(0, 2);
 
-  const jsonLd = {
+  const articleLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
@@ -48,6 +50,21 @@ export default function Post() {
     articleSection: domain?.name,
   };
 
+  // FAQ structured data helps win rich results in search.
+  const faqLd = post.faq?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: post.faq.map((f) => ({
+          "@type": "Question",
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
+      }
+    : null;
+
+  const jsonLd = faqLd ? [articleLd, faqLd] : articleLd;
+
   return (
     <article>
       <Seo
@@ -56,6 +73,11 @@ export default function Post() {
         path={`/guides/${post.slug}`}
         type="article"
         jsonLd={jsonLd}
+        breadcrumbs={[
+          { name: "Home", path: "/" },
+          { name: "Guides", path: "/guides" },
+          { name: post.title, path: `/guides/${post.slug}` },
+        ]}
       />
       <header className="relative overflow-hidden bg-slate2 text-white">
         <div className="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-ocean/40 blur-3xl" />
@@ -75,11 +97,20 @@ export default function Post() {
       </header>
 
       <div className="container-content py-12 grid lg:grid-cols-3 gap-10">
-        <div className="lg:col-span-2 prose-site">
-          {post.blocks.map((b, i) => (
-            <Block key={i} block={b} />
-          ))}
-          <p className="text-xs text-slate-500 border-t border-black/10 pt-5 mt-8">{DISCLOSURE}</p>
+        <div className="lg:col-span-2">
+          <div className="prose-site">
+            {post.blocks.map((b, i) => (
+              <Block key={i} block={b} />
+            ))}
+          </div>
+
+          <Faq items={post.faq} />
+
+          <div className="mt-12">
+            <CtaBand />
+          </div>
+
+          <p className="text-xs text-slate-500 border-t border-black/10 pt-5 mt-10">{DISCLOSURE}</p>
         </div>
 
         <aside className="space-y-6">

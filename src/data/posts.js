@@ -67,6 +67,87 @@ export const POSTS = [
       { type: "h2", text: "Slow down" },
       { type: "p", text: "Fewer destinations and longer stays cut emissions and deepen your experience. Slow travel is ethical travel." },
     ],
+    faq: [
+      {
+        q: "Is taking the train really better for the climate than flying?",
+        a: "For most short and medium distances, yes. A train trip typically emits a small fraction of the carbon of the same journey by plane, and it often drops you in the city center with no airport transfer needed.",
+      },
+      {
+        q: "How do I find ground transport routes across countries?",
+        a: "Booking platforms like Omio and rail and bus search tools let you compare trains, buses, and ferries across borders in one place, so you can see when ground travel is realistic.",
+      },
+    ],
+  },
+  {
+    slug: "best-travel-esim-for-ethical-travelers",
+    title: "The Best Travel eSIM Setup for Ethical Travelers",
+    date: "2026-05-26",
+    domain: "ecology",
+    readMinutes: 6,
+    excerpt:
+      "Stay connected without roaming waste or buying a throwaway SIM in every country. Here is a simple, low impact approach.",
+    blocks: [
+      { type: "p", text: "Staying connected helps you travel more responsibly. You can check train times, message local guides, translate menus, and avoid getting lost. The question is how to do it without waste or runaway roaming bills." },
+      { type: "h2", text: "Why an eSIM beats a stack of plastic SIMs" },
+      { type: "p", text: "A travel eSIM is installed digitally, so there is no plastic card, no packaging, and no plastic SIM to throw away when you leave. One eSIM app can cover many countries, which is ideal for slow, multi country trips." },
+      { type: "offer", key: "esim" },
+      { type: "h2", text: "Buy only the data you need" },
+      { type: "p", text: "Pick a regional or country plan sized to your trip rather than a giant global bundle you will not use. Smaller, right sized plans cost less and reduce waste." },
+      { type: "h2", text: "Keep your home number for security" },
+      { type: "p", text: "An eSIM lets you add travel data while keeping your normal number active for bank codes and two factor messages. That is safer than swapping out your main SIM." },
+      { type: "h2", text: "Connectivity supports the local economy" },
+      { type: "p", text: "Being online makes it easier to book directly with local guesthouses, cooperatives, and guides rather than defaulting to big global chains. Good connectivity is quietly an Economy domain tool." },
+    ],
+    faq: [
+      {
+        q: "Will an eSIM work with my phone?",
+        a: "Most phones from the last few years support eSIM. Check your phone settings for an option to add a mobile or cellular plan, or look up your exact model before you buy.",
+      },
+      {
+        q: "Is an eSIM cheaper than roaming?",
+        a: "Usually, yes. A local or regional eSIM plan is normally far cheaper than standard roaming rates, and you control exactly how much data you buy.",
+      },
+      {
+        q: "Can I keep WhatsApp and my usual number?",
+        a: "Yes. An eSIM adds a second line for data, so your primary number stays active for calls, texts, and security codes.",
+      },
+    ],
+  },
+  {
+    slug: "travel-insurance-for-responsible-trips",
+    title: "Travel Insurance for Responsible Trips: A Plain Guide",
+    date: "2026-05-14",
+    domain: "employment",
+    readMinutes: 7,
+    excerpt:
+      "Good insurance protects you, the people who depend on you, and the local workers who would otherwise carry the cost of an emergency.",
+    blocks: [
+      { type: "p", text: "Insurance is not the most exciting part of trip planning, but it is one of the most responsible. When something goes wrong abroad, the right cover protects your finances and reduces the burden on local hospitals, rescue teams, and workers." },
+      { type: "h2", text: "Why insurance is an ethical choice" },
+      { type: "p", text: "An uninsured traveler in a serious accident can strain a local health system that already serves residents. Carrying proper cover means you pay your own way rather than relying on stretched public services." },
+      { type: "offer", key: "insurance" },
+      { type: "h2", text: "What to look for" },
+      { type: "ul", items: [
+        "Medical cover with emergency evacuation, especially for remote or mountain trips.",
+        "Coverage that matches your real activities, such as hiking, diving, or cycling.",
+        "Clear claims process and 24 hour assistance you can actually reach.",
+        "Trip cancellation if losing prepaid local bookings would hurt providers.",
+      ] },
+      { type: "h2", text: "Match the policy to the trip" },
+      { type: "p", text: "A city break and a high altitude trek need different cover. Read what is excluded, not just what is included, and pick a policy that fits how you actually travel." },
+      { type: "h2", text: "Protect the people who rely on you" },
+      { type: "p", text: "Insurance is also care for the people back home. It means a problem on the road does not become a financial crisis for your family." },
+    ],
+    faq: [
+      {
+        q: "Do I really need travel insurance for a short trip?",
+        a: "Even short trips carry risk of illness, injury, or cancellation. A modest policy can prevent a large unexpected bill and reduce the load on local services if something goes wrong.",
+      },
+      {
+        q: "What is the most important coverage to have?",
+        a: "Emergency medical care and evacuation are usually the most important, because those are the costs that can become very large very quickly abroad.",
+      },
+    ],
   },
 ];
 

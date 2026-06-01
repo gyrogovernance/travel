@@ -10,6 +10,7 @@ export default function Seo({
   type = "website",
   image,
   jsonLd,
+  breadcrumbs,
 }) {
   const fullTitle = title
     ? `${title} | ${SITE.shortName}`
@@ -17,6 +18,25 @@ export default function Seo({
   // Hash routing keeps the canonical on the base document URL.
   const canonical = `${SITE.siteUrl}/${path && path !== "/" ? `#${path}` : ""}`;
   const ogImage = image ? `${SITE.siteUrl}${image}` : undefined;
+
+  // Build BreadcrumbList structured data from a [{name, path}] list.
+  const breadcrumbLd = breadcrumbs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: breadcrumbs.map((b, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: b.name,
+          item: `${SITE.siteUrl}/${b.path && b.path !== "/" ? `#${b.path}` : ""}`,
+        })),
+      }
+    : null;
+
+  // Merge any page jsonLd with the breadcrumb data into one array.
+  const allLd = [];
+  if (jsonLd) Array.isArray(jsonLd) ? allLd.push(...jsonLd) : allLd.push(jsonLd);
+  if (breadcrumbLd) allLd.push(breadcrumbLd);
 
   return (
     <Helmet>
@@ -37,8 +57,10 @@ export default function Seo({
       <meta name="twitter:description" content={description} />
       {ogImage && <meta name="twitter:image" content={ogImage} />}
 
-      {jsonLd && (
-        <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      {allLd.length > 0 && (
+        <script type="application/ld+json">
+          {JSON.stringify(allLd.length === 1 ? allLd[0] : allLd)}
+        </script>
       )}
     </Helmet>
   );

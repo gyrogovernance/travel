@@ -38,6 +38,7 @@ export default function Footer() {
           <h4 className="text-white font-semibold mb-3 text-sm uppercase tracking-wide">Explore</h4>
           <ul className="space-y-2 text-sm">
             <li><Link to="/guides" className="hover:text-white">Guides</Link></li>
+            <li><Link to="/resources" className="hover:text-white">Travel Resources</Link></li>
             <li><Link to="/about" className="hover:text-white">About the Lab</Link></li>
             <li><Link to="/about#principles" className="hover:text-white">Our Principles</Link></li>
           </ul>
@@ -50,9 +51,13 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10">
-        <div className="container-content py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500">
+        <div className="container-content py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
           <p>Copyright {year} Gyro Governance. All rights reserved.</p>
-          <p>Travel thoughtfully. Travel kindly.</p>
+          <div className="flex items-center gap-4">
+            <Link to="/privacy" className="hover:text-white">Privacy</Link>
+            <Link to="/cookies" className="hover:text-white">Cookies</Link>
+            <span className="hidden sm:inline">Travel thoughtfully. Travel kindly.</span>
+          </div>
         </div>
       </div>
     </footer>

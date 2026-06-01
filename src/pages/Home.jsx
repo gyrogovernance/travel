@@ -3,6 +3,7 @@ import { DOMAINS } from "../data/domains.js";
 import { POSTS } from "../data/posts.js";
 import DomainCard from "../components/DomainCard.jsx";
 import AffiliateBanner from "../components/AffiliateBanner.jsx";
+import TravelSearch from "../components/TravelSearch.jsx";
 import Icon from "../components/Icon.jsx";
 import Chip from "../components/Chip.jsx";
 import Seo from "../components/Seo.jsx";
@@ -164,6 +165,13 @@ export default function Home() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Travelpayouts search widgets */}
+      <section className="bg-white">
+        <div className="container-content section-pad">
+          <TravelSearch />
         </div>
       </section>
 

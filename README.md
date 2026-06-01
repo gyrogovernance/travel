@@ -1,114 +1,32 @@
 # Gyro Governance Ethical Travel
 
-AI Guides for Human Adventures. A static React website built with Bun and Vite,
-focused on ethical travel across four domains: Economy, Employment, Education, and
-Ecology. Monetized through travel affiliate links via Travelpayouts.
+**AI Guides for Human Adventures.**
 
-## Tech stack
+Gyro Governance is an AI Safety Lab. This site shares practical guidance for
+traveling in ways that respect people and the planet, organized around four
+domains of ethical travel:
 
-- Bun (package manager and runtime)
-- Vite (build tool, static output)
-- React 18 with React Router (HashRouter for host friendly static routing)
-- Tailwind CSS
+- **Economy** — keep your spending in the places you visit.
+- **Employment** — respect the people whose work makes travel possible.
+- **Education** — learn before you go, and learn while you are there.
+- **Ecology** — leave the land and sea better than you found them.
 
-## Getting started
+## What you will find here
 
-```bash
-bun install      # install dependencies
-bun run dev      # start the dev server (http://localhost:5173)
-bun run build    # produce the static site in dist/
-bun run preview  # preview the production build locally
-```
+- **Guides** with practical, honest advice for kinder trips.
+- **Domain pages** that explain each of the four principles in depth.
+- **Travel resources** that point you to trusted booking partners.
 
-The build output in `dist/` is fully static. You can host it on any static host
-such as Netlify, Vercel, Cloudflare Pages, GitHub Pages, or plain object storage.
+## How we are funded
 
-### GitHub Pages
+Some links on this site are affiliate links. If you book through them, we may
+earn a small commission at no extra cost to you. We only recommend services that
+fit our ethical travel principles.
 
-One workflow in this repo: `.github/workflows/deploy-pages.yml` (builds `dist/`
-and publishes it).
+## A note on AI
 
-**Settings > Pages > Build and deployment > Source** must be **GitHub Actions**
-only. Do not also deploy from the `main` branch; that triggers a second Jekyll
-build on source files and causes a blank page.
+We are an AI Safety Lab. We apply the same careful, principled thinking we use in
+our research to the choices travelers face, and we turn it into clear advice you
+can act on.
 
-You will still see **pages build and deployment** in the Actions list. That is
-GitHub's built-in deploy step, not a file you can delete. It should only publish
-the artifact from **Deploy to GitHub Pages**, not rebuild the site from `main`.
-
-## Adding your Travelpayouts affiliate marker
-
-Everything affiliate related lives in ONE file: `src/affiliate.js`.
-
-1. Sign up at https://www.travelpayouts.com/
-2. Open `src/affiliate.js` and replace `YOUR_TP_MARKER` with your real marker id.
-3. Replace the `url` values in `AFFILIATE_OFFERS` with your own tracked deep links
-   from the Travelpayouts dashboard if you want program specific links.
-4. Optional: paste your site verification meta tag into `index.html` where the
-   comment indicates.
-
-That is the only place you need to edit. Every offer card and banner across the
-site reads from this config.
-
-## Project structure
-
-```
-gyro-governance/
-  index.html              page shell and meta tags
-  src/
-    affiliate.js          single source of truth for affiliate config
-    main.jsx              app entry
-    App.jsx               routes
-    index.css             Tailwind layers and component classes
-    components/           Navbar, Footer, OfferCard, AffiliateBanner, etc.
-    data/
-      domains.js          the four ethical travel domains and content
-      posts.js            guides and blog content
-    pages/                Home, Domain, Guides, Post, About, NotFound
-  public/                 favicon, robots.txt
-```
-
-## SEO
-
-- Per page titles, descriptions, canonical links, Open Graph, Twitter cards,
-  and JSON-LD structured data are handled by `src/components/Seo.jsx` using
-  `react-helmet-async`.
-- Set your live domain in `src/site.js` (the `siteUrl` field). This drives
-  canonical URLs and structured data.
-- Update `public/sitemap.xml` and `public/robots.txt` with your real domain.
-- A static Open Graph fallback lives in `index.html` for crawlers that do not
-  run JavaScript.
-
-## Fonts
-
-Fonts are self hosted, no external requests at runtime.
-
-- Caprasimo is used for all large display titles (h1, h2, h3, .font-display).
-- Nunito (variable, weights 400 to 800) is used for all body and UI text.
-- The woff2 files live in `public/fonts/` and are preloaded in `index.html`.
-- They are also embedded as base64 in `src/fonts.css` so they render even in
-  sandboxed previews with no network access.
-
-## Accessibility
-
-- Skip to content link, focus rings, semantic landmarks, alt text on imagery,
-  and reduced motion support in `src/index.css`.
-
-## Content
-
-- The four domains and their principles live in `src/data/domains.js`.
-- Guides and blog posts live in `src/data/posts.js`. Add a new object to the
-  `POSTS` array to publish a new guide. Use block types `p`, `h2`, `h3`, `ul`,
-  and `offer` (with an offer key) to compose articles.
-
-## Notes on the preview
-
-This static build uses inline styles, embedded SVG, and a self contained CSS
-bundle, so it renders fully in a normal browser. The HashRouter setup means deep
-links work without server rewrite rules.
-
-## Affiliate disclosure
-
-The site shows an affiliate disclosure in the footer and on guide pages, edited
-in `src/affiliate.js`. Keep a visible disclosure to stay compliant with affiliate
-program terms and advertising rules.
+Travel thoughtfully. Travel kindly.

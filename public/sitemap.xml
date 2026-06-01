@@ -31,7 +31,39 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://gyrogovernance.example/#/guides/ethical-travel-starter-guide</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/guides/how-to-spot-fair-tour-operators</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/guides/low-carbon-routes-that-still-feel-like-adventure</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/guides/best-travel-esim-for-ethical-travelers</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/guides/travel-insurance-for-responsible-trips</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/resources</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://gyrogovernance.example/#/about</loc>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/privacy</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gyrogovernance.example/#/cookies</loc>
+    <priority>0.3</priority>
   </url>
 </urlset>

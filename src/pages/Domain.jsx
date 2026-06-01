@@ -3,6 +3,7 @@ import { getDomain, DOMAINS } from "../data/domains.js";
 import { POSTS } from "../data/posts.js";
 import Icon from "../components/Icon.jsx";
 import AffiliateBanner from "../components/AffiliateBanner.jsx";
+import TravelWidget from "../components/TravelWidget.jsx";
 import Seo from "../components/Seo.jsx";
 import NotFound from "./NotFound.jsx";
 
@@ -21,6 +22,10 @@ export default function Domain() {
         description={domain.summary}
         path={`/domains/${domain.slug}`}
         image={domain.image}
+        breadcrumbs={[
+          { name: "Home", path: "/" },
+          { name: domain.name, path: `/domains/${domain.slug}` },
+        ]}
       />
 
       {/* Hero with image */}
@@ -92,6 +97,8 @@ export default function Domain() {
         </div>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
+          {domain.widgetKey && <TravelWidget widgetKey={domain.widgetKey} />}
+
           <div className="card p-6">
             <h3 className="font-display text-lg text-ink mb-3">Related guides</h3>
             {related.length ? (

@@ -41,6 +41,7 @@ export const DOMAINS = [
       "Buy crafts from makers, not mass produced souvenirs.",
     ],
     offerKeys: ["hotels", "tours"],
+    widgetKey: "hotelSearch",
   },
   {
     slug: "employment",
@@ -78,6 +79,7 @@ export const DOMAINS = [
       "Prefer guides who are local residents, not seasonal outsiders only.",
     ],
     offerKeys: ["tours", "insurance"],
+    widgetKey: "toursSearch",
   },
   {
     slug: "education",
@@ -115,6 +117,7 @@ export const DOMAINS = [
       "Choose community led tours over scripted tourist shows.",
     ],
     offerKeys: ["tours", "esim"],
+    widgetKey: "toursSearch",
   },
   {
     slug: "ecology",
@@ -152,6 +155,7 @@ export const DOMAINS = [
       "Pay entry fees that fund parks and reserves.",
     ],
     offerKeys: ["trains", "flights"],
+    widgetKey: "flightSearch",
   },
 ];
 
