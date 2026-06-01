@@ -83,7 +83,7 @@ export const DOMAINS = [
     slug: "education",
     name: "Education",
     tagline: "Learn before you go, and learn while you are there.",
-    color: "#3f8f5b",
+    color: "#2f7d4c",
     icon: "book",
     image: educationImg,
     stat: "Ten phrases",

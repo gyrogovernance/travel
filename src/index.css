@@ -1,3 +1,5 @@
+@import "./fonts.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,10 +10,24 @@ html {
 
 body {
   @apply bg-sand text-ink font-sans antialiased;
+  font-weight: 500;
+}
+
+/* Large titles always use the display face. */
+h1, h2, h3, .font-display {
+  font-family: theme("fontFamily.display");
+  letter-spacing: 0.005em;
 }
 
 ::selection {
-  @apply bg-ocean/20 text-ink;
+  @apply bg-ocean/25 text-ink;
+}
+
+/* Visible, high contrast focus ring for keyboard users everywhere. */
+:focus-visible {
+  outline: 3px solid theme("colors.ocean");
+  outline-offset: 2px;
+  border-radius: 6px;
 }
 
 @layer components {
@@ -20,47 +36,59 @@ body {
   }
 
   .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition focus:outline-none focus:ring-2 focus:ring-offset-2 active:scale-[0.98];
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-bold transition-all duration-200 active:scale-[0.97];
   }
 
   .btn-primary {
-    @apply btn bg-ocean text-white hover:bg-oceanlight focus:ring-ocean shadow-sm hover:shadow;
+    @apply btn bg-ocean text-white hover:bg-oceanlight shadow-glow hover:shadow-lg hover:-translate-y-0.5;
   }
 
   .btn-ghost {
-    @apply btn border border-ocean/30 text-ocean hover:bg-ocean/10 focus:ring-ocean;
+    @apply btn border-2 border-ocean/30 text-ocean hover:border-ocean hover:bg-ocean/5;
+  }
+
+  .btn-accent {
+    @apply btn bg-amber2 text-ink hover:bg-amber-400 shadow-glow hover:-translate-y-0.5;
   }
 
   .card {
-    @apply rounded-2xl bg-white shadow-sm ring-1 ring-black/5;
+    @apply rounded-3xl bg-cream shadow-soft ring-1 ring-black/5;
   }
 
   .eyebrow {
-    @apply inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-ocean;
+    @apply inline-flex items-center gap-2 rounded-full bg-ocean/10 px-3 py-1 text-xs font-extrabold uppercase tracking-[0.14em] text-ocean;
   }
 
   .section-pad {
-    @apply py-16 sm:py-20;
+    @apply py-20 sm:py-24;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-oceanlight via-ocean to-leaf bg-clip-text text-transparent;
+  }
+
+  .chip {
+    @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-extrabold text-white;
   }
 
   .prose-site h2 {
-    @apply font-display text-2xl sm:text-3xl text-ink mt-10 mb-3;
+    @apply text-2xl sm:text-3xl text-ink mt-12 mb-3;
   }
 
   .prose-site h3 {
-    @apply font-display text-xl text-ink mt-7 mb-2;
+    @apply text-xl text-ink mt-8 mb-2;
   }
 
   .prose-site p {
-    @apply text-slate-700 leading-relaxed mb-4;
+    @apply text-slate-700 leading-relaxed mb-4 font-medium;
   }
 
   .prose-site ul {
-    @apply list-disc pl-5 space-y-2 text-slate-700 mb-4;
+    @apply list-disc pl-5 space-y-2 text-slate-700 mb-4 font-medium;
   }
 
   .prose-site a {
-    @apply text-ocean underline underline-offset-2 hover:text-oceanlight;
+    @apply text-ocean font-bold underline underline-offset-2 hover:text-oceanlight;
   }
 }
 
@@ -68,32 +96,35 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  /* Strong, layered overlay so hero text stays readable on any image. */
+  .hero-scrim {
+    background:
+      linear-gradient(180deg, rgba(12, 21, 36, 0.55) 0%, rgba(12, 21, 36, 0.35) 40%, rgba(12, 21, 36, 0.78) 100%),
+      linear-gradient(105deg, rgba(10, 125, 140, 0.55), rgba(12, 21, 36, 0.5));
+  }
+  .blob {
+    border-radius: 42% 58% 63% 37% / 41% 44% 56% 59%;
+  }
 }
 
-/* Entrance animation, respectful of reduced motion preferences. */
+/* Entrance animations, disabled under reduced motion. */
 @keyframes fade-up {
-  from {
-    opacity: 0;
-    transform: translateY(16px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-14px); }
 }
 
-.animate-fade-up {
-  animation: fade-up 0.6s ease-out both;
-}
+.animate-fade-up { animation: fade-up 0.6s ease-out both; }
+.animate-float { animation: float-slow 7s ease-in-out infinite; }
 
 @media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
-  .animate-fade-up {
-    animation: none;
-  }
-  * {
-    transition-duration: 0.001ms !important;
-  }
+  html { scroll-behavior: auto; }
+  .animate-fade-up, .animate-float { animation: none; }
+  * { transition-duration: 0.001ms !important; }
 }

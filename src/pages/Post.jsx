@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { getPost, POSTS } from "../data/posts.js";
 import { DOMAINS } from "../data/domains.js";
 import OfferCard from "../components/OfferCard.jsx";
+import Chip from "../components/Chip.jsx";
 import Seo from "../components/Seo.jsx";
 import { SITE } from "../site.js";
 import { DISCLOSURE } from "../affiliate.js";
@@ -56,19 +57,17 @@ export default function Post() {
         type="article"
         jsonLd={jsonLd}
       />
-      <header className="bg-slate2 text-white">
-        <div className="container-content py-14">
-          <Link to="/guides" className="text-sm text-slate-300 hover:text-white">Guides</Link>
-          <span className="text-slate-500"> / </span>
-          <Link to={`/domains/${domain?.slug}`} className="text-sm text-slate-300 hover:text-white">{domain?.name}</Link>
-          <h1 className="font-display text-3xl sm:text-4xl mt-4 max-w-3xl">{post.title}</h1>
-          <div className="mt-4 flex items-center gap-3 text-sm text-slate-300">
-            <span
-              className="rounded-full px-3 py-1 text-xs font-semibold text-white"
-              style={{ backgroundColor: domain?.color }}
-            >
-              {domain?.name}
-            </span>
+      <header className="relative overflow-hidden bg-slate2 text-white">
+        <div className="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-ocean/40 blur-3xl" />
+        <div className="container-content py-16 relative">
+          <nav className="text-sm font-bold" aria-label="Breadcrumb">
+            <Link to="/guides" className="text-slate-300 hover:text-white">Guides</Link>
+            <span className="text-slate-500"> / </span>
+            <Link to={`/domains/${domain?.slug}`} className="text-slate-300 hover:text-white">{domain?.name}</Link>
+          </nav>
+          <h1 className="text-3xl sm:text-5xl mt-5 max-w-3xl leading-tight">{post.title}</h1>
+          <div className="mt-5 flex items-center gap-3 text-sm font-bold text-slate-300">
+            <Chip color={domain?.color}>{domain?.name}</Chip>
             <span>{new Date(post.date).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}</span>
             <span>{post.readMinutes} min read</span>
           </div>

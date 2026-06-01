@@ -11,14 +11,16 @@ export default function About() {
         description="Gyro Governance is an AI Safety Lab applying principled thinking to ethical travel across four domains."
         path="/about"
       />
-      <section className="bg-gradient-to-br from-ink to-ocean text-white">
-        <div className="container-content py-16">
-          <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-medium ring-1 ring-white/20">
+      <section className="relative overflow-hidden bg-gradient-to-br from-ink via-slate2 to-ocean text-white">
+        <div className="pointer-events-none absolute -right-24 -top-20 h-80 w-80 rounded-full bg-oceanlight/30 blur-3xl animate-float" />
+        <div className="pointer-events-none absolute -left-20 bottom-0 h-72 w-72 rounded-full bg-leaf/30 blur-3xl" />
+        <div className="container-content py-20 relative">
+          <span className="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-xs font-extrabold uppercase tracking-wider ring-1 ring-white/25 backdrop-blur">
             <Icon name="shield" className="w-4 h-4" />
             AI Safety Lab
           </span>
-          <h1 className="font-display text-4xl sm:text-5xl mt-5">About Gyro Governance</h1>
-          <p className="mt-4 text-slate-200 max-w-2xl leading-relaxed">
+          <h1 className="text-4xl sm:text-6xl mt-6 leading-tight">About Gyro Governance</h1>
+          <p className="mt-5 text-lg text-slate-100 max-w-2xl leading-relaxed font-medium">
             Gyro Governance is an AI Safety Lab. We study how to keep intelligent systems aligned with
             human values, and we build tools that help people make better, kinder choices. Ethical
             travel is one of those tools.

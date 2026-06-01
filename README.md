@@ -66,6 +66,16 @@ gyro-governance/
 - A static Open Graph fallback lives in `index.html` for crawlers that do not
   run JavaScript.
 
+## Fonts
+
+Fonts are self hosted, no external requests at runtime.
+
+- Caprasimo is used for all large display titles (h1, h2, h3, .font-display).
+- Nunito (variable, weights 400 to 800) is used for all body and UI text.
+- The woff2 files live in `public/fonts/` and are preloaded in `index.html`.
+- They are also embedded as base64 in `src/fonts.css` so they render even in
+  sandboxed previews with no network access.
+
 ## Accessibility
 
 - Skip to content link, focus rings, semantic landmarks, alt text on imagery,

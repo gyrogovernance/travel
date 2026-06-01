@@ -30,24 +30,26 @@ export default function Domain() {
           alt={domain.name}
           className="absolute inset-0 h-full w-full object-cover"
         />
-        <span className="absolute inset-0 opacity-80" style={{ backgroundColor: domain.color }} />
-        <span className="absolute inset-0 bg-ink/40" />
-        <div className="container-content relative py-16 sm:py-20">
-          <nav className="text-sm text-white/80">
-            <Link to="/" className="hover:text-white">Home</Link>
+        {/* Tinted brand color plus dark scrim for guaranteed readability. */}
+        <span className="absolute inset-0 opacity-55 mix-blend-multiply" style={{ backgroundColor: domain.color }} />
+        <span className="absolute inset-0 hero-scrim" />
+        <div className="pointer-events-none absolute -right-20 -top-16 h-72 w-72 rounded-full bg-white/10 blur-3xl" />
+        <div className="container-content relative py-20 sm:py-24">
+          <nav className="text-sm font-bold text-white/90" aria-label="Breadcrumb">
+            <Link to="/" className="hover:text-white underline-offset-2 hover:underline">Home</Link>
             <span className="text-white/50"> / </span>
             <span>{domain.name}</span>
           </nav>
-          <div className="mt-5 flex items-center gap-4">
-            <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-white/20 backdrop-blur">
-              <Icon name={domain.icon} className="w-7 h-7" />
+          <div className="mt-6 flex items-center gap-4">
+            <span className="inline-flex h-16 w-16 items-center justify-center rounded-2xl bg-white/20 ring-1 ring-white/30 backdrop-blur">
+              <Icon name={domain.icon} className="w-8 h-8" />
             </span>
             <div>
-              <h1 className="font-display text-4xl sm:text-5xl">{domain.name}</h1>
-              <p className="text-white/90 mt-1">{domain.tagline}</p>
+              <h1 className="text-4xl sm:text-6xl leading-none drop-shadow">{domain.name}</h1>
+              <p className="text-white/95 mt-2 text-lg font-semibold">{domain.tagline}</p>
             </div>
           </div>
-          <p className="mt-6 max-w-2xl text-white/90 leading-relaxed">{domain.summary}</p>
+          <p className="mt-6 max-w-2xl text-white/95 leading-relaxed text-lg font-medium">{domain.summary}</p>
         </div>
       </section>
 

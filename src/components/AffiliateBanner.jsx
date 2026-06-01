@@ -12,20 +12,23 @@ export default function AffiliateBanner({
   const valid = keys.filter((k) => AFFILIATE_OFFERS[k]);
 
   return (
-    <section className="bg-slate2 text-white rounded-3xl px-6 py-10 sm:px-10">
-      <div className="max-w-2xl">
-        <h2 className="font-display text-2xl sm:text-3xl">{title}</h2>
-        <p className="mt-2 text-slate-300">{subtitle}</p>
+    <section className="relative overflow-hidden rounded-4xl bg-gradient-to-br from-slate2 via-ink to-ocean text-white px-6 py-12 sm:px-12 shadow-soft">
+      <div className="pointer-events-none absolute -right-20 -top-20 h-72 w-72 rounded-full bg-oceanlight/30 blur-3xl" />
+      <div className="pointer-events-none absolute -left-16 -bottom-20 h-64 w-64 rounded-full bg-amber2/20 blur-3xl" />
+      <div className="relative max-w-2xl">
+        <span className="eyebrow bg-white/10 text-white">Plan your trip</span>
+        <h2 className="mt-4 text-2xl sm:text-4xl leading-tight">{title}</h2>
+        <p className="mt-3 text-slate-200 font-medium">{subtitle}</p>
       </div>
 
-      <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="relative mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {valid.map((k) => (
           <OfferCard key={k} offerKey={k} />
         ))}
       </div>
 
       {showDisclosure && (
-        <p className="mt-6 text-xs text-slate-400 max-w-3xl">{DISCLOSURE}</p>
+        <p className="relative mt-7 text-xs text-slate-300 max-w-3xl font-medium">{DISCLOSURE}</p>
       )}
     </section>
   );
