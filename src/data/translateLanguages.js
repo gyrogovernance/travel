@@ -1,0 +1,33 @@
+// Languages offered in the custom translate menu (Google codes).
+export const TRANSLATE_LANGUAGES = [
+  { code: "en", label: "English" },
+  { code: "el", label: "Greek" },
+  { code: "es", label: "Spanish" },
+  { code: "fr", label: "French" },
+  { code: "de", label: "German" },
+  { code: "it", label: "Italian" },
+  { code: "pt", label: "Portuguese" },
+  { code: "nl", label: "Dutch" },
+  { code: "tr", label: "Turkish" },
+  { code: "ar", label: "Arabic" },
+  { code: "zh-CN", label: "Chinese (Simplified)" },
+  { code: "ja", label: "Japanese" },
+  { code: "ko", label: "Korean" },
+  { code: "hi", label: "Hindi" },
+  { code: "ru", label: "Russian" },
+  { code: "sv", label: "Swedish" },
+  { code: "da", label: "Danish" },
+  { code: "nb", label: "Norwegian" },
+  { code: "fi", label: "Finnish" },
+  { code: "cs", label: "Czech" },
+  { code: "ro", label: "Romanian" },
+  { code: "hu", label: "Hungarian" },
+  { code: "uk", label: "Ukrainian" },
+  { code: "vi", label: "Vietnamese" },
+  { code: "th", label: "Thai" },
+  { code: "id", label: "Indonesian" },
+  { code: "ms", label: "Malay" },
+  { code: "he", label: "Hebrew" },
+];
+
+export const TRANSLATE_LANGUAGE_CODES = TRANSLATE_LANGUAGES.map((l) => l.code).join(",");

@@ -1,4 +1,6 @@
+import { useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
+import { watchGoogleTranslateBanner } from "./utils/suppressGoogleTranslateBanner.js";
 import Navbar from "./components/Navbar.jsx";
 import Footer from "./components/Footer.jsx";
 import ScrollToTop from "./components/ScrollToTop.jsx";
@@ -15,6 +17,8 @@ import Cookies from "./pages/Cookies.jsx";
 import NotFound from "./pages/NotFound.jsx";
 
 export default function App() {
+  useEffect(() => watchGoogleTranslateBanner(), []);
+
   return (
     <div className="min-h-screen flex flex-col">
       <a

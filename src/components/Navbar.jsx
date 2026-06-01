@@ -5,6 +5,7 @@ import { GUIDES_RESOURCES } from "../data/guidesMenu.js";
 import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
 import BrandLockup from "./BrandLockup.jsx";
+import GoogleTranslate from "./GoogleTranslate.jsx";
 
 const navBase =
   "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
@@ -168,7 +169,7 @@ export default function Navbar() {
   }
 
   return (
-    <header className="sticky top-0 z-40 bg-ink border-b border-white/10">
+    <header className="sticky top-0 z-50 bg-ink border-b border-white/10">
       <div className="container-content flex items-center justify-between h-18 py-3">
         <Link
           to="/"
@@ -193,7 +194,9 @@ export default function Navbar() {
           <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
         </nav>
 
-        <button
+        <div className="flex items-center gap-2 shrink-0 ml-1 md:ml-2">
+          <GoogleTranslate />
+          <button
           className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"
           aria-label={open ? "Close menu" : "Open menu"}
           aria-expanded={open}
@@ -203,6 +206,7 @@ export default function Navbar() {
             {open ? <path d="M6 6l12 12M18 6L6 18" /> : <path d="M4 7h16M4 12h16M4 17h16" />}
           </svg>
         </button>
+        </div>
       </div>
 
       {open && (

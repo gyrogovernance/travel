@@ -117,6 +117,57 @@ h1, h2, h3, .font-display {
   }
 }
 
+/* Google Website Translator: engine hidden; we use a custom language menu. */
+.goog-te-banner-frame,
+iframe.goog-te-banner-frame,
+.goog-te-balloon-frame,
+.goog-te-ftab,
+#goog-gt-tt,
+#goog-gt-vt,
+iframe.goog-te-menu-frame,
+.goog-te-menu-frame,
+body > iframe.skiptranslate,
+body > .skiptranslate.goog-te-banner-frame,
+body > div[class*="VIpgJd-"],
+div[class*="VIpgJd-ZVi9od-aZ2wEe"] {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  max-height: 0 !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+.goog-te-gadget,
+select.goog-te-combo,
+.goog-te-gadget-simple {
+  display: none !important;
+}
+
+html.translated-ltr,
+html.translated-rtl,
+body {
+  top: 0 !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  position: static !important;
+}
+
+.google-translate-engine {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* Respect reduced motion: turn off entrance and ambient animation and
    keep transitions effectively instant. */
 @media (prefers-reduced-motion: reduce) {
