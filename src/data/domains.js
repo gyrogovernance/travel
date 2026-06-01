@@ -12,8 +12,9 @@ export const DOMAINS = [
     color: "#0a6e7c",
     icon: "coins",
     image: economyImg,
-    stat: "Up to 80 percent",
-    statLabel: "of all inclusive package spending can leak out of the host country.",
+    stat: "Up to 80%",
+    statLabel:
+      "of all-inclusive package spending can leak out of the host country",
     summary:
       "Travel money is power. Where it lands decides whether a destination thrives or hollows out. The Economy domain is about steering more of your spending toward local hands and away from extractive chains.",
     principles: [
@@ -23,22 +24,23 @@ export const DOMAINS = [
       },
       {
         title: "Pay a fair price, willingly",
-        body: "Aggressive haggling over small sums can push hard on people who already earn little. Agree a fair rate, tip honestly, and treat price as a relationship rather than a contest.",
+        body: "Aggressive haggling over small sums pushes hard on people who already earn little. Agree a fair rate, tip honestly, and treat price as a relationship rather than a contest.",
       },
       {
-        title: "Avoid leakage",
-        body: "All inclusive resorts and prepaid foreign packages often send most of the money abroad. When you can, book the pieces of your trip directly with local providers.",
+        title: "Skip the middleman",
+        body: "All-inclusive resorts and prepaid foreign packages often send most of the money abroad. When you can, book the pieces of your trip directly with local providers instead.",
       },
       {
         title: "Spread the benefit",
-        body: "Visit lesser known towns and shoulder seasons. This relieves pressure on overcrowded hotspots and brings income to places that need it.",
+        body: "Visit lesser-known towns and travel in shoulder seasons. This relieves pressure on overcrowded hotspots and brings income to places that need it.",
       },
     ],
     practices: [
       "Carry small local cash for markets and tips.",
       "Book at least one experience directly with a local cooperative.",
       "Eat where local people eat, not only where tourists gather.",
-      "Buy crafts from makers, not mass produced souvenirs.",
+      "Buy crafts from makers, not mass-produced souvenirs.",
+      "Ask your AI assistant to find locally owned alternatives before you book through a platform.",
     ],
     offerKeys: ["hotels", "tours"],
     widgetKey: "hotelSearch",
@@ -51,7 +53,7 @@ export const DOMAINS = [
     icon: "handshake",
     image: employmentImg,
     stat: "1 in 10",
-    statLabel: "jobs worldwide are linked to travel and tourism.",
+    statLabel: "jobs worldwide are linked to travel and tourism",
     summary:
       "Behind every smooth trip are drivers, cleaners, cooks, porters, and guides. The Employment domain asks whether their work is safe, fairly paid, and freely chosen.",
     principles: [
@@ -68,7 +70,7 @@ export const DOMAINS = [
         body: "Steer clear of operations linked to child labor, trafficking, or forced work. If something feels coercive, it usually is. Choose certified and transparent providers.",
       },
       {
-        title: "Local hiring",
+        title: "Local hiring first",
         body: "Favor companies that employ and train people from the destination rather than importing all senior staff from elsewhere.",
       },
     ],
@@ -77,6 +79,7 @@ export const DOMAINS = [
       "Tip guides, drivers, and housekeeping directly when possible.",
       "Avoid attractions with clear signs of animal or human overwork.",
       "Prefer guides who are local residents, not seasonal outsiders only.",
+      "Use AI to draft a short message asking operators about their labor practices before you commit.",
     ],
     offerKeys: ["tours", "insurance"],
     widgetKey: "toursSearch",
@@ -88,8 +91,8 @@ export const DOMAINS = [
     color: "#2f7d4c",
     icon: "book",
     image: educationImg,
-    stat: "Ten phrases",
-    statLabel: "of a local language can transform how you are welcomed.",
+    stat: "10 phrases",
+    statLabel: "of a local language can transform how you are welcomed",
     summary:
       "Informed travelers cause less harm and gain far more. The Education domain is about cultural literacy, honest history, and curiosity that respects boundaries.",
     principles: [
@@ -114,7 +117,8 @@ export const DOMAINS = [
       "Learn ten useful phrases in the local language.",
       "Read one book or long article about the destination first.",
       "Always ask before photographing people.",
-      "Choose community led tours over scripted tourist shows.",
+      "Choose community-led tours over scripted tourist shows.",
+      "Ask AI for a quick cultural briefing, then verify what it tells you with people who live there.",
     ],
     offerKeys: ["tours", "esim"],
     widgetKey: "toursSearch",
@@ -126,13 +130,13 @@ export const DOMAINS = [
     color: "#13a3b5",
     icon: "leaf",
     image: ecologyImg,
-    stat: "Around 8 percent",
-    statLabel: "of global carbon emissions come from tourism.",
+    stat: "Around 8%",
+    statLabel: "of global carbon emissions come from tourism",
     summary:
       "Travel touches fragile ecosystems quickly. The Ecology domain is about cutting carbon, protecting wildlife, and reducing the waste your trip leaves behind.",
     principles: [
       {
-        title: "Choose lower carbon transport",
+        title: "Choose lower-carbon transport",
         body: "Take trains and buses for shorter distances, fly direct when you must fly, and combine destinations to reduce the number of flights overall.",
       },
       {
@@ -141,7 +145,7 @@ export const DOMAINS = [
       },
       {
         title: "Cut waste",
-        body: "Carry a refillable bottle, refuse single use plastics, and pack out what you pack in. Small habits multiply across millions of travelers.",
+        body: "Carry a refillable bottle, refuse single-use plastics, and pack out what you pack in. Small habits multiply across millions of travelers.",
       },
       {
         title: "Tread lightly in nature",
@@ -153,6 +157,7 @@ export const DOMAINS = [
       "Carry a reusable bottle, cup, and bag.",
       "Refuse wildlife selfies and captive animal rides.",
       "Pay entry fees that fund parks and reserves.",
+      "Use AI to compare the carbon cost of flying versus taking the train for your route.",
     ],
     offerKeys: ["trains", "flights"],
     widgetKey: "flightSearch",

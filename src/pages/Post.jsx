@@ -6,6 +6,7 @@ import Chip from "../components/Chip.jsx";
 import Faq from "../components/Faq.jsx";
 import CtaBand from "../components/CtaBand.jsx";
 import Seo from "../components/Seo.jsx";
+import Icon from "../components/Icon.jsx";
 import { SITE } from "../site.js";
 import { DISCLOSURE } from "../affiliate.js";
 import NotFound from "./NotFound.jsx";
@@ -26,6 +27,26 @@ function Block({ block }) {
     return (
       <div className="not-prose my-6">
         <OfferCard offerKey={block.key} />
+      </div>
+    );
+  if (block.type === "ai")
+    return (
+      <div className="not-prose my-8">
+        <div className="rounded-2xl bg-ocean/5 border border-ocean/15 p-5 sm:p-6">
+          <div className="flex items-start gap-3.5">
+            <span className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-ocean text-white mt-0.5">
+              <Icon name="spark" className="w-5 h-5" />
+            </span>
+            <div>
+              <p className="text-sm font-bold text-ocean mb-1.5">
+                Use AI to help with this
+              </p>
+              <p className="text-sm text-slate-700 leading-relaxed">
+                {block.text}
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     );
   return null;
@@ -50,7 +71,6 @@ export default function Post() {
     articleSection: domain?.name,
   };
 
-  // FAQ structured data helps win rich results in search.
   const faqLd = post.faq?.length
     ? {
         "@context": "https://schema.org",
@@ -83,19 +103,33 @@ export default function Post() {
         <div className="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-ocean/40 blur-3xl" />
         <div className="container-content py-16 relative">
           <nav className="text-sm font-bold" aria-label="Breadcrumb">
-            <Link to="/guides" className="text-slate-300 hover:text-white">Guides</Link>
+            <Link to="/guides" className="text-slate-300 hover:text-white">
+              Guides
+            </Link>
             <span className="text-slate-500"> / </span>
-            <Link to={`/domains/${domain?.slug}`} className="text-slate-300 hover:text-white">{domain?.name}</Link>
+            <Link
+              to={`/domains/${domain?.slug}`}
+              className="text-slate-300 hover:text-white"
+            >
+              {domain?.name}
+            </Link>
           </nav>
-          <h1 className="text-3xl sm:text-5xl mt-5 max-w-3xl leading-tight">{post.title}</h1>
+          <h1 className="text-3xl sm:text-5xl mt-5 max-w-3xl leading-tight">
+            {post.title}
+          </h1>
           <div className="mt-5 flex items-center gap-3 text-sm font-bold text-slate-300">
             <Chip color={domain?.color}>{domain?.name}</Chip>
-            <span>{new Date(post.date).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}</span>
+            <span>
+              {new Date(post.date).toLocaleDateString("en-GB", {
+                day: "numeric",
+                month: "short",
+                year: "numeric",
+              })}
+            </span>
             <span>{post.readMinutes} min read</span>
           </div>
         </div>
       </header>
-
       <div className="container-content py-12 grid lg:grid-cols-3 gap-10">
         <div className="lg:col-span-2">
           <div className="prose-site">
@@ -103,34 +137,46 @@ export default function Post() {
               <Block key={i} block={b} />
             ))}
           </div>
-
           <Faq items={post.faq} />
-
           <div className="mt-12">
             <CtaBand />
           </div>
-
-          <p className="text-xs text-slate-500 border-t border-black/10 pt-5 mt-10">{DISCLOSURE}</p>
+          <p className="text-xs text-slate-500 border-t border-black/10 pt-5 mt-10">
+            {DISCLOSURE}
+          </p>
         </div>
-
         <aside className="space-y-6">
           <div className="card p-6">
-            <h3 className="font-display text-lg text-ink mb-3">Keep reading</h3>
+            <h3 className="font-display text-lg text-ink mb-3">
+              Keep reading
+            </h3>
             <ul className="space-y-3">
               {more.map((p) => (
                 <li key={p.slug}>
-                  <Link to={`/guides/${p.slug}`} className="text-sm text-ocean hover:underline font-medium">
+                  <Link
+                    to={`/guides/${p.slug}`}
+                    className="text-sm text-ocean hover:underline font-medium"
+                  >
                     {p.title}
                   </Link>
-                  <p className="text-xs text-slate-500">{p.readMinutes} min read</p>
+                  <p className="text-xs text-slate-500">
+                    {p.readMinutes} min read
+                  </p>
                 </li>
               ))}
             </ul>
           </div>
           <div className="card p-6">
-            <h3 className="font-display text-lg text-ink mb-2">Explore the {domain?.name} domain</h3>
+            <h3 className="font-display text-lg text-ink mb-2">
+              Explore the {domain?.name} domain
+            </h3>
             <p className="text-sm text-slate-600 mb-3">{domain?.tagline}</p>
-            <Link to={`/domains/${domain?.slug}`} className="btn-primary w-full">Open domain</Link>
+            <Link
+              to={`/domains/${domain?.slug}`}
+              className="btn-primary w-full"
+            >
+              Open domain
+            </Link>
           </div>
         </aside>
       </div>

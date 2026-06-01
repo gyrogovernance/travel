@@ -8,23 +8,26 @@ import Icon from "../components/Icon.jsx";
 import Chip from "../components/Chip.jsx";
 import Seo from "../components/Seo.jsx";
 import { SITE } from "../site.js";
-import heroImg from "../assets/hero.jpg";
+import heroImg from "../assets/hero.webp";
 
 const steps = [
   {
     icon: "book",
-    title: "Learn the framework",
-    body: "Start with the four domains. Each gives you clear, real world choices you can make on any trip.",
+    title: "Learn the four domains",
+    body:
+      "Economy, Employment, Education, Ecology. Each one gives you a clear question to ask on any trip.",
   },
   {
     icon: "compass",
-    title: "Plan with intention",
-    body: "Use our guides to shape a trip that supports local people and protects the places you visit.",
+    title: "Plan with AI, decide as a human",
+    body:
+      "Use our prompts to let AI do the research. Then verify with real people and make your own call.",
   },
   {
     icon: "shield",
-    title: "Book the ethical way",
-    body: "Reserve flights, stays, and experiences through partners that fit our principles.",
+    title: "Book with purpose",
+    body:
+      "Choose partners that fit our principles. Your money reaches further when it lands in the right hands.",
   },
 ];
 
@@ -50,9 +53,7 @@ export default function Home() {
           className="absolute inset-0 h-full w-full object-cover scale-105"
           fetchpriority="high"
         />
-        {/* Strong layered scrim keeps text readable on any image. */}
         <div className="absolute inset-0 hero-scrim" />
-        {/* Soft floating color blobs for a modern feel. */}
         <div className="pointer-events-none absolute -right-24 -top-24 h-80 w-80 rounded-full bg-oceanlight/30 blur-3xl animate-float" />
         <div className="pointer-events-none absolute -left-20 bottom-0 h-72 w-72 rounded-full bg-sky/20 blur-3xl animate-float" style={{ animationDelay: "1.5s" }} />
 
@@ -63,13 +64,14 @@ export default function Home() {
               Built by an AI Safety Lab
             </span>
             <h1 className="mt-6 text-4xl sm:text-6xl lg:text-7xl leading-[1.02] text-balance drop-shadow-sm">
-              AI-Empowered Guides for{" "}
-              <span className="text-sky">Human Adventures</span>
+              Humans Getting Better{" "}
+              <span className="text-sky">Together</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-slate-100 max-w-2xl font-medium leading-relaxed">
-              Gyro Governance Ethical Travel helps you use AI to plan moral trips, make friends
-              locally and abroad, and empower the communities you visit. Four domains, one simple
-              goal: travel that does good.
+              Collective Superintelligence is not another AI model. It is people
+              and AI cooperating with clear principles. Applied to travel, that
+              means using AI to plan kinder trips, make real connections, and
+              strengthen the communities you visit.
             </p>
             <div className="mt-9 flex flex-wrap gap-4">
               <Link to="/guides" className="btn-accent">
@@ -77,7 +79,7 @@ export default function Home() {
                 <Icon name="arrow" className="w-4 h-4" />
               </Link>
               <Link to="/about" className="btn border-2 border-white/40 text-white hover:bg-white/10 backdrop-blur">
-                About the Lab
+                How It Works
               </Link>
             </div>
           </div>
@@ -125,11 +127,12 @@ export default function Home() {
         <div className="max-w-3xl">
           <span className="eyebrow">The framework</span>
           <h2 className="mt-4 text-3xl sm:text-5xl text-ink text-balance leading-tight">
-            The Four Domains of <span className="gradient-text">Ethical Travel</span>
+            Four Domains of <span className="gradient-text">Ethical Travel</span>
           </h2>
           <p className="mt-4 text-lg text-slate-700 leading-relaxed font-medium">
-            We organize ethical travel into four clear domains. Each one gives you concrete choices
-            you can make on any trip, whether it is a weekend nearby or a journey across the world.
+            Every travel decision falls into one of four domains. Together they
+            form a simple compass: where does your money go, who benefits from
+            your visit, whose knowledge do you trust, and what is your impact.
           </p>
         </div>
         <div className="mt-10 grid gap-6 sm:grid-cols-2">
@@ -145,8 +148,14 @@ export default function Home() {
           <div className="max-w-2xl">
             <span className="eyebrow">How it works</span>
             <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight">
-              Three steps to a <span className="gradient-text">kinder trip</span>
+              AI researches. <span className="gradient-text">You decide.</span>
             </h2>
+            <p className="mt-4 text-lg text-slate-700 font-medium leading-relaxed">
+              Collective Superintelligence means humans and AI cooperating, with
+              humans keeping the final say. Use AI to find options. Verify with
+              real people. Make your own call. That is how the system gets
+              smarter for everyone.
+            </p>
           </div>
           <div className="mt-12 grid gap-6 md:grid-cols-3">
             {steps.map((s, i) => (
@@ -176,11 +185,12 @@ export default function Home() {
             <div className="max-w-2xl">
               <span className="eyebrow bg-white/15 text-white">AI Prompts</span>
               <h2 className="mt-4 text-3xl sm:text-4xl leading-tight">
-                Let your AI plan a kinder trip
+                Copy a prompt. Plan a kinder trip.
               </h2>
               <p className="mt-3 text-white/90 font-medium text-lg">
-                Copy ready prompts that help you build moral itineraries, make friends locally and
-                abroad, and empower the communities you visit. Fill in the blanks and go.
+                Ready-made prompts that help you build ethical itineraries, find
+                fair-work tours, learn from locals, and lower your footprint.
+                Fill in the brackets and paste into any AI.
               </p>
             </div>
             <Link to="/prompts" className="btn bg-white text-ink hover:bg-slate-100 mt-6 lg:mt-0 shrink-0">
@@ -243,14 +253,18 @@ export default function Home() {
         <div className="pointer-events-none absolute -left-16 -bottom-24 h-72 w-72 rounded-full bg-leaf/30 blur-3xl" />
         <div className="container-content py-20 text-center relative">
           <h2 className="text-3xl sm:text-5xl text-balance leading-tight">
-            Adventures that leave the world <span className="text-sky">better</span>
+            Collective Superintelligence is not a smarter machine.
+            <br />
+            It is <span className="text-sky">humans getting better together</span>.
           </h2>
           <p className="mt-5 text-lg text-slate-200 max-w-2xl mx-auto font-medium">
-            We believe technology should help people make kinder choices. That is why this AI Safety
-            Lab built a travel guide grounded in real principles, not just deals.
+            We are an AI Safety Lab that applies the same rigorous thinking to
+            travel that we use for frontier AI. Four domains. Clear principles.
+            Practical tools. Because technology should help people make kinder
+            choices, not just faster ones.
           </p>
           <Link to="/about" className="btn bg-white text-ink hover:bg-slate-100 mt-8">
-            Learn how we work
+            How we work
             <Icon name="arrow" className="w-4 h-4" />
           </Link>
         </div>
