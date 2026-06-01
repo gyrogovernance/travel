@@ -25,22 +25,16 @@ such as Netlify, Vercel, Cloudflare Pages, GitHub Pages, or plain object storage
 
 ### GitHub Pages
 
-Do not point Pages at the `main` branch root. That serves Vite source
-(`index.html` loads `/src/main.jsx`), which browsers cannot run, so you get a blank
-page. `dist/` is gitignored and is never on `main`.
+One workflow in this repo: `.github/workflows/deploy-pages.yml` (builds `dist/`
+and publishes it).
 
-The workflow builds with Bun and pushes only `dist/` to the `gh-pages` branch.
+**Settings > Pages > Build and deployment > Source** must be **GitHub Actions**
+only. Do not also deploy from the `main` branch; that triggers a second Jekyll
+build on source files and causes a blank page.
 
-1. **Settings > Pages > Build and deployment**
-   - **Source:** Deploy from a branch
-   - **Branch:** `gh-pages` / `/ (root)`
-   - Do not use `main` as the Pages branch.
-   - Do not use "GitHub Actions" as the source for this repo; that runs a second
-     Jekyll build on `main` and overwrites the Vite output with source files.
-2. Push to `main` and wait for **Deploy to GitHub Pages** to finish.
-3. Confirm the live HTML references `/assets/index-….js`, not `/src/main.jsx`.
-4. Custom domain: keep it in Pages settings. `public/CNAME` is copied into `dist/`
-   on each build.
+You will still see **pages build and deployment** in the Actions list. That is
+GitHub's built-in deploy step, not a file you can delete. It should only publish
+the artifact from **Deploy to GitHub Pages**, not rebuild the site from `main`.
 
 ## Adding your Travelpayouts affiliate marker
 
