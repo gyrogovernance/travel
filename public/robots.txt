@@ -1,3 +1,24 @@
+# Gyro Governance Ethical Travel
 User-agent: *
 Allow: /
-Sitemap: /sitemap.xml
+
+# Common AI crawlers (llms.txt at /llms.txt)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://travel.gyrogovernance.com/sitemap.xml

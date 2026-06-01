@@ -34,7 +34,7 @@ Always hyphenate "AI-Empowered". Do not use "AI Guides for Human Adventures"
 (old wording) on its own, it reads awkwardly.
 
 ### Brand assets (in src/assets)
-- `GG_Travel_Icon.svg` and `GG_Travel_Logo.svg`: this site's mark (the purple G).
+- `GG_Travel_Icon.png` and `GG_Travel_Logo.png`: this site's mark (the purple G). Imported with vite-imagetools (`?w=128`) so the build outputs small WebP. Do not use raw SVG exports here (they were multi-MB). SVGZ is not used: static hosts rarely serve `.svgz` with the headers browsers need.
   Use in the header, footer, and favicon.
 - `gyrogovernance_logo.png` and `gyrogovernance_stamp.png`: the Gyro Governance
   lab mark (the green T). Use only when we explicitly reference the lab, for

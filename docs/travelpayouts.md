@@ -126,7 +126,7 @@ can also use these. They live in `src/affiliate.js`.
 
 ## 3b. What is implemented in this static site
 
-This is a static site (HashRouter, no server). Everything below works without a
+This is a static site (BrowserRouter with GitHub Pages 404 fallback, no server). Everything below works without a
 backend.
 
 ### Drive script

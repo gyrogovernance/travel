@@ -1,3 +1,4 @@
+import { DISCLOSURE_PRIVACY } from "../affiliate.js";
 import LegalPage from "./LegalPage.jsx";
 
 // Plain language privacy policy. Review with your own advisor before
@@ -26,7 +27,7 @@ export default function Privacy() {
         {
           heading: "Affiliate links",
           paragraphs: [
-            "Some links on this site are affiliate links through Travelpayouts. If you click one and make a booking, the partner may set a cookie so the booking can be credited to us. This lets us earn a small commission at no extra cost to you. We only recommend services that fit our ethical travel principles.",
+            DISCLOSURE_PRIVACY,
           ],
         },
         {

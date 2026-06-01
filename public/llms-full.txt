@@ -1,0 +1,85 @@
+# Gyro Governance Ethical Travel
+
+> Ethical travel guidance across Economy, Employment, Education, and Ecology.
+> AI-empowered guides for human adventures from Gyro Governance.
+
+Site: https://travel.gyrogovernance.com
+Canonical pattern: https://travel.gyrogovernance.com/<path>
+
+## About
+
+Gyro Governance Ethical Travel helps visitors use AI to plan moral trips, support local communities, and explore through four domains: Economy, Employment, Education, and Ecology.
+
+## Main pages
+
+- [Home](https://travel.gyrogovernance.com/): Home
+- [Guides hub](https://travel.gyrogovernance.com/guides): Guides hub
+- [Travel Resources](https://travel.gyrogovernance.com/resources): Travel Resources
+- [AI Prompts](https://travel.gyrogovernance.com/prompts): AI Prompts
+- [About](https://travel.gyrogovernance.com/about): About
+
+## Four domains
+
+- [Economy](https://travel.gyrogovernance.com/domains/economy): Keep your spending in the places you visit.
+- [Employment](https://travel.gyrogovernance.com/domains/employment): Respect the people whose work makes travel possible.
+- [Education](https://travel.gyrogovernance.com/domains/education): Learn before you go, and learn while you are there.
+- [Ecology](https://travel.gyrogovernance.com/domains/ecology): Leave the land and sea better than you found them.
+
+## Travel guides (articles)
+
+### Where Does Your Travel Money Actually Go?
+
+- URL: https://travel.gyrogovernance.com/guides/where-does-your-travel-money-actually-go
+- Domain: Economy
+- Published: 2026-06-10
+- Summary: Most tourist spending leaves the local economy before it reaches the people who live there. Here is how to keep more of it local.
+
+### How to Tell if a Tour Benefits Local Workers
+
+- URL: https://travel.gyrogovernance.com/guides/how-to-tell-if-a-tour-benefits-local-workers
+- Domain: Employment
+- Published: 2026-06-08
+- Summary: A tour can look responsible while exploiting the people who run it. Here are the questions to ask and the red flags to watch for.
+
+### Why You Should Talk to Locals, Not Just Read Reviews
+
+- URL: https://travel.gyrogovernance.com/guides/why-you-should-talk-to-locals-not-just-read-reviews
+- Domain: Education
+- Published: 2026-06-05
+- Summary: Online reviews and AI summaries are indirect sources. Real knowledge comes from people with lived experience. Here is how to find it.
+
+### A Practical Guide to Lowering Your Travel Carbon Footprint
+
+- URL: https://travel.gyrogovernance.com/guides/practical-guide-to-lowering-your-travel-carbon-footprint
+- Domain: Ecology
+- Published: 2026-06-02
+- Summary: Tourism accounts for 8% of global emissions. You will not fix that alone, but you can fly less, stay longer, and make choices that count.
+
+### What Ethical Travel Actually Means
+
+- URL: https://travel.gyrogovernance.com/guides/what-ethical-travel-actually-means
+- Domain: Economy
+- Published: 2026-05-28
+- Summary: It is not about being perfect. It is about making better choices than you did last time, guided by four clear principles.
+
+### 5 Ways to Spend Local on Your Next Trip
+
+- URL: https://travel.gyrogovernance.com/guides/five-ways-to-spend-local-on-your-next-trip
+- Domain: Economy
+- Published: 2026-05-22
+- Summary: Practical, specific things you can do on any trip to keep more of your money in the community you are visiting.
+
+### Slow Travel: Why Staying Longer Changes Everything
+
+- URL: https://travel.gyrogovernance.com/guides/slow-travel-why-staying-longer-changes-everything
+- Domain: Ecology
+- Published: 2026-05-18
+- Summary: Spending more time in one place is better for the environment, better for local businesses, and better for you.
+
+### Fair Work and Fair Play: Tourism Done Right
+
+- URL: https://travel.gyrogovernance.com/guides/fair-work-and-fair-play-tourism-done-right
+- Domain: Employment
+- Published: 2026-05-14
+- Summary: When tourism creates good jobs instead of exploitative ones, everyone benefits: workers, travelers, and destinations alike.
+

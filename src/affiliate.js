@@ -67,9 +67,13 @@ export const AFFILIATE_OFFERS = {
 
 
 
-// Affiliate disclosure text used in the footer and on pages.
+// Short affiliate note for footer, banners, and inline placements.
 export const DISCLOSURE =
-  "Some links on this site are affiliate links through Travelpayouts. If you book through them we may earn a commission at no extra cost to you. We only suggest services that fit our ethical travel principles.";
+  "Some booking links may earn us a small commission at no extra cost to you, which helps support our research. We only suggest partners that fit our ethical travel principles.";
+
+// Longer note for the privacy policy (cookies and attribution).
+export const DISCLOSURE_PRIVACY =
+  `${DISCLOSURE} Bookings may run through Travelpayouts; if you complete a purchase, the partner may set a cookie so the booking can be credited to this site.`;
 
 // =============================================================
 //  TRAVELPAYOUTS WIDGETS (search forms and tools)

@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import { SITE } from "../site.js";
+import { SITE, absoluteUrl, absoluteAssetUrl, defaultOgImageUrl } from "../site.js";
 
 // Per page SEO: title, description, canonical, Open Graph, Twitter,
 // and optional JSON-LD structured data.
@@ -15,14 +15,9 @@ export default function Seo({
   const fullTitle = title
     ? `${title} | ${SITE.shortName}`
     : SITE.fullTitle;
-  // Hash routing keeps the canonical on the base document URL.
-  const canonical = `${SITE.siteUrl}/${path && path !== "/" ? `#${path}` : ""}`;
-  // Use the page image if provided, otherwise the default OG image.
-  const ogImage = image
-    ? `${SITE.siteUrl}${image}`
-    : new URL(SITE.ogImage, SITE.siteUrl).href;
+  const canonical = absoluteUrl(path);
+  const ogImage = image ? absoluteAssetUrl(image) : defaultOgImageUrl();
 
-  // Build BreadcrumbList structured data from a [{name, path}] list.
   const breadcrumbLd = breadcrumbs?.length
     ? {
         "@context": "https://schema.org",
@@ -31,12 +26,11 @@ export default function Seo({
           "@type": "ListItem",
           position: i + 1,
           name: b.name,
-          item: `${SITE.siteUrl}/${b.path && b.path !== "/" ? `#${b.path}` : ""}`,
+          item: absoluteUrl(b.path),
         })),
       }
     : null;
 
-  // Merge any page jsonLd with the breadcrumb data into one array.
   const allLd = [];
   if (jsonLd) Array.isArray(jsonLd) ? allLd.push(...jsonLd) : allLd.push(jsonLd);
   if (breadcrumbLd) allLd.push(breadcrumbLd);

@@ -7,7 +7,7 @@ import Faq from "../components/Faq.jsx";
 import CtaBand from "../components/CtaBand.jsx";
 import Seo from "../components/Seo.jsx";
 import Icon from "../components/Icon.jsx";
-import { SITE } from "../site.js";
+import { SITE, absoluteUrl, defaultOgImageUrl } from "../site.js";
 import { DISCLOSURE } from "../affiliate.js";
 import NotFound from "./NotFound.jsx";
 
@@ -60,12 +60,18 @@ export default function Post() {
   const domain = DOMAINS.find((d) => d.slug === post.domain);
   const more = POSTS.filter((p) => p.slug !== slug).slice(0, 2);
 
+  const pageUrl = absoluteUrl(`/guides/${post.slug}`);
+  const shareImage = defaultOgImageUrl();
+
   const articleLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
     description: post.excerpt,
     datePublished: post.date,
+    url: pageUrl,
+    mainEntityOfPage: { "@type": "WebPage", "@id": pageUrl },
+    image: [shareImage],
     author: { "@type": "Organization", name: SITE.shortName },
     publisher: { "@type": "Organization", name: SITE.shortName },
     articleSection: domain?.name,
