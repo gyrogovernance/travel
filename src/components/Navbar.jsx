@@ -170,10 +170,10 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 bg-ink border-b border-white/10">
-      <div className="container-content flex items-center justify-between h-18 py-3">
+      <div className="container-content flex items-center justify-between h-18 py-3 md:grid md:grid-cols-[1fr_auto_1fr] md:gap-3">
         <Link
           to="/"
-          className="flex items-center gap-3"
+          className="flex items-center gap-3 shrink-0 md:justify-self-start"
           onClick={goHome}
           aria-label="Gyro Governance Ethical Travel home"
         >
@@ -187,14 +187,17 @@ export default function Navbar() {
           <BrandLockup />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-1" aria-label="Primary">
+        <nav
+          className="hidden md:flex items-center justify-center gap-1 md:justify-self-center"
+          aria-label="Primary"
+        >
           <NavLink to="/" end className={linkClass}>Home</NavLink>
           <NavLink to="/about" className={linkClass}>About</NavLink>
           <GuidesMenu />
           <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
         </nav>
 
-        <div className="flex items-center gap-2 shrink-0 ml-1 md:ml-2">
+        <div className="flex items-center gap-2 shrink-0 ml-1 md:ml-0 md:justify-self-end">
           <GoogleTranslate />
           <button
           className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"

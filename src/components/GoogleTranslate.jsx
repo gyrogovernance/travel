@@ -1,5 +1,6 @@
 import { useEffect, useId, useRef, useState } from "react";
 import { TRANSLATE_LANGUAGES, TRANSLATE_LANGUAGE_CODES } from "../data/translateLanguages.js";
+import { applyLanguage, getGoogTransCookie } from "../utils/googTransCookies.js";
 
 const SCRIPT_ID = "google-translate-script";
 const INIT_CALLBACK = "__ggGoogleTranslateInit";
@@ -43,27 +44,10 @@ function loadGoogleTranslate() {
   return loadPromise;
 }
 
-function applyLanguage(code) {
-  const host = window.location.hostname;
-  const clear = "googtrans=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/";
-  const set = code && code !== "en" ? `googtrans=/en/${code};path=/` : null;
-
-  document.cookie = clear;
-  if (host) document.cookie = `${clear};domain=${host}`;
-
-  if (set) {
-    document.cookie = set;
-    if (host) document.cookie = `${set};domain=${host}`;
-  }
-
-  window.location.reload();
-}
-
 export default function GoogleTranslate({ className = "" }) {
   const reactId = useId().replace(/:/g, "");
   const engineId = `google_translate_engine_${reactId}`;
   const [open, setOpen] = useState(false);
-  const [ready, setReady] = useState(false);
   const rootRef = useRef(null);
 
   useEffect(() => {
@@ -85,10 +69,9 @@ export default function GoogleTranslate({ className = "" }) {
           );
           host.dataset.ready = "1";
         }
-        setReady(true);
       })
       .catch(() => {
-        if (!cancelled) setReady(false);
+        // Cookie-based translate still works if the script is blocked.
       });
 
     return () => {
@@ -111,6 +94,7 @@ export default function GoogleTranslate({ className = "" }) {
     };
   }, []);
 
+  const activeCookie = getGoogTransCookie();
   const navPill =
     "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
 
@@ -123,7 +107,6 @@ export default function GoogleTranslate({ className = "" }) {
         className={`${navPill} inline-flex items-center gap-1.5 text-slate-300 hover:text-white hover:bg-white/10`}
         aria-haspopup="listbox"
         aria-expanded={open}
-        disabled={!ready}
         onClick={() => setOpen((v) => !v)}
       >
         Translate
@@ -145,20 +128,30 @@ export default function GoogleTranslate({ className = "" }) {
             role="listbox"
             className="max-h-72 overflow-y-auto rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2"
           >
-            {TRANSLATE_LANGUAGES.map((lang) => (
-              <li key={lang.code} role="option">
-                <button
-                  type="button"
-                  className="w-full rounded-xl px-3 py-2 text-left text-sm font-bold text-ink hover:bg-ocean/5 transition-colors"
-                  onClick={() => {
-                    applyLanguage(lang.code);
-                    setOpen(false);
-                  }}
-                >
-                  {lang.label}
-                </button>
-              </li>
-            ))}
+            {TRANSLATE_LANGUAGES.map((lang) => {
+              const active =
+                lang.code === "en"
+                  ? !activeCookie || activeCookie === "/en/en"
+                  : activeCookie.includes(lang.code);
+              return (
+                <li key={lang.code} role="option" aria-selected={active}>
+                  <button
+                    type="button"
+                    className={`w-full rounded-xl px-3 py-2 text-left text-sm font-bold transition-colors ${
+                      active
+                        ? "bg-ocean/10 text-ocean"
+                        : "text-ink hover:bg-ocean/5"
+                    }`}
+                    onClick={() => {
+                      applyLanguage(lang.code);
+                      setOpen(false);
+                    }}
+                  >
+                    {lang.label}
+                  </button>
+                </li>
+              );
+            })}
           </ul>
         </div>
       )}
