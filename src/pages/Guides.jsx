@@ -1,7 +1,11 @@
 import { Link } from "react-router-dom";
 import { POSTS } from "../data/posts.js";
 import { DOMAINS } from "../data/domains.js";
-import { GUIDES_RESOURCES } from "../data/guidesMenu.js";
+import {
+  GUIDES_DESTINATIONS,
+  GUIDES_RESOURCES,
+  GUIDES_TRAVEL,
+} from "../data/guidesMenu.js";
 import DomainCard from "../components/DomainCard.jsx";
 import AffiliateBanner from "../components/AffiliateBanner.jsx";
 import Chip from "../components/Chip.jsx";
@@ -56,13 +60,15 @@ export default function Guides() {
 
       <section className="container-content section-pad">
         <div className="max-w-3xl">
-          <span className="eyebrow">Resources</span>
-          <h2 className="mt-4 text-3xl sm:text-4xl text-ink leading-tight">Tools and partners</h2>
+          <span className="eyebrow">Atlas and resources</span>
+          <h2 className="mt-4 text-3xl sm:text-4xl text-ink leading-tight">Plan your trip</h2>
           <p className="mt-3 text-lg text-slate-700 font-medium leading-relaxed">
-            Booking links and tools we trust, grouped by what you need on a trip.
+            Start with a destination from the Atlas, read domain articles, or open booking tools.
           </p>
         </div>
-        <div className="mt-8 max-w-xl">
+        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <HubLinkCard {...GUIDES_DESTINATIONS} />
+          <HubLinkCard {...GUIDES_TRAVEL} />
           <HubLinkCard {...GUIDES_RESOURCES} />
         </div>
       </section>

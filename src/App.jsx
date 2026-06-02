@@ -8,6 +8,8 @@ import CookieNotice from "./components/CookieNotice.jsx";
 import Home from "./pages/Home.jsx";
 import Domain from "./pages/Domain.jsx";
 import Guides from "./pages/Guides.jsx";
+import Destinations from "./pages/Destinations.jsx";
+import Destination from "./pages/Destination.jsx";
 import Post from "./pages/Post.jsx";
 import About from "./pages/About.jsx";
 import Resources from "./pages/Resources.jsx";
@@ -35,6 +37,8 @@ export default function App() {
           <Route path="/domains/:slug" element={<Domain />} />
           <Route path="/guides" element={<Guides />} />
           <Route path="/guides/:slug" element={<Post />} />
+          <Route path="/destinations" element={<Destinations />} />
+          <Route path="/destinations/:slug" element={<Destination />} />
           <Route path="/resources" element={<Resources />} />
           <Route path="/prompts" element={<Prompts />} />
           <Route path="/about" element={<About />} />

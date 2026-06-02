@@ -8,6 +8,91 @@
  */
 export const POSTS = [
   {
+    slug: "how-to-plan-ethical-travel-with-ai",
+    title: "How to Plan Ethical Travel with AI: The 3-Step Method",
+    excerpt:
+      "Choices, Preparation, Delivery. A simple loop for using AI as a researcher while you keep the final call.",
+    domain: "education",
+    date: "2026-06-02",
+    readMinutes: 8,
+    blocks: [
+      { type: "h2", text: "Why a method matters" },
+      {
+        type: "p",
+        text:
+          "Most travel AI advice stops at \"paste this prompt and get an itinerary.\" That works for speed, but it skips the part that makes travel ethical: deciding what matters, checking your assumptions, and verifying with real people. Our Ethical Travel Atlas uses a three-step loop so AI assists research while you stay accountable.",
+      },
+      { type: "h2", text: "Step 1: Choices" },
+      {
+        type: "p",
+        text:
+          "Before you book anything, clarify why you are going and what trade-offs you accept. Each Atlas destination page opens with Why visit and an Ethical Compass: four short, place-specific notes across Economy, Employment, Education, and Ecology.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Economy: Where does tourist money go in this place?",
+          "Employment: Who works in tourism here, and who benefits?",
+          "Education: What do most visitors misunderstand?",
+          "Ecology: What environmental pressure matters most?",
+        ],
+      },
+      { type: "h2", text: "Step 2: Preparation" },
+      {
+        type: "p",
+        text:
+          "Preparation is where Collective Superintelligence shows up in practice. AI can gather options fast. You decide. Each destination page includes the four Gyroscope operations with local detail: Governance Management, Information Curation, Inference Interaction, and Intelligence Cooperation.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Governance Management: What rules, permits, seasons, and booking assumptions must you verify?",
+          "Information Curation: Which different sources should you consult, not just one blog or one AI answer?",
+          "Inference Interaction: Which choices are yours alone (pace, tours, spending, sensitive sites)?",
+          "Intelligence Cooperation: How will you trust your own judgment and local advice over algorithmic suggestions when conditions change?",
+        ],
+      },
+      {
+        type: "p",
+        text:
+          "You also get five anchor spots and practical essentials (length, transport) so the trip has bones before you open an AI chat.",
+      },
+      { type: "h2", text: "Step 3: Delivery" },
+      {
+        type: "p",
+        text:
+          "Delivery is the copy-ready prompt. It always starts with Please, follows the same three steps inside the instruction, names all four Gyroscope operations, and ends with a reminder to verify against official sources and local people. Treat the output as a draft, not a final plan.",
+      },
+      { type: "h2", text: "What to do next" },
+      {
+        type: "ul",
+        items: [
+          "Open a destination in the Atlas that matches your trip.",
+          "Read Step 1 and Step 2 on that page before you copy the prompt.",
+          "Paste the prompt into your AI tool, fill in the brackets, then check visas, safety, and bookings on official sites.",
+          "Ask one local person (guide, host, shopkeeper) whether your plan makes sense.",
+        ],
+      },
+      {
+        type: "ai",
+        text:
+          "Want a domain-focused prompt instead of a city-specific one? Browse our AI Prompts page. Each prompt follows the same verification rule: AI researches, you decide, locals confirm.",
+      },
+    ],
+    faq: [
+      {
+        q: "Do I need to use AI to follow this method?",
+        a:
+          "No. The three steps work on paper too. AI speeds up research for Preparation and Delivery, but Choices and verification are always human.",
+      },
+      {
+        q: "Where is The Human Mark in destination pages?",
+        a:
+          "The Human Mark explains why an AI Safety Lab works on travel. It lives on the About page. Destination pages stay light so you can plan, not study theory.",
+      },
+    ],
+  },
+  {
     slug: "where-does-your-travel-money-actually-go",
     title: "Where Does Your Travel Money Actually Go?",
     excerpt:

@@ -10,6 +10,7 @@ Canonical pattern: https://travel.gyrogovernance.com/<path>
 
 - [Home](https://travel.gyrogovernance.com/): Home
 - [Guides hub](https://travel.gyrogovernance.com/guides): Guides hub
+- [Destinations Atlas](https://travel.gyrogovernance.com/destinations): Destinations Atlas
 - [Travel Resources](https://travel.gyrogovernance.com/resources): Travel Resources
 - [AI Prompts](https://travel.gyrogovernance.com/prompts): AI Prompts
 - [About](https://travel.gyrogovernance.com/about): About
@@ -21,8 +22,13 @@ Canonical pattern: https://travel.gyrogovernance.com/<path>
 - [Education](https://travel.gyrogovernance.com/domains/education): Learn before you go, and learn while you are there.
 - [Ecology](https://travel.gyrogovernance.com/domains/ecology): Leave the land and sea better than you found them.
 
+## Destinations (Ethical Travel Atlas)
+
+- [Destinations Atlas](https://travel.gyrogovernance.com/destinations): 100 mainstream destinations with ethical planning prompts
+
 ## Travel guides (articles)
 
+- [How to Plan Ethical Travel with AI: The 3-Step Method](https://travel.gyrogovernance.com/guides/how-to-plan-ethical-travel-with-ai): Education - Choices, Preparation, Delivery. A simple loop for using AI as a researcher while you keep the final call.
 - [Where Does Your Travel Money Actually Go?](https://travel.gyrogovernance.com/guides/where-does-your-travel-money-actually-go): Economy - Most tourist spending leaves the local economy before it reaches the people who live there. Here is how to keep more of it local.
 - [How to Tell if a Tour Benefits Local Workers](https://travel.gyrogovernance.com/guides/how-to-tell-if-a-tour-benefits-local-workers): Employment - A tour can look responsible while exploiting the people who run it. Here are the questions to ask and the red flags to watch for.
 - [Why You Should Talk to Locals, Not Just Read Reviews](https://travel.gyrogovernance.com/guides/why-you-should-talk-to-locals-not-just-read-reviews): Education - Online reviews and AI summaries are indirect sources. Real knowledge comes from people with lived experience. Here is how to find it.

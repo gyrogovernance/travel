@@ -1,0 +1,31 @@
+Destination,Order,Country,Region
+New York City,61,USA,Americas
+Los Angeles,62,USA,Americas
+San Francisco,63,USA,Americas
+Las Vegas,64,USA,Americas
+Miami,65,USA,Americas
+Orlando,66,USA,Americas
+"Washington, DC",67,USA,Americas
+Chicago,68,USA,Americas
+Honolulu,69,USA,Americas
+Cancun,70,Mexico,Americas
+Mexico City,71,Mexico,Americas
+Tulum,72,Mexico,Americas
+Toronto,73,Canada,Americas
+Vancouver,74,Canada,Americas
+Montreal,75,Canada,Americas
+Banff,76,Canada,Americas
+Havana,77,Cuba,Americas
+Punta Cana,78,Dominican Republic,Americas
+San Juan,79,Puerto Rico,Americas
+Cartagena,80,Colombia,Americas
+Bogota,81,Colombia,Americas
+Lima,82,Peru,Americas
+Cusco,83,Peru,Americas
+Machu Picchu,84,Peru,Americas
+Rio de Janeiro,85,Brazil,Americas
+Sao Paulo,86,Brazil,Americas
+Iguazu Falls,87,Argentina/Brazil,Americas
+Buenos Aires,88,Argentina,Americas
+Santiago,89,Chile,Americas
+Patagonia,90,Chile/Argentina,Americas

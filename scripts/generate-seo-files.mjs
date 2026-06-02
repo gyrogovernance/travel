@@ -6,6 +6,7 @@ import { writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { POSTS } from "../src/data/posts.js";
+import { DESTINATIONS } from "../src/data/destinations.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const publicDir = join(__dirname, "..", "public");
@@ -22,6 +23,7 @@ const DOMAINS = [
 const STATIC_PAGES = [
   { path: "/", priority: "1.0", changefreq: "weekly", title: "Home" },
   { path: "/guides", priority: "0.9", changefreq: "weekly", title: "Guides hub" },
+  { path: "/destinations", priority: "0.9", changefreq: "weekly", title: "Destinations Atlas" },
   { path: "/resources", priority: "0.8", changefreq: "monthly", title: "Travel Resources" },
   { path: "/prompts", priority: "0.8", changefreq: "monthly", title: "AI Prompts" },
   { path: "/about", priority: "0.7", changefreq: "monthly", title: "About" },
@@ -63,6 +65,14 @@ function buildSitemap() {
       priority: "0.7",
       changefreq: "monthly",
       lastmod: p.date,
+    });
+  }
+
+  for (const d of DESTINATIONS) {
+    urls.push({
+      loc: pageUrl(`/destinations/${d.slug}`),
+      priority: "0.7",
+      changefreq: "monthly",
     });
   }
 
@@ -111,6 +121,24 @@ function buildLlmsTxt({ full }) {
   lines.push("", "## Four domains", "");
   for (const d of DOMAINS) {
     lines.push(`- [${d.name}](${pageUrl(`/domains/${d.slug}`)}): ${d.tagline}`);
+  }
+
+  lines.push("", "## Destinations (Ethical Travel Atlas)", "");
+  if (full) {
+    lines.push(`Hub: ${pageUrl("/destinations")}`, "");
+    for (const d of DESTINATIONS.slice(0, 20)) {
+      lines.push(`### ${d.name}, ${d.country}`, "");
+      lines.push(`- URL: ${pageUrl(`/destinations/${d.slug}`)}`);
+      lines.push(`- Region: ${d.region}`);
+      lines.push(`- Summary: ${d.teaser}`, "");
+    }
+    if (DESTINATIONS.length > 20) {
+      lines.push(`... and ${DESTINATIONS.length - 20} more on the destinations hub.`, "");
+    }
+  } else {
+    lines.push(
+      `- [Destinations Atlas](${pageUrl("/destinations")}): ${DESTINATIONS.length} mainstream destinations with ethical planning prompts`
+    );
   }
 
   lines.push("", "## Travel guides (articles)", "");

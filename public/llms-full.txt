@@ -14,6 +14,7 @@ Gyro Governance Ethical Travel helps visitors use AI to plan moral trips, suppor
 
 - [Home](https://travel.gyrogovernance.com/): Home
 - [Guides hub](https://travel.gyrogovernance.com/guides): Guides hub
+- [Destinations Atlas](https://travel.gyrogovernance.com/destinations): Destinations Atlas
 - [Travel Resources](https://travel.gyrogovernance.com/resources): Travel Resources
 - [AI Prompts](https://travel.gyrogovernance.com/prompts): AI Prompts
 - [About](https://travel.gyrogovernance.com/about): About
@@ -25,7 +26,141 @@ Gyro Governance Ethical Travel helps visitors use AI to plan moral trips, suppor
 - [Education](https://travel.gyrogovernance.com/domains/education): Learn before you go, and learn while you are there.
 - [Ecology](https://travel.gyrogovernance.com/domains/ecology): Leave the land and sea better than you found them.
 
+## Destinations (Ethical Travel Atlas)
+
+Hub: https://travel.gyrogovernance.com/destinations
+
+### Abu Dhabi, United Arab Emirates
+
+- URL: https://travel.gyrogovernance.com/destinations/abu-dhabi
+- Region: Asia
+- Summary: Abu Dhabi is the quieter, more deliberate cousin of Dubai. The capital of the UAE keeps its wealth visible but its volume lower. A great mosque, a Louvre on the sea, mangroves a metro stop from oil towers, and a desert that begins the moment the city ends.
+
+### Bali, Indonesia
+
+- URL: https://travel.gyrogovernance.com/destinations/bali
+- Region: Asia
+- Summary: Bali is the small Hindu island in a vast Muslim archipelago, a working ceremonial culture wrapped around terraced rice fields and volcanic ridges, and the most pressure-tested mass-tourism destination in Southeast Asia. How you visit here matters more than at almost any other beach destination on this list.
+
+### Bangkok, Thailand
+
+- URL: https://travel.gyrogovernance.com/destinations/bangkok
+- Region: Asia
+- Summary: Bangkok (Krung Thep) is one of the most visited cities on Earth and a working Thai capital of nearly ten million. Royal temples and a tropical river at the centre, a vast street-food culture, and a relentless 24-hour energy that locals navigate by motorbike and BTS Skytrain.
+
+### Beijing, China
+
+- URL: https://travel.gyrogovernance.com/destinations/beijing
+- Region: Asia
+- Summary: Beijing is the political and cultural capital of China, an imperial city of more than 800 years overlaid by a modern megacity of 21 million. The Forbidden City still anchors the axis. The Great Wall begins (and never quite ends) a couple of hours from your hotel.
+
+### Busan, South Korea
+
+- URL: https://travel.gyrogovernance.com/destinations/busan
+- Region: Asia
+- Summary: Busan is South Korea's second city and largest port, a Pacific-facing coastline of beaches, fishing villages, and high-rises wrapped around mountains and a working harbour. The country's seafood capital, the country's film festival capital, and a quietly different rhythm from Seoul.
+
+### Delhi, India
+
+- URL: https://travel.gyrogovernance.com/destinations/delhi
+- Region: Asia
+- Summary: Delhi is India's national capital and one of the world's largest urban areas, home to more than thirty million people across Old Delhi, New Delhi, and a dozen satellite cities. Seven historic capitals have been built on this plain over a thousand years; you can walk past four of them in a single afternoon.
+
+### Dubai, United Arab Emirates
+
+- URL: https://travel.gyrogovernance.com/destinations/dubai
+- Region: Asia
+- Summary: Dubai is the largest city in the UAE and one of the world's most visited destinations, a global trade and transit hub built from a fishing and pearling town into a skyline of superlatives in roughly two generations. The Burj Khalifa, the Palm Jumeirah, the largest mall on Earth, and an underlying Bedouin and South Asian working population that the postcards rarely show.
+
+### Hanoi, Vietnam
+
+- URL: https://travel.gyrogovernance.com/destinations/hanoi
+- Region: Asia
+- Summary: Hanoi (Hà Nội) is Vietnam's capital, a thousand-year-old city on the Red River where Confucian, French colonial, and Communist-era layers stack visibly on top of each other. A city of around 8.5 million, lake-centred, motorbike-busy, and the gateway to Ha Long Bay and northern Vietnam.
+
+### Ho Chi Minh City, Vietnam
+
+- URL: https://travel.gyrogovernance.com/destinations/ho-chi-minh-city
+- Region: Asia
+- Summary: Ho Chi Minh City (still widely called Sài Gòn, especially by residents) is Vietnam's largest city and economic capital, a Mekong-delta-edge metropolis of around nine million people. Younger, hotter, busier, and more commercially driven than Hanoi; the heart of Vietnam's post-1986 economic transformation.
+
+### Hong Kong, China
+
+- URL: https://travel.gyrogovernance.com/destinations/hong-kong
+- Region: Asia
+- Summary: Hong Kong is a special administrative region of China and one of the world's most densely built cities, a Cantonese-speaking, British-colonial-shaped harbour metropolis of roughly 7.5 million packed onto Hong Kong Island, Kowloon, the New Territories, and 200 smaller islands. The skyline, the dim sum, the trams, and the protected country parks (40 percent of the territory) all share the same compact geography.
+
+### Istanbul, Turkiye
+
+- URL: https://travel.gyrogovernance.com/destinations/istanbul
+- Region: Asia
+- Summary: Istanbul is the only city in the world built on two continents, a 16-million-person Turkish metropolis straddling the Bosphorus strait between Europe and Asia. Capital of three empires (Roman, Byzantine, Ottoman) and still one of the world's great trade and cultural crossroads.
+
+### Jaipur, India
+
+- URL: https://travel.gyrogovernance.com/destinations/jaipur
+- Region: Asia
+- Summary: Jaipur is the capital of Rajasthan, India's "Pink City" of around four million on the edge of the Thar desert. The eighteenth-century planned royal capital of the Kachwaha Rajputs, UNESCO-listed for its walled old city, and the western corner of India's classic Golden Triangle (Delhi, Agra, Jaipur).
+
+### Kyoto, Japan
+
+- URL: https://travel.gyrogovernance.com/destinations/kyoto
+- Region: Asia
+- Summary: Kyoto (京都) is Japan's imperial capital for more than a thousand years, a city of around 1.4 million in central Honshu that holds the highest concentration of UNESCO-listed Buddhist temples, Shinto shrines, traditional gardens, and machiya townhouses in the country. The cultural heart of Japan, and one of the most pressure-tested by overtourism.
+
+### Mumbai, India
+
+- URL: https://travel.gyrogovernance.com/destinations/mumbai
+- Region: Asia
+- Summary: Mumbai (formerly Bombay) is India's financial capital and largest city, a 21-million-person Arabian Sea metropolis on a chain of seven reclaimed islands. Home to Bollywood, the Bombay Stock Exchange, India's most concentrated wealth and its largest slum, and one of the most cinematic cities on Earth.
+
+### Osaka, Japan
+
+- URL: https://travel.gyrogovernance.com/destinations/osaka
+- Region: Asia
+- Summary: Osaka is Japan's third-largest city, a 2.7-million-person Kansai-region capital that has long been the country's commercial and food heart. Less imperial than Kyoto, less corporate than Tokyo, more direct in its dialect and humour, and one of the world's great street-food cities.
+
+### Phuket, Thailand
+
+- URL: https://travel.gyrogovernance.com/destinations/phuket
+- Region: Asia
+- Summary: Phuket is Thailand's largest island, a 550 square kilometre Andaman Sea hub of 600,000 residents and one of Asia's most-visited beach destinations. Mountainous interior, limestone-karst seascapes nearby (Phang Nga Bay, Phi Phi Islands), serious diving sites, and a complicated tourism economy.
+
+### Seoul, South Korea
+
+- URL: https://travel.gyrogovernance.com/destinations/seoul
+- Region: Asia
+- Summary: Seoul is the South Korean capital, a 10-million-person city in the wider 26-million Seoul metropolitan area, the world's fifth-largest metropolitan economy. Joseon-dynasty palaces, hanok villages, K-pop and K-drama global headquarters, and one of the most digitally connected and culinarily exciting cities on the planet.
+
+### Shanghai, China
+
+- URL: https://travel.gyrogovernance.com/destinations/shanghai
+- Region: Asia
+- Summary: Shanghai is China's largest city, a 25-million-person Yangtze-delta megacity that is the country's commercial and financial capital. The Bund's colonial waterfront, Pudong's twenty-first-century skyline across the Huangpu River, the French Concession's tree-lined streets, and one of the world's most ambitious working cities.
+
+### Singapore, Singapore
+
+- URL: https://travel.gyrogovernance.com/destinations/singapore
+- Region: Asia
+- Summary: Singapore is the city-state at the southern tip of the Malay Peninsula, a 5.6-million-person island metropolis that is one of the world's wealthiest, safest, and most carefully engineered cities. A multicultural society (Chinese, Malay, Indian, Eurasian, and global expat communities), the world's third-busiest container port, and one of Asia's culinary capitals.
+
+### Tokyo, Japan
+
+- URL: https://travel.gyrogovernance.com/destinations/tokyo
+- Region: Asia
+- Summary: Tokyo is the Japanese capital, a 14-million-person city centre with 37 million in the wider metropolitan area, the largest urban agglomeration in the world. Edo-era shogunate seat, imperial capital, twenty-first-century neon city, and one of the most rewarding cities on Earth to walk slowly through, neighbourhood by neighbourhood.
+
+... and 80 more on the destinations hub.
+
+
 ## Travel guides (articles)
+
+### How to Plan Ethical Travel with AI: The 3-Step Method
+
+- URL: https://travel.gyrogovernance.com/guides/how-to-plan-ethical-travel-with-ai
+- Domain: Education
+- Published: 2026-06-02
+- Summary: Choices, Preparation, Delivery. A simple loop for using AI as a researcher while you keep the final call.
 
 ### Where Does Your Travel Money Actually Go?
 

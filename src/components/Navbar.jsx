@@ -1,7 +1,11 @@
 import { useState, useRef, useEffect } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
-import { GUIDES_RESOURCES } from "../data/guidesMenu.js";
+import {
+  GUIDES_DESTINATIONS,
+  GUIDES_RESOURCES,
+  GUIDES_TRAVEL,
+} from "../data/guidesMenu.js";
 import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
 import BrandLockup from "./BrandLockup.jsx";
@@ -22,6 +26,8 @@ function isGuidesSectionActive(pathname) {
   return (
     pathname === "/guides" ||
     pathname.startsWith("/guides/") ||
+    pathname === "/destinations" ||
+    pathname.startsWith("/destinations/") ||
     pathname === "/resources" ||
     pathname.startsWith("/domains/")
   );
@@ -132,6 +138,8 @@ function GuidesMenu() {
         }`}
       >
         <div className="rounded-2xl bg-cream shadow-soft ring-1 ring-black/5 p-2 w-72">
+          <MenuRow {...GUIDES_TRAVEL} />
+          <MenuRow {...GUIDES_DESTINATIONS} />
           <MenuRow {...GUIDES_RESOURCES} />
           <div className="my-1.5 border-t border-black/8" role="separator" />
           <p className="px-2.5 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
@@ -222,6 +230,12 @@ export default function Navbar() {
               Guides
             </p>
             <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides hub</NavLink>
+            <NavLink to="/guides#articles" className={linkClass} onClick={() => setOpen(false)}>
+              {GUIDES_TRAVEL.title}
+            </NavLink>
+            <NavLink to="/destinations" className={linkClass} onClick={() => setOpen(false)}>
+              {GUIDES_DESTINATIONS.title}
+            </NavLink>
             <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>
               {GUIDES_RESOURCES.title}
             </NavLink>

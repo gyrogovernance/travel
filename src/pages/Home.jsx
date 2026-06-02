@@ -7,6 +7,8 @@ import TravelSearch from "../components/TravelSearch.jsx";
 import Icon from "../components/Icon.jsx";
 import Chip from "../components/Chip.jsx";
 import Seo from "../components/Seo.jsx";
+import AtlasIntro from "../components/AtlasIntro.jsx";
+import DestinationsStrip from "../components/DestinationsStrip.jsx";
 import { SITE } from "../site.js";
 import heroImg from "../assets/hero.webp";
 
@@ -143,8 +145,8 @@ export default function Home() {
       </section>
 
       {/* How it works */}
-      <section className="bg-cream">
-        <div className="container-content section-pad">
+      <section className="bg-cream pb-10 sm:pb-12">
+        <div className="container-content pt-12 sm:pt-16">
           <div className="max-w-2xl">
             <span className="eyebrow">How it works</span>
             <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight">
@@ -177,6 +179,9 @@ export default function Home() {
         </div>
       </section>
 
+      <AtlasIntro />
+      <DestinationsStrip />
+
       {/* AI Prompts teaser */}
       <section className="container-content section-pad">
         <div className="relative overflow-hidden rounded-4xl bg-gradient-to-br from-ocean to-leaf text-white p-8 sm:p-12">
@@ -201,57 +206,53 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Travelpayouts search widgets */}
+      {/* Search, partners, guides — one white band to avoid double section padding */}
       <section className="bg-white">
-        <div className="container-content section-pad">
+        <div className="container-content section-pad space-y-12 sm:space-y-14">
           <TravelSearch />
-        </div>
-      </section>
-
-      {/* Affiliate banner */}
-      <section className="container-content section-pad">
-        <AffiliateBanner />
-      </section>
-
-      {/* Latest guides */}
-      <section className="container-content section-pad">
-        <div className="flex items-end justify-between gap-4 mb-10">
+          <AffiliateBanner />
           <div>
-            <span className="eyebrow">Guides</span>
-            <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight">Latest Guides</h2>
-            <p className="mt-3 text-lg text-slate-700 font-medium">Practical reading for your next thoughtful trip.</p>
-          </div>
-          <Link to="/guides" className="btn-ghost hidden sm:inline-flex">
-            All guides
-            <Icon name="arrow" className="w-4 h-4" />
-          </Link>
-        </div>
-        <div className="grid gap-6 md:grid-cols-3">
-          {POSTS.map((p) => {
-            const domain = DOMAINS.find((d) => d.slug === p.domain);
-            return (
-              <Link
-                key={p.slug}
-                to={`/guides/${p.slug}`}
-                className="card card-hover p-7 flex flex-col"
-              >
-                <Chip color={domain?.color} className="self-start">{domain?.name}</Chip>
-                <h3 className="text-xl text-ink mt-4 leading-snug">{p.title}</h3>
-                <p className="text-slate-600 mt-2 flex-1 font-medium">{p.excerpt}</p>
-                <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-bold text-ocean">
-                  Read guide <Icon name="arrow" className="w-4 h-4" />
-                </span>
+            <div className="flex items-end justify-between gap-4 mb-8">
+              <div>
+                <span className="eyebrow">Guides</span>
+                <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight">Latest Guides</h2>
+                <p className="mt-3 text-lg text-slate-700 font-medium">
+                  Practical reading for your next thoughtful trip.
+                </p>
+              </div>
+              <Link to="/guides" className="btn-ghost hidden sm:inline-flex">
+                All guides
+                <Icon name="arrow" className="w-4 h-4" />
               </Link>
-            );
-          })}
+            </div>
+            <div className="grid gap-6 md:grid-cols-3">
+              {POSTS.map((p) => {
+                const domain = DOMAINS.find((d) => d.slug === p.domain);
+                return (
+                  <Link
+                    key={p.slug}
+                    to={`/guides/${p.slug}`}
+                    className="card card-hover p-7 flex flex-col"
+                  >
+                    <Chip color={domain?.color} className="self-start">{domain?.name}</Chip>
+                    <h3 className="text-xl text-ink mt-4 leading-snug">{p.title}</h3>
+                    <p className="text-slate-600 mt-2 flex-1 font-medium">{p.excerpt}</p>
+                    <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-bold text-ocean">
+                      Read guide <Icon name="arrow" className="w-4 h-4" />
+                    </span>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* Mission strip */}
+      {/* Mission strip — flows into footer (both ink) */}
       <section className="relative overflow-hidden bg-ink text-white">
         <div className="pointer-events-none absolute -right-24 -top-20 h-80 w-80 rounded-full bg-ocean/40 blur-3xl" />
         <div className="pointer-events-none absolute -left-16 -bottom-24 h-72 w-72 rounded-full bg-leaf/30 blur-3xl" />
-        <div className="container-content py-20 text-center relative">
+        <div className="container-content py-14 sm:py-16 text-center relative">
           <h2 className="text-3xl sm:text-5xl text-balance leading-tight">
             Collective Superintelligence is not a smarter machine.
             <br />

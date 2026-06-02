@@ -67,7 +67,12 @@ h1, h2, h3, .font-display {
   }
 
   .section-pad {
-    @apply py-20 sm:py-24;
+    @apply py-12 sm:py-16;
+  }
+
+  /* Stacked panels on destination and atlas pages */
+  .atlas-panel {
+    @apply rounded-2xl bg-cream p-4 ring-1 ring-black/5;
   }
 
   .gradient-text {

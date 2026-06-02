@@ -1,0 +1,26 @@
+Destination,Order,Country,Region
+London,36,UK,Europe
+Paris,37,France,Europe
+Rome,38,Italy,Europe
+Venice,39,Italy,Europe
+Florence,40,Italy,Europe
+Barcelona,41,Spain,Europe
+Madrid,42,Spain,Europe
+Lisbon,43,Portugal,Europe
+Porto,44,Portugal,Europe
+Amsterdam,45,Netherlands,Europe
+Berlin,46,Germany,Europe
+Munich,47,Germany,Europe
+Vienna,48,Austria,Europe
+Prague,49,Czech Republic,Europe
+Budapest,50,Hungary,Europe
+Athens,51,Greece,Europe
+Santorini,52,Greece,Europe
+Mykonos,53,Greece,Europe
+Dublin,54,Ireland,Europe
+Edinburgh,55,Scotland,Europe
+Zurich,56,Switzerland,Europe
+Interlaken,57,Switzerland,Europe
+Copenhagen,58,Denmark,Europe
+Stockholm,59,Sweden,Europe
+Oslo,60,Norway,Europe

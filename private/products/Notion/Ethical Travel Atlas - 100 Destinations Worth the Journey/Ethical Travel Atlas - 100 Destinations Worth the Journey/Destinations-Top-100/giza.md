@@ -1,0 +1,118 @@
+# Giza, Egypt
+
+Country: Egypt
+Region: Africa
+
+![Giza, Egypt](../Destinations-Top-100-assets/giza.jpg)
+
+Giza is the city and necropolis on the west bank of the Nile across from Cairo, home to the only surviving wonder of the ancient world: the Great Pyramid of Khufu, the Pyramid of Khafre, the Pyramid of Menkaure, and the Great Sphinx. The Grand Egyptian Museum opened nearby as the new front door to Pharaonic Egypt.
+
+---
+
+## 🧭 Step 1: Choices
+
+### ✨ Why Visit
+
+Giza is the closest most people will ever come to deep time. The Great Pyramid is roughly 4,500 years old, still the largest pyramid ever built. The Sphinx looks at the sunrise from a place where humans have looked at sunrises for fifty centuries. The Grand Egyptian Museum (GEM) collects an unprecedented gathering of Pharaonic artefacts in one purpose-built facility next door.
+
+The site has been reorganised significantly in recent years to manage visitor flow, reduce congestion, and bring more dignity to the experience. New electric shuttles, controlled entrances, and the GEM together have changed how Giza is visited.
+
+You come because not visiting is unthinkable if you are ever in this part of the world; and you stay long enough to do it properly.
+
+### 🌍 Ethical Compass
+
+- **💰 Economy.** Stay in Giza near the Pyramids (Mena House, Marriott Mena House, or smaller guesthouses with pyramid views) for the dawn light and to support the local Giza economy, not only Cairo's. Eat at family koshary and ful spots; tip generously, as Giza site workers and guides depend on it.
+- **👥 Employment.** Hire a **licensed Egyptologist** (Ministry of Tourism guide card) for the site; freelancers are unlicensed and frequently misleading. Tip everyone who helps: small notes for the men holding camel reins, larger notes for serious guides.
+- **📚 Education.** Read one popular book on the Pyramids before visiting: Mark Lehner's *The Complete Pyramids* is the gold standard. Understand that the Pyramids were built by paid (well-fed, organised) labour, not slaves; the workers' tombs have been excavated.
+- **🌱 Ecology.** Heat on the plateau is intense; visit at opening (or after 3 pm in winter). Stay on marked paths; off-trail walking damages thousands of years of archaeology underfoot. Camel and horse rides at the site involve animal welfare concerns; verify the operator's standards.
+
+---
+
+## 🎒 Step 2: Preparation
+
+### 🔍 Governance Management Traceability
+
+- Most visitors need an **e-Visa** through the official Egyptian e-Visa portal.
+- The **Pyramids site** has been reorganised with a new visitor centre, electric shuttles, and controlled entry. Verify the current entrance, ticket categories (general site, pyramid interior, Solar Boat Museum, Sphinx area), and shuttle access on the official Ministry of Tourism portal.
+- The **Grand Egyptian Museum (GEM)** is now the primary Egyptology museum; verify hours, full opening status of all galleries, and ticketing on the official GEM portal.
+- **Sound and Light Show** at the Sphinx runs evenings; verify language schedule on the official site.
+- For **camel or horse rides**, ask your hotel for a licensed, animal-welfare-aware operator; do not engage anyone soliciting at the gate.
+
+### 📡 Information Curation Variety
+
+- **Al-Ahram Online** and **Egypt Independent** for current local news.
+- The **Egyptian Ministry of Tourism and Antiquities** official portal for site updates.
+- A book by an Egyptologist: Mark Lehner, Zahi Hawass, or Toby Wilkinson on the broader Pharaonic story.
+- A licensed Egyptologist guide booked through your hotel or a known operator (the small-group day with a serious guide is what makes Giza make sense).
+- **Wikivoyage Giza** for transport and orientation.
+
+### 🎯 Inference Interaction Accountability
+
+- **You decide on the guide.** A licensed Egyptologist transforms Giza from a confusing crowded site into a meaningful day. The unlicensed alternative usually does the opposite.
+- **You decide on the pyramid interior.** Entering the Great Pyramid is hot, cramped, and steep; many find it claustrophobic. The chamber itself is largely empty. Decide whether that is worth the extra ticket and physical effort.
+- **You decide on a camel or horse ride.** Photogenic for sure; animal welfare and aggressive vendors are real concerns. Choose an operator vetted by your hotel.
+- **You decide on the GEM commitment.** A full half-day at the GEM after a morning at the Pyramids is the right rhythm; many tour packages rush it.
+- **You decide on Saqqara.** The Step Pyramid of Djoser (the oldest stone monument complex in the world) is 30 minutes south; many visitors regret skipping it.
+
+### 🔄 Intelligence Cooperation Integrity
+
+Giza weather is hot year-round, brutally so in summer. Sandstorms (khamsin) hit in spring. Friday prayers reshape the morning traffic. Major political moments occasionally affect site access.
+
+Bring a soft plan. If a sandstorm closes the plateau, the GEM is indoor and excellent. If your camel ride feels wrong on arrival, walk away. If the Great Pyramid interior is closed for restoration, the Pyramid of Khafre interior may be open as an alternative.
+
+### 📍 Top 5 Anchor Spots
+
+1. **Great Pyramid of Khufu (Cheops).** The oldest and largest of the three. Interior entry is a separate ticket and not for the claustrophobic.
+2. **Pyramid of Khafre and the Great Sphinx.** Khafre's pyramid retains the original casing stones at its peak; the Sphinx complex is at its base.
+3. **Grand Egyptian Museum (GEM).** The complete Tutankhamun collection together for the first time, the Khufu Solar Boat, and a Pharaonic timeline at scale. Allow a half day; verify gallery openings.
+4. **Saqqara: Step Pyramid of Djoser.** 30 minutes south of Giza; the oldest stone monument complex in the world, recently restored.
+5. **Sound and Light Show at the Sphinx.** Verify language nights on the official portal; evening only.
+
+### 🧰 Practical Essentials
+
+- **Recommended Length.** One full day for the Pyramids and Sphinx with a licensed guide, plus a half day for the GEM minimum. Add a half day or full day for Saqqara and Dahshur (Red and Bent Pyramids).
+- **Getting There and Around.** Giza is 30 to 60 minutes from central Cairo by taxi or Uber depending on traffic. A pre-arranged driver-and-guide day is the practical default. The **Cairo Metro** Line 2 reaches Giza station, then a taxi to the site.
+- **Daily Cost (per person).**
+  - **Budget:** roughly EGP 1,000 to 2,500 (about USD 20 to 50). Cairo budget hotel, taxis to and from Giza, site ticket plus one pyramid interior, GEM ticket.
+  - **Mid-range:** roughly EGP 4,000 to 9,000 (about USD 85 to 195). Giza guesthouse with pyramid view, private driver-and-Egyptologist guide for one day, all major site and GEM tickets.
+  - **Higher-comfort:** roughly EGP 12,000 and up. Marriott Mena House with pyramid-view room, fine dining, private Egyptologist for the duration, helicopter or hot-air balloon (where operating) overflight.
+- **Booking Notes.**
+  - **e-Visa:** apply on the official Egyptian portal.
+  - **GEM:** verify gallery openings on the official portal; sells timed tickets.
+  - **Pyramid site:** ongoing reorganisation; book a current-knowledge Egyptologist who knows the latest entrance and shuttle rules.
+  - **Pyramid interior tickets:** limited daily quota; arrive at opening if you want one.
+  - **Summer (June to September):** brutally hot; prioritise winter and shoulder seasons or visit at 7 to 9 am only.
+
+---
+
+## ✈️ Step 3: Delivery
+
+### 🤖 AI Prompt
+
+Copy this into your own AI assistant, fill in the brackets, and treat the answer as a researcher's draft, not a final plan.
+
+> Please help me plan an ethical visit to the Pyramids of Giza and the Grand Egyptian Museum for [NUMBER] days in [MONTH]. I am based in [Cairo / Giza] and I am travelling with [WHO]. My interests are [INTERESTS, e.g. ancient Egypt, Pharaonic art, photography, archaeology]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].
+>
+> Please structure your answer in three steps.
+>
+> **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Giza experiences I should not miss, and one I should consider skipping (an unlicensed "guide" at the gate, an aggressive camel ride pitched at the entrance, a Sound and Light Show in a language I do not understand). Briefly explain each trade-off.
+>
+> **Step 2: Preparation.** Cover all four of the following:
+> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current Pyramid-site reorganisation rules, GEM gallery openings, licensed Egyptologist guides through my hotel, and camel/horse-ride operator standards.
+> - **Information Curation Variety.** Suggest at least four different source types: one official Egyptian source, one Egyptian English news outlet, one Egyptologist author, and one licensed Egyptologist guide.
+> - **Inference Interaction Accountability.** List the decisions I personally need to make (licensed guide commitment, pyramid interior ticket, camel ride ethics, GEM commitment, Saqqara add-on).
+> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, sold-out pyramid interior, a Friday traffic reshape).
+>
+> **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include the full Pyramids morning with a licensed Egyptologist and the GEM afternoon or following day. Mark each operator as confidently licensed and recommended, or flag for me to verify.
+>
+> Finally, please remind me at the end to verify your suggestions against:
+> 1. Official sources: the Egyptian Ministry of Tourism and Antiquities, the GEM portal, the Egyptian e-Visa portal.
+> 2. Real people: a licensed Egyptologist, my hotel concierge, or a local Giza resident.
+>
+> Treat your output as a researcher's draft. I will make the final calls.
+
+---
+
+Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**.
+
+Explore more destinations, ethical domains, and AI prompts at [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).

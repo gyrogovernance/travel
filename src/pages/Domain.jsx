@@ -1,6 +1,8 @@
 import { useParams, Link } from "react-router-dom";
 import { getDomain, DOMAINS } from "../data/domains.js";
 import { POSTS } from "../data/posts.js";
+import { getDestination } from "../data/destinations.js";
+import { DOMAIN_FEATURED_DESTINATIONS } from "../data/domainDestinations.js";
 import Icon from "../components/Icon.jsx";
 import AffiliateBanner from "../components/AffiliateBanner.jsx";
 import TravelWidget from "../components/TravelWidget.jsx";
@@ -14,6 +16,10 @@ export default function Domain() {
 
   const related = POSTS.filter((p) => p.domain === slug);
   const others = DOMAINS.filter((d) => d.slug !== slug);
+  const featuredSlugs = DOMAIN_FEATURED_DESTINATIONS[slug] || [];
+  const featuredDestinations = featuredSlugs
+    .map((s) => getDestination(s))
+    .filter(Boolean);
 
   return (
     <div>
@@ -108,6 +114,40 @@ export default function Domain() {
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
           {domain.widgetKey && <TravelWidget widgetKey={domain.widgetKey} />}
+
+          {featuredDestinations.length > 0 ? (
+            <div className="card p-6">
+              <h3 className="font-display text-lg text-ink mb-3">Atlas destinations</h3>
+              <p className="text-xs text-slate-500 mb-3">
+                Places where the {domain.name} domain shows up clearly.
+              </p>
+              <ul className="space-y-3">
+                {featuredDestinations.map((d) => (
+                  <li key={d.slug}>
+                    <Link
+                      to={`/destinations/${d.slug}`}
+                      className="flex items-center gap-3 group"
+                    >
+                      <img
+                        src={d.image}
+                        alt=""
+                        className="h-10 w-10 rounded-lg object-cover shrink-0"
+                      />
+                      <span className="text-sm font-bold text-ink group-hover:text-ocean">
+                        {d.name}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <Link
+                to="/destinations"
+                className="mt-4 inline-flex text-sm font-bold text-ocean hover:underline"
+              >
+                All destinations
+              </Link>
+            </div>
+          ) : null}
 
           <div className="card p-6">
             <h3 className="font-display text-lg text-ink mb-3">Related guides</h3>

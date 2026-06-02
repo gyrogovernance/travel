@@ -1,4 +1,6 @@
+import { Link } from "react-router-dom";
 import { PROMPT_CATEGORIES } from "../data/prompts.js";
+import GyroscopeOpsOverview from "../components/GyroscopeOpsOverview.jsx";
 import PromptCard from "../components/PromptCard.jsx";
 import CtaBand from "../components/CtaBand.jsx";
 import Icon from "../components/Icon.jsx";
@@ -41,6 +43,25 @@ export default function Prompts() {
       </section>
 
       <section className="container-content section-pad space-y-14">
+        <div className="card p-6 sm:p-8 bg-cream ring-1 ring-black/5">
+          <span className="eyebrow">How our prompts are built</span>
+          <GyroscopeOpsOverview className="mt-3" />
+          <p className="mt-5 text-sm text-slate-600 font-medium">
+            Destination pages include these checks with local detail.{" "}
+            <Link to="/destinations" className="text-ocean font-bold hover:underline">
+              Open the Atlas
+            </Link>
+            {" or "}
+            <Link
+              to="/guides/how-to-plan-ethical-travel-with-ai"
+              className="text-ocean font-bold hover:underline"
+            >
+              read the full 3-step method
+            </Link>
+            .
+          </p>
+        </div>
+
         {PROMPT_CATEGORIES.map((cat) => (
           <div key={cat.id} id={cat.id} className="scroll-mt-24">
             <div className="flex items-center gap-3">

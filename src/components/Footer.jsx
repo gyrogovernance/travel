@@ -7,7 +7,7 @@ import BrandLockup from "./BrandLockup.jsx";
 export default function Footer() {
   const year = new Date().getFullYear();
   return (
-    <footer className="mt-20 bg-ink text-slate-300">
+    <footer className="bg-ink text-slate-300">
       <div className="container-content py-12 grid gap-10 md:grid-cols-4">
         <div>
           <Link to="/" className="flex items-center gap-3 mb-3 w-fit" aria-label="Gyro Governance Ethical Travel home">
@@ -40,6 +40,7 @@ export default function Footer() {
           <h4 className="text-white font-semibold mb-3 text-sm uppercase tracking-wide">Explore</h4>
           <ul className="space-y-2 text-sm">
             <li><Link to="/guides" className="hover:text-white">Guides</Link></li>
+            <li><Link to="/destinations" className="hover:text-white">Destinations</Link></li>
             <li><Link to="/prompts" className="hover:text-white">AI Prompts</Link></li>
             <li><Link to="/resources" className="hover:text-white">Travel Resources</Link></li>
             <li><Link to="/about" className="hover:text-white">About the Lab</Link></li>
