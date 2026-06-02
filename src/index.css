@@ -168,6 +168,26 @@ h1, h2, h3, .font-display {
   }
 }
 
+/* Plain transform (not Tailwind vars) so scale animates smoothly on hover. */
+.img-hover-zoom {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transform: scale(1);
+  transform-origin: center center;
+  will-change: transform;
+  /* !important: survives the global reduced-motion transition reset below */
+  transition: transform 4s cubic-bezier(0.22, 0.61, 0.36, 1) !important;
+}
+
+.group:hover .img-hover-zoom {
+  transform: scale(1.3);
+}
+
+.card-img-zoom:hover .img-hover-zoom {
+  transform: scale(1.3);
+}
+
 /* Google Website Translator: engine hidden; we use a custom language menu. */
 .goog-te-banner-frame,
 iframe.goog-te-banner-frame,
@@ -219,13 +239,12 @@ body {
   border: 0;
 }
 
-/* Respect reduced motion: turn off entrance and ambient animation and
-   keep transitions effectively instant. */
+/* Respect reduced motion for ambient/entrance animation only.
+   Card image zoom keeps its transition (see .img-hover-zoom). */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .animate-fade-up, .animate-float { animation: none; }
-  * {
-    animation-duration: 0.001ms !important;
-    transition-duration: 0.001ms !important;
+  .card-hover:hover {
+    transform: none;
   }
 }

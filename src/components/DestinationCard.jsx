@@ -14,15 +14,15 @@ export default function DestinationCard({ destination, compact = false }) {
       <div
         className={
           compact
-            ? "w-24 sm:w-28 shrink-0 overflow-hidden"
-            : "aspect-[16/10] overflow-hidden"
+            ? "w-24 sm:w-28 shrink-0 overflow-hidden card-img-zoom"
+            : "aspect-[16/10] overflow-hidden card-img-zoom"
         }
       >
         <img
           src={image}
           alt=""
           loading="lazy"
-          className="h-full w-full object-cover transition duration-300 ease-smooth group-hover:scale-105"
+          className="img-hover-zoom"
         />
       </div>
       <div className={compact ? "p-4 flex flex-col min-w-0 flex-1" : "p-5 flex flex-col flex-1"}>

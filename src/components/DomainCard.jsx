@@ -7,12 +7,12 @@ export default function DomainCard({ domain }) {
       to={`/domains/${domain.slug}`}
       className="card card-hover group overflow-hidden flex flex-col"
     >
-      <div className="relative h-40 overflow-hidden">
+      <div className="relative h-40 overflow-hidden card-img-zoom">
         <img
           src={domain.image}
           alt={domain.name}
           loading="lazy"
-          className="h-full w-full object-cover transition duration-500 ease-smooth group-hover:scale-[1.03]"
+          className="img-hover-zoom"
         />
         <span
           className="absolute inset-0 opacity-40 mix-blend-multiply"
