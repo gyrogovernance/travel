@@ -108,7 +108,7 @@ export const WIDGETS = {
   flightSearch: {
     title: "Search flights",
     note: "Compare fares across airlines. Fly direct and stay longer to make each flight count.",
-    icon: "compass",
+    icon: "plane",
     src: "",
     fullPagePath: "/search/flights",
     fallbackKey: "flights",
@@ -142,19 +142,46 @@ export const FLIGHT_META_SEARCH = {
   shmarker: TP_SHMARKER,
   locale: "en",
   currency: "usd",
+  /** White Label id from Travelpayouts > White Label (project 535657). Update if search form fails. */
   wlId: "18249",
   wlMainHost: "https://tpemb.com",
   /** Where search results render (#tpwl-tickets on this path). */
   resultsPath: "/search/flights",
-  popularDestinations: ["IST", "DXB", "MOW", "LAS", "NYC", "LON"],
-  weedle: {
-    widgetHost: "https://tpemb.com",
-    promoId: "4044",
-    campaignId: "100",
-    limit: 6,
-    linkColor: "0a6e7c",
-  },
 };
+
+/** Popular destinations block on /search/flights (Travelpayouts promo 4563). */
+export const POPULAR_DESTINATIONS_WIDGET = {
+  host: "https://tpemb.com/content",
+  trs: TP_MARKER,
+  shmarker: TP_SHMARKER,
+  locale: "en",
+  currency: "usd",
+  powered_by: true,
+  limit: 3,
+  primaryColor: "00AE98",
+  resultsBackgroundColor: "FFFFFF",
+  formBackgroundColor: "FFFFFF",
+  campaignId: "111",
+  promoId: "4563",
+};
+
+export function buildPopularDestinationsWidgetSrc() {
+  const w = POPULAR_DESTINATIONS_WIDGET;
+  const q = new URLSearchParams({
+    currency: w.currency,
+    trs: w.trs,
+    shmarker: w.shmarker,
+    locale: w.locale,
+    powered_by: w.powered_by ? "true" : "false",
+    limit: String(w.limit),
+    primary_color: w.primaryColor,
+    results_background_color: w.resultsBackgroundColor,
+    form_background_color: w.formBackgroundColor,
+    promo_id: w.promoId,
+    campaign_id: w.campaignId,
+  });
+  return `${w.host}?${q.toString()}`;
+}
 
 // =============================================================
 //  SPECIFIC TOURS WIDGET (WeGoTrip via Travelpayouts)
@@ -167,8 +194,8 @@ export const TOURS_WIDGET = {
   shmarker: TP_SHMARKER,
   locale: "en",
   tours: 3,
-  /** false: we disclose affiliates in-page; avoids duplicate TP badges in embed */
-  powered_by: false,
+  /** true per dashboard embed; duplicate badges hidden in CSS (.tours-widget-embed) */
+  powered_by: true,
   campaignId: "150",
   promoId: "4489",
 };
@@ -182,7 +209,7 @@ export function buildToursWidgetSrc({ cityId }) {
     shmarker: TOURS_WIDGET.shmarker,
     locale: TOURS_WIDGET.locale,
     tours: String(TOURS_WIDGET.tours),
-    powered_by: "false",
+    powered_by: "true",
     campaign_id: TOURS_WIDGET.campaignId,
     promo_id: TOURS_WIDGET.promoId,
     city_id: String(cityId),
@@ -191,7 +218,11 @@ export function buildToursWidgetSrc({ cityId }) {
   return `${TOURS_WIDGET.host}?${q.toString()}`;
 }
 
-/** Loads WL Web (main.js) once; mounts into #tpwl-search / #tpwl-tickets. */
+/**
+ * White Label flight search (wl_id from dashboard). Matches Travelpayouts embed:
+ * module main.js + TPWL_CONFIGURATION.resultsURL before load.
+ * resultsURL must be the page that hosts #tpwl-tickets (/search/flights).
+ */
 export function mountFlightMetaSearch() {
   const { wlId, wlMainHost, resultsPath } = FLIGHT_META_SEARCH;
   if (!wlId) return;

@@ -158,7 +158,7 @@ script src URL, and paste it into the matching `WIDGETS[...]src` value.
 
 ### Flight meta-search page (`/search/flights`)
 White Label Web loader: `mountFlightMetaSearch()` in `src/affiliate.js`
-loads `tpemb.com/wl_web/main.js?wl_id=18249` and sets `TPWL_CONFIGURATION.resultsURL`
+loads `tpemb.com/wl_web/main.js?wl_id=...` (set `wlId` in `FLIGHT_META_SEARCH` for project **535657**) and sets `TPWL_CONFIGURATION.resultsURL`
 to `https://travel.gyrogovernance.com/search/flights`.
 
 The React page provides `#tpwl-search`, `#tpwl-tickets`, and popular destination
@@ -198,10 +198,10 @@ ID (from URLs like `wegotrip.com/paris-d123/` → `city_id=123`). SubID in the
 Travelpayouts widget builder is optional; **Content Analytics** already tracks
 each destination by page URL (`/destinations/{slug}`).
 
-We set `powered_by=false` in our embed URL and hide any leftover Travelpayouts
-badges with CSS, because the embed otherwise renders **two** “Powered by
-Travelpayouts” links. Our `DISCLOSURE` line under the widget satisfies the
-affiliate disclosure requirement.
+We set `powered_by=true` in the dashboard embed URL (project **535657**) and hide
+duplicate Travelpayouts badges with CSS (`.tours-widget-embed .tp_powered_by`),
+because the embed can otherwise render extra “Powered by Travelpayouts” links. Our
+`DISCLOSURE` line under the widget satisfies the affiliate disclosure requirement.
 
 ### Commands (run in order when refreshing)
 
@@ -247,7 +247,7 @@ Edit **`TOURS_WIDGET`** in `src/affiliate.js`:
 
 - `tours` — number of cards (default `3`)
 - `promoId` / `campaignId` — from Travelpayouts widget builder if you regenerate
-- `powered_by` — keep `false` unless you remove our CSS hide and accept double badges
+- `powered_by` — match dashboard (`true`); CSS hides duplicate badges on destination pages
 
 If the iframe is clipped or cards wrap awkwardly, the widget likely needs more
 **width** (it lives in `container-content`, not the narrow `max-w-3xl` article).

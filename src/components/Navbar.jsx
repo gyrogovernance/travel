@@ -3,6 +3,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
 import {
   GUIDES_DESTINATIONS,
+  GUIDES_FLIGHT_SEARCH,
   GUIDES_RESOURCES,
   GUIDES_TRAVEL,
 } from "../data/guidesMenu.js";
@@ -29,6 +30,7 @@ function isGuidesSectionActive(pathname) {
     pathname === "/destinations" ||
     pathname.startsWith("/destinations/") ||
     pathname === "/resources" ||
+    pathname === "/search/flights" ||
     pathname.startsWith("/domains/")
   );
 }
@@ -141,6 +143,7 @@ function GuidesMenu() {
           <MenuRow {...GUIDES_TRAVEL} />
           <MenuRow {...GUIDES_DESTINATIONS} />
           <MenuRow {...GUIDES_RESOURCES} />
+          <MenuRow {...GUIDES_FLIGHT_SEARCH} />
           <div className="my-1.5 border-t border-black/8" role="separator" />
           <p className="px-2.5 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
             Four domains
@@ -238,6 +241,9 @@ export default function Navbar() {
             </NavLink>
             <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>
               {GUIDES_RESOURCES.title}
+            </NavLink>
+            <NavLink to="/search/flights" className={linkClass} onClick={() => setOpen(false)}>
+              {GUIDES_FLIGHT_SEARCH.title}
             </NavLink>
 
             <p className="px-3.5 pt-2 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">

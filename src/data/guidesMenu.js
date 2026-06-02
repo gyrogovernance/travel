@@ -22,3 +22,11 @@ export const GUIDES_RESOURCES = {
   title: "Travel Resources",
   description: "Tools, links, and partners",
 };
+
+export const GUIDES_FLIGHT_SEARCH = {
+  to: "/search/flights",
+  icon: "plane",
+  iconClass: "bg-ocean",
+  title: "Search flights",
+  description: "Compare fares across airlines",
+};

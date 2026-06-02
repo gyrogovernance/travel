@@ -8,6 +8,7 @@ import {
   Handshake,
   Leaf,
   Mail,
+  Plane,
   Shield,
   Sparkles,
 } from "lucide-react";
@@ -17,6 +18,7 @@ const ICONS = {
   handshake: Handshake,
   book: BookOpen,
   leaf: Leaf,
+  plane: Plane,
   compass: Compass,
   shield: Shield,
   arrow: ArrowRight,

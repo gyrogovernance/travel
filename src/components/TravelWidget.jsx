@@ -48,7 +48,7 @@ export default function TravelWidget({ widgetKey }) {
 
       <div
         className={`relative flex flex-col gap-3 ${
-          featured || !hasEmbed ? "mt-5" : "mt-auto pt-5"
+          featured ? "mt-5" : hasEmbed ? "mt-auto pt-5" : "mt-5"
         }`}
       >
         {hasEmbed ? (

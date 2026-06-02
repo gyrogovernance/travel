@@ -3,6 +3,7 @@ import { POSTS } from "../data/posts.js";
 import { DOMAINS } from "../data/domains.js";
 import {
   GUIDES_DESTINATIONS,
+  GUIDES_FLIGHT_SEARCH,
   GUIDES_RESOURCES,
   GUIDES_TRAVEL,
 } from "../data/guidesMenu.js";
@@ -66,10 +67,11 @@ export default function Guides() {
             Start with a destination from the Atlas, read domain articles, or open booking tools.
           </p>
         </div>
-        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4">
           <HubLinkCard {...GUIDES_DESTINATIONS} />
           <HubLinkCard {...GUIDES_TRAVEL} />
           <HubLinkCard {...GUIDES_RESOURCES} />
+          <HubLinkCard {...GUIDES_FLIGHT_SEARCH} />
         </div>
       </section>
 

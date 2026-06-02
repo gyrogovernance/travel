@@ -1,77 +1,19 @@
 import { useEffect } from "react";
 import Seo from "../components/Seo.jsx";
 import TravelWidget from "../components/TravelWidget.jsx";
-import { FLIGHT_META_SEARCH, mountFlightMetaSearch } from "../affiliate.js";
+import TravelpayoutsScript from "../components/TravelpayoutsScript.jsx";
+import {
+  buildPopularDestinationsWidgetSrc,
+  mountFlightMetaSearch,
+} from "../affiliate.js";
 import "../styles/flight-search-tpwl.css";
-
-function loadPopularDestinationWeedles(container) {
-  if (!container || container.dataset.weedlesLoaded === "1") return;
-
-  const extra = window.TPWL_EXTRA;
-  const { weedle, trs, shmarker, locale, currency } = FLIGHT_META_SEARCH;
-  const host = weedle.widgetHost.replace(/\/$/, "");
-
-  const params = extra
-    ? {
-        currency: String(extra.currency || currency).toLowerCase(),
-        trs: extra.trs || trs,
-        shmarker: extra.marker || shmarker,
-        target_host: extra.domain || "",
-        locale: extra.locale || locale,
-        primary: extra.link_color ? `%23${extra.link_color}` : `%23${weedle.linkColor}`,
-      }
-    : {
-        currency: currency.toLowerCase(),
-        trs,
-        shmarker,
-        target_host: "www.aviasales.com",
-        locale,
-        primary: `%23${weedle.linkColor}`,
-      };
-
-  FLIGHT_META_SEARCH.popularDestinations.forEach((destination) => {
-    const slot = container.querySelector(`[data-destination="${destination}"]`);
-    if (!slot || slot.dataset.weedleLoaded === "1") return;
-
-    slot.dataset.weedleLoaded = "1";
-    const script = document.createElement("script");
-    script.async = true;
-    const q = new URLSearchParams({
-      currency: params.currency,
-      trs: params.trs,
-      shmarker: params.shmarker,
-      destination,
-      target_host: params.target_host,
-      locale: params.locale,
-      limit: String(weedle.limit),
-      powered_by: "false",
-      primary: params.primary,
-      promo_id: weedle.promoId,
-      campaign_id: weedle.campaignId,
-    });
-    script.src = `${host}/content?${q.toString()}`;
-    slot.appendChild(script);
-  });
-
-  container.dataset.weedlesLoaded = "1";
-}
 
 export default function FlightSearch() {
   useEffect(() => {
     mountFlightMetaSearch();
-
-    const weedleRoot = document.getElementById("tpwl-widget-weedles");
-    let attempts = 0;
-    const timer = window.setInterval(() => {
-      attempts += 1;
-      if (window.TPWL_EXTRA || attempts > 40) {
-        loadPopularDestinationWeedles(weedleRoot);
-        window.clearInterval(timer);
-      }
-    }, 400);
-
-    return () => window.clearInterval(timer);
   }, []);
+
+  const popularDestinationsSrc = buildPopularDestinationsWidgetSrc();
 
   return (
     <div className="flight-search-page">
@@ -111,24 +53,14 @@ export default function FlightSearch() {
 
         <div className="container-content pb-12 sm:pb-14">
           <h2 className="text-2xl sm:text-3xl text-ink text-center">Popular destinations</h2>
-          <div
-            id="tpwl-widget-weedles"
-            className="tpwl-weedles mt-8"
-          >
-            {FLIGHT_META_SEARCH.popularDestinations.map((code) => (
-              <div
-                key={code}
-                className="tpwl-weedle rounded-2xl bg-cream ring-1 ring-black/5 overflow-hidden"
-                data-destination={code}
-              />
-            ))}
+          <TravelpayoutsScript
+            src={popularDestinationsSrc}
+            className="tpwl-popular-destinations mt-8"
+            stripPoweredBy
+          />
+          <div className="mt-6">
+            <TravelWidget widgetKey="flightCompensation" />
           </div>
-        </div>
-      </section>
-
-      <section className="container-content section-pad border-t border-black/5">
-        <div className="max-w-xl">
-          <TravelWidget widgetKey="flightCompensation" />
         </div>
       </section>
     </div>
