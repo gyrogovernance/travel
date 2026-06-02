@@ -61,7 +61,7 @@ fetchpriority="high"
 Built by an AI Safety Lab
 </span>
 <h1 className="mt-6 text-4xl sm:text-6xl lg:text-7xl leading-[1.02] text-balance drop-shadow-sm">
-Humans Getting Better{" "}
+Better{" "}
 <span className="text-sky">Together</span>
 </h1>
 <p className="mt-6 text-lg sm:text-xl text-slate-100 max-w-2xl font-medium leading-relaxed">
