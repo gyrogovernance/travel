@@ -30,7 +30,7 @@ You come for the museums, the beer gardens, the Alpine proximity, and a Bavarian
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Residenz, Nymphenburg, the Pinakothek museums** sell tickets on official Bavarian Palace Department or museum portals.
@@ -38,7 +38,7 @@ You come for the museums, the beer gardens, the Alpine proximity, and a Bavarian
 - **MVV** (Munich's integrated transport) uses tickets, the MVV app, or contactless (where rolled out); verify on the official MVV portal.
 - **Oktoberfest** (late September to first weekend of October) reserves table-and-beer seats at most tents; verify on the official Oktoberfest portal and the individual brewery tent sites.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Local Germany** and **Süddeutsche Zeitung** (Munich-based) for current news.
 - **München Tourismus** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the museums, the beer gardens, the Alpine proximity, and a Bavarian
 - A locally led Munich walking tour with a Munich-history specialist (Sandeman's, Radius Tours).
 - **Wikivoyage Munich** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Oktoberfest.** It is one of the world's largest festivals, expensive accommodation-wise, and an actual Bavarian thing. If you come, commit; if you avoid it, choose a different week.
 - **You decide on the beer-garden balance.** A beer-garden afternoon (bring your own food allowed in many gardens, buy the beer) is one of Munich's great rituals.
@@ -54,7 +54,7 @@ You come for the museums, the beer gardens, the Alpine proximity, and a Bavarian
 - **You decide on Neuschwanstein.** Two hours each way by train and bus; book the timed castle entry days ahead; consider whether the Linderhof and Hohenschwangau combination is what you actually want.
 - **You decide on the Alps.** Garmisch-Partenkirchen and the Zugspitze cable car are reachable in a day; serious skiing or hiking calls for an overnight.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Munich weather is four-season; cold and snowy winter, warm summer, dramatic shoulder seasons. Oktoberfest fills the city. Major football events (Bayern Munich, FC Bayern at the Allianz Arena) reshape transport.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Munich experiences I should not miss given my interests, and one I should consider skipping (a tourist Hofbräuhaus when an Augustiner Bräustuben is steps better, an Oktoberfest week if I had no plan, Neuschwanstein in a fog day). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen rules, the Bavarian Palace Department for Neuschwanstein, Residenz and Nymphenburg, the Pinakothek portals, MVV transport setup, and Oktoberfest tent reservations.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Bavarian source, one Munich news outlet, one German or Munich author, and one Munich-based history walking tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Oktoberfest commitment, beer-garden afternoon, Dachau visit timing, Neuschwanstein vs Alps day, museum cluster pace).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rainy beer-garden day, a Neuschwanstein fog day, a Bayern match closure, a sold-out Tent reservation during Oktoberfest).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen rules, the Bavarian Palace Department for Neuschwanstein, Residenz and Nymphenburg, the Pinakothek portals, MVV transport setup, and Oktoberfest tent reservations.
+> - **Information Curation.** Suggest at least four different source types: one official Bavarian source, one Munich news outlet, one German or Munich author, and one Munich-based history walking tour.
+> - **Inference Interaction.** List the decisions I personally need to make (Oktoberfest commitment, beer-garden afternoon, Dachau visit timing, Neuschwanstein vs Alps day, museum cluster pace).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rainy beer-garden day, a Neuschwanstein fog day, a Bayern match closure, a sold-out Tent reservation during Oktoberfest).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one beer-garden afternoon and one serious historical visit (Dachau or NS-Dokumentationszentrum). Mark each business as confidently locally owned, or flag for me to verify.
 >

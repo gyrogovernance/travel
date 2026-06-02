@@ -14,6 +14,7 @@ import Post from "./pages/Post.jsx";
 import About from "./pages/About.jsx";
 import Resources from "./pages/Resources.jsx";
 import Prompts from "./pages/Prompts.jsx";
+import FlightSearch from "./pages/FlightSearch.jsx";
 import Privacy from "./pages/Privacy.jsx";
 import Cookies from "./pages/Cookies.jsx";
 import NotFound from "./pages/NotFound.jsx";
@@ -41,6 +42,7 @@ export default function App() {
           <Route path="/destinations/:slug" element={<Destination />} />
           <Route path="/resources" element={<Resources />} />
           <Route path="/prompts" element={<Prompts />} />
+          <Route path="/search/flights" element={<FlightSearch />} />
           <Route path="/about" element={<About />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/cookies" element={<Cookies />} />

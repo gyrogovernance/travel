@@ -30,7 +30,7 @@ You come for the city itself, the art, the Lagoon, and as a serious engagement w
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Venice Access Fee** for day-trippers applies on peak days; verify current rules and exemptions (overnight guests are exempt) on the official Venice city portal.
@@ -38,7 +38,7 @@ You come for the city itself, the art, the Lagoon, and as a serious engagement w
 - **Vaporetto** (ACTV) sells single tickets, daily passes, or multi-day passes; verify on the official ACTV portal.
 - **Short-term rentals** in Venice are regulated; verify the CIR registration on any listing.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **La Nuova Venezia** and **Corriere del Veneto** (Italian) for local Venice news.
 - **The Local Italy** for English.
@@ -47,7 +47,7 @@ You come for the city itself, the art, the Lagoon, and as a serious engagement w
 - A locally led Venice walking tour with a Venetian guide.
 - **Wikivoyage Venice** for *sestiere* (district) orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide to stay overnight.** Overnight visitors do not pay the Access Fee, support overnight businesses, and experience the city after the day-trippers leave. Day-tripping is the largest single contribution to Venice's problems.
 - **You decide on St Mark's pace.** First-slot timed tickets at the Basilica are dramatically calmer than midday; book ahead.
@@ -55,7 +55,7 @@ You come for the city itself, the art, the Lagoon, and as a serious engagement w
 - **You decide on a gondola.** A gondola is expensive theatre; the traghetto crossing of the Grand Canal is the same boat at a fraction of the cost.
 - **You decide on the contemporary art.** The Biennale (alternating years) is one of the world's most important contemporary-art events; if your dates align, book early.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Venice weather is variable; the *bora* and *scirocco* winds can affect acqua alta and lagoon swell. Major events (Carnevale February, Biennale, Regata Storica September) reshape the city briefly.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Venice experiences I should not miss given my interests, and one I should consider skipping (a day-trip-only visit, a gondola when the traghetto does the same crossing, an unlicensed apartment with no CIR). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, the Venice Access Fee and overnight exemption, official ticketing for St Mark's, Doge's Palace, Accademia, Peggy Guggenheim, vaporetto passes, and CIR rental registration.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Venice source, one local Venice news outlet, one Venice-set book, and one Venetian walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (staying overnight vs day-tripping, St Mark's timing, Lagoon island day, gondola vs traghetto, Biennale commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (acqua alta, cruise-day crowds, a sold-out Basilica slot, a Carnevale or Biennale overlap).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, the Venice Access Fee and overnight exemption, official ticketing for St Mark's, Doge's Palace, Accademia, Peggy Guggenheim, vaporetto passes, and CIR rental registration.
+> - **Information Curation.** Suggest at least four different source types: one official Venice source, one local Venice news outlet, one Venice-set book, and one Venetian walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (staying overnight vs day-tripping, St Mark's timing, Lagoon island day, gondola vs traghetto, Biennale commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (acqua alta, cruise-day crowds, a sold-out Basilica slot, a Carnevale or Biennale overlap).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sestieri. Include at least one Cannaregio or Castello afternoon and one Lagoon island day. Mark each business as confidently locally owned, or flag for me to verify.
 >

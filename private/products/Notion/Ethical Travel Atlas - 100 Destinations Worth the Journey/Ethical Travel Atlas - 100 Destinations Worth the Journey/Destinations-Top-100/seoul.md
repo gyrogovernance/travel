@@ -30,7 +30,7 @@ You come for the palaces, the food, the K-culture, the contemporary design, and 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **K-ETA (Korea Electronic Travel Authorization)** is required for many visa-waiver nationalities; verify your status on the official K-ETA portal before booking flights.
 - **Palace tickets** (Gyeongbokgung, Changdeokgung) sell at the gate; **the Joseon Palaces Pass** bundles all five.
@@ -38,7 +38,7 @@ You come for the palaces, the food, the K-culture, the contemporary design, and 
 - **DMZ tours** are bookable through licensed operators (Koridoor, USO, several private operators); some areas require advance security check.
 - **Seoul Metro** uses T-money or contactless on most lines.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Korea Herald** and **Korea JoongAng Daily** (English-language Korean newspapers) for news.
 - **Visit Seoul** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the palaces, the food, the K-culture, the contemporary design, and 
 - A locally led Seoul food or palace walking tour (O'ngo Food Communications, Royal Palaces of Korea cultural tours).
 - **Wikivoyage Seoul** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the palace strategy.** Gyeongbokgung is the headline; Changdeokgung (UNESCO) and its Secret Garden (Huwon, separate timed entry) are more atmospheric. Pick one or both seriously, not all five superficially.
 - **You decide on the DMZ.** A controlled tour to Joint Security Area (JSA) is a serious half-day; verify current access (it has fluctuated with political conditions).
@@ -54,7 +54,7 @@ You come for the palaces, the food, the K-culture, the contemporary design, and 
 - **You decide on the food walking tour.** A first-night food tour through Gwangjang Market or Euljiro changes how you eat the rest of the trip.
 - **You decide on Bukhansan.** A serious half-day hike in the mountain national park, reachable by subway, that few visitors include.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Seoul has four genuine seasons; spring and autumn are spectacular and brief; summer is hot and humid; winter is cold (occasional snow). Major holidays (Chuseok in autumn, Seollal in late January or February) close many businesses for several days. Air quality can be poor in spring (yellow dust from China).
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Seoul experiences I should not miss given my interests, and one I should consider skipping (a five-palace day that exhausts everyone, an over-marketed K-pop experience, a Myeongdong cosmetics tour if I came for culture). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the K-ETA portal, palace ticketing and the Secret Garden timed entry, DMZ tour operator licensing, T-money or contactless setup, and Chuseok/Seollal closures.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Korean source, one English-language Korean newspaper, one Korean author, and one Seoul-based food or palace guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (palace selection, DMZ commitment, K-pop engagement, food-tour first night, Bukhansan hike).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (yellow-dust air-quality day, a Chuseok closure, a sold-out Secret Garden slot, a DMZ-tour access change).
+> - **Governance Management.** What assumptions should I check before I book? Include the K-ETA portal, palace ticketing and the Secret Garden timed entry, DMZ tour operator licensing, T-money or contactless setup, and Chuseok/Seollal closures.
+> - **Information Curation.** Suggest at least four different source types: one official Korean source, one English-language Korean newspaper, one Korean author, and one Seoul-based food or palace guide.
+> - **Inference Interaction.** List the decisions I personally need to make (palace selection, DMZ commitment, K-pop engagement, food-tour first night, Bukhansan hike).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (yellow-dust air-quality day, a Chuseok closure, a sold-out Secret Garden slot, a DMZ-tour access change).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include at least one palace, one food market, and one Hongdae or Itaewon evening. Mark each business as confidently locally owned, or flag for me to verify.
 >

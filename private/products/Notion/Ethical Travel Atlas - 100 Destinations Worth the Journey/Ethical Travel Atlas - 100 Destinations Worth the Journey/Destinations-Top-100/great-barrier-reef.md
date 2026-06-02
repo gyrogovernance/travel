@@ -30,7 +30,7 @@ You come to see it before the reef and the planet change further, and to spend y
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - **High Standard Tourism Operator (HSTO)** certification is the gold standard; the list is on the official Great Barrier Reef Marine Park Authority (GBRMPA) portal.
@@ -38,7 +38,7 @@ You come to see it before the reef and the planet change further, and to spend y
 - **Stinger season** runs roughly November to May; outer reef pontoons supply stinger suits but verify.
 - **Crocodile risk** in northern Queensland coastal and river waters is real; do not swim in unmarked rivers or estuaries.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Great Barrier Reef Marine Park Authority** for current reef conditions, certified operators, and education materials.
 - **Australian Institute of Marine Science (AIMS)** for annual reef-health reports.
@@ -46,7 +46,7 @@ You come to see it before the reef and the planet change further, and to spend y
 - A book on the Reef: J.E.N. Veron's *A Reef in Time* (technical); recent journalism by Anna Krien or Catherine McGregor for the contemporary crisis.
 - An **Indigenous Sea Country** voice where present; verify Indigenous-accredited operators on tourism portals.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your gateway.** Cairns (most accessible, large operator pool, outer reefs day-trippable), Port Douglas (quieter, similar reef access), Airlie Beach (Whitsundays, Heart Reef, sailing-focused), Lady Elliot Island (southern reef, fly-in, manta-ray central), Heron Island (southern reef, research station). Choose deliberately.
 - **You decide on the operator.** HSTO-certified is the right default. The cheapest day boat is rarely the better experience.
@@ -54,7 +54,7 @@ You come to see it before the reef and the planet change further, and to spend y
 - **You decide on dive vs snorkel.** Diving opens the reef in three dimensions; snorkelling shows you most of it. Either is valid; introductory dives are widely available.
 - **You decide on aerial vs in-water.** A scenic flight over Heart Reef (Whitsundays) is photogenic and adds zero ecological pressure; in-water is the real experience.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Tropical North Queensland weather is dramatic. Wet season (November to April) brings monsoonal storms, cyclones, and stinger risk. Dry season (May to October) is the practical window. Visibility varies with weather and runoff.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best Reef gateway and the two or three Reef experiences I should not miss given my interests, and one I should consider skipping (the cheapest unverified day boat, an inner-reef-only day on a poor-visibility day, an aerial-only experience if I have water-time available). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, High Standard Tourism Operator certification on GBRMPA, EMC inclusion, stinger and crocodile advisories, and Sea Country Indigenous accreditation where it applies.
-> - **Information Curation Variety.** Suggest at least four different source types: GBRMPA, AIMS reef-health reports, Tropical North Queensland or Whitsundays Tourism, and a recent book or article on coral bleaching.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (gateway choice, HSTO operator commitment, inner vs outer reef, dive vs snorkel, reef-safe sunscreen).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Reef trip cancelled by swell, cyclone warning, poor visibility on the day, a sold-out fly-in island).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, High Standard Tourism Operator certification on GBRMPA, EMC inclusion, stinger and crocodile advisories, and Sea Country Indigenous accreditation where it applies.
+> - **Information Curation.** Suggest at least four different source types: GBRMPA, AIMS reef-health reports, Tropical North Queensland or Whitsundays Tourism, and a recent book or article on coral bleaching.
+> - **Inference Interaction.** List the decisions I personally need to make (gateway choice, HSTO operator commitment, inner vs outer reef, dive vs snorkel, reef-safe sunscreen).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Reef trip cancelled by swell, cyclone warning, poor visibility on the day, a sold-out fly-in island).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, named operators, and named reef sites where I should book. Include at least one HSTO-certified Reef day and one alternative if weather cancels. Mark each operator as confidently HSTO-certified or Indigenous-accredited, or flag for me to verify.
 >

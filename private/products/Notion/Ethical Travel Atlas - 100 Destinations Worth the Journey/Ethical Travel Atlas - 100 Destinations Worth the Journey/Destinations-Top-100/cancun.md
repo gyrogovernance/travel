@@ -30,7 +30,7 @@ You come for the reef, the Mayan sites, the cenotes, and a chance to make a beac
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors get an **FMM tourist card** automatically with their flight; verify current rules on the **INM (Instituto Nacional de Migración)** portal.
 - A **Quintana Roo state tourist tax (VisiTax)** applies to most international visitors; pay online on the official VisiTax portal before departure to avoid airport queues.
@@ -38,7 +38,7 @@ You come for the reef, the Mayan sites, the cenotes, and a chance to make a beac
 - For **cenote visits**, use entry through the official ejido (community) operators rather than freelancers at the roadside; the Maya communities that own the cenotes deserve the entry fee.
 - Confirm any reef trip uses **MARTI**-certified or known sustainable operators; verify on official Mexican tourism portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Mexico News Daily** and **The Yucatan Times** (English-language Mexican outlets) for current events and security advisories.
 - **Visit Mexico** and **Quintana Roo state tourism** official portals for current rules.
@@ -46,7 +46,7 @@ You come for the reef, the Mayan sites, the cenotes, and a chance to make a beac
 - A Maya-led tour: U Najil Ek Balam (community-run, near Valladolid), Alltournative (community-tourism focus), or local Mérida operators.
 - **Wikivoyage Cancun** and **Wikivoyage Yucatán** for area orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide whether to leave the Hotel Zone.** Staying in an all-inclusive resort and never exiting is a choice; so is taking a day trip to a Maya village or two nights in Mérida.
 - **You decide on Chichén Itzá vs Cobá vs Uxmal.** Chichén is the famous one and the most crowded; Cobá lets you actually climb (still, where rules permit); Uxmal is quieter and arguably more interesting.
@@ -54,7 +54,7 @@ You come for the reef, the Mayan sites, the cenotes, and a chance to make a beac
 - **You decide your sargassum tolerance.** From May to October the seaweed can pile up on east-facing beaches; west-facing (Isla Holbox, Mérida coast) and the cenotes are unaffected.
 - **You decide on a Maya-led experience.** A village visit run by Maya hosts is a fundamentally different day from a costumed show at a resort.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Yucatán weather is hot year-round. The wet season (May to October) brings afternoon thunderstorms and sargassum on east coasts. Hurricane season peaks August to October. Some Maya sites close earlier than tourists expect.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Yucatán experiences I should not miss given my interests, and one I should consider skipping (a Hotel Zone all-inclusive that never leaves the strip, an unlicensed Maya-site guide, a Tulum beach club priced in dollars). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the FMM tourist card on the INM portal, the VisiTax on the official state portal, INAH-certified guides at Maya sites, community-ejido cenote entry, and sustainable reef operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Mexican or Quintana Roo source, one English-language Mexican news outlet, one Maya-led tour, and a book or documentary on the Maya.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (whether to leave the Hotel Zone, Chichén vs Cobá vs Uxmal, Tulum's trade-offs, sargassum tolerance, reef-safe sunscreen).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sargassum bloom, rainy-season storm, hurricane warning, sold-out Chichén time slot).
+> - **Governance Management.** What assumptions should I check before I book? Include the FMM tourist card on the INM portal, the VisiTax on the official state portal, INAH-certified guides at Maya sites, community-ejido cenote entry, and sustainable reef operators.
+> - **Information Curation.** Suggest at least four different source types: one official Mexican or Quintana Roo source, one English-language Mexican news outlet, one Maya-led tour, and a book or documentary on the Maya.
+> - **Inference Interaction.** List the decisions I personally need to make (whether to leave the Hotel Zone, Chichén vs Cobá vs Uxmal, Tulum's trade-offs, sargassum tolerance, reef-safe sunscreen).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sargassum bloom, rainy-season storm, hurricane warning, sold-out Chichén time slot).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one Maya-led experience and at least one night outside the Hotel Zone. Mark each business as confidently locally owned, or flag it for me to verify.
 >

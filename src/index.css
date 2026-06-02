@@ -75,6 +75,20 @@ h1, h2, h3, .font-display {
     @apply rounded-2xl bg-cream p-4 ring-1 ring-black/5;
   }
 
+  /* WeGoTrip iframe embed on destination pages (Travelpayouts promo 4489) */
+  .tours-widget-embed iframe {
+    width: 100% !important;
+    max-width: 100%;
+    min-height: 280px;
+    border: 0;
+    display: block;
+  }
+
+  /* Embed injects duplicate TP badges; we disclose in-page instead */
+  .tours-widget-embed .tp_powered_by {
+    display: none !important;
+  }
+
   .gradient-text {
     @apply bg-gradient-to-r from-oceanlight via-ocean to-leaf bg-clip-text text-transparent;
   }

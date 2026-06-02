@@ -30,7 +30,7 @@ You come for the imperial palaces, the Klimt and Schiele, the coffee houses, the
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Schönbrunn Palace** sells timed tickets on the official portal; sells out in peak season.
@@ -38,7 +38,7 @@ You come for the imperial palaces, the Klimt and Schiele, the coffee houses, the
 - **Belvedere, Leopold Museum, Kunsthistorisches** sell tickets on official portals.
 - **Wiener Linien** (subway, tram, bus) uses tickets bought at machines, the WienMobil app, or contactless on most lines.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Local Austria** and **Der Standard** (German) for current Vienna news.
 - The official **Vienna Tourist Board** site for events and openings.
@@ -46,7 +46,7 @@ You come for the imperial palaces, the Klimt and Schiele, the coffee houses, the
 - A locally led Vienna walking tour with a coffee-house or Jewish-Vienna focus.
 - **Wikivoyage Vienna** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the palace strategy.** Schönbrunn (the summer Habsburg palace, large grounds) and the Hofburg (the city centre) are both essential; do not skip both.
 - **You decide on the music.** A State Opera or Musikverein concert (book months ahead for popular nights); standing-room at the State Opera is dramatically cheaper.
@@ -54,7 +54,7 @@ You come for the imperial palaces, the Klimt and Schiele, the coffee houses, the
 - **You decide on the Klimt.** Belvedere (The Kiss is here); Leopold (Schiele plus Klimt); Secession (the Beethoven Frieze). Belvedere is the headline.
 - **You decide on the day-trip.** Bratislava (1 hour by train), Melk (the Wachau valley abbey), or Salzburg (2.5 hours).
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Vienna weather is continental; cold winter, mild summer, beautiful shoulder seasons. Major events (Christmas markets late November to early January, the Opera Ball in February, the Vienna Festival in May-June) reshape parts of the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Vienna experiences I should not miss given my interests, and one I should consider skipping (a Ring boulevard tourist restaurant, a midday Schönbrunn without a timed ticket, a resale-priced Opera seat when standing-room works). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official Schönbrunn/Hofburg/Belvedere/Leopold ticketing, State Opera and Musikverein ticketing, Wiener Linien ticket setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Austrian source, one Vienna news outlet, one Austrian author, and one Vienna-based coffee-house or Jewish-Vienna walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (palace coverage, concert venue choice, coffee-house commitment, Klimt venue priority, day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sudden rain, a museum strike, a sold-out Opera, a Christmas-market crowd).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official Schönbrunn/Hofburg/Belvedere/Leopold ticketing, State Opera and Musikverein ticketing, Wiener Linien ticket setup.
+> - **Information Curation.** Suggest at least four different source types: one official Austrian source, one Vienna news outlet, one Austrian author, and one Vienna-based coffee-house or Jewish-Vienna walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (palace coverage, concert venue choice, coffee-house commitment, Klimt venue priority, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden rain, a museum strike, a sold-out Opera, a Christmas-market crowd).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one Wiener Melange coffee stop and one concert or opera. Mark each business as confidently locally owned, or flag for me to verify.
 >

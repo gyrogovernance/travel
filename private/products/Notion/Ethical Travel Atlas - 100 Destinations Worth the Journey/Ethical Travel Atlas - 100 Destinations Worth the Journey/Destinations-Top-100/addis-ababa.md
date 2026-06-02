@@ -30,7 +30,7 @@ You come for the coffee, the food (one of the great undersold cuisines), the mus
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **visa requirement** on the official Ethiopian e-Visa portal before booking flights. Rules change.
 - Check current **travel advisories** from your home government before booking. Regional security in Ethiopia has been volatile, and "Addis is fine" can coexist with "do not travel to X region".
@@ -38,7 +38,7 @@ You come for the coffee, the food (one of the great undersold cuisines), the mus
 - The Ethiopian **calendar and clock** differ from Western norms (a thirteen-month calendar, and a clock that starts at sunrise). Confirm meeting times in both systems.
 - Bring **cash in major currency** to exchange at official outlets; ATM reliability varies and card acceptance is uneven outside high-end hotels.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Addis Standard** and **The Reporter Ethiopia** (English-language Ethiopian news) for current events.
 - The official **Ethiopian Tourism Organization** site for cultural calendars and major festivals.
@@ -46,7 +46,7 @@ You come for the coffee, the food (one of the great undersold cuisines), the mus
 - A locally guided Addis walking tour (several social enterprises offer them) for a resident perspective.
 - Wikivoyage Addis Ababa and the Bradt guide to Ethiopia for the deepest practical detail.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide whether the timing is right.** Ethiopia's security situation has been mixed in recent years. The decision to travel is yours to make on current information, not on assumption.
 - **You decide on altitude.** Addis sits at 2,400 metres. Plan an easy first day; this is real altitude.
@@ -54,7 +54,7 @@ You come for the coffee, the food (one of the great undersold cuisines), the mus
 - **You decide your festival timing.** Timkat (Epiphany) in January and Meskel (Finding of the True Cross) in September are extraordinary. They also fill the city.
 - **You decide your photography ethics.** Ask before photographing people, especially Orthodox clergy and worshippers. The answer is sometimes no.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Ethiopia runs on its own time. The thirteen-month calendar means major holidays fall on different Western dates each year, the day starts at what Westerners call 6 am (the local "1 o'clock"), and political and weather conditions can change quickly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Addis experiences I should not miss given my interests, and one I should consider skipping. For each, briefly explain the trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include current visa requirements on the official Ethiopian e-Visa portal, current home-government travel advisories, registered tour operators, and Ethiopian calendar and clock differences.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Ethiopian source, one Ethiopian news outlet, one Ethiopian author, and one locally guided walking tour or social-enterprise operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (whether to travel given current advisories, altitude pacing, festival timing, photography ethics, which conversations I engage with).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a closed road, an unannounced strike, heavy rainy-season mud, a festival rerouting traffic).
+> - **Governance Management.** What assumptions should I check before I book? Include current visa requirements on the official Ethiopian e-Visa portal, current home-government travel advisories, registered tour operators, and Ethiopian calendar and clock differences.
+> - **Information Curation.** Suggest at least four different source types: one official Ethiopian source, one Ethiopian news outlet, one Ethiopian author, and one locally guided walking tour or social-enterprise operator.
+> - **Inference Interaction.** List the decisions I personally need to make (whether to travel given current advisories, altitude pacing, festival timing, photography ethics, which conversations I engage with).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a closed road, an unannounced strike, heavy rainy-season mud, a festival rerouting traffic).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one proper coffee ceremony and one injera meal at a family-run restaurant. Mark each business as confidently locally owned, or flag it for me to verify.
 >

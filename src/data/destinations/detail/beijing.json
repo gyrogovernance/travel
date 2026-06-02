@@ -1,0 +1,52 @@
+{
+  "slug": "beijing",
+  "name": "Beijing",
+  "country": "China",
+  "region": "Asia",
+  "image": "/destinations/beijing.jpg",
+  "teaser": "Beijing is the political and cultural capital of China, an imperial city of more than 800 years overlaid by a modern megacity of 21 million. The Forbidden City still anchors the axis. The Great Wall begins (and never quite ends) a couple of hours from your hotel.",
+  "intro": "Beijing is the political and cultural capital of China, an imperial city of more than 800 years overlaid by a modern megacity of 21 million. The Forbidden City still anchors the axis. The Great Wall begins (and never quite ends) a couple of hours from your hotel.",
+  "whyVisit": "Beijing is the scale of Chinese civilisation, made walkable. The Forbidden City is the world's largest preserved imperial palace complex. The Temple of Heaven is one of Asia's masterworks of cosmological architecture. A single day on the Great Wall (Mutianyu or Jinshanling) puts everything else into perspective.\n\nThe city is also where modern China is most legibly itself: the hutong alleys (still shrinking) sit blocks from CCTV towers and Zaha Hadid buildings. The food is dazzlingly regional. The pace is high but the imperial calm of the central axis survives.",
+  "ethicalCompass": {
+    "economy": "Eat at jiaozi shops, noodle joints, and Peking-duck specialists outside the hotel zones. Hutong tea houses and small Sichuan and Yunnan restaurants in Dongcheng and Xicheng are excellent. Avoid the worst of Wangfujing snack street (designed for tourists, photographed everywhere).",
+    "employment": "Hire a licensed guide for the Great Wall and major palace complexes. Use metered taxis or DiDi ride-hail; insist on the meter or app fare. Tipping is not customary in China and can occasionally cause awkwardness.",
+    "education": "China has firm rules around political conversation, photography near military and government sites, and what foreigners can post. Read about the limits before assuming a Western default applies. Learn ten Mandarin phrases (nǐ hǎo, xiè xiè, duō shǎo qián, wǒ bù yào); your phone's translator will do the rest.",
+    "ecology": "Air quality varies dramatically; check the AQI app daily and plan strenuous outdoor days when air is acceptable. The Wall sections deteriorate when walked off-trail; stay on restored sections (Mutianyu) or properly maintained wild sections (Jiankou only with licensed guides)."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Visa or transit-visa-free status varies frequently. Verify your nationality's current rules on the Chinese embassy portal before booking. Transit-visa-free is available for many nationalities for short stays.",
+      "The Forbidden City caps daily entries and requires passport-linked online booking on the official Palace Museum portal. Sells out days ahead.",
+      "Great Wall sections are managed differently; Mutianyu, Jinshanling, and Badaling are official, ticketed, accessible. Unrestored wild sections may be restricted or unsafe.",
+      "Most Chinese sites and transport require booking with passport; bring your passport everywhere.",
+      "WeChat Pay or Alipay linked to a foreign card is now possible and effectively required for everyday spending; set up before arrival."
+    ],
+    "icu": [
+      "China Daily (official) and The Beijinger (English-language expat magazine) for events and current restrictions.",
+      "The Palace Museum official site for Forbidden City booking and exhibitions.",
+      "A book on modern China: Peter Hessler's Country Driving or Oracle Bones; Yu Hua's novels for fiction.",
+      "A licensed local guide (TripAdvisor's certified Beijing guides or a hotel concierge recommendation) for the Wall and the imperial sites.",
+      "Wikivoyage Beijing for district orientation."
+    ],
+    "iinter": [
+      "You decide on the Great Wall section. Badaling is closest and most crowded; Mutianyu is balanced and best for most; Jinshanling is for the hike; Jiankou is wild and only with serious guides.",
+      "You decide your VPN preparation. Most Western apps and sites are blocked; if you need WhatsApp, Google, Instagram, or Western news, set up a VPN before arrival.",
+      "You decide your political conversation comfort. China has clear limits on what foreigners can discuss publicly. Listening is fine; provoking is not.",
+      "You decide on hutong tours. Pedicab tours through hutongs are tourist theatre; a walking tour with a Beijing-born guide is meaningful. The choice is yours.",
+      "You decide on air-quality days. A bad AQI day is a museum day, not a Great Wall day."
+    ],
+    "ico": "Beijing weather and air are highly variable. A spring sandstorm, a summer thunderstorm, a winter inversion can each rewrite a day. Major political events (Party congresses, state visits) can close roads and museums on short notice.\n\nBring a soft plan. If air quality is poor, the National Museum, the Forbidden City, and the major shopping districts are indoor. If a state visit closes Tiananmen, swap to the 798 art district or the Summer Palace. The city absorbs disruption better than its size suggests."
+  },
+  "anchorSpots": [
+    "Forbidden City (Palace Museum). Passport-linked booking on the official portal. Plan four hours minimum; enter from the south, exit north.",
+    "Great Wall at Mutianyu or Jinshanling. Full day with a licensed guide and a private driver. Best at sunrise or in late afternoon light.",
+    "Temple of Heaven and the surrounding park. Visit early morning to see locals practising taichi and dance; the cosmological architecture is at its best.",
+    "798 Art District. Repurposed Bauhaus factory zone, now China's leading contemporary art quarter. Plan a half day.",
+    "Hutongs around Houhai and Nanluoguxiang. Walking the alleys near the lakes, with stops at courtyard restaurants and small museums."
+  ],
+  "recommendedLength": "Four to five days for Beijing. Add at least one full day for the Great Wall and one for the Summer Palace or the Ming Tombs.",
+  "transportHint": "Beijing's metro is enormous, cheap, and easy; signs are bilingual. DiDi ride-hail (in English) and metered taxis cover the rest. Bicycle-share works well in central areas. The high-speed rail station network is one of the world's best; get used to it for any further travel.",
+  "prompt": "Please help me plan an ethical visit to Beijing, China for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. imperial history, the Great Wall, food, contemporary art, hutongs]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Beijing experiences I should not miss given my interests, and one I should consider skipping (Badaling Wall in midday, the worst of Wangfujing snack street, a pedicab tourist hutong tour). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include current visa or transit-visa-free rules on the Chinese embassy portal, the passport-linked Forbidden City booking, Great Wall section choice and access, WeChat Pay/Alipay set-up with a foreign card, and VPN preparation.\n- **Information Curation.** Suggest at least four different source types: one official Chinese source, one English-language Beijing-based outlet, one author on modern China, and one licensed Beijing-based guide.\n- **Inference Interaction.** List the decisions I personally need to make (Wall section, VPN, political conversation comfort, hutong tour type, air-quality days).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a bad-AQI day, a sandstorm, a state event closing roads, sold-out Forbidden City slot).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, metro lines, and named neighbourhoods. Include at least one full Great Wall day and one hutong walk with a local-led guide. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: the Palace Museum portal, the Chinese embassy visa page for my nationality, and a reliable AQI app.\n2. Real people: a local resident, a licensed Beijing guide, or hotel staff who live in Beijing now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 1816670,
+  "order": 4
+}

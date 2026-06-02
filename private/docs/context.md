@@ -41,15 +41,14 @@ Our approach to travel is not just about sustainability; it is grounded in our A
 ### Collective Superintelligence
 Collective Superintelligence is not another AI model. It is about humans getting better together. It happens when humans and AI cooperate with clear principles, and humans keep the final say. AI does the research. You make the decisions. The whole system becomes smarter than either part alone. Applied to travel, this means using AI to plan kinder trips, then verifying with real people.
 
+### Gyroscopic Global Governance (GGG)
+The four domains come from **Gyroscopic Global Governance (GGG)**: Economy (CGM), Employment (Gyroscope Protocol), Education (The Human Mark), Ecology (BU dual). Our **Ethical Compass** questions map to those domains on every destination page.
+
 ### The Human Mark (THM)
-The four domains are grounded in a framework called The Human Mark (THM). THM classifies all failures in cooperative systems as **displacement**: when an indirect source gets treated as if it were direct, or when a direct source gets treated as if it were indirect. 
+THM defines four **alignment capacities** (Governance Management Traceability, Information Curation Variety, Inference Interaction Accountability, Intelligence Cooperation Integrity) and four **displacement risks** (GTD, IVD, IAD, IID): source-type errors when indirect and direct authority or agency are confused. That research vocabulary lives on the **About** page.
 
-In AI safety, this explains jailbreaks and deceptive alignment. In travel, it explains what goes wrong when tourists trust algorithms over locals, or when booking platforms take money out of communities. THM identifies four displacement risks, which correspond directly to our four domains:
-
-1. **Governance Management Traceability** maps to **Economy**: Can you trace where your money goes, or does it vanish into indirect systems that have no stake in the place you visit?
-2. **Inference Interaction Accountability** maps to **Employment**: Does responsibility for the effects of tourism stay with the humans who do the work, or does it get displaced onto systems that cannot be held accountable?
-3. **Information Curation Variety** maps to **Education**: Do you learn from diverse, direct sources, or do you rely on a single indirect source that compresses everything into the most popular answer?
-4. **Intelligence Cooperation Integrity** maps to **Ecology**: Do you take responsibility for your impact, or do you treat your own judgment as less important than convenience?
+### Gyroscope Protocol (visitor preparation)
+Destination pages use four **work categories** from the Gyroscope Protocol, not the longer THM principle names: **Governance Management**, **Information Curation**, **Inference Interaction**, **Intelligence Cooperation**. Site data keys: `gm`, `icu`, `iinter`, `ico`.
 
 ---
 
@@ -144,18 +143,51 @@ Privacy Policy (`/privacy`) and Cookie Policy (`/cookies`). A cookie notice appe
 You can change almost all visible content by editing the files below. No component edits are needed for routine content work.
 
 ```
-src/
-  data/
-    domains.js     The four domains: summaries, stats, principles, checklists.
-    posts.js       All guides, their content blocks, and FAQs.
-    programs.js    The curated partner list on the Resources page.
-    prompts.js     The copy-ready AI prompts on the AI Prompts page.
-  affiliate.js     Affiliate config, offers, widgets, and disclosure text.
-  site.js          Site name, titles, tagline, brand assets, and live URL.
-docs/
-  context.md       This file. The shared brief for content and strategy.
-  travelpayouts.md The monetization reference (programs, tools, playbook).
+private/products/atlas/     Source of truth for the Ethical Travel Atlas (edit here).
+  *.md                      One file per destination (slug matches filename).
+  assets/*.jpg              Hero images (slug.jpg).
+src/data/
+  destinations/index.json   Card/list summaries (generated).
+  destinations/detail/*.json Full page copy per slug (generated, code-split on the site).
+  destinations.js           Thin import helper (hand-maintained).
+  domains.js                The four domains: summaries, stats, principles, checklists.
+  posts.js                  All guides, their content blocks, and FAQs.
+  programs.js               The curated partner list on the Resources page.
+  prompts.js                The copy-ready AI prompts on the AI Prompts page.
+public/destinations/        Hero images copied at build time for the live site.
+src/affiliate.js            Affiliate config, offers, widgets, and disclosure text.
+src/site.js                 Site name, titles, tagline, brand assets, and live URL.
+private/docs/
+  context.md                This file. The shared brief for content and strategy.
+  atlas-scaling-playbook.md Locked template for writing new Atlas destinations.
+  travelpayouts.md          The monetization reference (programs, tools, tours widget maintenance).
 ```
+
+---
+
+## Build commands (site and Atlas)
+
+Routine deploy does **not** re-parse Atlas markdown or call WeGoTrip. Run the Atlas step only when you change `private/products/atlas/` or need fresh SEO files.
+
+| Command | When to use |
+| --- | --- |
+| `bun run dev` | Local development (Vite). |
+| `bun run build` | Production bundle for deploy (Vite + SPA fallback only). |
+| `bun run destinations` | After editing Atlas markdown or images: rebuild JSON, copy images to `public/destinations/`, regenerate `sitemap.xml` and `llms*.txt`. |
+| `bun run atlas` | Same as `destinations`, plus refresh WeGoTrip city list from the network (`tours-cities` then `destinations`). |
+| `bun run tours-cities` | Refresh `scripts/data/wegotrip-cities.json` only. |
+| `bun run seo` | Regenerate sitemap and LLM text files from current data (no Atlas parse). |
+| `bun run audit` | Static checks: routes, images, detail JSON present. |
+| `bun run check:routes` | HTTP smoke test of sitemap URLs (run `bun run preview` first). |
+| `bun run preview` | Serve the production build locally. |
+
+**Typical workflows**
+
+- **Deploy UI/code only:** `bun run build`
+- **Publish Atlas content changes:** `bun run destinations` then `bun run build`
+- **Refresh tour widgets after WeGoTrip updates:** `bun run atlas` then `bun run build`
+
+Generated site data is not committed to a single giant JS file. Lists use `index.json`; each destination page loads `detail/{slug}.json` on demand so the main JavaScript bundle stays small.
 
 ---
 
@@ -164,6 +196,8 @@ docs/
 - `/` Home: Hero, the four domains, how it works (3 steps), AI prompts teaser, travel search, affiliate banner, featured guides, mission strip.
 - `/domains/economy`, `/employment`, `/education`, `/ecology`
 - `/guides` (Hub) and each guide at `/guides/<slug>`
+- `/destinations` (Atlas hub) and each destination at `/destinations/<slug>`
+- `/search/flights`
 - `/prompts`
 - `/resources`
 - `/about`
@@ -179,7 +213,16 @@ docs/
 4. Include at least one `ai` block that gives the reader a specific prompt related to the article's topic, reminding them to verify the output.
 5. Add 2 or 3 FAQ pairs that answer real questions. These help search ranking.
 6. Observe the voice rules strictly: no em dashes, no en dashes, plain language, no guilt.
-7. Add the new URL to `public/sitemap.xml`.
+7. Run `bun run seo` (or `bun run destinations` if you also changed Atlas data) so `public/sitemap.xml` stays current.
+
+---
+
+## How to Add or Update an Atlas Destination
+
+1. Add or edit `private/products/atlas/<slug>.md` using `private/docs/atlas-scaling-playbook.md`.
+2. Add hero image `private/products/atlas/assets/<slug>.jpg` (use `assets/<slug>.jpg` in the markdown image line).
+3. Run `bun run destinations` (or `bun run atlas` if WeGoTrip city matching should refresh).
+4. Run `bun run build` and spot-check `/destinations/<slug>` locally.
 
 ---
 

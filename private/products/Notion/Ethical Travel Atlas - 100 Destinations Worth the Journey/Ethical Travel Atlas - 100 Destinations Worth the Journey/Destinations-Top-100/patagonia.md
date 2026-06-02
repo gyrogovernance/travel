@@ -30,7 +30,7 @@ You come for the trekking, the glaciers, the wildlife (guanacos, condors, pumas)
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify **visa rules for both Chile and Argentina** on the official portals; most Western nationals are visa-exempt for short stays.
 - **Torres del Paine National Park** entry requires **online reservation** through the official **Aspatagonia** (or successor) portal; the **refugio bookings on the W trek** must be made through Vertice and Las Torres (the two refugio operators) months in advance; the O Circuit is even more limited.
@@ -38,7 +38,7 @@ You come for the trekking, the glaciers, the wildlife (guanacos, condors, pumas)
 - **Perito Moreno Glacier** boardwalks, minitrekking, and big-ice trekking are operated by Hielo y Aventura and similar; book on official operator portals.
 - For **flights or buses**, **LATAM, Sky, JetSMART** and others serve Punta Arenas (PUQ) for Chilean side; **Aerolíneas Argentinas** serves El Calafate (FTE) and El Chaltén (via FTE).
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **CONAF (Chile)** and **Administración de Parques Nacionales (Argentina)** for official park information.
 - **Patagonia.tips** and similar trekking-community resources for current trail conditions.
@@ -46,7 +46,7 @@ You come for the trekking, the glaciers, the wildlife (guanacos, condors, pumas)
 - A registered trekking guide for any technical or multi-day route.
 - **Wikivoyage Patagonia** for cross-border logistics.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Chile side, Argentina side, or both.** Both sides reward visits; both have signature treks; the cross-border logistics add a day. Most first-time visitors choose one.
 - **You decide on the W trek vs the O Circuit vs day hikes.** The W is 4 to 5 days, refugio-supported, books months ahead. The O is 7 to 10 days, harder, fewer refugios. Day hikes from Hotel Las Torres area give the iconic Towers view without a multi-day commitment.
@@ -54,7 +54,7 @@ You come for the trekking, the glaciers, the wildlife (guanacos, condors, pumas)
 - **You decide on El Chaltén.** The Argentinian trekking village beneath Fitz Roy and Cerro Torre is one of the world's great walking towns; day hikes (Laguna de los Tres, Laguna Torre, Loma del Pliegue Tumbado) are all accessible.
 - **You decide on the time of year.** Summer (December to February) is busy and most reliable; shoulder (October-November, March) is quieter and gambier with weather; winter mostly closes the major treks.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Patagonia weather is the boss. Wind 100 km/h is normal; storms can move in within an hour; the Torres can be invisible all day and dramatically clear by sunset. Refugio bookings are non-refundable; flights are weather-affected.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of Chilean (Torres del Paine) and Argentinian (Los Glaciares) Patagonia given my time, and one I should consider skipping (the full O Circuit if I lack experience, an unguided shoulder-season multi-day, a Perito Moreno boardwalk-only if my time and budget allow minitrekking). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Chilean and Argentinian visa rules on official portals, CONAF official Torres del Paine reservations, Vertice and Las Torres refugio bookings for the W and O, APN for Los Glaciares, Hielo y Aventura for Perito Moreno minitrekking, and current Argentinean currency status.
-> - **Information Curation Variety.** Suggest at least four different source types: CONAF, APN, a Patagonia book (Chatwin or Tompkins biography), and a registered trekking guide or operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Chile-side vs Argentina-side vs both, W vs O vs day hikes, Perito Moreno depth, El Chaltén commitment, season).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Torres viewpoint day storm, refugio drop, a flight to El Calafate delay, an Argentine paro affecting transport).
+> - **Governance Management.** What assumptions should I check before I book? Include Chilean and Argentinian visa rules on official portals, CONAF official Torres del Paine reservations, Vertice and Las Torres refugio bookings for the W and O, APN for Los Glaciares, Hielo y Aventura for Perito Moreno minitrekking, and current Argentinean currency status.
+> - **Information Curation.** Suggest at least four different source types: CONAF, APN, a Patagonia book (Chatwin or Tompkins biography), and a registered trekking guide or operator.
+> - **Inference Interaction.** List the decisions I personally need to make (Chile-side vs Argentina-side vs both, W vs O vs day hikes, Perito Moreno depth, El Chaltén commitment, season).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Torres viewpoint day storm, refugio drop, a flight to El Calafate delay, an Argentine paro affecting transport).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, named trails, and refugio names where booked. Include at least one buffer day for weather. Mark each operator as confidently CONAF/APN-registered, or flag for me to verify.
 >

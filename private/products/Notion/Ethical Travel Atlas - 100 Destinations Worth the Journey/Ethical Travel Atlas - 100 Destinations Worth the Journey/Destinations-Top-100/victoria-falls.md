@@ -30,7 +30,7 @@ You come for the Falls, the surrounding adrenaline and wildlife activities, and 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - The **KAZA UniVisa** (Zambia + Zimbabwe + day trips to Botswana) is available to many nationalities; verify on the official Zambia or Zimbabwe immigration portals. Separate visas are also possible.
 - **National park entry fees** for both sides; verify current prices at the gate or on the official Zambia Tourism Agency and Zimbabwe Parks portals.
@@ -38,7 +38,7 @@ You come for the Falls, the surrounding adrenaline and wildlife activities, and 
 - **Devil's Pool** access (Zambia side, from Livingstone Island) is dry-season only (typically September-November); book ahead through Tongabezi or Royal Livingstone.
 - For **white-water rafting, bungee, helicopter flight**, choose certified operators (Wild Horizons, Shockwave, Safari Par Excellence); verify safety credentials.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Lusaka Times** (Zambia) and **The Herald** (Zimbabwe) for current local news.
 - **Zambia Tourism Agency** and **Zimbabwe Tourism Authority** official portals.
@@ -46,7 +46,7 @@ You come for the Falls, the surrounding adrenaline and wildlife activities, and 
 - A locally owned Livingstone or Victoria Falls town operator (Bushtracks, Wild Horizons, Tongabezi Lodge programmes).
 - **Wikivoyage Victoria Falls** for cross-border logistics.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on which side, or both.** Both sides have permanent borders and are easy to cross with the KAZA UniVisa. A two-side visit is the ideal; if forced to choose, Zimbabwe's broader panoramic views are usually the recommendation.
 - **You decide on the season.** February-April peak flow gives maximum spray but obscures some views; September-November lower flow allows Devil's Pool and clearer photos but less drama; dry season has fewer activities cancelled by weather.
@@ -54,7 +54,7 @@ You come for the Falls, the surrounding adrenaline and wildlife activities, and 
 - **You decide on Chobe.** A day-trip to Chobe National Park (Botswana) gives serious elephant viewing in addition to the Falls.
 - **You decide on the visit time.** Sunrise on the Zimbabwe side is calm; midday with spray rainbows is the photographer's choice.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Weather varies dramatically by season. Peak flow (February-May) the spray is intense and visibility may be limited; low flow (September-December) the river thins to streams in places. Dry season has cool mornings and warm days; rainy season is hot and humid.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of Zambian and Zimbabwean sides, helicopter, Devil's Pool, rafting, and Chobe given my season and time. Identify one I should consider skipping (Devil's Pool in peak flow season, one-side-only if I have time for both, an uncertified rafting operator). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the KAZA UniVisa, yellow-fever, park-entry fees on both sides, Devil's Pool season, and certified activity operators.
-> - **Information Curation Variety.** Suggest at least four different source types: Zambia Tourism Agency, Zimbabwe Tourism Authority, an honest travel book or recent journalism on the Falls and surrounding region, and a Livingstone- or Vic Falls-town-based locally owned operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (which side or both, season trade-off, activities, Chobe add-on, helicopter ethics).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a helicopter weather cancellation, a peak-flow obscured view, a Devil's Pool closure for season or safety, a border-crossing delay).
+> - **Governance Management.** What assumptions should I check before I book? Include the KAZA UniVisa, yellow-fever, park-entry fees on both sides, Devil's Pool season, and certified activity operators.
+> - **Information Curation.** Suggest at least four different source types: Zambia Tourism Agency, Zimbabwe Tourism Authority, an honest travel book or recent journalism on the Falls and surrounding region, and a Livingstone- or Vic Falls-town-based locally owned operator.
+> - **Inference Interaction.** List the decisions I personally need to make (which side or both, season trade-off, activities, Chobe add-on, helicopter ethics).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a helicopter weather cancellation, a peak-flow obscured view, a Devil's Pool closure for season or safety, a border-crossing delay).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named activities. Include both sides and at least one major activity. Mark each operator as confidently certified, or flag for me to verify.
 >

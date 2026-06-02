@@ -30,7 +30,7 @@ You come for the port wine, the food (tripe, francesinha, bacalhau, seafood), th
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Port wine lodges** (Sandeman, Taylor's, Graham's, Croft, Cálem) sell timed tour-and-tasting tickets on official portals; the upper-tier tours book ahead.
@@ -38,7 +38,7 @@ You come for the port wine, the food (tripe, francesinha, bacalhau, seafood), th
 - **Douro Valley day trips** (by train from São Bento to Pinhão, or by bus/car/boat tour) verify operator on official Visit Porto or TripAdvisor.
 - **Short-term rental** in Porto is regulated; verify the AL (Alojamento Local) registration on any listing.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Público** and **The Portugal News** (English) for current news.
 - **Visit Porto** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the port wine, the food (tripe, francesinha, bacalhau, seafood), th
 - A locally led Porto walking tour or a Douro Valley wine tour with a wine-specialist guide.
 - **Wikivoyage Porto** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the lodge tour.** A single lodge tour is enough for most visitors; the upper-tier port-wine experiences with vintage tastings cost more and reward serious enthusiasts.
 - **You decide on the Douro Valley.** A day-trip works (train to Pinhão is the classic) but an overnight in the valley (Quinta da Pacheca, Six Senses Douro Valley) is the deeper experience.
@@ -54,7 +54,7 @@ You come for the port wine, the food (tripe, francesinha, bacalhau, seafood), th
 - **You decide on Livraria Lello.** Worth it for the architecture but the paid-timed-entry model makes it touristy; arrive at opening or accept the queue.
 - **You decide on Gaia vs Porto base.** Vila Nova de Gaia (across the river, the south bank) has the lodges and a panoramic view of Porto; Porto proper has the medieval centre and more food.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Porto weather is Atlantic; mild year-round but wet (December to March is the rainiest); summer (June to September) is dry and warm.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Porto experiences I should not miss given my interests, and one I should consider skipping (a Ribeira tourist menu when Bolhão is steps better, a one-day Douro when an overnight is steps better, a Lello queue at midday). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official lodge ticketing for the tours, Livraria Lello entry rules, AL registration for any rental, and Douro train booking on CP.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Portuguese source, one Portuguese news outlet, one Portuguese author, and one Porto-based wine or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (which lodge or lodges, Douro day vs overnight, river-cruise length, Livraria Lello commitment, Gaia vs Porto base).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rainy day, a sold-out lodge slot, a Douro train cancellation, a São João week overlap).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official lodge ticketing for the tours, Livraria Lello entry rules, AL registration for any rental, and Douro train booking on CP.
+> - **Information Curation.** Suggest at least four different source types: one official Portuguese source, one Portuguese news outlet, one Portuguese author, and one Porto-based wine or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (which lodge or lodges, Douro day vs overnight, river-cruise length, Livraria Lello commitment, Gaia vs Porto base).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rainy day, a sold-out lodge slot, a Douro train cancellation, a São João week overlap).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one lodge tour and one Cedofeita or Bonfim meal. Mark each business as confidently locally owned, or flag for me to verify.
 >

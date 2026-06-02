@@ -30,7 +30,7 @@ You come for the mountains, the food (the most diverse Asian-Canadian food scene
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **eTA (Canadian Electronic Travel Authorization)** if visa-exempt, or a visa otherwise; verify on the official Government of Canada Immigration portal.
 - **TransLink** (SkyTrain, bus, SeaBus, West Coast Express) uses **Compass card** or contactless on most lines.
@@ -38,7 +38,7 @@ You come for the mountains, the food (the most diverse Asian-Canadian food scene
 - **Granville Island** is open year-round; the public market is the centrepiece.
 - **Whistler day-trips** by the Sea-to-Sky shuttle, Greyhound (or successor), or rental car.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Vancouver Sun** and **CBC Vancouver** for serious local news.
 - **Destination Vancouver** (the official tourism site) for events.
@@ -46,7 +46,7 @@ You come for the mountains, the food (the most diverse Asian-Canadian food scene
 - An Indigenous-led tour (Talaysay Tours, Take a Hike Indigenous Cultural Tours, or the MOA at UBC's Indigenous-led programming).
 - **Wikivoyage Vancouver** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Stanley Park approach.** Walking the seawall (10 km loop) is the right pace; renting a bike is faster and covers more.
 - **You decide on Granville Island timing.** The public market is best at lunch; the wider island has artists, theatre, and microbreweries.
@@ -54,7 +54,7 @@ You come for the mountains, the food (the most diverse Asian-Canadian food scene
 - **You decide on Indigenous engagement.** A Talaysay or Take a Hike tour gives a different reading of the same harbour and forest.
 - **You decide on day-trips.** Whistler (alpine), Victoria (ferry to Vancouver Island, BC capital), Tofino (longer, Pacific Rim National Park).
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Vancouver weather is famously wet (October to March), mild (rarely freezing), and dramatic in the summer (June to September is the dry beautiful window). Wildfire smoke from BC's interior occasionally affects air quality in summer.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Vancouver experiences I should not miss given my interests, and one I should consider skipping (a downtown-only itinerary, Capilano if Lynn Canyon is steps cheaper and similar, a Whistler day-trip in poor weather). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Canadian eTA, TransLink Compass/contactless, official MOA and Capilano portals, ferry to Victoria, and wildfire-smoke air quality.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Vancouver source, one local news outlet, one BC author, and one Indigenous-led tour (Talaysay or Take a Hike).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Stanley Park walk vs bike, Capilano vs Lynn, MOA commitment, Indigenous engagement, day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rain, wildfire smoke, a Whistler weather day, a ferry cancellation).
+> - **Governance Management.** What assumptions should I check before I book? Include the Canadian eTA, TransLink Compass/contactless, official MOA and Capilano portals, ferry to Victoria, and wildfire-smoke air quality.
+> - **Information Curation.** Suggest at least four different source types: one official Vancouver source, one local news outlet, one BC author, and one Indigenous-led tour (Talaysay or Take a Hike).
+> - **Inference Interaction.** List the decisions I personally need to make (Stanley Park walk vs bike, Capilano vs Lynn, MOA commitment, Indigenous engagement, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rain, wildfire smoke, a Whistler weather day, a ferry cancellation).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Indigenous-led experience and one ethnic-neighbourhood dinner. Mark each business as confidently locally owned, or flag for me to verify.
 >

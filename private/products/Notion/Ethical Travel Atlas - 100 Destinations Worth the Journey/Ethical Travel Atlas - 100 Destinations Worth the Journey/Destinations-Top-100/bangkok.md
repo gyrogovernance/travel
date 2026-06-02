@@ -30,7 +30,7 @@ You come for the temples, the food, the rivers and canals, and a city that rewar
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Confirm your **visa exemption or visa-on-arrival** eligibility on the official Thai Ministry of Foreign Affairs portal; rules vary by nationality.
 - The **Grand Palace** has a strict dress code (no shorts, no exposed shoulders or knees, no flip-flops). Verify on the official palace portal. Cover-ups can be rented or bought; better to bring your own.
@@ -38,7 +38,7 @@ You come for the temples, the food, the rivers and canals, and a city that rewar
 - For elephant interactions, only support **walk-with-elephant sanctuaries** that do not allow riding or shows; verify the operator's policies in writing.
 - Verify any **Thai massage** establishment is licensed (Wat Pho's traditional medicine school is the gold-standard reference).
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Bangkok Post** and **The Nation Thailand** (English-language Thai newspapers) for current events and traffic-major-event warnings.
 - The official **Tourism Authority of Thailand (TAT)** site for festivals, transport updates, and official events.
@@ -46,7 +46,7 @@ You come for the temples, the food, the rivers and canals, and a city that rewar
 - A Bangkok-resident expat-and-local podcast or YouTube channel for ground-truth on food, neighbourhoods, and current scam patterns.
 - **Wikivoyage Bangkok** for district-by-district orientation; the city is huge.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your neighbourhood.** Sukhumvit, Silom, the Old City (Rattanakosin), Thonburi, and Chinatown are wildly different Bangkoks; choose one to base in deliberately.
 - **You decide on tuk-tuks vs taxis.** Tuk-tuks are theatre, taxis with the meter are transport. Both are fine; "free tuk-tuk tours" are always scams.
@@ -54,7 +54,7 @@ You come for the temples, the food, the rivers and canals, and a city that rewar
 - **You decide your dress code commitment.** Temple entry rules apply across the country, not just at the Grand Palace.
 - **You decide your political conversation comfort.** Thai politics, the monarchy, and the military are sensitive subjects; lèse-majesté is a real law with real prison sentences.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Bangkok is hot and the rainy season floods streets. The traffic is legendary. The Skytrain and MRT solve much of it but not all. Major Buddhist holidays close temples, royal events close roads, and demonstrations occasionally close central areas without notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Bangkok experiences I should not miss given my interests, and one I should consider skipping (the over-marketed elephant shows, the Patpong "ping-pong" tours, the dubious "floating market" day-trips). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the visa rules on the Thai Ministry of Foreign Affairs portal, the Grand Palace dress code, common scams at major sites, the policy of any animal-encounter operator, and air-quality conditions in my dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Tourism Authority of Thailand source, one Thai English-language newspaper, one Thai author, and one Bangkok-resident food or neighbourhood guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, taxi vs tuk-tuk, engagement with the sex industry, dress code commitment, political conversation comfort).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rainy-season downpour, traffic gridlock, a royal procession closing roads, an air-quality red day).
+> - **Governance Management.** What assumptions should I check before I book? Include the visa rules on the Thai Ministry of Foreign Affairs portal, the Grand Palace dress code, common scams at major sites, the policy of any animal-encounter operator, and air-quality conditions in my dates.
+> - **Information Curation.** Suggest at least four different source types: one official Tourism Authority of Thailand source, one Thai English-language newspaper, one Thai author, and one Bangkok-resident food or neighbourhood guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, taxi vs tuk-tuk, engagement with the sex industry, dress code commitment, political conversation comfort).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rainy-season downpour, traffic gridlock, a royal procession closing roads, an air-quality red day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, BTS/MRT routes, and named neighbourhoods. Include at least one early-morning temple visit and one evening on the river or in Chinatown. Mark each business as confidently locally owned, or flag it for me to verify.
 >

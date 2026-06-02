@@ -30,7 +30,7 @@ You come for the Hagia Sophia and the Bosphorus, for the food (one of the world'
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Turkish e-Visa portal.
 - The **Hagia Sophia** changed status from museum to mosque in recent years; access for non-Muslim visitors is generally welcome outside prayer times. Verify current visiting hours and dress code on the official portal.
@@ -38,7 +38,7 @@ You come for the Hagia Sophia and the Bosphorus, for the food (one of the world'
 - **Topkapi Palace, Basilica Cistern, Dolmabahçe Palace** sell timed tickets on official portals.
 - For **Bosphorus cruises**, the public ferry (Şehir Hatları) is cheaper, more local, and better than most private tourist cruises.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Hürriyet Daily News** and **Daily Sabah** (English-language Turkish papers, different political angles).
 - The official **Istanbul Tourism** portal for events and openings.
@@ -46,7 +46,7 @@ You come for the Hagia Sophia and the Bosphorus, for the food (one of the world'
 - A locally led Istanbul walking or food tour (Istanbul Eats, Culinary Backstreets).
 - **Wikivoyage Istanbul** for neighbourhood orientation and ferry routes.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide where you sleep.** Sultanahmet is convenient and tourist-saturated; Beyoğlu/Galata is bohemian and lively; Kadıköy (Asian side) is local and rapidly gentrifying. Each gives a different city.
 - **You decide on Hagia Sophia.** Visit outside prayer times; dress modestly; be respectful of worshippers. The Byzantine mosaics on the upper gallery require some attention to spot.
@@ -54,7 +54,7 @@ You come for the Hagia Sophia and the Bosphorus, for the food (one of the world'
 - **You decide on the carpet shop conversation.** Genuine carpet shops welcome browsing; aggressive sellers are common around the Grand Bazaar. Polite firm "no" works; do not enter if you do not want the experience.
 - **You decide on the Asian side.** A Kadıköy afternoon and Moda walk is the most local Istanbul experience most visitors skip.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Istanbul weather is four-season; summers hot and humid, winters cold and damp, occasional snow. Friday prayers reshape mosque visits. Major Muslim holidays (Ramadan, Eid) and Turkish secular holidays (Republic Day, Victory Day) shift the city's rhythm. Demonstrations occasionally close central streets in Taksim and Beyoğlu.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Istanbul experiences I should not miss given my interests, and one I should consider skipping (a private Bosphorus cruise when the public ferry does it better, a tourist-trap carpet shop, the Galata Tower midday queue). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Turkish e-Visa portal, the Hagia Sophia and Blue Mosque visiting and dress rules, official Topkapi and Basilica Cistern ticketing, Istanbulkart setup, and current Turkish lira pricing.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Turkish source, one English-language Turkish news outlet, one Turkish author, and one Istanbul-based food or neighbourhood guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (where I sleep, Hagia Sophia and mosque etiquette, ferry vs tourist cruise, Grand Bazaar approach, Asian side commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Friday prayer mosque closures, a sudden weather flip, a Taksim demonstration, ferry weather cancellation).
+> - **Governance Management.** What assumptions should I check before I book? Include the Turkish e-Visa portal, the Hagia Sophia and Blue Mosque visiting and dress rules, official Topkapi and Basilica Cistern ticketing, Istanbulkart setup, and current Turkish lira pricing.
+> - **Information Curation.** Suggest at least four different source types: one official Turkish source, one English-language Turkish news outlet, one Turkish author, and one Istanbul-based food or neighbourhood guide.
+> - **Inference Interaction.** List the decisions I personally need to make (where I sleep, Hagia Sophia and mosque etiquette, ferry vs tourist cruise, Grand Bazaar approach, Asian side commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Friday prayer mosque closures, a sudden weather flip, a Taksim demonstration, ferry weather cancellation).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Asian-side afternoon and one Bosphorus ferry. Mark each business as confidently locally owned, or flag it for me to verify.
 >

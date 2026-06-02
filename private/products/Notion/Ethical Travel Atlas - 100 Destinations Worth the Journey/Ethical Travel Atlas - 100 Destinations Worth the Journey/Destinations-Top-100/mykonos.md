@@ -30,7 +30,7 @@ You come for the Chora at dusk, Delos at dawn, a beach you actually like, and on
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Delos** (the sacred ancient island) is reached by boat from Mykonos Old Port; tickets sold at the dock; verify the boat schedule (no boats Mondays) on the official portal.
@@ -38,7 +38,7 @@ You come for the Chora at dusk, Delos at dawn, a beach you actually like, and on
 - **High-season transport** can be overwhelmed; book ferry tickets (from Athens or Piraeus) on the official Aegean Ferries or Hellenic Seaways portals weeks ahead.
 - For **short-term rentals**, verify any listing has a Greek property registration number; Mykonos has tightened rules.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Kathimerini English edition** for Greek and Mykonos news.
 - The official **Greek Tourism Organization** site for events and ferry status.
@@ -46,7 +46,7 @@ You come for the Chora at dusk, Delos at dawn, a beach you actually like, and on
 - A Mykonos resident-led walking tour of the Chora at sunset (limited but available).
 - **Wikivoyage Mykonos** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your beach.** Paradise and Super Paradise are international party beaches; Psarou is luxury beach-club; Agios Sostis and Fokos are quiet local; Elia, Platis Gialos, Ornos in between.
 - **You decide on Delos.** Skipping Delos is the single most common Mykonos mistake. A morning at the sacred island puts everything else in context.
@@ -54,7 +54,7 @@ You come for the Chora at dusk, Delos at dawn, a beach you actually like, and on
 - **You decide on the food scene.** A €15 souvlaki vs a €300 beach-club lunch are both Mykonos; choose what you want.
 - **You decide on Chora timing.** Day-trippers from cruise ships flood Chora from 10 am to 5 pm; before 9 am and after 7 pm are dramatically calmer.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Mykonos summer is hot, dry, and windy; the *meltemi* north wind shapes the season (June to September). High-season ferries occasionally cancel for swell. The island shuts down significantly outside the May to October window.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Mykonos experiences I should not miss given my interests, and one I should consider skipping (a midday Chora visit when cruise ships are in, the most expensive beach club if my budget is moderate, scooter rental without prior experience). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen rules, the Delos boat schedule (Mondays closed), Cycladic ferry portals (Aegean Ferries, Hellenic Seaways), short-term rental registration, and beach-club minimum-spend rules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Greek source, one Kathimerini or Mykonos news outlet, one book on the Cyclades or Delos, and one Mykonos resident-led walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (beach choice, Delos commitment, season, food-scene level, Chora timing).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (meltemi wind cancelling Delos, a cruise-ship Chora flood, a heatwave, a sold-out high-season ferry).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen rules, the Delos boat schedule (Mondays closed), Cycladic ferry portals (Aegean Ferries, Hellenic Seaways), short-term rental registration, and beach-club minimum-spend rules.
+> - **Information Curation.** Suggest at least four different source types: one official Greek source, one Kathimerini or Mykonos news outlet, one book on the Cyclades or Delos, and one Mykonos resident-led walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (beach choice, Delos commitment, season, food-scene level, Chora timing).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (meltemi wind cancelling Delos, a cruise-ship Chora flood, a heatwave, a sold-out high-season ferry).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named beaches and villages. Include a Delos morning and a Chora evening. Mark each business as confidently locally owned, or flag for me to verify.
 >

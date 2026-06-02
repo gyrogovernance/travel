@@ -1,0 +1,52 @@
+{
+  "slug": "cusco",
+  "name": "Cusco",
+  "country": "Peru",
+  "region": "Americas",
+  "image": "/destinations/cusco.jpg",
+  "teaser": "Cusco (Qosqo in Quechua) sits at 3,400 metres in the southern Peruvian Andes, the historic capital of the Inca Empire and the gateway to Machu Picchu and the Sacred Valley. A working Quechua-and-Spanish city of around 400,000, layered with Inca walls, Spanish colonial churches, and contemporary Andean life.",
+  "intro": "Cusco (Qosqo in Quechua) sits at 3,400 metres in the southern Peruvian Andes, the historic capital of the Inca Empire and the gateway to Machu Picchu and the Sacred Valley. A working Quechua-and-Spanish city of around 400,000, layered with Inca walls, Spanish colonial churches, and contemporary Andean life.",
+  "whyVisit": "Cusco is the Inca capital made visible. Sacsayhuamán's polygonal walls above the city, the Korikancha's gold-stripped Inca temple now under a Dominican church, and the surviving Inca masonry under Spanish-built houses are unique on Earth. The Sacred Valley (Pisac, Ollantaytambo, Chinchero) and Machu Picchu are all reachable from here.\n\nThe city is also a living Quechua place. Quechua is widely spoken, the markets sell Andean produce that has no English name, and the cofradías (religious brotherhoods) organise some of the most beautiful Catholic-Andean syncretic festivals in the Americas.",
+  "ethicalCompass": {
+    "economy": "Eat at Mercado de San Pedro lunches, picanterías on the city edges, and family restaurants in San Blas rather than the Plaza de Armas tourist set. Buy textiles from cooperatives that pay weavers directly (the Centro de Textiles Tradicionales del Cusco is the gold standard) rather than mass-market replica shops.",
+    "employment": "Hire MINCETUR-registered guides for Machu Picchu and the Sacred Valley. Use registered taxis or trusted apps; in Cusco old town walking covers most days. Tip huaqueros (porters) on Inca Trail treks fairly; their pay is regulated but bonuses matter.",
+    "education": "Learn ten Quechua words before you arrive (allinllan, sulpayki, huk through qanchis). Read about the Inca Empire from non-conquistador sources; Gordon McEwan's The Incas is a sober start. Visit the Inka Museum and the Pre-Columbian Art Museum.",
+    "ecology": "Altitude affects everything; pace your first two days, drink water and coca tea, skip alcohol. Machu Picchu's circuit and capacity rules are strict; respect them. Choose Inca Trail or Salkantay trek operators that follow porter welfare regulations and pack-out rules."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most travellers are visa-exempt for Peru; verify on the official Migraciones Peru portal.",
+      "Machu Picchu tickets are capacity-controlled and sold on the official Peruvian Ministry of Culture portal (tuboleto.cultura.pe). Multiple circuit options exist; the rules have evolved repeatedly. Verify current circuits and capacity on the official portal before booking.",
+      "The Inca Trail is permit-controlled with a strict daily quota; permits sell out months ahead. Book through a licensed operator registered with SERNANP; the official list is on the SERNANP portal.",
+      "The Boleto Turístico del Cusco (BTC) bundles entry to Sacsayhuamán, Q'enqo, Pisac ruins, Ollantaytambo, and others; verify current price and validity on the official COSITUC portal.",
+      "Train tickets to Aguas Calientes are run by PeruRail and Inca Rail; book on official portals weeks ahead in peak season."
+    ],
+    "icu": [
+      "El Comercio and La República (Peruvian dailies, Spanish) for national news; Andina for English.",
+      "The official Ministry of Culture portal for Machu Picchu rules, and SERNANP for Inca Trail and protected-areas rules.",
+      "A Peruvian author: Mario Vargas Llosa for breadth; José María Arguedas for Andean depth; Daniel Alarcón for contemporary.",
+      "A Quechua-led or Quechua-guided experience: weaving workshops in Chinchero, community tourism in the Lares Valley, or the Centro de Textiles Tradicionales.",
+      "Wikivoyage Cusco and Wikivoyage Machu Picchu for orientation."
+    ],
+    "iinter": [
+      "You decide your altitude pacing. Two easy days in Cusco before serious hiking is the minimum. The Sacred Valley (2,800 m) is gentler than the city; start lower if possible.",
+      "You decide on Inca Trail vs Salkantay vs train. The classic Inca Trail is permit-restricted, four days, deeply meaningful, and books out months ahead. Salkantay is alternative, also four to five days, no permit cap. The train-only option to Aguas Calientes is for those without trek time.",
+      "You decide on Machu Picchu circuit. The site has multiple official circuits; the rules change. Plan two visits if you can (a half-day for the classic shot, another for a circuit you missed).",
+      "You decide your textile spending. A cooperative-bought weaving costs more, lasts forever, and pays weavers directly. A mass-market replica is the opposite.",
+      "You decide on coca. Coca leaves and tea are legal and helpful for altitude; coca products are not legal to bring home in most countries."
+    ],
+    "ico": "The Andes have their own weather. Dry season (May to September) is the practical visitor window; wet season (December to March) closes the Inca Trail in February for restoration. Strikes (paros) occasionally close roads or rail lines on short notice.\n\nBring a soft plan. If altitude hits you hard, drop a day. If a strike closes a Sacred Valley road, your Cusco days still work. If your Machu Picchu day is wet, the site is open but circuits change; the cloud forest at Aguas Calientes is also worth a half-day."
+  },
+  "anchorSpots": [
+    "Machu Picchu. Choose your circuit deliberately, book on the official portal, arrive at opening if your train allows.",
+    "Sacred Valley loop (Pisac, Ollantaytambo, Chinchero). Markets, ruins, and salt pans across one or two days. Stay an overnight in Ollantaytambo before the train to Machu Picchu.",
+    "Sacsayhuamán and the ruins above Cusco (Q'enqo, Puca Pucara, Tambomachay). Walk or take the local bus; allow a half day; covered by the BTC.",
+    "Plaza de Armas and the Korikancha. Walk the plaza in the evening, visit the cathedral and the Korikancha (Inca temple under Santo Domingo church). Add the Pre-Columbian Art Museum on the way.",
+    "A Quechua weaving cooperative in Chinchero or with the Centro de Textiles Tradicionales del Cusco. Half a day or a full day; you watch the dyeing and weaving process and buy fairly."
+  ],
+  "recommendedLength": "Five to seven days in the Cusco region (city, Sacred Valley, Machu Picchu). Add days for a trek (Inca Trail 4 days, Salkantay 4 to 5 days, Choquequirao 4 to 5 days) or to extend to Lake Titicaca or the Amazon.",
+  "transportHint": "Fly into Cusco Alejandro Velasco Astete Airport (CUZ); altitude hits immediately on arrival. Within Cusco, walk and take Uber or Cabify; the old centre is small. The PeruRail or Inca Rail train runs from Ollantaytambo (and seasonally from Poroy/Cusco) to Aguas Calientes. Buses or colectivos serve the Sacred Valley.",
+  "prompt": "Please help me plan an ethical visit to Cusco and Machu Picchu, Peru for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Inca history, hiking the Inca Trail, Quechua textiles, Andean food, photography]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cusco-region experiences I should not miss given my interests, and one I should consider skipping (a Plaza de Armas tourist menu when San Blas or San Pedro is steps away, an unlicensed trek operator, the same Machu Picchu circuit twice). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include Migraciones Peru visa rules, the official Machu Picchu ticketing portal (tuboleto.cultura.pe) and current circuit rules, SERNANP-registered Inca Trail operators, the Boleto Turístico del Cusco, and PeruRail or Inca Rail bookings.\n- **Information Curation.** Suggest at least four different source types: the Peruvian Ministry of Culture, SERNANP, a Peruvian author, and a Quechua-led weaving cooperative or community tourism operator.\n- **Inference Interaction.** List the decisions I personally need to make (altitude pacing, Inca Trail vs Salkantay vs train, Machu Picchu circuit choice, textile cooperative vs replica, coca use).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (altitude sickness, a road strike (paro), a wet Machu Picchu day, sold-out Inca Trail permits).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, altitude considerations, and named places. Include at least one Sacred Valley overnight before Machu Picchu, and one Quechua-led textile or community experience. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: the Peruvian Ministry of Culture Machu Picchu portal, SERNANP, PeruRail and Inca Rail, and Migraciones Peru.\n2. Real people: a MINCETUR-licensed guide, a Quechua weaver, or hotel staff who live in Cusco now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 3941584,
+  "order": 67
+}

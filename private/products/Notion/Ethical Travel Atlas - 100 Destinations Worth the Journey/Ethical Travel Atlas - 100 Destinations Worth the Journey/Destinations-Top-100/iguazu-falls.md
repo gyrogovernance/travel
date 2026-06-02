@@ -30,7 +30,7 @@ You come because Iguazu makes Niagara look like a leak. And you give it two full
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Visa rules differ between Argentina and Brazil; **verify both** on the official Migraciones Argentina and Polícia Federal Brasil portals for your nationality.
 - **Argentine side (Parque Nacional Iguazú):** entry tickets are sold on the official APN (Administración de Parques Nacionales) portal; same-day re-entry is half-price the next day; the Devil's Throat walkway is the centrepiece.
@@ -38,7 +38,7 @@ You come because Iguazu makes Niagara look like a leak. And you give it two full
 - **Crossing the border** is straightforward by taxi or local bus; both countries stamp passports. Verify reciprocity-fee rules if any.
 - For **helicopter or motorboat (Macuco Safari)** experiences, verify the operator's permits and current operations on park portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - The official **Parques Nacionales Argentina** and **ICMBio (Brazil)** sites for park rules.
 - **Buenos Aires Times** and **The Brazilian Report** for regional context if needed.
@@ -46,7 +46,7 @@ You come because Iguazu makes Niagara look like a leak. And you give it two full
 - A local guide based in Puerto Iguazú or Foz do Iguaçu who has worked the parks; recommended through your hotel.
 - **Wikivoyage Iguazu Falls** for cross-border logistics.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on both sides.** Visiting only one is the most common regret. Plan two days, one per side; if your time is hard-limited, the Argentine side is the deeper experience.
 - **You decide on the Devil's Throat first or last.** Arriving at opening means a less-crowded centrepiece; arriving later means warmer light but bigger crowds.
@@ -54,7 +54,7 @@ You come because Iguazu makes Niagara look like a leak. And you give it two full
 - **You decide on the helicopter.** Available only on the Brazilian side; spectacular for photos; arguably noise pollution in a national park. Your call.
 - **You decide your base.** Puerto Iguazú is smaller and Spanish-speaking; Foz do Iguaçu is larger and Portuguese-speaking; both have airports.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Water flow at Iguazu varies enormously. Wet season (November to March) brings maximum flow and occasionally closed walkways from flooding. Dry season (April to October) gives clearer photos but less drama. Subtropical heat and humidity are real year-round.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of Argentine-side, Brazilian-side, Macuco Safari, helicopter, and Itaipu given my interests and time, and one I should consider skipping (helicopter as noise pollution, only one country side, an in-park luxury hotel beyond my budget). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include visa rules for both Argentina and Brazil, official park portals for ticketing on each side, same-day re-entry rules on the Argentine side, and Macuco Safari operator permits.
-> - **Information Curation Variety.** Suggest at least four different source types: Parques Nacionales Argentina, ICMBio Brazil, a book on the Atlantic Forest or Guaraní culture, and a local Puerto Iguazú or Foz do Iguaçu guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (both sides commitment, Devil's Throat timing, Macuco Safari, helicopter, base town).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Devil's Throat walkway closed by high water, thunderstorm grounding helicopter, a border-crossing delay, Argentine currency change).
+> - **Governance Management.** What assumptions should I check before I book? Include visa rules for both Argentina and Brazil, official park portals for ticketing on each side, same-day re-entry rules on the Argentine side, and Macuco Safari operator permits.
+> - **Information Curation.** Suggest at least four different source types: Parques Nacionales Argentina, ICMBio Brazil, a book on the Atlantic Forest or Guaraní culture, and a local Puerto Iguazú or Foz do Iguaçu guide.
+> - **Inference Interaction.** List the decisions I personally need to make (both sides commitment, Devil's Throat timing, Macuco Safari, helicopter, base town).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Devil's Throat walkway closed by high water, thunderstorm grounding helicopter, a border-crossing delay, Argentine currency change).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, named walkways, and park-entrance points. Include one full Argentine day and one full Brazilian day. Mark each operator as confidently park-permitted, or flag for me to verify.
 >

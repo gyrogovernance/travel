@@ -30,7 +30,7 @@ You come for the modern history, the music and food, and as the gateway to the r
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many visitors are **visa-exempt** for South Africa; verify on the official Department of Home Affairs portal.
 - **Soweto tours:** choose resident-led tours rather than bus-window drive-throughs; cooperative operators (Vhupo Tours, Soweto Backpackers) are the right reference.
@@ -38,7 +38,7 @@ You come for the modern history, the music and food, and as the gateway to the r
 - **Cradle of Humankind (Sterkfontein Caves and Maropeng)** sells tickets on official portals.
 - The **Gautrain** connects OR Tambo Airport to Sandton and Pretoria; Gauteng's safest public-transport option for visitors.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Daily Maverick** and **News24** for serious South African journalism.
 - The official **Joburg Tourism** site for events and current advisories.
@@ -46,7 +46,7 @@ You come for the modern history, the music and food, and as the gateway to the r
 - A resident-led Soweto tour operator (Vhupo Tours, Lebo's Soweto Backpackers).
 - **Wikivoyage Johannesburg** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on safety strategy.** Johannesburg has high crime in some areas; informed visitors with normal urban awareness rarely have problems. Listen to local advice; do not walk in unfamiliar neighbourhoods after dark.
 - **You decide on the Soweto engagement.** A bus-window tour is voyeurism; a resident-led walking visit with conversation, a meal, and time is meaningful. Choose the latter.
@@ -54,7 +54,7 @@ You come for the modern history, the music and food, and as the gateway to the r
 - **You decide on Maboneng.** Once a creative renaissance, the area has had ups and downs. Verify the current status with a local before committing.
 - **You decide on Cradle of Humankind.** A full day; the Sterkfontein Caves and Maropeng visitor centre together cover deep human history.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Johannesburg sits at 1,750 metres; summer afternoon thunderstorms (October to April) are dramatic and frequent. Loadshedding (rolling power cuts) is a real factor on most days; most hotels have generators. Major events (Africa Cup of Nations, Comrades Marathon support, Soccer World Cup-era venues) reshape the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Johannesburg experiences I should not miss given my interests, and one I should consider skipping (a bus-window Soweto tour, Maboneng without checking current status, walking the CBD without a guide). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, resident-led Soweto operators, official Apartheid Museum and Constitution Hill, the Gautrain, and loadshedding via the EskomSePush app.
-> - **Information Curation Variety.** Suggest at least four different source types: one official South African source, one serious South African news outlet, one South African author, and one Soweto-resident tour operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safety strategy, Soweto engagement style, Apartheid Museum pacing, Maboneng status check, Cradle of Humankind commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (loadshedding, summer thunderstorm, a museum closure, a sold-out Soweto tour).
+> - **Governance Management.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, resident-led Soweto operators, official Apartheid Museum and Constitution Hill, the Gautrain, and loadshedding via the EskomSePush app.
+> - **Information Curation.** Suggest at least four different source types: one official South African source, one serious South African news outlet, one South African author, and one Soweto-resident tour operator.
+> - **Inference Interaction.** List the decisions I personally need to make (safety strategy, Soweto engagement style, Apartheid Museum pacing, Maboneng status check, Cradle of Humankind commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (loadshedding, summer thunderstorm, a museum closure, a sold-out Soweto tour).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one resident-led Soweto day and the Apartheid Museum. Mark each business as confidently locally owned, or flag for me to verify.
 >

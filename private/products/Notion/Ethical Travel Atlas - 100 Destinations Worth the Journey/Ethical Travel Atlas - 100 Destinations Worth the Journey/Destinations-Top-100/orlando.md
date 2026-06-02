@@ -30,7 +30,7 @@ You come because the theme parks are the most consistently executed entertainmen
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Walt Disney World** tickets and park reservations book on the official Disney portal; verify current ticket types (date-based, park-hopper, Genie+) and any park-reservation requirement.
@@ -38,7 +38,7 @@ You come because the theme parks are the most consistently executed entertainmen
 - **Kennedy Space Center** tickets book on the official KSC Visitor Complex portal; book ahead for launch days.
 - **State park entry** (Wekiwa, Blue Spring) is small fee at the gate; verify on the Florida State Parks portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Orlando Sentinel** for local news.
 - **Visit Orlando** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come because the theme parks are the most consistently executed entertainmen
 - A theme-park strategy resource (Touring Plans, Allears.net) for park-specific planning.
 - **Wikivoyage Orlando** for non-park orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the theme-park strategy.** Disney plus Universal in one trip needs at least four days at the parks. Doing both in two days is exhausting and incomplete. Genie+ at Disney and Express Pass at Universal change the experience but cost.
 - **You decide on the on-site vs off-site hotel.** Disney and Universal on-site hotels give early-park access; off-site is cheaper. The trade-off depends on park-day count.
@@ -54,7 +54,7 @@ You come because the theme parks are the most consistently executed entertainmen
 - **You decide on the Kennedy Space Center.** A full day if you have any interest in space; a launch day if your dates align.
 - **You decide on the rest of Florida.** Tampa, St Petersburg, the Atlantic beaches, the Everglades, and Miami are all reachable; consider extending.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Orlando weather is subtropical with daily afternoon thunderstorms in summer (June to September). Hurricane season runs through November. Major holidays (Christmas/New Year, Easter, Thanksgiving) and school breaks fill the parks to capacity.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best mix of Disney parks, Universal parks, springs, and Kennedy Space Center given my interests and time, and one I should consider skipping (an over-packed two-day Disney + Universal attempt, an on-site hotel I do not need, a launch day I cannot reach). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, official Disney and Universal ticketing and Lightning Lane/Express Pass rules, Kennedy Space Center official tickets, and Florida State Parks for springs.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Orlando source, one theme-park planning resource (Touring Plans or Allears), one non-park Orlando food or neighbourhood guide, and one Florida springs or central-Florida environmental source.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (park count, on-site vs off-site, springs day, Kennedy Space Center, Mills 50 or Winter Park dinner).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, hurricane warning, a sold-out park-reservation day, a launch scrub).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official Disney and Universal ticketing and Lightning Lane/Express Pass rules, Kennedy Space Center official tickets, and Florida State Parks for springs.
+> - **Information Curation.** Suggest at least four different source types: one official Orlando source, one theme-park planning resource (Touring Plans or Allears), one non-park Orlando food or neighbourhood guide, and one Florida springs or central-Florida environmental source.
+> - **Inference Interaction.** List the decisions I personally need to make (park count, on-site vs off-site, springs day, Kennedy Space Center, Mills 50 or Winter Park dinner).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, hurricane warning, a sold-out park-reservation day, a launch scrub).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named parks/lands. Include at least one non-park day (springs or Kennedy Space Center or downtown Orlando). Mark each business as confidently locally owned where possible, or flag for me to verify.
 >

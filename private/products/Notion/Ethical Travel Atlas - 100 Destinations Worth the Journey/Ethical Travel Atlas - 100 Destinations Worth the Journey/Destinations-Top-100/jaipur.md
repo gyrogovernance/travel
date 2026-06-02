@@ -30,7 +30,7 @@ You come for the architecture, the crafts, the Rajput-Mughal hybrid culture, and
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Indian government e-Visa portal.
 - **Amber Fort, City Palace, Hawa Mahal, Jantar Mantar** sell tickets at the gate; the **Composite Ticket** bundles several monuments at a discount; verify on the official Rajasthan Tourism portal.
@@ -38,7 +38,7 @@ You come for the architecture, the crafts, the Rajput-Mughal hybrid culture, and
 - For **block-print and pottery village visits**, verify the operator is a registered cooperative or fair-trade affiliated.
 - **Jaipur Metro** has limited but expanding routes; verify on the official DMRC portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Hindu (Jaipur edition)** and **The Indian Express Rajasthan** for current news.
 - **Rajasthan Tourism** (official) for events, festivals (Pushkar Camel Fair, Jaipur Literature Festival in January).
@@ -46,7 +46,7 @@ You come for the architecture, the crafts, the Rajput-Mughal hybrid culture, and
 - A licensed Jaipur guide who can take you into the craft villages.
 - **Wikivoyage Jaipur** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Amber Fort transport up.** Walk (30 minutes, free), jeep (the right choice), or elephant (animal welfare concerns; consider alternatives).
 - **You decide on the Pink City shopping pattern.** The bazaars are intense; aggressive sellers expected. The cooperative-affiliated shops are a different experience.
@@ -54,7 +54,7 @@ You come for the architecture, the crafts, the Rajput-Mughal hybrid culture, and
 - **You decide on the Golden Triangle structure.** Delhi-Agra-Jaipur as a 5- to 7-day loop is the classic; Jaipur deserves at least two days of its own.
 - **You decide on heat planning.** April through June are extremely hot; October to March is the practical window.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Rajasthan weather is desert-influenced; summer is brutally hot, winter (December to February) is cool and clear, monsoon (July to September) brings welcome rain. Major Hindu festivals (Diwali, Holi, Teej, Gangaur) reshape the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Jaipur experiences I should not miss given my interests, and one I should consider skipping (an elephant ride at Amber Fort for animal welfare reasons, a kickback-commission souvenir shop, an unlicensed guide at the gate). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Indian e-Visa portal, the Composite Ticket and official Rajasthan Tourism for monuments, current Amber Fort elephant-ride animal-welfare status, registered craft-village cooperative operators, and IRCTC for trains.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Indian or Rajasthan source, one Indian news outlet, one author on Rajasthan or Mughal-Rajput history, and one licensed Jaipur guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Amber Fort transport up, craft-shop pattern, festival overlap, Golden Triangle structure, heat planning).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (heat day, a festival closing roads, monsoon mud at Amber, a sold-out heritage hotel).
+> - **Governance Management.** What assumptions should I check before I book? Include the Indian e-Visa portal, the Composite Ticket and official Rajasthan Tourism for monuments, current Amber Fort elephant-ride animal-welfare status, registered craft-village cooperative operators, and IRCTC for trains.
+> - **Information Curation.** Suggest at least four different source types: one official Indian or Rajasthan source, one Indian news outlet, one author on Rajasthan or Mughal-Rajput history, and one licensed Jaipur guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Amber Fort transport up, craft-shop pattern, festival overlap, Golden Triangle structure, heat planning).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (heat day, a festival closing roads, monsoon mud at Amber, a sold-out heritage hotel).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named monuments. Include at least one craft-village visit and one early-morning Amber Fort. Mark each business as confidently locally owned and fair-trade, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the shows, the food (Vegas has more Michelin-starred and high-profi
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Shows, Cirque du Soleil, headliner residencies, the Sphere** sell tickets on official venue portals or Ticketmaster; verify and beware of resale-only sites with markups.
@@ -38,7 +38,7 @@ You come for the shows, the food (Vegas has more Michelin-starred and high-profi
 - **Hoover Dam tours** sell tickets through the official US Bureau of Reclamation portal.
 - The **monorail and bus** systems serve the Strip; ride-hail (Uber, Lyft) and taxis cover the rest. Walking the Strip is hot in summer and longer than it looks (the resorts are massive).
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Las Vegas Review-Journal** and **KNPR** (Nevada Public Radio) for local news.
 - **Visit Las Vegas** (the official tourism site) for events, openings, and shows.
@@ -46,7 +46,7 @@ You come for the shows, the food (Vegas has more Michelin-starred and high-profi
 - A Las Vegas Off-Strip food and Arts District guide for ground-truth.
 - **Wikivoyage Las Vegas** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Strip vs Downtown.** The Strip is the megaresort spine; Downtown (Fremont Street) is older Vegas with smaller casinos, the Mob Museum, and a different atmosphere.
 - **You decide on the show.** Vegas runs hundreds; the best for first-time visitors are usually a Cirque du Soleil (O at Bellagio, KÀ at MGM Grand), a headliner residency (verify current), or a Sphere immersive experience.
@@ -54,7 +54,7 @@ You come for the shows, the food (Vegas has more Michelin-starred and high-profi
 - **You decide on the Grand Canyon.** The south rim is the iconic view but a 10-hour return day; the west rim (Skywalk) is closer and Native American-run.
 - **You decide on the Arts District.** The 18b Las Vegas Arts District is the most local-feeling neighbourhood; First Friday is the monthly art-and-food street event.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Las Vegas summers are extreme (40°C+, 105°F+); outdoor walking is dangerous in midday. Winter is mild and ideal. Major convention weeks (CES in January, NAB in April, the World Series of Poker in summer) sell out hotels and push rates dramatically.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Las Vegas experiences I should not miss given my interests, and one I should consider skipping (a daytime Strip walk in summer heat, a resale-only show ticket, a long Grand Canyon south-rim day if I only have two days). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, official venue portals for shows, the Bureau of Reclamation Hoover Dam tickets, resort-fee disclosure on hotel bookings, and convention-week hotel rates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Las Vegas source, one local news outlet, one book on Las Vegas history, and one Off-Strip food or Arts District guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Strip vs Downtown, show choice, gambling budget, Grand Canyon day-trip vs Hoover, Arts District time).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (extreme heat day, sold-out show, a Grand Canyon weather cancellation, a convention-week hotel price spike).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official venue portals for shows, the Bureau of Reclamation Hoover Dam tickets, resort-fee disclosure on hotel bookings, and convention-week hotel rates.
+> - **Information Curation.** Suggest at least four different source types: one official Las Vegas source, one local news outlet, one book on Las Vegas history, and one Off-Strip food or Arts District guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Strip vs Downtown, show choice, gambling budget, Grand Canyon day-trip vs Hoover, Arts District time).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (extreme heat day, sold-out show, a Grand Canyon weather cancellation, a convention-week hotel price spike).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named venues. Include at least one Off-Strip neighbourhood evening and one outdoor day. Mark each business as confidently locally owned where I can support local, or flag for me to verify.
 >

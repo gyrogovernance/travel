@@ -30,7 +30,7 @@ You come for the museums, the coffee, the altitude views, and a city that reward
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Confirm your **visa-on-arrival or visa-exempt** status on the official Colombian Cancillería portal.
 - Check current **safety advisories** for specific Bogota neighbourhoods on your home government's portal. Bogota is broadly safe in tourist and middle-class areas but has neighbourhoods that warrant local advice.
@@ -38,7 +38,7 @@ You come for the museums, the coffee, the altitude views, and a city that reward
 - **Cerro Monserrate** is reached by funicular or cable car (or a steep walk on weekends only); verify operation on the official Monserrate portal.
 - Verify any guided coffee-region or Zipaquirá day-trip operator is registered with the Colombian tourism authority.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Tiempo** and **El Espectador** (Colombian dailies, Spanish; partial English coverage) for current news.
 - **Bogota Turismo** (the official city site) for events and current advisories.
@@ -46,7 +46,7 @@ You come for the museums, the coffee, the altitude views, and a city that reward
 - A locally led walking tour (Bogotá Bike Tours, Beyond Colombia) that includes Bogotá Graffiti Tour or a Candelaria history walk by residents.
 - **Wikivoyage Bogotá** for district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on altitude.** Bogota is 2,640 metres; allow an easy first day, drink water, skip alcohol until you adjust.
 - **You decide on your neighbourhood base.** La Candelaria is colonial and central but quiet at night; Chapinero and Zona G are restaurant- and café-rich; Usaquén is upmarket and weekend-marketed. Each gives a different city.
@@ -54,7 +54,7 @@ You come for the museums, the coffee, the altitude views, and a city that reward
 - **You decide whether to engage memory.** The Museo Casa de la Memoria and the National Centre for Historical Memory's projects are not light visits; they reward serious attention.
 - **You decide on Sunday ciclovía.** Bogota's Sunday morning car-free streets are one of the city's gifts. Rent a bike and join.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Bogota weather is famously variable; "four seasons in an afternoon" is barely an exaggeration. Demonstrations occasionally close central streets. The TransMilenio bus network can be jammed in peak hours.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Bogota experiences I should not miss given my interests, and one I should consider skipping. Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include current visa rules on the Colombian Cancillería portal, home-government safety advisories, official ticketing for the Museo del Oro and Monserrate, and registered tour operators for coffee-region or Zipaquirá day trips.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Colombian government source, one Colombian newspaper, one Colombian author, and one locally led Bogota walking or bike tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (altitude pacing, neighbourhood base, evening movement, engagement with memory museums, ciclovía participation).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (heavy rain, a Plaza Bolívar demonstration, an altitude-affected day, a closed museum on Mondays or Tuesdays).
+> - **Governance Management.** What assumptions should I check before I book? Include current visa rules on the Colombian Cancillería portal, home-government safety advisories, official ticketing for the Museo del Oro and Monserrate, and registered tour operators for coffee-region or Zipaquirá day trips.
+> - **Information Curation.** Suggest at least four different source types: one official Colombian government source, one Colombian newspaper, one Colombian author, and one locally led Bogota walking or bike tour.
+> - **Inference Interaction.** List the decisions I personally need to make (altitude pacing, neighbourhood base, evening movement, engagement with memory museums, ciclovía participation).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (heavy rain, a Plaza Bolívar demonstration, an altitude-affected day, a closed museum on Mondays or Tuesdays).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include a Sunday ciclovía morning if my dates allow, and at least one menú del día lunch at a working-class restaurant. Mark each business as confidently locally owned, or flag it for me to verify.
 >

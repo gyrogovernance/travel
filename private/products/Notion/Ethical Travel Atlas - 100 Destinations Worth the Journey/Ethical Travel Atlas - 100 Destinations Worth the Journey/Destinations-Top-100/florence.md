@@ -30,7 +30,7 @@ You come for the art, the food (Tuscan cooking is one of Italy's most distinctiv
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify your nationality on official portals.
 - **Uffizi, Accademia, Pitti Palace, and the Duomo complex** require timed tickets on official portals (Uffizi: uffizi.it; Duomo: museumflorence.com or duomo.firenze.it). Reservations are essential, especially summer.
@@ -38,7 +38,7 @@ You come for the art, the food (Tuscan cooking is one of Italy's most distinctiv
 - Florence has a **tourist tax** (*tassa di soggiorno*) collected by accommodation; verify it is itemised on your bill.
 - **Day-tripping cruise tourism** is a major part of summer crowds; verify cruise-day schedules at Livorno if you want to be elsewhere on big days.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **La Nazione Firenze** (the city's main daily, Italian) and **The Florentine** (English-language magazine for residents and visitors) for local news.
 - The official **Visit Florence** and **Uffizi Galleries** portals for ticketing and events.
@@ -46,7 +46,7 @@ You come for the art, the food (Tuscan cooking is one of Italy's most distinctiv
 - A licensed Italian-state guide for the Uffizi and Duomo (a personal Florentine guide changes the experience completely).
 - **Wikivoyage Florence** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Uffizi timing.** First or last entry slots are by far the calmest; midday in summer is brutal.
 - **You decide on the Duomo climb vs Giotto's Campanile.** The Duomo dome (Brunelleschi's) climb is more famous and timed-entry; Giotto's bell tower gives a better view of the dome itself. Pick one.
@@ -54,7 +54,7 @@ You come for the art, the food (Tuscan cooking is one of Italy's most distinctiv
 - **You decide on guides.** A personal Florentine art-historian guide for the Uffizi or the Brancacci changes the experience profoundly.
 - **You decide on a Tuscan day-trip.** Siena, San Gimignano, Lucca, or the Chianti hills are all reachable; commit to one and do it properly.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Florence is hot in summer and cold-damp in winter. Major Catholic feast days close some sites or shift hours. Cruise-day arrivals double the daily crowd at the Uffizi and Duomo.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Florence experiences I should not miss given my interests, and one I should consider skipping (Ponte Vecchio leather-shop tourist traps, a midday Uffizi in summer, a Pisa half-day that should be a full Lucca day). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen visa rules, official Uffizi/Accademia/Duomo/Brancacci timed-entry portals, the Florence tourist tax, ZTL driving rules, and cruise-day arrival schedules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Italian or Florence source, one Florence news outlet (Italian or English), one author on Florence and the Renaissance, and one licensed Italian-state art-historian guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Uffizi timing, dome climb vs Giotto's tower, Oltrarno time, guide commitment, Tuscan day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sold-out Uffizi slot, summer heatwave, museum strike, a cruise-day crowd).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen visa rules, official Uffizi/Accademia/Duomo/Brancacci timed-entry portals, the Florence tourist tax, ZTL driving rules, and cruise-day arrival schedules.
+> - **Information Curation.** Suggest at least four different source types: one official Italian or Florence source, one Florence news outlet (Italian or English), one author on Florence and the Renaissance, and one licensed Italian-state art-historian guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Uffizi timing, dome climb vs Giotto's tower, Oltrarno time, guide commitment, Tuscan day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sold-out Uffizi slot, summer heatwave, museum strike, a cruise-day crowd).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include at least one Oltrarno half-day and one sunset at Piazzale Michelangelo. Mark each business as confidently locally owned, or flag it for me to verify.
 >

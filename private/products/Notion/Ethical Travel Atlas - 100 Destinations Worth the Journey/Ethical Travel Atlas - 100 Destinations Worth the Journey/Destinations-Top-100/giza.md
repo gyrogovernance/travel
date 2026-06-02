@@ -30,7 +30,7 @@ You come because not visiting is unthinkable if you are ever in this part of the
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Egyptian e-Visa portal.
 - The **Pyramids site** has been reorganised with a new visitor centre, electric shuttles, and controlled entry. Verify the current entrance, ticket categories (general site, pyramid interior, Solar Boat Museum, Sphinx area), and shuttle access on the official Ministry of Tourism portal.
@@ -38,7 +38,7 @@ You come because not visiting is unthinkable if you are ever in this part of the
 - **Sound and Light Show** at the Sphinx runs evenings; verify language schedule on the official site.
 - For **camel or horse rides**, ask your hotel for a licensed, animal-welfare-aware operator; do not engage anyone soliciting at the gate.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Al-Ahram Online** and **Egypt Independent** for current local news.
 - The **Egyptian Ministry of Tourism and Antiquities** official portal for site updates.
@@ -46,7 +46,7 @@ You come because not visiting is unthinkable if you are ever in this part of the
 - A licensed Egyptologist guide booked through your hotel or a known operator (the small-group day with a serious guide is what makes Giza make sense).
 - **Wikivoyage Giza** for transport and orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the guide.** A licensed Egyptologist transforms Giza from a confusing crowded site into a meaningful day. The unlicensed alternative usually does the opposite.
 - **You decide on the pyramid interior.** Entering the Great Pyramid is hot, cramped, and steep; many find it claustrophobic. The chamber itself is largely empty. Decide whether that is worth the extra ticket and physical effort.
@@ -54,7 +54,7 @@ You come because not visiting is unthinkable if you are ever in this part of the
 - **You decide on the GEM commitment.** A full half-day at the GEM after a morning at the Pyramids is the right rhythm; many tour packages rush it.
 - **You decide on Saqqara.** The Step Pyramid of Djoser (the oldest stone monument complex in the world) is 30 minutes south; many visitors regret skipping it.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Giza weather is hot year-round, brutally so in summer. Sandstorms (khamsin) hit in spring. Friday prayers reshape the morning traffic. Major political moments occasionally affect site access.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Giza experiences I should not miss, and one I should consider skipping (an unlicensed "guide" at the gate, an aggressive camel ride pitched at the entrance, a Sound and Light Show in a language I do not understand). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current Pyramid-site reorganisation rules, GEM gallery openings, licensed Egyptologist guides through my hotel, and camel/horse-ride operator standards.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Egyptian source, one Egyptian English news outlet, one Egyptologist author, and one licensed Egyptologist guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (licensed guide commitment, pyramid interior ticket, camel ride ethics, GEM commitment, Saqqara add-on).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, sold-out pyramid interior, a Friday traffic reshape).
+> - **Governance Management.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current Pyramid-site reorganisation rules, GEM gallery openings, licensed Egyptologist guides through my hotel, and camel/horse-ride operator standards.
+> - **Information Curation.** Suggest at least four different source types: one official Egyptian source, one Egyptian English news outlet, one Egyptologist author, and one licensed Egyptologist guide.
+> - **Inference Interaction.** List the decisions I personally need to make (licensed guide commitment, pyramid interior ticket, camel ride ethics, GEM commitment, Saqqara add-on).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, sold-out pyramid interior, a Friday traffic reshape).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include the full Pyramids morning with a licensed Egyptologist and the GEM afternoon or following day. Mark each operator as confidently licensed and recommended, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come here for the architecture, the museums, and a window onto a Gulf identi
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Confirm entry to the Sheikh Zayed Grand Mosque is **timed and free**, booked on the official mosque portal. Tour operators often add a transport fee on top; the entry itself should never cost you anything.
 - Verify Louvre Abu Dhabi, Qasr Al Watan, and Qasr Al Hosn hours through their official websites, not third-party listings. Friday and Ramadan hours shift.
@@ -38,7 +38,7 @@ You come here for the architecture, the museums, and a window onto a Gulf identi
 - Confirm your driver's vehicle is a metered Abu Dhabi taxi (silver with a coloured roof) or a licensed ride-hail; avoid unofficial drivers at the airport arrivals curb.
 - Alcohol is legal in licensed venues only. If you plan to drink outside hotel bars and licensed restaurants, verify current rules on the official UAE government portal before booking that desert party.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The National** and **Khaleej Times** (English-language UAE newspapers) for current event listings, cultural openings, and weather.
 - **Visit Abu Dhabi** (the official tourism site) for opening hours, cultural calendars, and Ramadan timings.
@@ -46,7 +46,7 @@ You come here for the architecture, the museums, and a window onto a Gulf identi
 - A migrant-worker-focused voice, such as the reporting of Migrant-Rights.org, to balance the official narrative.
 - Wikivoyage Abu Dhabi for unfiltered practicalities (transport, costs, district orientation).
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your season.** Visit in summer and you accept indoor-only days; visit in shoulder months and you can actually walk the Corniche.
 - **You decide on Ramadan.** Travelling during the fast is a different city, more contemplative, with reduced daytime hours. It is a choice worth making with eyes open.
@@ -54,7 +54,7 @@ You come here for the architecture, the museums, and a window onto a Gulf identi
 - **You decide your dress.** Modest dress is required at religious sites and expected at heritage sites and traditional neighbourhoods. The city is more relaxed on beaches and in malls. The judgement is yours, in context.
 - **You decide whether to engage the harder questions** about labour conditions, freedom of expression, and regional politics. The Atlas will not pretend they do not exist.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 The Gulf moves fast. Museums open and close wings, transport links extend, the cultural district on Saadiyat Island adds new flagship buildings every couple of years. A plan made today may be outdated by next season.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Abu Dhabi experiences I should not miss given my interests, and one I should consider skipping. For each, briefly explain the trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the timed free booking for the Sheikh Zayed Grand Mosque, official ticketing for Louvre Abu Dhabi and Qasr Al Watan, current dress and alcohol rules on UAE government portals, and Ramadan or public-holiday timing shifts in my dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official UAE government source, one local English-language newspaper, one Emirati or long-resident author, and one migrant-worker or human-rights voice.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (season, Ramadan, where my dirhams go, dress code, which harder questions I engage with).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, a public-holiday traffic shutdown, a closed wing at a flagship museum).
+> - **Governance Management.** What assumptions should I check before I book? Include the timed free booking for the Sheikh Zayed Grand Mosque, official ticketing for Louvre Abu Dhabi and Qasr Al Watan, current dress and alcohol rules on UAE government portals, and Ramadan or public-holiday timing shifts in my dates.
+> - **Information Curation.** Suggest at least four different source types: one official UAE government source, one local English-language newspaper, one Emirati or long-resident author, and one migrant-worker or human-rights voice.
+> - **Inference Interaction.** List the decisions I personally need to make (season, Ramadan, where my dirhams go, dress code, which harder questions I engage with).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, a public-holiday traffic shutdown, a closed wing at a flagship museum).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one half-day at the mangroves or in the desert if my dates allow. Mark each recommendation as confidently locally owned, or flag it for me to verify.
 >

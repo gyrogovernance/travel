@@ -1,5 +1,5 @@
 // The four ethical travel domains that define the Gyro Governance framework.
-import economyImg from "../assets/economy.jpg";
+import economyImg from "../assets/economy.webp";
 import employmentImg from "../assets/employment.jpg";
 import educationImg from "../assets/education.jpg";
 import ecologyImg from "../assets/ecology.jpg";

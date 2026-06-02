@@ -1,0 +1,52 @@
+{
+  "slug": "sydney",
+  "name": "Sydney",
+  "country": "Australia",
+  "region": "Oceania",
+  "image": "/destinations/sydney.jpg",
+  "teaser": "Sydney (Warrane in Gadigal language for the harbour) is the capital of New South Wales and Australia's largest city, a 5.5-million-person harbour metropolis on the Pacific. The Sydney Opera House and Harbour Bridge silhouette is one of the planet's most-recognised images; the beaches (Bondi, Manly, Bronte, Coogee) define a serious surf and swim culture.",
+  "intro": "Sydney (Warrane in Gadigal language for the harbour) is the capital of New South Wales and Australia's largest city, a 5.5-million-person harbour metropolis on the Pacific. The Sydney Opera House and Harbour Bridge silhouette is one of the planet's most-recognised images; the beaches (Bondi, Manly, Bronte, Coogee) define a serious surf and swim culture.",
+  "whyVisit": "Sydney compresses one of the world's great natural harbours, world-class beaches reachable by ferry or train, a serious food and arts scene, and the Blue Mountains an hour west. The Opera House guided tour and performance, the Harbour Bridge BridgeClimb, the Royal Botanic Garden, the Art Gallery of New South Wales, and the MCA contemporary collection are the cultural anchors.\n\nThe city is also one of the most expensive in the world; budget honestly. The beaches and the ferries are free or cheap; the central restaurants and the Opera Bar are not.",
+  "ethicalCompass": {
+    "economy": "Eat in actual neighbourhoods: Surry Hills, Newtown, Marrickville, Glebe, Bondi back streets. The Sydney Fish Market is excellent. Avoid Circular Quay's most tourist-focused restaurants.",
+    "employment": "Tipping is not customary in Australia; service-industry wages are properly paid. Use Opal card or contactless on Sydney trains, ferries, buses, and light rail.",
+    "education": "This is Gadigal land of the Eora nation. Visit the Australian National Maritime Museum and the Museum of Sydney for the colonial history; engage with Aboriginal-led tours (Dreamtime Southern X, Royal Botanic Garden Aboriginal Heritage Tour) for the deeper context.",
+    "ecology": "Use the Sydney Ferries and trains rather than driving; ferries are both transport and sightseeing. Reef-safe sunscreen at the beaches. The Blue Mountains National Park is fragile; stay on trails. Sydney has had recent serious bushfires; check air quality in summer."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "ETA or eVisitor required for most visa-waiver nationals; verify on the Department of Home Affairs portal.",
+      "Opera House guided tours and performances sell on the official Sydney Opera House portal.",
+      "BridgeClimb sells on the official BridgeClimb Sydney portal.",
+      "Sydney trains, ferries, light rail, buses under Transport for NSW; Opal card or contactless payment; daily and weekly caps apply.",
+      "Bondi to Coogee coastal walk is free; no booking required."
+    ],
+    "icu": [
+      "Sydney Morning Herald and ABC Sydney for serious local journalism.",
+      "Sydney.com and the official Destination NSW for events and openings.",
+      "An Australian author with Sydney roots: Patrick White (Nobel laureate); Christos Tsiolkas; Charlotte Wood; Tara June Winch.",
+      "An Aboriginal-led Sydney tour (Dreamtime Southern X, Royal Botanic Garden Aboriginal Heritage Tour).",
+      "Wikivoyage Sydney for orientation."
+    ],
+    "iinter": [
+      "You decide on the Opera House. A guided tour and a performance are different experiences; book whichever fits your schedule.",
+      "You decide on Bondi vs Manly. Bondi is the postcard beach; Manly is a 30-minute ferry from Circular Quay and more local. Both reward visits.",
+      "You decide on the Blue Mountains. A full day from Sydney (1.5 hours each way by train); Three Sisters, Govett's Leap, Wentworth Falls. An overnight in Katoomba is the deeper experience.",
+      "You decide on the Aboriginal cultural engagement. A guided Aboriginal walking tour gives a different reading of harbour and city.",
+      "You decide on Sydney Fish Market vs neighbourhood restaurants. The Fish Market is touristy but the fish is real; the SoCo/Surry Hills/Newtown restaurants are dramatically better food experiences."
+    ],
+    "ico": "Sydney weather is mostly mild; summers (December-February) hot and occasionally extreme; winters mild (no snow). Major events (Sydney New Year's Eve fireworks, the Mardi Gras parade in late February or early March, Vivid Sydney light festival in May-June) reshape parts of the city briefly.\n\nBring a soft plan. If a summer thunderstorm closes outdoor plans, the Art Gallery of New South Wales and the MCA absorb a wet afternoon. If wildfire smoke degrades air quality, indoor experiences and beach-front bars work. If a ferry is delayed, the train network is dense."
+  },
+  "anchorSpots": [
+    "Sydney Opera House + Circular Quay + Royal Botanic Garden walk. Half-day around the harbour foreshore.",
+    "Bondi to Coogee coastal walk. Free; 6 km; 2 to 3 hours; one of the world's great urban coastal walks.",
+    "A Manly ferry day. 30-minute ferry from Circular Quay; lunch in Manly; the walk to Shelly Beach.",
+    "Blue Mountains day or overnight. Train to Katoomba, Three Sisters, Govett's Leap, the Scenic World cable car.",
+    "An Aboriginal-led walking tour. Royal Botanic Garden Aboriginal Heritage Tour or Dreamtime Southern X."
+  ],
+  "recommendedLength": "Three to five days for Sydney. Add a day for the Blue Mountains; consider extending to the Hunter Valley wine region.",
+  "transportHint": "Trains, ferries, buses, light rail under Transport for NSW; Opal card or contactless, with automatic daily and weekly caps. The ferry network is both transport and sightseeing (Manly, Watsons Bay, Cockatoo Island). Sydney Airport (SYD) is 20 minutes from the CBD by Airport Link train.",
+  "prompt": "Please help me plan an ethical visit to Sydney, Australia for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. harbour and Opera House, beaches and surf, Blue Mountains, Aboriginal culture, food]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Sydney experiences I should not miss given my interests, and one I should consider skipping (a Circular Quay tourist restaurant, a Blue Mountains day-trip in bushfire-smoke conditions, a BridgeClimb if my budget is limited). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor, official Opera House and BridgeClimb portals, Opal or contactless transport, Blue Mountains train service, and bushfire-season air-quality alerts.\n- **Information Curation.** Suggest at least four different source types: one official Sydney or NSW source, one local news outlet, one Australian author, and one Aboriginal-led tour (Royal Botanic Garden Aboriginal Heritage or Dreamtime Southern X).\n- **Inference Interaction.** List the decisions I personally need to make (Opera House tour vs performance, Bondi vs Manly, Blue Mountains day vs overnight, Aboriginal engagement).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, bushfire smoke, a ferry delay, a sold-out Opera House show).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one ferry trip and one Aboriginal-led experience if available. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Destination NSW, the Sydney Opera House, BridgeClimb Sydney, Transport for NSW, and the Department of Home Affairs.\n2. Real people: a Sydney resident, an Aboriginal-led tour guide, or hotel staff who live in Sydney now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 2147714,
+  "order": 100
+}

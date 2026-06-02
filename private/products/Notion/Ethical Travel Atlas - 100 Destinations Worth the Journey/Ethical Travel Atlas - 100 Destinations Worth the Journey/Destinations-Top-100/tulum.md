@@ -30,7 +30,7 @@ You come for the Maya ruins, the cenotes, Sian Ka'an, and the beach, with eyes o
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors get an **FMM tourist card** automatically with their flight or on arrival; verify on the INM portal.
 - **VisiTax (Quintana Roo state tourist tax)** required for most international visitors; pay on the official VisiTax portal before departure.
@@ -38,7 +38,7 @@ You come for the Maya ruins, the cenotes, Sian Ka'an, and the beach, with eyes o
 - **Sian Ka'an Biosphere Reserve** tours through licensed Community Tours Sian Ka'an or Ecocolors; verify on official tour portals.
 - For **cenote visits**, use entry through the official ejido (community) operators rather than freelancers; the Maya communities that own the cenotes deserve the entry fee.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Mexico News Daily** and **The Yucatan Times** for current local rules.
 - **Visit Mexico** and **Quintana Roo state tourism** official portals.
@@ -46,7 +46,7 @@ You come for the Maya ruins, the cenotes, Sian Ka'an, and the beach, with eyes o
 - A locally led Tulum or Cobá tour with an INAH-certified Maya guide or a Community Tours Sian Ka'an guide.
 - **Wikivoyage Tulum** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on town vs beach road.** Town (Tulum Pueblo) is cheaper, more local, more rooted; beach road is luxurious but controversial. Both are valid; choose deliberately.
 - **You decide on Tulum vs Cobá.** Tulum ruins are smaller, on a cliff, and crowded at midday; Cobá is larger, inland, with a pyramid you used to be able to climb (restrictions vary).
@@ -54,7 +54,7 @@ You come for the Maya ruins, the cenotes, Sian Ka'an, and the beach, with eyes o
 - **You decide on the cenote.** A guided ejido cenote visit pays the Maya community; a solo cenote stop at a roadside pay-as-you-enter is also fine if the ejido runs it.
 - **You decide on whether to engage the contested development conversation.** Tulum's coast is under real pressure; reading recent journalism before booking is wise.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Tulum weather is tropical; hurricane season June-November; dry season December-April is the peak tourist window. Sargassum on east-facing beaches mostly April-August; verify before booking specific dates.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Tulum experiences I should not miss given my interests, and one I should consider skipping (a beach-road luxury hotel with infrastructure questions, a midday Tulum-ruins visit, a Cobá day without proper hydration). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the FMM card and VisiTax, INAH-certified guides for Maya sites, Community Tours Sian Ka'an or similar for the biosphere reserve, ejido cenote entry, and the current status of the Tulum airport.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Mexican source, one English-language Mexican news outlet, one Maya-focused book, and one Community Tours Sian Ka'an or INAH-certified guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (town vs beach road, Tulum vs Cobá vs both, Sian Ka'an commitment, cenote ethics, contested-development engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sargassum bloom, rainy-season storm, hurricane warning, a midday heat day).
+> - **Governance Management.** What assumptions should I check before I book? Include the FMM card and VisiTax, INAH-certified guides for Maya sites, Community Tours Sian Ka'an or similar for the biosphere reserve, ejido cenote entry, and the current status of the Tulum airport.
+> - **Information Curation.** Suggest at least four different source types: one official Mexican source, one English-language Mexican news outlet, one Maya-focused book, and one Community Tours Sian Ka'an or INAH-certified guide.
+> - **Inference Interaction.** List the decisions I personally need to make (town vs beach road, Tulum vs Cobá vs both, Sian Ka'an commitment, cenote ethics, contested-development engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sargassum bloom, rainy-season storm, hurricane warning, a midday heat day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites and operators. Include the Tulum ruins at sunrise, one cenote day, and one Sian Ka'an day. Mark each business as confidently locally owned and ethically run, or flag for me to verify.
 >

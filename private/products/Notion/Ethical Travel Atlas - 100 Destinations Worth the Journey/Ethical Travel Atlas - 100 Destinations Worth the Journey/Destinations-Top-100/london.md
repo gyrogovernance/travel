@@ -30,7 +30,7 @@ You come for the museums, the theatre, the parks, the food (London is one of the
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **ETA (UK Electronic Travel Authorization)** or a visa; verify on the official UK government portal.
 - **Tower of London, Westminster Abbey, St Paul's Cathedral, Tower Bridge** sell timed tickets on official portals; book ahead in peak season.
@@ -38,7 +38,7 @@ You come for the museums, the theatre, the parks, the food (London is one of the
 - **Theatre tickets:** book on the venue's official website, the official TKTS booth in Leicester Square (same-day discount), or trusted vendors. Beware resale-only sites.
 - **Tube and bus:** tap contactless or Oyster; the daily and weekly cap is automatic.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Guardian** and **BBC London** for serious British news.
 - **Time Out London** and **Visit London** (official) for events, openings, and current advisories.
@@ -46,7 +46,7 @@ You come for the museums, the theatre, the parks, the food (London is one of the
 - A locally led East End, Brixton, or Notting Hill walking tour for a non-Westminster perspective.
 - **Wikivoyage London** for transport and district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the museum strategy.** A day per major museum is the right pace; trying to do three in a day burns out everyone involved.
 - **You decide on theatre.** A West End musical, a Shakespeare at the Globe, or a National Theatre production are all valid; the Globe is uncovered and seasonal.
@@ -54,7 +54,7 @@ You come for the museums, the theatre, the parks, the food (London is one of the
 - **You decide your engagement with Empire history.** The British Museum is a serious place to think about provenance; the way you read those galleries is up to you.
 - **You decide on Notting Hill Carnival.** August Bank Holiday weekend; one of Europe's largest street festivals; a unique London experience if your dates align.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 London weather is famously variable. Tube strikes, line closures, and engineering works happen regularly; Network Rail and Transport for London publish updates. Major events (state occasions, marathons, Notting Hill Carnival, big sport) reshape transport on short notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three London experiences I should not miss given my interests, and one I should consider skipping (a Leicester Square chain restaurant, a queue-only Tower visit on a peak day, a resale-marked-up theatre ticket). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the UK ETA, official ticketing for Tower of London/Westminster Abbey/St Paul's, free general admission for major national museums, theatre ticketing through venues or TKTS, and contactless/Oyster for transport.
-> - **Information Curation Variety.** Suggest at least four different source types: one official UK source, one British news outlet (Guardian or BBC), one London author, and one neighbourhood-based walking host outside Westminster.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (museum pacing, theatre choice, royal-palace selection, Empire-history engagement, neighbourhood exploration).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a Tube strike, sudden rain, a sold-out show, a state-event street closure).
+> - **Governance Management.** What assumptions should I check before I book? Include the UK ETA, official ticketing for Tower of London/Westminster Abbey/St Paul's, free general admission for major national museums, theatre ticketing through venues or TKTS, and contactless/Oyster for transport.
+> - **Information Curation.** Suggest at least four different source types: one official UK source, one British news outlet (Guardian or BBC), one London author, and one neighbourhood-based walking host outside Westminster.
+> - **Inference Interaction.** List the decisions I personally need to make (museum pacing, theatre choice, royal-palace selection, Empire-history engagement, neighbourhood exploration).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a Tube strike, sudden rain, a sold-out show, a state-event street closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Tube lines, and named neighbourhoods. Include at least one major museum, one theatre or live show, and one neighbourhood beyond Westminster (East End, Brixton, Notting Hill, or Hackney). Mark each business as confidently locally owned, or flag for me to verify.
 >

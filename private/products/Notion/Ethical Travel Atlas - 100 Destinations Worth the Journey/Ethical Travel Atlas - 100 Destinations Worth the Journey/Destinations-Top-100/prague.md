@@ -30,7 +30,7 @@ You come for the architecture, the beer halls, the Charles Bridge at dawn, the J
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Prague Castle complex** (St Vitus Cathedral, Old Royal Palace, St George's Basilica, Golden Lane) requires a combined ticket; verify on the official Prague Castle portal.
@@ -38,7 +38,7 @@ You come for the architecture, the beer halls, the Charles Bridge at dawn, the J
 - **National Museum, Mucha Museum, Lobkowicz Palace** sell tickets on official portals.
 - **Public transport (DPP)** uses paper tickets (90-minute or day passes) or contactless on most lines; verify on the official DPP portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Radio Prague International** and **Expats.cz** for English-language Czech news.
 - **Prague.eu** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the architecture, the beer halls, the Charles Bridge at dawn, the J
 - A locally led Jewish Quarter or Velvet Revolution walking tour with a Prague resident.
 - **Wikivoyage Prague** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Castle timing.** Sunrise at the Castle (arrive by 8 am before opening; the courtyards are free; St Vitus opens at 9) gives an empty experience; midday is a tour-bus crush.
 - **You decide on Charles Bridge timing.** Sunrise or after 10 pm are the only humane times; the rest of the day is photo-stick collisions.
@@ -54,7 +54,7 @@ You come for the architecture, the beer halls, the Charles Bridge at dawn, the J
 - **You decide on beer commitment.** Czech beer culture is real working culture; an evening at a *hospoda* with locals is the city's best free experience.
 - **You decide on Terezín.** A serious day-trip; the former Theresienstadt concentration-and-transit camp; emotionally heavy but important.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Prague weather is continental; cold and grey winter (December to February, occasional snow), warm summer (June to August, can be hot), beautiful shoulder seasons. Major events (Easter markets, Christmas markets, Prague Spring Music Festival in May, the Prague Marathon) reshape the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Prague experiences I should not miss given my interests, and one I should consider skipping (a midday Charles Bridge, an Old Town Square tourist restaurant, a Castle visit at peak hour). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, the Prague Castle combined ticket categories, the Jewish Museum combined ticket, DPP transport setup, and Terezín booking.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Czech source, one English-language Czech news outlet (Radio Prague International or Expats.cz), one Czech author, and one Prague-based history or pub-crawl guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Castle timing, Charles Bridge timing, Jewish Quarter pace, beer commitment, Terezín visit).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rain on a Castle day, a closed wing, a Christmas-market crowd, a sold-out concert).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, the Prague Castle combined ticket categories, the Jewish Museum combined ticket, DPP transport setup, and Terezín booking.
+> - **Information Curation.** Suggest at least four different source types: one official Czech source, one English-language Czech news outlet (Radio Prague International or Expats.cz), one Czech author, and one Prague-based history or pub-crawl guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Castle timing, Charles Bridge timing, Jewish Quarter pace, beer commitment, Terezín visit).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rain on a Castle day, a closed wing, a Christmas-market crowd, a sold-out concert).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one Vinohrady or Žižkov evening and one early-morning Castle or Charles Bridge. Mark each business as confidently locally owned, or flag for me to verify.
 >

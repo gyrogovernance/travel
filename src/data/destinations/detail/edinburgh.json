@@ -1,0 +1,52 @@
+{
+  "slug": "edinburgh",
+  "name": "Edinburgh",
+  "country": "Scotland",
+  "region": "Europe",
+  "image": "/destinations/edinburgh.jpg",
+  "teaser": "Edinburgh is the Scottish capital, a UNESCO-listed double city of medieval Old Town and Georgian New Town strung along volcanic ridges and an extinct volcano (Arthur's Seat). Home to the world's largest arts festival each August, the Scottish Parliament, and one of Europe's most photogenic skylines.",
+  "intro": "Edinburgh is the Scottish capital, a UNESCO-listed double city of medieval Old Town and Georgian New Town strung along volcanic ridges and an extinct volcano (Arthur's Seat). Home to the world's largest arts festival each August, the Scottish Parliament, and one of Europe's most photogenic skylines.",
+  "whyVisit": "Edinburgh fits a serious capital city's depth into a walkable centre. The Castle on the rock, the Royal Mile down to the Palace of Holyroodhouse, the Georgian symmetry of New Town across the railway gardens, and Arthur's Seat rising out of the city are all within an hour's walk.\n\nThe city is also one of the world's great festival cities. August brings the Edinburgh International Festival, the Fringe (the largest arts festival on Earth), the Book Festival, the Tattoo, and the Art Festival, all simultaneously. The rest of the year it returns to a thoughtful capital, undertourist much of the time.",
+  "ethicalCompass": {
+    "economy": "Eat at neighbourhood places in Stockbridge, Marchmont, Bruntsfield, Leith rather than the Royal Mile tourist set. The Edinburgh Farmers' Market on Castle Terrace (Saturdays) sells real Scottish produce. Pub food at Sandy Bell's or the Sheep Heid Inn keeps money local.",
+    "employment": "Tipping in pubs is uncommon; at restaurants 10 to 12.5 percent unless service is added. During the Fringe, performers are largely unpaid; buying tickets to small shows directly funds artists, not aggregators.",
+    "education": "Read about the Scottish Enlightenment (Hume, Smith, Burns, Scott) and the modern Scottish independence debate. Visit the Scottish Parliament (free, with a tour) and the National Museum of Scotland. The Real Mary King's Close offers a serious working-class history under the Royal Mile.",
+    "ecology": "Walk and take Lothian Buses (one of the best urban bus systems in the UK). Climb Arthur's Seat by the path; the volcanic geology is fragile. Edinburgh's parks (the Meadows, Holyrood, Inverleith) are real city assets; use them."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most visitors need an ETA (UK Electronic Travel Authorization) or a visa; verify your nationality's current status on the official UK government portal.",
+      "Edinburgh Castle requires timed tickets on the official Historic Environment Scotland (HES) portal; sells out days ahead in summer.",
+      "The Royal Edinburgh Military Tattoo (August) sells tickets on the official Tattoo portal months in advance.",
+      "The Edinburgh Festival Fringe has thousands of shows on its own ticketing platform (edfringe.com); the official Edinburgh International Festival has its own.",
+      "Lothian Buses accept contactless tap-and-cap; a daily cap applies. Verify on the official Lothian Buses portal."
+    ],
+    "icu": [
+      "The Scotsman and The Herald for Scottish journalism.",
+      "The official Visit Scotland and Forever Edinburgh portals for events and openings.",
+      "A Scottish author: Robert Louis Stevenson, Muriel Spark, Irvine Welsh (for Leith specifically), Jenni Fagan.",
+      "A locally led literary walking tour (the Edinburgh Literary Pub Tour is famous) or a guided Real Mary King's Close.",
+      "Wikivoyage Edinburgh for orientation."
+    ],
+    "iinter": [
+      "You decide on August. The festivals are extraordinary; they also fill the city to bursting and triple accommodation prices. Either commit (book months ahead) or pick another month deliberately.",
+      "You decide on the Castle. Worth it, but timed entry only, and crowded; the morning of opening is the calm option.",
+      "You decide on Arthur's Seat. The walk from Holyrood Park is achievable for most fitness levels; on a clear day it gives one of Britain's great urban panoramas.",
+      "You decide on whisky. A serious distillery tour (visit a proper distillery on a day trip, not the Royal Mile experience) is more meaningful than a generic tasting.",
+      "You decide on Leith. Once the working port, now a serious food and music neighbourhood. Worth a full evening."
+    ],
+    "ico": "Edinburgh weather is dramatic; \"four seasons in twenty minutes\" actually applies. August Fringe weather can be anything. Winter days are short. The Royal Mile becomes hazardous in ice.\n\nBring a soft plan. If a sudden squall rolls in on Arthur's Seat, the National Museum (free, vast) is twenty minutes away. If a sold-out Fringe show drops the night before, the half-price ticket hut at the Mound has same-day options. If the Castle is rained out, Holyrood Palace and Holyrood Park share the rain better."
+  },
+  "anchorSpots": [
+    "Edinburgh Castle. Timed entry on the HES portal. Book the morning of opening if possible.",
+    "The Royal Mile and the Real Mary King's Close. Walk from the Castle down to Holyrood, with a Mary King's Close visit en route.",
+    "Arthur's Seat and Holyrood Park. A 45-minute walk up; one of the great panoramic views of any British city.",
+    "National Museum of Scotland. Free; covers Scottish history, design, world cultures. Plan three hours.",
+    "A Stockbridge or Leith afternoon. Stockbridge for the Sunday market and Botanic Garden; Leith for the docks, the Royal Yacht Britannia, and excellent food."
+  ],
+  "recommendedLength": "Two to three days for the city outside festival season; four to seven days for the Fringe. Add a day for the Highlands (a long day) or a Borders abbeys day trip.",
+  "transportHint": "Walk in the central Old and New Towns. Lothian Buses are excellent; tap contactless with a daily cap. Edinburgh Waverley station connects you to the rest of the UK and to a tram to the airport. Walking is generally faster than driving in the centre.",
+  "prompt": "Please help me plan an ethical visit to Edinburgh, Scotland for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. history, literature, festivals, hillwalking, whisky]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Edinburgh experiences I should not miss given my interests, and one I should consider skipping (a Royal Mile shop \"tartan and shortbread\" trap, an over-priced Castle midday, an Arthur's Seat climb in driving sleet). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the UK ETA on the official portal, Edinburgh Castle timed entry on HES, the Tattoo and Fringe ticketing, and Lothian Buses contactless cap.\n- **Information Curation.** Suggest at least four different source types: one official Scottish source, one Scottish news outlet, one Scottish author, and one locally led literary or history walking tour.\n- **Inference Interaction.** List the decisions I personally need to make (whether to come in August, Castle timing, Arthur's Seat ambition, whisky depth, Leith vs Stockbridge time).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden weather, sold-out Fringe show, a Castle closure for state events, a winter slip-day on cobbles).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Arthur's Seat or hilltop walk (weather allowing), one museum, and one evening in Stockbridge or Leith. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Forever Edinburgh, Historic Environment Scotland, Edinburgh Festival Fringe, the Royal Edinburgh Military Tattoo, and Lothian Buses.\n2. Real people: a local resident, an Edinburgh guide, or hotel staff who live in Edinburgh now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 2650225,
+  "order": 43
+}

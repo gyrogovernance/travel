@@ -30,7 +30,7 @@ You come for the harbour, the beaches, the food, the Opera House, the Blue Mount
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - **Opera House guided tours and performances** sell on the official Sydney Opera House portal.
@@ -38,7 +38,7 @@ You come for the harbour, the beaches, the food, the Opera House, the Blue Mount
 - **Sydney trains, ferries, light rail, buses** under Transport for NSW; **Opal card** or contactless payment; daily and weekly caps apply.
 - **Bondi to Coogee coastal walk** is free; no booking required.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Sydney Morning Herald** and **ABC Sydney** for serious local journalism.
 - **Sydney.com** and the official **Destination NSW** for events and openings.
@@ -46,7 +46,7 @@ You come for the harbour, the beaches, the food, the Opera House, the Blue Mount
 - An Aboriginal-led Sydney tour (Dreamtime Southern X, Royal Botanic Garden Aboriginal Heritage Tour).
 - **Wikivoyage Sydney** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Opera House.** A guided tour and a performance are different experiences; book whichever fits your schedule.
 - **You decide on Bondi vs Manly.** Bondi is the postcard beach; Manly is a 30-minute ferry from Circular Quay and more local. Both reward visits.
@@ -54,7 +54,7 @@ You come for the harbour, the beaches, the food, the Opera House, the Blue Mount
 - **You decide on the Aboriginal cultural engagement.** A guided Aboriginal walking tour gives a different reading of harbour and city.
 - **You decide on Sydney Fish Market vs neighbourhood restaurants.** The Fish Market is touristy but the fish is real; the SoCo/Surry Hills/Newtown restaurants are dramatically better food experiences.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Sydney weather is mostly mild; summers (December-February) hot and occasionally extreme; winters mild (no snow). Major events (Sydney New Year's Eve fireworks, the Mardi Gras parade in late February or early March, Vivid Sydney light festival in May-June) reshape parts of the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Sydney experiences I should not miss given my interests, and one I should consider skipping (a Circular Quay tourist restaurant, a Blue Mountains day-trip in bushfire-smoke conditions, a BridgeClimb if my budget is limited). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor, official Opera House and BridgeClimb portals, Opal or contactless transport, Blue Mountains train service, and bushfire-season air-quality alerts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Sydney or NSW source, one local news outlet, one Australian author, and one Aboriginal-led tour (Royal Botanic Garden Aboriginal Heritage or Dreamtime Southern X).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Opera House tour vs performance, Bondi vs Manly, Blue Mountains day vs overnight, Aboriginal engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, bushfire smoke, a ferry delay, a sold-out Opera House show).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor, official Opera House and BridgeClimb portals, Opal or contactless transport, Blue Mountains train service, and bushfire-season air-quality alerts.
+> - **Information Curation.** Suggest at least four different source types: one official Sydney or NSW source, one local news outlet, one Australian author, and one Aboriginal-led tour (Royal Botanic Garden Aboriginal Heritage or Dreamtime Southern X).
+> - **Inference Interaction.** List the decisions I personally need to make (Opera House tour vs performance, Bondi vs Manly, Blue Mountains day vs overnight, Aboriginal engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, bushfire smoke, a ferry delay, a sold-out Opera House show).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one ferry trip and one Aboriginal-led experience if available. Mark each business as confidently locally owned, or flag for me to verify.
 >

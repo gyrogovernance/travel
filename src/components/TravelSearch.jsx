@@ -6,7 +6,7 @@ import { DISCLOSURE } from "../affiliate.js";
 export default function TravelSearch({
   title = "Plan and book in one place",
   subtitle = "Search flights, stays, and experiences through partners that fit our ethical travel principles.",
-  keys = ["flightSearch", "hotelSearch", "toursSearch"],
+  keys = ["flightSearch", "flightCompensation", "hotelSearch", "toursSearch"],
   showDisclosure = true,
 }) {
   return (
@@ -19,7 +19,7 @@ export default function TravelSearch({
         <p className="mt-3 text-lg text-slate-700 font-medium">{subtitle}</p>
       </div>
 
-      <div className="mt-8 grid gap-6 md:grid-cols-3">
+      <div className="mt-8 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
         {keys.map((k) => (
           <TravelWidget key={k} widgetKey={k} />
         ))}

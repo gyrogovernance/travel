@@ -30,7 +30,7 @@ You come for the museums, the canals, the cycling, and the chance to see a city 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Book the **Anne Frank House** strictly through its official site. Tickets are released on a rolling schedule and sell out fast. No legitimate reseller sells them.
 - Book the **Van Gogh Museum** and the **Rijksmuseum** on their official sites with timed entry. Verify current pricing on each portal.
@@ -38,7 +38,7 @@ You come for the museums, the canals, the cycling, and the chance to see a city 
 - Confirm the operator of any canal cruise is a licensed Amsterdam operator. River-cruise capacity caps have changed how excursions run; verify current rules on the city's official portal.
 - **Cannabis coffee shops** and the Red Light District operate under specific local rules that are tightening. Verify current rules before assuming what is allowed where.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **I amsterdam** (the official city tourism site) for current event listings and clear visitor policy.
 - **DutchNews.nl** for English-language coverage of Dutch politics, housing, and tourism debates.
@@ -46,7 +46,7 @@ You come for the museums, the canals, the cycling, and the chance to see a city 
 - A neighbourhood walking host based in Noord, De Pijp, or Oost for a non-canal-ring perspective.
 - Wikivoyage Amsterdam for transport and district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your role in the overtourism conversation.** The city has asked certain visitors (loud stag parties, drug-tourism weekenders) to "stay away". You decide what kind of visitor you want to be.
 - **You decide where to sleep.** A canal-ring hotel, a registered apartment outside the ring, or a stay in nearby Haarlem or Utrecht with a short train ride are all fair choices.
@@ -54,7 +54,7 @@ You come for the museums, the canals, the cycling, and the chance to see a city 
 - **You decide your approach to the Red Light District.** Visiting is fine; gawking, group tours that linger, and photographing the workers is not. Your call to walk through respectfully or skip.
 - **You decide how to engage colonial history.** The Rijksmuseum has done the work; whether you read the labels and absorb them is up to you.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Amsterdam adapts constantly. New museum wings open, neighbourhoods shift in character, transport routes change, and tourism policy is rewritten on a regular cycle. A guidebook printed three years ago will be wrong on the details.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Amsterdam experiences I should not miss given my interests, and one I should consider skipping to protect my time, my budget, or the city's overtourism response. Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include official ticketing for Anne Frank, Van Gogh, and Rijksmuseum, the short-term rental registration regime, current cannabis and Red Light District rules, and King's Day or major festival dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Dutch source, one Dutch news outlet, one Dutch or colonial-history author, and one neighbourhood walking host outside the canal ring.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (what kind of visitor I am, where I sleep, whether to cycle, how I engage the Red Light District, how I read colonial history).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a sold-out Anne Frank slot, a sudden weather flip, a strike or canal-cruise cap change).
+> - **Governance Management.** What assumptions should I check before I book? Include official ticketing for Anne Frank, Van Gogh, and Rijksmuseum, the short-term rental registration regime, current cannabis and Red Light District rules, and King's Day or major festival dates.
+> - **Information Curation.** Suggest at least four different source types: one official Dutch source, one Dutch news outlet, one Dutch or colonial-history author, and one neighbourhood walking host outside the canal ring.
+> - **Inference Interaction.** List the decisions I personally need to make (what kind of visitor I am, where I sleep, whether to cycle, how I engage the Red Light District, how I read colonial history).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a sold-out Anne Frank slot, a sudden weather flip, a strike or canal-cruise cap change).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one half-day outside the canal ring (Noord, De Pijp, or Oost). Mark each business as confidently locally owned, or flag it for me to verify.
 >

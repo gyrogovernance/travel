@@ -30,7 +30,7 @@ You come for the food (Québécois, Jewish-Montreal deli, French, contemporary),
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **eTA (Canadian Electronic Travel Authorization)** if visa-exempt, or a visa otherwise; verify on the official Government of Canada Immigration portal.
 - **Major museums** (Musée des Beaux-Arts de Montréal, McCord, Pointe-à-Callière, Biodome) sell tickets on official portals.
@@ -38,7 +38,7 @@ You come for the food (Québécois, Jewish-Montreal deli, French, contemporary),
 - **Festival tickets** (Jazz Fest, Osheaga, Just for Laughs) book on official festival portals; some are free street programmes.
 - **Hockey tickets** (Montreal Canadiens at the Bell Centre) book on the official Canadiens portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **La Presse, Le Devoir** (French) and **Montreal Gazette, CBC Montreal** (English) for current news.
 - **Tourisme Montréal** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the food (Québécois, Jewish-Montreal deli, French, contemporary),
 - A locally led Plateau or Mile End walking tour or a Jean-Talon Market food tour.
 - **Wikivoyage Montreal** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on French.** Most Montrealers are functionally bilingual but a *bonjour* opens doors; the few minutes' effort matters and is appreciated.
 - **You decide on a winter visit.** Igloofest, the Festival des Lumières, hockey, and the indoor city are real. Bring serious clothing.
@@ -54,7 +54,7 @@ You come for the food (Québécois, Jewish-Montreal deli, French, contemporary),
 - **You decide on Old Montreal vs the rest.** Old Montreal is the photogenic colonial core; restaurants there are mostly tourist-oriented; the food scene is in the Plateau, Mile End, and Little Italy.
 - **You decide on a hockey game.** Bell Centre, Habs game, real Montreal experience.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Montreal weather is dramatic: serious winter (December to March, often below minus 20°C with windchill), beautiful summer (June to September), short shoulder seasons. Major festivals reshape downtown briefly. Construction season (May to October) affects driving (much less metro).
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Montreal experiences I should not miss given my interests, and one I should consider skipping (an Old Montreal tourist restaurant when the Plateau is steps better, a winter walk without proper clothing, a sold-out festival show with resale markup). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Canadian eTA, official museum portals, STM OPUS or contactless, festival ticketing, and Via Rail to Quebec City.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Montreal source, one local news outlet (Gazette or Le Devoir), one Quebec author, and one Plateau or Mile End food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (a few French words, winter readiness, Plateau vs Mile End time, Old Montreal vs neighbourhoods, hockey game).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (winter storm, a festival closing streets, a Canadiens game crush at Bell Centre, construction-season detours).
+> - **Governance Management.** What assumptions should I check before I book? Include the Canadian eTA, official museum portals, STM OPUS or contactless, festival ticketing, and Via Rail to Quebec City.
+> - **Information Curation.** Suggest at least four different source types: one official Montreal source, one local news outlet (Gazette or Le Devoir), one Quebec author, and one Plateau or Mile End food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (a few French words, winter readiness, Plateau vs Mile End time, Old Montreal vs neighbourhoods, hockey game).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (winter storm, a festival closing streets, a Canadiens game crush at Bell Centre, construction-season detours).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Plateau or Mile End food walk and one Mount Royal climb or descent. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -1,0 +1,52 @@
+{
+  "slug": "cairo",
+  "name": "Cairo",
+  "country": "Egypt",
+  "region": "Africa",
+  "image": "/destinations/cairo.jpg",
+  "teaser": "Cairo (Al-Qāhirah) is the largest city in the Arab world and Africa, a 22 million-person megalopolis on the Nile with five thousand years of human settlement under its streets. Pharaonic, Coptic, Islamic, Ottoman, and modern Cairo all live in the same city; the Grand Egyptian Museum is the new front door.",
+  "intro": "Cairo (Al-Qāhirah) is the largest city in the Arab world and Africa, a 22 million-person megalopolis on the Nile with five thousand years of human settlement under its streets. Pharaonic, Coptic, Islamic, Ottoman, and modern Cairo all live in the same city; the Grand Egyptian Museum is the new front door.",
+  "whyVisit": "Cairo is the door to ancient Egypt and the cultural capital of the Arab world. The Grand Egyptian Museum holds the complete Tutankhamun collection together for the first time. The Pyramids of Giza sit at the city's western edge, 30 minutes from your hotel. Islamic Cairo is a UNESCO-listed warren of medieval mosques and madrasas.\n\nThe city is also intense in ways that travel writing often softens. Traffic, pollution, heat, and persistent commercial pressure on visitors are real. Visiting Cairo successfully means accepting that intensity and choosing a slower pace inside it.",
+  "ethicalCompass": {
+    "economy": "Hire a licensed Egyptologist guide (carrying a Ministry of Tourism guide card) for the Pyramids and major museums; freelance \"guides\" at the sites are usually unlicensed and often misleading. Tipping (baksheesh) is part of the economy; budget for it: small notes for everyone who helps.",
+    "employment": "Hire a licensed Egyptologist guide (carrying a Ministry of Tourism guide card) for the Pyramids and major museums; freelance \"guides\" at the sites are usually unlicensed and often misleading. Tipping (baksheesh) is part of the economy; budget for it: small notes for everyone who helps.",
+    "education": "Read one serious popular book on ancient Egypt before you arrive; Toby Wilkinson's The Rise and Fall of Ancient Egypt is a good starter. The Grand Egyptian Museum has substantially changed how Egypt presents its own past; engage it on its own terms.",
+    "ecology": "Cairo has serious air pollution; check air-quality indices and consider an N95 mask. The Pyramids site has water and shade limitations; bring both. Refill water from sealed bottles or trusted hotel sources; avoid tap."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most visitors need an e-Visa through the official Egyptian e-Visa portal, or a visa-on-arrival; verify your nationality's current rules.",
+      "The Grand Egyptian Museum (GEM) at Giza is now the primary Egyptology museum; verify hours, full opening status of all galleries, and ticketing on the official GEM portal.",
+      "The Pyramids of Giza ticket system has multiple tiers (site entry, pyramid interior, Solar Boat museum). Book directly at the site office or with a licensed guide; verify recent rules as the area has been reorganised with new electric shuttles and a new entrance.",
+      "Always verify your driver and vehicle are arranged through your hotel or a registered company; avoid airport solicitations.",
+      "For felucca rides and Nile dinner cruises, verify the operator is licensed; standards vary widely."
+    ],
+    "icu": [
+      "Al-Ahram Online and Egypt Independent (English-language Egyptian outlets) for current events.",
+      "The Egyptian Tourism Authority official site for current museum hours and major site rules.",
+      "A book or documentary by an Egyptian author: Naguib Mahfouz's Cairo Trilogy; Alaa Al Aswany's The Yacoubian Building.",
+      "A licensed Egyptologist guide for the Pyramids and GEM; recommended through your hotel or a known operator.",
+      "Wikivoyage Cairo for transport and district orientation."
+    ],
+    "iinter": [
+      "You decide on the licensed guide. A serious Egyptologist transforms the Pyramids from a confusing crowded site into a meaningful day; the unlicensed alternative usually does the opposite.",
+      "You decide on Khan el-Khalili pricing. Bargaining is expected; aggressive pressure is the norm at the front; the deeper alleys with workshops set fairer first prices.",
+      "You decide on baksheesh. Refusing it across the board is read as rude; budget small notes (5 to 20 EGP) for bathroom attendants, helpful strangers, and minor services. Reserve larger tips for serious guides.",
+      "You decide your physical pace. Heat and air quality genuinely affect what you can do. Mornings outdoors, afternoons indoors, evenings outdoors is a sensible default.",
+      "You decide on the dress code. Modest dress at mosques (shoulders and knees covered, head covering for women in some mosques). Cairo is mixed in everyday dress but conservative outside Zamalek and Downtown."
+    ],
+    "ico": "Cairo traffic is its own weather. A 5 km journey can take 20 minutes or two hours. Friday prayers reshape the day. Ramadan reshapes the month. Sandstorms (khamsin) hit in spring. Major political moments occasionally close central streets.\n\nBring a soft plan. If the road to Giza is jammed, the GEM is the same direction and serves the morning. If a sandstorm shutters outdoor sites, the Coptic Museum and Islamic Art Museum are indoor. Cairo rewards patience and morning starts."
+  },
+  "anchorSpots": [
+    "Grand Egyptian Museum (GEM) at Giza. The complete Tutankhamun, the Khufu boat, and a Pharaonic timeline at scale. Allow a full half day; verify opening status of all galleries.",
+    "Pyramids of Giza and the Sphinx. Arrive at opening with a licensed guide; combine with the GEM. The new electric shuttle system has changed access.",
+    "Islamic Cairo: the Citadel, Sultan Hassan Mosque, Al-Rifa'i Mosque, and Al-Muizz Street. A morning walk through medieval Cairo, dressed appropriately.",
+    "Khan el-Khalili and Al-Azhar. The historic bazaar and the great university-mosque. Best in late afternoon and evening.",
+    "Coptic Cairo and the Old Cairo churches. The Hanging Church and the Coptic Museum tell the Egyptian Christian story rarely covered in standard itineraries."
+  ],
+  "recommendedLength": "Three to five days for Cairo and Giza. Add days for Saqqara, Dahshur, and Alexandria as day trips; longer for the Nile Valley (Luxor and Aswan).",
+  "transportHint": "The Cairo Metro (three lines) is cheap and avoids surface traffic, though crowded; women-only carriages are available. Uber and Careem ride-hail are reliable and let you avoid taxi haggles. Walk only with awareness; pavements are uneven and crossings improvisational.",
+  "prompt": "Please help me plan an ethical visit to Cairo, Egypt for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. ancient Egypt, Islamic architecture, Coptic history, food, photography]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cairo experiences I should not miss given my interests, and one I should consider skipping (an unlicensed Pyramids \"guide\", a sound-and-light show that loses to a sunrise visit, a budget Nile dinner cruise of questionable standard). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current GEM gallery openings, the Pyramids' reorganised entrance and shuttle system, licensed Egyptologist guides, and Ramadan or summer-heat scheduling.\n- **Information Curation.** Suggest at least four different source types: one official Egyptian source, one English-language Egyptian news outlet, one Egyptian author, and one licensed Egyptologist guide or hotel concierge.\n- **Inference Interaction.** List the decisions I personally need to make (licensed guide commitment, bargaining and baksheesh budget, physical pacing for heat and air quality, dress code).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (traffic gridlock, sandstorm, Friday prayer street closures, air-quality red day).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one full Giza-and-GEM day with a licensed Egyptologist, and one morning walk through Islamic Cairo. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: the Egyptian Tourism Authority, the GEM portal, the Egyptian e-Visa portal, and my home country's current travel advisory.\n2. Real people: a licensed Egyptologist, hotel staff, or a local resident in Cairo now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 360630,
+  "order": 22
+}

@@ -30,7 +30,7 @@ You come for the architecture, the global food, the desert, the malls (if that i
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **visa-exempt, visa-on-arrival, or e-visa** status on the official UAE Federal Authority for Identity and Citizenship portal.
 - **Burj Khalifa** and **At the Top** require timed tickets on the official portal; sunset slots are the prize and sell out days ahead.
@@ -38,7 +38,7 @@ You come for the architecture, the global food, the desert, the malls (if that i
 - For **desert experiences**, choose operators within the **Dubai Desert Conservation Reserve** (DDCR) or other licensed protected areas; verify on the official DDCR portal.
 - **Alcohol** is legal in licensed venues and at home (with a permit for some categories); verify current rules on UAE government portals. Public drinking carries real legal consequences.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The National** and **Khaleej Times** (English-language UAE newspapers) for current news and local rules.
 - **Visit Dubai** (the official tourism site) for events, openings, and Ramadan timings.
@@ -46,7 +46,7 @@ You come for the architecture, the global food, the desert, the malls (if that i
 - A Dubai-based long-form journalist (Sultan Al Qassemi for cultural context; the local English-language press for daily life).
 - **Wikivoyage Dubai** for district orientation and practical tips.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your season.** Visit May through September and you accept indoor-only days; visit October through April and the city is fully usable.
 - **You decide on Ramadan.** During the fast, restaurants outside hotels are closed during daylight, and behaviour rules are tighter. Evenings (iftar) are spectacular.
@@ -54,7 +54,7 @@ You come for the architecture, the global food, the desert, the malls (if that i
 - **You decide your engagement with the harder questions.** Labour conditions, freedom of expression, regional politics, and migrant rights are real subjects. The Atlas does not pretend they are not.
 - **You decide on the desert experience.** A conservation-reserve safari is fundamentally different from a budget dune-bashing tour with quad bikes.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Dubai runs on tight infrastructure that mostly hides its complexity. Friday afternoons reshape the city around prayer; public holidays close some venues; major sporting and cultural events (the Dubai World Cup, Art Dubai, the Dubai International Film Festival) draw crowds.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Dubai experiences I should not miss given my interests, and one I should consider skipping (a dune-bashing tour with no conservation oversight, an over-priced influencer-targeted restaurant, a midday Burj Khalifa slot when sunset is the prize). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the UAE visa portal, official Burj Khalifa ticketing, NOL card or contactless metro, DDCR-licensed desert operators, and current alcohol and dress rules on UAE government portals.
-> - **Information Curation Variety.** Suggest at least four different source types: one official UAE source, one local English-language newspaper, one Emirati or long-resident author, and one migrant-worker or human-rights focused source.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (season, Ramadan engagement, where my dirhams go, harder-question engagement, desert operator type).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, Friday prayer reshaping, a public-holiday closure).
+> - **Governance Management.** What assumptions should I check before I book? Include the UAE visa portal, official Burj Khalifa ticketing, NOL card or contactless metro, DDCR-licensed desert operators, and current alcohol and dress rules on UAE government portals.
+> - **Information Curation.** Suggest at least four different source types: one official UAE source, one local English-language newspaper, one Emirati or long-resident author, and one migrant-worker or human-rights focused source.
+> - **Inference Interaction.** List the decisions I personally need to make (season, Ramadan engagement, where my dirhams go, harder-question engagement, desert operator type).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, Friday prayer reshaping, a public-holiday closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one Old Dubai (Bastakiya and Deira) day and one conservation-reserve desert experience. Mark each business as confidently locally owned, or flag it for me to verify.
 >

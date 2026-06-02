@@ -30,7 +30,7 @@ You come for the war history, the food, the French colonial bones, the Mekong ga
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers need an **e-visa** through the official Vietnamese Immigration portal.
 - **War Remnants Museum**, **Independence Palace**, and **Cu Chi Tunnels** sell tickets at the gate; verify hours on official portals.
@@ -38,7 +38,7 @@ You come for the war history, the food, the French colonial bones, the Mekong ga
 - **Saigon Metro Line 1** is now operational; verify routes and current pricing on the official portal.
 - For **scooter food tours**, verify the operator provides helmets and rides at sensible pace; some "vespa tours" are excellent, some risky.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **VnExpress International** and **Tuoi Tre News** for current Vietnamese news.
 - The official **Vietnam National Administration of Tourism** site.
@@ -46,7 +46,7 @@ You come for the war history, the food, the French colonial bones, the Mekong ga
 - A locally led Saigon street-food tour by motorbike or on foot (Saigon Street Eats, Back of the Bike Tours).
 - **Wikivoyage Ho Chi Minh City** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your war-history approach.** A day combining the War Remnants Museum, the Independence Palace, and Cu Chi Tunnels gives a serious account; cherry-picking one gives less.
 - **You decide on a Mekong day.** A standard one-day "floating market" tour is mostly theatre; a two-day trip into Ben Tre, Can Tho, or Cai Be gives the actual delta.
@@ -54,7 +54,7 @@ You come for the war history, the food, the French colonial bones, the Mekong ga
 - **You decide on Cholon (Chinatown).** District 5 is rarely on first-time itineraries; it is one of the city's great market and temple zones.
 - **You decide on Sai Gon vs Ho Chi Minh.** Locals say Sai Gon, especially for the centre. Foreigners say Ho Chi Minh City. Either is fine.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Ho Chi Minh City weather is tropical; the wet season (May to November) brings predictable afternoon downpours, and traffic snarls when they hit. Tet Lunar New Year closes much of the city for days. Major holidays (Reunification Day, National Day) reshape transport.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Saigon experiences I should not miss given my interests, and one I should consider skipping (a one-day "floating market" Mekong tour, the Saigon Skydeck for the price, a "vespa tour" with no helmets). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Vietnamese e-Visa portal, official ticketing for major museums, scooter-tour helmet and safety practices, Mekong operator quality, and air-quality forecasts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Vietnamese source, one English-language Vietnamese news outlet, one Vietnamese author, and one Saigon-based food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (war-history approach, Mekong day vs overnight, scooter vs walking tour, Cholon time, name preference).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (wet-season downpour, Tet closures, Cu Chi traffic, an air-quality red day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Vietnamese e-Visa portal, official ticketing for major museums, scooter-tour helmet and safety practices, Mekong operator quality, and air-quality forecasts.
+> - **Information Curation.** Suggest at least four different source types: one official Vietnamese source, one English-language Vietnamese news outlet, one Vietnamese author, and one Saigon-based food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (war-history approach, Mekong day vs overnight, scooter vs walking tour, Cholon time, name preference).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (wet-season downpour, Tet closures, Cu Chi traffic, an air-quality red day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one war-history day and one street-food tour. Mark each business as confidently locally owned, or flag it for me to verify.
 >

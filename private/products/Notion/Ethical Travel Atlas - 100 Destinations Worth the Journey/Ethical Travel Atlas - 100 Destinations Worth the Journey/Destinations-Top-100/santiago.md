@@ -30,7 +30,7 @@ You come for the food, the wine, the Andean setting, the modern Chilean politica
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for Chile; verify on the official Chilean Ministry of Foreign Affairs portal.
 - **Museum of Memory** is free; verify hours on the official portal.
@@ -38,7 +38,7 @@ You come for the food, the wine, the Andean setting, the modern Chilean politica
 - **Concha y Toro** and other Maipo valley wineries sell tours on official portals; Casablanca and Colchagua valleys require fuller days.
 - **Santiago Metro** uses the **Bip!** card; verify on the official Metro de Santiago portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Mercurio**, **La Tercera** (Chilean dailies, Spanish) and **The Santiago Times** for English.
 - The official **Visit Santiago** site for events and openings.
@@ -46,7 +46,7 @@ You come for the food, the wine, the Andean setting, the modern Chilean politica
 - A Santiago-resident walking tour or wine guide.
 - **Wikivoyage Santiago** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Memory Museum.** A serious half-day visit; the dictatorship history is not abstract for Chileans.
 - **You decide on the Neruda house.** La Chascona in Bellavista is the in-Santiago option; Isla Negra is the most beautiful and requires a coast day-trip.
@@ -54,7 +54,7 @@ You come for the food, the wine, the Andean setting, the modern Chilean politica
 - **You decide on Valparaíso.** A genuine day-trip or overnight; UNESCO-listed; the Neruda house La Sebastiana is there.
 - **You decide on air-quality days.** Winter air can be genuinely poor in the valley; outdoor plans may need to flex.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Santiago weather is Mediterranean; hot dry summer (December to February), wet winter with valley smog (June to August), beautiful shoulder seasons. Major events (Independence Day September 18-19, Lollapalooza Chile in March) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Santiago experiences I should not miss given my interests, and one I should consider skipping (a Las Condes business-hotel restaurant when Barrio Italia is steps better, a one-day Colchagua attempt that should be an overnight, a winter air-quality outdoor plan). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Chilean visa-exempt status, official Museum of Memory hours, Fundación Neruda house tickets, wine-tour operator portals, and Bip! Metro card setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Chilean source, one Chilean newspaper, one Chilean author, and one Santiago-based walking or wine guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Memory Museum timing, Neruda house choice, wine-valley depth, Valparaíso day, air-quality days).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (winter air-pollution day, a public-event closure, a wine-region weather day, sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include Chilean visa-exempt status, official Museum of Memory hours, Fundación Neruda house tickets, wine-tour operator portals, and Bip! Metro card setup.
+> - **Information Curation.** Suggest at least four different source types: one official Chilean source, one Chilean newspaper, one Chilean author, and one Santiago-based walking or wine guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Memory Museum timing, Neruda house choice, wine-valley depth, Valparaíso day, air-quality days).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (winter air-pollution day, a public-event closure, a wine-region weather day, sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include the Memory Museum, La Chascona, and one wine half-day or Valparaíso. Mark each business as confidently locally owned, or flag for me to verify.
 >

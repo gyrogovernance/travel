@@ -30,7 +30,7 @@ You come for the food, the Pacific coast, the colonial centre, and the pre-Colum
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for Peru; verify on the official Migraciones Peru portal.
 - **Top restaurants** (Central, Maido, Kjolle, Mayta, Mil) book months ahead on their official sites; do not assume same-day availability.
@@ -38,7 +38,7 @@ You come for the food, the Pacific coast, the colonial centre, and the pre-Colum
 - For **historic centre walking**, do so with awareness or with a guide; the Plaza Mayor area is safe in daytime but adjacent streets warrant caution.
 - The **Lima Metro Line 1 and 2** serve specific corridors; the Metropolitano BRT covers the coastal axis.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Comercio** and **La República** (Peruvian dailies, Spanish) for current news.
 - **Andina** for English-language news.
@@ -46,7 +46,7 @@ You come for the food, the Pacific coast, the colonial centre, and the pre-Colum
 - A Lima-based food guide or culinary tour (Sky Kitchen, EatPeru, or your top-restaurant concierge).
 - **Wikivoyage Lima** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the top-restaurant booking.** Central, Maido, and Kjolle book months ahead. If you want one of them, plan accordingly.
 - **You decide on Miraflores vs Barranco vs Centro.** Miraflores is convenient and safe; Barranco is bohemian and food-rich; Centro is the colonial centre and best as a day visit with a guide.
@@ -54,7 +54,7 @@ You come for the food, the Pacific coast, the colonial centre, and the pre-Colum
 - **You decide on a cevichería lunch.** A first-class ceviche meal at a working *cevichería* (La Mar, Pescados Capitales, or the neighbourhood spots in Magdalena and Surquillo) is one of the world's great culinary experiences at modest prices.
 - **You decide on a Memorial / political-conversation visit.** The Lugar de la Memoria covers the Shining Path internal conflict; serious and important.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Lima weather is unusual: coastal desert with high humidity and almost no rain, but May to October is socked in coastal fog (*la garúa*) and overcast. Summer (December to April) is sunny but not hot. Major political moments occasionally close central Lima.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Lima experiences I should not miss given my interests, and one I should consider skipping (a tourist-trap Plaza Mayor restaurant, an informal taxi at the airport, a one-day stopover that gives Lima neither dinner nor museum). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Migraciones Peru visa portal, top-restaurant reservations on official portals, Larco Museum hours, licensed centre-walking guides, and ride-hail safety practice.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Peruvian source, one Peruvian news outlet, one Peruvian author, and one Lima-based food or culinary guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (top-restaurant commitment, neighbourhood base, Larco visit, cevichería choice, Memoria engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (garúa fog week, a top-restaurant reservation drop, a Centro Histórico demonstration, a flight to Cusco delay).
+> - **Governance Management.** What assumptions should I check before I book? Include the Migraciones Peru visa portal, top-restaurant reservations on official portals, Larco Museum hours, licensed centre-walking guides, and ride-hail safety practice.
+> - **Information Curation.** Suggest at least four different source types: one official Peruvian source, one Peruvian news outlet, one Peruvian author, and one Lima-based food or culinary guide.
+> - **Inference Interaction.** List the decisions I personally need to make (top-restaurant commitment, neighbourhood base, Larco visit, cevichería choice, Memoria engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (garúa fog week, a top-restaurant reservation drop, a Centro Histórico demonstration, a flight to Cusco delay).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one cevichería lunch and one museum half-day. Mark each business as confidently locally owned, or flag for me to verify.
 >

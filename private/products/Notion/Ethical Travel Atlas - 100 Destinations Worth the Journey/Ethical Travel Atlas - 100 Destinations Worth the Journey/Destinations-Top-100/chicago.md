@@ -30,7 +30,7 @@ You come for the architecture, the food, the music, the lake, and a city that do
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Chicago Architecture Center river cruise** is the gold standard; book on the CAC's official portal in peak season.
@@ -38,7 +38,7 @@ You come for the architecture, the food, the music, the lake, and a city that do
 - The **L (elevated train) and bus** are operated by CTA; tap a Ventra card or contactless on any line.
 - For **Wrigley Field, Soldier Field, or United Center events**, buy on official team or venue portals; resellers often charge huge markups.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Chicago Tribune** and **Block Club Chicago** (neighbourhood-focused) for current news.
 - **Choose Chicago** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the architecture, the food, the music, the lake, and a city that do
 - A neighbourhood-led walking or food tour beyond the Loop (Forgotten Chicago, Chicago Detours, Chicago Mexican Tours).
 - **Wikivoyage Chicago** for district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the architecture cruise.** The 90-minute Chicago Architecture Center river cruise is genuinely the best introduction to the city; book it for day one or two.
 - **You decide on neighbourhood exploration.** A trip that never leaves the Loop and Mag Mile is incomplete. Pilsen for muralled walls and mezcal; Bronzeville for the Black Renaissance buildings; Hyde Park for the University of Chicago and Obama Center area.
@@ -54,7 +54,7 @@ You come for the architecture, the food, the music, the lake, and a city that do
 - **You decide on deep dish vs tavern style.** Deep dish (Lou Malnati's, Pequod's) is the tourist dish; thin tavern-cut is what Chicagoans actually eat (Vito and Nick's, Pat's).
 - **You decide on tipping.** US service workers depend on it; build it into the budget, do not improvise downward.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Chicago weather is dramatic. Summer (June to September) is hot and humid with sudden storms; winter (December to March) is genuinely cold with serious wind off the lake; spring and fall are short but glorious. Major lakefront events (Lollapalooza, the Air and Water Show, the Marathon) reshape transport.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Chicago experiences I should not miss given my interests, and one I should consider skipping (a tourist deep-dish chain when better exists, the Mag Mile shopping if I am not actually shopping, an over-priced tourist bus). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, the Chicago Architecture Center official site, museum and Wrigley Field official portals, and the CTA Ventra or contactless setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Chicago source, one Chicago news outlet, one Chicago author, and one neighbourhood-led walking or food guide outside the Loop.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (architecture cruise priority, neighbourhood exploration, lakefront engagement, deep dish vs tavern style, tipping budget).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, polar vortex day, a marathon road closure, a sold-out Cubs game).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, the Chicago Architecture Center official site, museum and Wrigley Field official portals, and the CTA Ventra or contactless setup.
+> - **Information Curation.** Suggest at least four different source types: one official Chicago source, one Chicago news outlet, one Chicago author, and one neighbourhood-led walking or food guide outside the Loop.
+> - **Inference Interaction.** List the decisions I personally need to make (architecture cruise priority, neighbourhood exploration, lakefront engagement, deep dish vs tavern style, tipping budget).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, polar vortex day, a marathon road closure, a sold-out Cubs game).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, L lines, and named neighbourhoods. Include at least one neighbourhood day outside the Loop (Pilsen, Bronzeville, or Hyde Park) and the architecture cruise. Mark each business as confidently locally owned, or flag it for me to verify.
 >

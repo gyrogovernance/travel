@@ -1,6 +1,19 @@
-/** Shared 3-step Atlas method copy for destinations, prompts, and guides. */
+/**
+ * Shared 3-step Atlas method copy for destinations, prompts, and guides.
+ *
+ * GGG maps frameworks to domains: CGM (Economy), Gyroscope Protocol (Employment),
+ * THM (Education), BU dual (Ecology). Visitor-facing preparation uses Gyroscope
+ * work categories only (Governance Management, Information Curation, Inference
+ * Interaction, Intelligence Cooperation). THM alignment principles (GMT, ICV, IIA,
+ * ICI) and displacements (GTD, IVD, IAD, IID) are documented on the About page.
+ *
+ * Keys gm, icu, iinter, ico match Gyroscope Protocol abbreviations (GGG Employment).
+ */
 
 export const GYROSCOPE_OPERATIONS_HEADING = "Four Gyroscope operations";
+
+/** Operation whose prep field is prose (string), not a bullet list. */
+export const GYROSCOPE_PROSE_KEY = "ico";
 
 export const ATLAS_STEPS = [
   {
@@ -22,25 +35,25 @@ export const ATLAS_STEPS = [
 
 export const GYROSCOPE_OPS = [
   {
-    key: "gtm",
+    key: "gm",
     order: 1,
     name: "Governance Management",
     question: "What assumptions should be checked?",
   },
   {
-    key: "ivc",
+    key: "icu",
     order: 2,
     name: "Information Curation",
     question: "Which different sources provide useful perspectives?",
   },
   {
-    key: "iia",
+    key: "iinter",
     order: 3,
     name: "Inference Interaction",
     question: "What choices require human judgment?",
   },
   {
-    key: "ici",
+    key: "ico",
     order: 4,
     name: "Intelligence Cooperation",
     question:

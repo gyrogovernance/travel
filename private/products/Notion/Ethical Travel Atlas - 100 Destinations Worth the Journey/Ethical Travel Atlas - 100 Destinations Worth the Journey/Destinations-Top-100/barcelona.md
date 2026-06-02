@@ -30,7 +30,7 @@ You come for Gaudí, the food, the Mediterranean, and a city actively redrawing 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Book the **Sagrada Família** strictly through its official portal. Tickets are timed; sell out days ahead in peak season.
 - Book **Park Güell** through its official site; the monumental zone is ticketed with timed entry.
@@ -38,7 +38,7 @@ You come for Gaudí, the food, the Mediterranean, and a city actively redrawing 
 - Short-term tourist apartments are being phased out; verify your accommodation's **HUTB licence number** on the listing. Unlicensed lets are illegal.
 - **Cruise-ship terminal access and city access** are being capped; verify current rules on the Port of Barcelona and city portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El País** (English edition) and **The Local Spain** for current Catalan and Spanish news.
 - **Barcelona Turisme** (the official city site) for current rules, events, and capacity restrictions.
@@ -46,7 +46,7 @@ You come for Gaudí, the food, the Mediterranean, and a city actively redrawing 
 - A Barcelona-resident podcast or local-led tour focused on neighbourhood life beyond La Rambla.
 - **Wikivoyage Barcelona** for district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide where you sleep.** A licensed Eixample or Gràcia hotel directly supports the city's housing policy. An unlicensed Airbnb actively undermines it.
 - **You decide your route.** La Rambla and the Boqueria's first row are tourist machinery. The actual market and the neighbourhoods around it are working Barcelona.
@@ -54,7 +54,7 @@ You come for Gaudí, the food, the Mediterranean, and a city actively redrawing 
 - **You decide your Catalan-vs-Castilian register.** Catalan is the daily language for most residents; a few words go far.
 - **You decide on the beach.** Barceloneta is the obvious option and the most crowded; the metro to Bogatell or further is a better swim.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Barcelona is changing how it accepts visitors. The rules in place today are stricter than they were three years ago, and probably looser than they will be three years from now. Cruise caps, apartment licences, and entry restrictions tighten on a regular cycle.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Barcelona experiences I should not miss given my interests, and one I should consider skipping to protect my time, my budget, or the residents (La Rambla in midday, the worst of Park Güell's exterior touts, an unlicensed apartment). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Sagrada Família and Park Güell timed entry on official portals, the HUTB licence requirement for any rental, the phase-out of tourist apartments, and Camp Nou's current renovation status.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Catalan or Spanish source, one local English-language news outlet, one Catalan author, and one neighbourhood-based walking host outside the Gothic Quarter.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (licensed hotel vs unlicensed apartment, La Rambla vs Boqueria interior vs Sant Antoni, Catalan greetings, beach choice, response to anti-tourism messaging).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sold-out Sagrada slot, a city demonstration, a summer heatwave, a cruise-cap day closure).
+> - **Governance Management.** What assumptions should I check before I book? Include Sagrada Família and Park Güell timed entry on official portals, the HUTB licence requirement for any rental, the phase-out of tourist apartments, and Camp Nou's current renovation status.
+> - **Information Curation.** Suggest at least four different source types: one official Catalan or Spanish source, one local English-language news outlet, one Catalan author, and one neighbourhood-based walking host outside the Gothic Quarter.
+> - **Inference Interaction.** List the decisions I personally need to make (licensed hotel vs unlicensed apartment, La Rambla vs Boqueria interior vs Sant Antoni, Catalan greetings, beach choice, response to anti-tourism messaging).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sold-out Sagrada slot, a city demonstration, a summer heatwave, a cruise-cap day closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one half-day in Gràcia, Sant Antoni, or Poblenou (beyond the Gothic Quarter and Eixample). Mark each business as confidently locally owned, or flag it for me to verify.
 >

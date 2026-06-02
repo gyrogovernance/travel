@@ -1,10 +1,16 @@
+import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getDestination, DESTINATIONS } from "../data/destinations.js";
+import {
+  getDestination,
+  DESTINATIONS,
+  loadDestinationDetail,
+} from "../data/destinations.js";
 import { DOMAINS } from "../data/domains.js";
 import { GYROSCOPE_OPERATIONS_HEADING } from "../data/atlasMethod.js";
 import PromptCard from "../components/PromptCard.jsx";
 import EthicalCompassBlock from "../components/EthicalCompassBlock.jsx";
 import GyroscopePrepBlock from "../components/GyroscopePrepBlock.jsx";
+import DestinationToursWidget from "../components/DestinationToursWidget.jsx";
 import Seo from "../components/Seo.jsx";
 import Icon from "../components/Icon.jsx";
 import NotFound from "./NotFound.jsx";
@@ -12,9 +18,33 @@ import { absoluteUrl } from "../site.js";
 
 export default function Destination() {
   const { slug } = useParams();
-  const dest = getDestination(slug);
+  const summary = getDestination(slug);
+  const [dest, setDest] = useState(null);
 
-  if (!dest) return <NotFound />;
+  useEffect(() => {
+    const s = getDestination(slug);
+    if (!s) {
+      setDest(null);
+      return;
+    }
+    let cancelled = false;
+    setDest(null);
+    loadDestinationDetail(slug).then((detail) => {
+      if (!cancelled) setDest(detail ?? s);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [slug]);
+
+  if (!summary) return <NotFound />;
+  if (!dest) {
+    return (
+      <div className="container-content section-pad">
+        <p className="text-slate-600 font-medium">Loading destination...</p>
+      </div>
+    );
+  }
 
   const title = `${dest.name}, ${dest.country}`;
   const whyParas = dest.whyVisit ? dest.whyVisit.split("\n\n") : [];
@@ -155,6 +185,12 @@ export default function Destination() {
           </ul>
         </aside>
       </article>
+
+      {dest.toursCityId ? (
+        <section className="container-content section-pad pt-0">
+          <DestinationToursWidget destinationName={dest.name} cityId={dest.toursCityId} />
+        </section>
+      ) : null}
 
       <section className="bg-cream border-t border-black/5">
         <div className="container-content section-pad">

@@ -30,7 +30,7 @@ You come for the lake, the easy Alpine access, the museums, the chocolate (Sprü
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short Schengen stays**; verify on the official Swiss government portal.
 - **Kunsthaus Zurich, Landesmuseum, Museum Rietberg** sell tickets on official portals.
@@ -38,7 +38,7 @@ You come for the lake, the easy Alpine access, the museums, the chocolate (Sprü
 - **Swiss Travel Pass** if visiting multiple Swiss cities; verify on the official SBB portal.
 - **Lake Zurich boat trips** by ZSG sell on official portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Swissinfo** and **NZZ** (Neue Zürcher Zeitung) for current Swiss news.
 - The official **Zurich Tourism** site for events and openings.
@@ -46,7 +46,7 @@ You come for the lake, the easy Alpine access, the museums, the chocolate (Sprü
 - A locally led Zurich walking tour with a Zurich resident.
 - **Wikivoyage Zurich** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Lake or the rivers.** In summer (June-August), swimming in the lake at one of the *Seebäder* (lake bathing houses, free or low cost) or floating the Limmat is one of the city's gifts.
 - **You decide on Alpine day-trips.** Uetliberg (Zurich's home mountain, 30 minutes by S-Bahn) for an easy view; Mt Pilatus or Rigi from Lucerne (90 minutes total); Jungfrau region (2.5 hours each way, a full day is possible but tight).
@@ -54,7 +54,7 @@ You come for the lake, the easy Alpine access, the museums, the chocolate (Sprü
 - **You decide on the day-trip vs city focus.** Two days in Zurich + one Alpine day is a balanced trip.
 - **You decide on the ZürichCARD vs single tickets.** Run the numbers for your itinerary; the card includes transport and museum entries.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Zurich weather is variable; cold winter (occasional snow), warm summer, beautiful shoulder seasons. Major events (Sechseläuten in April with the burning of the Böögg snowman; Street Parade in August; Zurich Film Festival in September-October) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Zurich experiences I should not miss given my interests, and one I should consider skipping (a Bahnhofstrasse luxury-shop day if I am not shopping, a packed Lucerne-and-Jungfrau day-trip that should be split, a winter lake swim). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official ticketing for Kunsthaus and Landesmuseum, the ZürichCARD cost-benefit, the Swiss Travel Pass if multi-city, and ZSG lake-boat schedules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Swiss source, one Swiss news outlet, one Swiss author, and one Zurich-based walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (lake or river swim, Alpine day-trip choice, chocolate destination, ZürichCARD use, Sunday-shopping awareness).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (cloud on an Alpine day, rainy lake day, a major event closure, sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official ticketing for Kunsthaus and Landesmuseum, the ZürichCARD cost-benefit, the Swiss Travel Pass if multi-city, and ZSG lake-boat schedules.
+> - **Information Curation.** Suggest at least four different source types: one official Swiss source, one Swiss news outlet, one Swiss author, and one Zurich-based walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (lake or river swim, Alpine day-trip choice, chocolate destination, ZürichCARD use, Sunday-shopping awareness).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (cloud on an Alpine day, rainy lake day, a major event closure, sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one lake or river swim (in summer) or chocolate experience (year-round), and one Alpine day if my schedule allows. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -1,0 +1,118 @@
+# Vienna, Austria
+
+Country: Austria
+Region: Europe
+
+![Vienna, Austria](assets/vienna.jpg)
+
+Vienna (*Wien*) is the Austrian capital, a 1.9-million-person Danube city that served as the Habsburg imperial capital for over six centuries. UNESCO-listed historic centre, world-class concert halls (the Musikverein, Staatsoper), Klimt and Schiele in the Belvedere and Leopold museums, and one of Europe's most consistently top-ranked livable cities.
+
+---
+
+## 🧭 Step 1: Choices
+
+### ✨ Why Visit
+
+Vienna is the textbook of imperial European refinement and modernity. The Schönbrunn and Hofburg palaces; the Belvedere with Klimt's *The Kiss*; the Kunsthistorisches Museum with one of Europe's most important art collections; the State Opera; the Naschmarkt; the coffee-house culture (UNESCO-recognised, with names like Café Central, Café Demel, Café Sperl). Mozart, Beethoven, Mahler, Freud, Schiele, Klimt all worked here.
+
+The city is also a serious modern Vienna with a strong design and contemporary art scene, excellent public transport, and a thoughtfully managed historic centre.
+
+You come for the imperial palaces, the Klimt and Schiele, the coffee houses, the music, and a city that handles its history and its present together.
+
+### 🌍 Ethical Compass
+
+- **💰 Economy.** Eat at *Beisl* (traditional Viennese taverns) and small restaurants in Mariahilf, Neubau, Leopoldstadt, and Margareten rather than only the inner Ring tourist set. Buy at the Naschmarkt (touristy at the centre, working stalls at the edges) and at the smaller weekly markets.
+- **👥 Employment.** Tip 5 to 10 percent at sit-down meals; service is included by law but small tips are appreciated. Use the **Wiener Linien** public transport (subway, tram, bus) rather than ride-hail.
+- **📚 Education.** Read about Habsburg history and the Vienna of the *fin de siècle* (Schorske's *Fin-de-Siècle Vienna* is the academic classic). The Jewish Museum Vienna and the Documentation Centre of Austrian Resistance cover the Nazi-era and post-war reckoning. The Sigmund Freud Museum gives psychoanalytic context.
+- **🌱 Ecology.** Walk and use Wiener Linien; one of Europe's best urban transport systems. Cycle the Donauinsel and the Ringstrasse. Refill water; Vienna tap is among Europe's best (it comes from the Alpine springs).
+
+---
+
+## 🎒 Step 2: Preparation
+
+### 🔍 Governance Management
+
+- **Schengen** rules apply; verify on official portals.
+- **Schönbrunn Palace** sells timed tickets on the official portal; sells out in peak season.
+- **Hofburg / Sisi Museum / Imperial Apartments** combined ticket on the official Hofburg portal.
+- **Belvedere, Leopold Museum, Kunsthistorisches** sell tickets on official portals.
+- **Wiener Linien** (subway, tram, bus) uses tickets bought at machines, the WienMobil app, or contactless on most lines.
+
+### 📡 Information Curation
+
+- **The Local Austria** and **Der Standard** (German) for current Vienna news.
+- The official **Vienna Tourist Board** site for events and openings.
+- An Austrian author: Stefan Zweig (especially *The World of Yesterday*); Joseph Roth; contemporary Daniel Kehlmann; Elfriede Jelinek (Nobel laureate).
+- A locally led Vienna walking tour with a coffee-house or Jewish-Vienna focus.
+- **Wikivoyage Vienna** for orientation.
+
+### 🎯 Inference Interaction
+
+- **You decide on the palace strategy.** Schönbrunn (the summer Habsburg palace, large grounds) and the Hofburg (the city centre) are both essential; do not skip both.
+- **You decide on the music.** A State Opera or Musikverein concert (book months ahead for popular nights); standing-room at the State Opera is dramatically cheaper.
+- **You decide on the coffee-house culture.** A serious *Wiener Melange* at Café Central, Café Sacher, or Café Hawelka is part of the trip. Take a book.
+- **You decide on the Klimt.** Belvedere (The Kiss is here); Leopold (Schiele plus Klimt); Secession (the Beethoven Frieze). Belvedere is the headline.
+- **You decide on the day-trip.** Bratislava (1 hour by train), Melk (the Wachau valley abbey), or Salzburg (2.5 hours).
+
+### 🔄 Intelligence Cooperation
+
+Vienna weather is continental; cold winter, mild summer, beautiful shoulder seasons. Major events (Christmas markets late November to early January, the Opera Ball in February, the Vienna Festival in May-June) reshape parts of the city briefly.
+
+Bring a soft plan. If a sudden rain ruins outdoor plans, the museums absorb a wet day indefinitely. If a sold-out Opera show drops, the standing-room queue at the State Opera works.
+
+### 📍 Top 5 Anchor Spots
+
+1. **Schönbrunn Palace + Gardens.** Half-day; book timed ticket; the Gloriette panorama if you climb.
+2. **Belvedere Palace + Klimt's The Kiss.** A serious 2-hour visit; the Upper Belvedere holds the highlights.
+3. **Hofburg + Sisi Museum + Spanish Riding School area + St Stephen's Cathedral walk.** Half-day in central Habsburg Vienna.
+4. **A Wiener Melange at Café Central + Naschmarkt walk + a Beisl dinner.**
+5. **A Staatsoper performance or a Musikverein concert.** Book ahead.
+
+### 🧰 Practical Essentials
+
+- **Recommended Length.** Three to four days for Vienna. Add a day for Bratislava, Melk, or the Wachau Valley.
+- **Transport.** Walk in the inner Ring. **Wiener Linien U-Bahn (5 lines), tram, bus**; ticket machines, app, or contactless. Vienna International Airport (VIE) is connected to the centre by City Airport Train (CAT) in 16 minutes or S-Bahn in 25 minutes.
+- **Daily Cost (per person).**
+  - **Budget:** roughly €80 to €140. Hostel, *Würstelstand* and bakery meals, transport pass, two ticketed sites.
+  - **Mid-range:** roughly €160 to €280. Three-star hotel, restaurant dinners with wine, all major museums, a concert.
+  - **Higher-comfort:** roughly €380 and up. Hotel Sacher, Hotel Imperial, Park Hyatt Vienna, fine dining at Steirereck, Tian, Konstantin Filippou, private guides, premium opera seats.
+- **Booking Notes.**
+  - **Schengen:** verify your nationality.
+  - **Schönbrunn:** book timed tickets ahead in peak.
+  - **State Opera and Musikverein:** book months ahead for top productions.
+  - **Christmas markets (late November to early January):** the city is festive; book accommodation early.
+  - **Opera Ball (February):** the city is at peak formal.
+
+---
+
+## ✈️ Step 3: Delivery
+
+### 🤖 AI Prompt
+
+Copy this into your own AI assistant, fill in the brackets, and treat the answer as a researcher's draft, not a final plan.
+
+> Please help me plan an ethical visit to Vienna, Austria for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Habsburg palaces, Klimt and Schiele, classical music, coffee houses, day-trips]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].
+>
+> Please structure your answer in three steps.
+>
+> **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Vienna experiences I should not miss given my interests, and one I should consider skipping (a Ring boulevard tourist restaurant, a midday Schönbrunn without a timed ticket, a resale-priced Opera seat when standing-room works). Briefly explain each trade-off.
+>
+> **Step 2: Preparation.** Cover all four of the following:
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official Schönbrunn/Hofburg/Belvedere/Leopold ticketing, State Opera and Musikverein ticketing, Wiener Linien ticket setup.
+> - **Information Curation.** Suggest at least four different source types: one official Austrian source, one Vienna news outlet, one Austrian author, and one Vienna-based coffee-house or Jewish-Vienna walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (palace coverage, concert venue choice, coffee-house commitment, Klimt venue priority, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden rain, a museum strike, a sold-out Opera, a Christmas-market crowd).
+>
+> **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one Wiener Melange coffee stop and one concert or opera. Mark each business as confidently locally owned, or flag for me to verify.
+>
+> Finally, please remind me at the end to verify your suggestions against:
+> 1. Official sources: Vienna Tourist Board, Schönbrunn, the Hofburg, Belvedere, State Opera and Musikverein portals, and Wiener Linien.
+> 2. Real people: a Vienna resident, a Vienna guide, or hotel staff who live in Vienna now.
+>
+> Treat your output as a researcher's draft. I will make the final calls.
+
+---
+
+Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**.
+
+Explore more destinations, ethical domains, and AI prompts at [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).

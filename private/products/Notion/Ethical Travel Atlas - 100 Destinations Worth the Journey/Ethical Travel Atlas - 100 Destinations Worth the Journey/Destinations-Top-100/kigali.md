@@ -30,7 +30,7 @@ You come for the gorillas, for the most respectful possible engagement with the 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many visitors are **visa-on-arrival or visa-exempt** for Rwanda; verify on the official Directorate General of Immigration and Emigration portal. The **East Africa Tourist Visa** (Rwanda, Uganda, Kenya combined) is also an option.
 - **Mountain-gorilla permits** in Volcanoes National Park are sold by the **Rwanda Development Board (RDB)**; permits are limited (currently around 96 per day across 12 habituated groups) and priced at the upper end. Book months ahead on the official RDB portal.
@@ -38,7 +38,7 @@ You come for the gorillas, for the most respectful possible engagement with the 
 - **Plastic bags** are banned; airport security removes them at entry. Use cloth or paper bags.
 - For **Volcanoes National Park transfers**, hire a registered driver or join a registered tour; verify on the RDB portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The New Times** (Rwandan English-language daily, government-aligned) and **The East African** for regional coverage.
 - The official **Visit Rwanda** site for events and current rules.
@@ -46,7 +46,7 @@ You come for the gorillas, for the most respectful possible engagement with the 
 - A Kigali-based resident guide (Kigali Cycling Tours, Nyamirambo Women's Center walking tours).
 - **Wikivoyage Kigali** and **Wikivoyage Rwanda** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the gorilla trek.** It is expensive (premium permit pricing), physically demanding (1 to 6 hours of mountain hiking through nettles and mud), and once-in-a-lifetime. Most who go say it changed how they think about animals.
 - **You decide on the genocide memorial timing.** A serious half-day; arrive prepared; consider doing it on day one so the rest of your visit has context.
@@ -54,7 +54,7 @@ You come for the gorillas, for the most respectful possible engagement with the 
 - **You decide on Nyungwe and Lake Kivu.** Adding the chimpanzee trekking in Nyungwe Forest and a Lake Kivu beach day is a full week; many gorilla visitors regret not adding them.
 - **You decide on motorcycle taxis.** *Moto-taxis* are everywhere, with helmets, and the local way to get around. Use registered ones; insist on the helmet.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Rwanda is the "land of a thousand hills"; the elevation moderates the equatorial climate to spring-like year-round. Dry seasons (June to September, December to February) are the best for gorilla trekking. Heavy rains can make trekking strenuous.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Rwanda experiences I should not miss given my interests, and one I should consider skipping (an over-packed itinerary that loses a day to transfers, gorilla trekking without enough physical preparation, a memorial visit when I am exhausted). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Rwandan visa portal, the RDB official gorilla-permit booking, the East Africa Tourist Visa option, registered driver transfers, the plastic-bag ban, and Umuganda day timing.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Rwandan source, one Rwandan or East African news outlet, one author on the genocide and Rwanda, and one Kigali-resident walking or cycling guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (gorilla trek commitment, Genocide Memorial timing, political conversation depth, Nyungwe and Kivu add-on, moto-taxi use).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (heavy rain on trek day, gorilla group changed, a transfer-road delay, the April commemoration period overlap).
+> - **Governance Management.** What assumptions should I check before I book? Include the Rwandan visa portal, the RDB official gorilla-permit booking, the East Africa Tourist Visa option, registered driver transfers, the plastic-bag ban, and Umuganda day timing.
+> - **Information Curation.** Suggest at least four different source types: one official Rwandan source, one Rwandan or East African news outlet, one author on the genocide and Rwanda, and one Kigali-resident walking or cycling guide.
+> - **Inference Interaction.** List the decisions I personally need to make (gorilla trek commitment, Genocide Memorial timing, political conversation depth, Nyungwe and Kivu add-on, moto-taxi use).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (heavy rain on trek day, gorilla group changed, a transfer-road delay, the April commemoration period overlap).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include the Genocide Memorial on day one and the gorilla trek on a well-rested day. Mark each operator as confidently registered with the RDB or Rwanda Tourism, or flag for me to verify.
 >

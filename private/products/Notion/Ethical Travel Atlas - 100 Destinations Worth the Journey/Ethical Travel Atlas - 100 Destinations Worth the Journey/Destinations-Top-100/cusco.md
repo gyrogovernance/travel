@@ -30,7 +30,7 @@ You come for the Inca history, Machu Picchu, the Sacred Valley, the food (Peruvi
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers are **visa-exempt** for Peru; verify on the official Migraciones Peru portal.
 - **Machu Picchu tickets** are capacity-controlled and sold on the official Peruvian Ministry of Culture portal (tuboleto.cultura.pe). Multiple **circuit options** exist; the rules have evolved repeatedly. Verify current circuits and capacity on the official portal before booking.
@@ -38,7 +38,7 @@ You come for the Inca history, Machu Picchu, the Sacred Valley, the food (Peruvi
 - The **Boleto Turístico del Cusco (BTC)** bundles entry to Sacsayhuamán, Q'enqo, Pisac ruins, Ollantaytambo, and others; verify current price and validity on the official COSITUC portal.
 - **Train tickets to Aguas Calientes** are run by PeruRail and Inca Rail; book on official portals weeks ahead in peak season.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Comercio** and **La República** (Peruvian dailies, Spanish) for national news; **Andina** for English.
 - The official **Ministry of Culture** portal for Machu Picchu rules, and **SERNANP** for Inca Trail and protected-areas rules.
@@ -46,7 +46,7 @@ You come for the Inca history, Machu Picchu, the Sacred Valley, the food (Peruvi
 - A Quechua-led or Quechua-guided experience: weaving workshops in Chinchero, community tourism in the Lares Valley, or the Centro de Textiles Tradicionales.
 - **Wikivoyage Cusco** and **Wikivoyage Machu Picchu** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your altitude pacing.** Two easy days in Cusco before serious hiking is the minimum. The Sacred Valley (2,800 m) is gentler than the city; start lower if possible.
 - **You decide on Inca Trail vs Salkantay vs train.** The classic Inca Trail is permit-restricted, four days, deeply meaningful, and books out months ahead. Salkantay is alternative, also four to five days, no permit cap. The train-only option to Aguas Calientes is for those without trek time.
@@ -54,7 +54,7 @@ You come for the Inca history, Machu Picchu, the Sacred Valley, the food (Peruvi
 - **You decide your textile spending.** A cooperative-bought weaving costs more, lasts forever, and pays weavers directly. A mass-market replica is the opposite.
 - **You decide on coca.** Coca leaves and tea are legal and helpful for altitude; coca products are not legal to bring home in most countries.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 The Andes have their own weather. Dry season (May to September) is the practical visitor window; wet season (December to March) closes the Inca Trail in February for restoration. Strikes (*paros*) occasionally close roads or rail lines on short notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cusco-region experiences I should not miss given my interests, and one I should consider skipping (a Plaza de Armas tourist menu when San Blas or San Pedro is steps away, an unlicensed trek operator, the same Machu Picchu circuit twice). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Migraciones Peru visa rules, the official Machu Picchu ticketing portal (tuboleto.cultura.pe) and current circuit rules, SERNANP-registered Inca Trail operators, the Boleto Turístico del Cusco, and PeruRail or Inca Rail bookings.
-> - **Information Curation Variety.** Suggest at least four different source types: the Peruvian Ministry of Culture, SERNANP, a Peruvian author, and a Quechua-led weaving cooperative or community tourism operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (altitude pacing, Inca Trail vs Salkantay vs train, Machu Picchu circuit choice, textile cooperative vs replica, coca use).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (altitude sickness, a road strike (paro), a wet Machu Picchu day, sold-out Inca Trail permits).
+> - **Governance Management.** What assumptions should I check before I book? Include Migraciones Peru visa rules, the official Machu Picchu ticketing portal (tuboleto.cultura.pe) and current circuit rules, SERNANP-registered Inca Trail operators, the Boleto Turístico del Cusco, and PeruRail or Inca Rail bookings.
+> - **Information Curation.** Suggest at least four different source types: the Peruvian Ministry of Culture, SERNANP, a Peruvian author, and a Quechua-led weaving cooperative or community tourism operator.
+> - **Inference Interaction.** List the decisions I personally need to make (altitude pacing, Inca Trail vs Salkantay vs train, Machu Picchu circuit choice, textile cooperative vs replica, coca use).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (altitude sickness, a road strike (paro), a wet Machu Picchu day, sold-out Inca Trail permits).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, altitude considerations, and named places. Include at least one Sacred Valley overnight before Machu Picchu, and one Quechua-led textile or community experience. Mark each business as confidently locally owned, or flag it for me to verify.
 >

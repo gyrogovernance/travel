@@ -30,7 +30,7 @@ You come for the coffee, the food, the art, the sport, and as a base for some of
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - **Public Transport Victoria** uses **Myki** card or contactless on most metropolitan services; verify on the official PTV portal.
@@ -38,7 +38,7 @@ You come for the coffee, the food, the art, the sport, and as a base for some of
 - **NGV International and NGV Australia** are free general admission; ticketed exhibitions on the official portal.
 - **Sport tickets** (AFL, Australian Open tennis in January, Melbourne Cup Carnival in November) on official AFL, Tennis Australia, or VRC portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Age** and **ABC Melbourne** for serious local news.
 - **Visit Melbourne** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the coffee, the food, the art, the sport, and as a base for some of
 - A Wurundjeri-led walking tour or Bunjilaka-affiliated experience.
 - **Wikivoyage Melbourne** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the laneway walking.** The CBD is small and rewards an unhurried morning walking the laneways with coffee stops.
 - **You decide on sport.** An AFL match at the MCG or Marvel Stadium is a real Australian experience; the Australian Open or Melbourne Cup depend on dates.
@@ -54,7 +54,7 @@ You come for the coffee, the food, the art, the sport, and as a base for some of
 - **You decide on the food neighbourhood.** Lygon Street is Italian-tourist; Victoria Street is Vietnamese-local; Sydney Road is Mediterranean-and-Middle-Eastern-local. Spend at least one dinner outside the CBD.
 - **You decide on the Aboriginal cultural commitment.** Bunjilaka or a Wurundjeri walking tour is the right entry into Melbourne's deep history.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Melbourne weather is famously variable; "four seasons in one day" is an actual local saying. Major events (Australian Open January, Melbourne International Comedy Festival March-April, AFL Grand Final September, Melbourne Cup November) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Melbourne experiences I should not miss given my interests, and one I should consider skipping (a Southbank chain restaurant when a neighbourhood is steps better, a Great Ocean Road one-day if it should be an overnight, a coffee at a tourist café when a roaster is two laneways over). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Myki/contactless on PTV, the Free Tram Zone boundary, NGV and major museum portals, and official sport ticketing.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Melbourne or Victorian source, one local news outlet, one Aboriginal author or Bunjilaka resource, and one Melbourne food or coffee guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (laneway walking, sport commitment, day-trip choice, neighbourhood dinner, Aboriginal cultural engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sudden weather change, a major event closing roads, a sport-night MCG crush, a heat wave).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Myki/contactless on PTV, the Free Tram Zone boundary, NGV and major museum portals, and official sport ticketing.
+> - **Information Curation.** Suggest at least four different source types: one official Melbourne or Victorian source, one local news outlet, one Aboriginal author or Bunjilaka resource, and one Melbourne food or coffee guide.
+> - **Inference Interaction.** List the decisions I personally need to make (laneway walking, sport commitment, day-trip choice, neighbourhood dinner, Aboriginal cultural engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden weather change, a major event closing roads, a sport-night MCG crush, a heat wave).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one dinner outside the CBD and the laneways walk. Mark each business as confidently locally owned, or flag for me to verify.
 >

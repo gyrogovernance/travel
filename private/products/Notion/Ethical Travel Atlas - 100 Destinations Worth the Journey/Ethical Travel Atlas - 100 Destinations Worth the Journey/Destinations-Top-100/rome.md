@@ -30,7 +30,7 @@ You come for the ancient sites, the Vatican, the food, the trattorias, and a cit
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Colosseum and Roman Forum** sell timed combined tickets on the official **CoopCulture** portal; book ahead in any season. **Skip-the-line** is the term for timed entry; book on the official portal.
@@ -38,7 +38,7 @@ You come for the ancient sites, the Vatican, the food, the trattorias, and a cit
 - **Borghese Gallery** requires advance timed reservation on the official portal; capped at small groups.
 - **Short-term rentals** in Rome require registration; verify the CIR number on any listing.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **La Repubblica** and **Wanted in Rome** (English) for current news.
 - **Visit Roma** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the ancient sites, the Vatican, the food, the trattorias, and a cit
 - A licensed Italian-state guide for the Colosseum, Forum, and Vatican; recommended through your hotel.
 - **Wikivoyage Rome** for *rione* (district) orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Vatican strategy.** First-slot of the day or last-slot are the calmest; Wednesday mornings have the Papal Audience and are different.
 - **You decide on the Colosseum + Forum + Palatine.** A single morning with a licensed guide is the right way; doing them separately misses connections.
@@ -54,7 +54,7 @@ You come for the ancient sites, the Vatican, the food, the trattorias, and a cit
 - **You decide on the day trip.** Tivoli (Villa d'Este, Hadrian's Villa), Ostia Antica, or the Amalfi Coast (long day) are all reachable.
 - **You decide on the Borghese.** Booking days ahead is essential; the Bernini sculptures alone justify a visit.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Rome weather is Mediterranean; very hot summer (July-August can reach 38°C+), cold-damp winter, beautiful shoulder seasons. Major events (Easter at the Vatican, the major papal events) reshape parts of the city. Strikes (*scioperi*) can affect Metro and bus on short notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Rome experiences I should not miss given my interests, and one I should consider skipping (a Piazza Navona tourist restaurant, a midday Vatican when sunrise was available, an unlicensed guide at the Colosseum gate). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official CoopCulture for Colosseum/Forum, the official Vatican Museums portal, the Borghese Gallery reservations, CIR registration for any rental, and Metro strike alerts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Italian or Roman source, one English-language Italy outlet, one Italian author or historian, and one Roman-based walking or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Vatican slot timing, Colosseum guide commitment, food strategy, day-trip choice, Borghese booking).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Metro strike, summer heat-wave, sold-out Vatican slot, a closed museum wing).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official CoopCulture for Colosseum/Forum, the official Vatican Museums portal, the Borghese Gallery reservations, CIR registration for any rental, and Metro strike alerts.
+> - **Information Curation.** Suggest at least four different source types: one official Italian or Roman source, one English-language Italy outlet, one Italian author or historian, and one Roman-based walking or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Vatican slot timing, Colosseum guide commitment, food strategy, day-trip choice, Borghese booking).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Metro strike, summer heat-wave, sold-out Vatican slot, a closed museum wing).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include at least one Trastevere or Testaccio dinner and one early-morning walking loop. Mark each business as confidently locally owned, or flag for me to verify.
 >

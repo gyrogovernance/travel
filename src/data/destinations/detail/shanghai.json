@@ -1,0 +1,52 @@
+{
+  "slug": "shanghai",
+  "name": "Shanghai",
+  "country": "China",
+  "region": "Asia",
+  "image": "/destinations/shanghai.jpg",
+  "teaser": "Shanghai is China's largest city, a 25-million-person Yangtze-delta megacity that is the country's commercial and financial capital. The Bund's colonial waterfront, Pudong's twenty-first-century skyline across the Huangpu River, the French Concession's tree-lined streets, and one of the world's most ambitious working cities.",
+  "intro": "Shanghai is China's largest city, a 25-million-person Yangtze-delta megacity that is the country's commercial and financial capital. The Bund's colonial waterfront, Pudong's twenty-first-century skyline across the Huangpu River, the French Concession's tree-lined streets, and one of the world's most ambitious working cities.",
+  "whyVisit": "Shanghai is the working future of urban China. The Bund (Waitan) faces Pudong's Shanghai Tower, Jin Mao, and Shanghai World Financial Center; cross by ferry, Metro, or the underground sightseeing tunnel and see them up close. The French Concession holds the most pleasant inner-city walking. The Yu Garden and Old Town give a glimpse of pre-modern Shanghai.\n\nThe city is also where modern China is most legibly itself in commercial form. The food (Shanghainese cuisine, Hu cuisine; xiaolongbao soup dumplings invented here), the contemporary art (M50, West Bund Art Center), the design, and the night life (Found 158, Sinan Mansions) are at the forefront of contemporary Chinese culture.",
+  "ethicalCompass": {
+    "economy": "Eat at small Shanghainese restaurants in the French Concession, Tianzifang's back streets, Xintiandi periphery, and Jing'an side streets rather than the most touristy hotel restaurants. Buy at Yuyuan Bazaar with awareness of haggle prices.",
+    "employment": "Tipping is not customary in China. Use the Shanghai Metro (one of the world's largest and best); tap WeChat Pay or Alipay linked to a foreign card. Use DiDi ride-hail.",
+    "education": "Read about Shanghai's twentieth century: the Treaty Port era, the Republican period, the Japanese occupation, the Cultural Revolution, the post-Deng reopening (Pudong was farmland in 1990). The Shanghai History Museum and the Shanghai Museum are essential.",
+    "ecology": "Air quality varies; check the daily AQI. Walk and use Metro. The Huangpu River parks (Lujiazui, the West Bund) are real green relief."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Visa or transit-visa-free status varies frequently; verify your nationality's current rules on the Chinese embassy portal before booking. Transit-visa-free is available for many nationalities for short Shanghai stays.",
+      "WeChat Pay or Alipay linked to a foreign card is now possible and effectively required for everyday spending; set up before arrival.",
+      "Shanghai Metro (20+ lines) uses single tickets, transport cards, or QR codes via Metro Daduhui app; verify on the official Shanghai Metro portal.",
+      "Major museums and observation decks (Shanghai Museum, Shanghai Tower, World Financial Center, Jin Mao) sell tickets on official portals.",
+      "VPN: most Western apps and sites are blocked; set up before arrival."
+    ],
+    "icu": [
+      "Shanghai Daily (English Chinese paper) and SHINE for current news; South China Morning Post for outside-China perspective.",
+      "The official Meet Shanghai site for events.",
+      "A Shanghai-set book: Wang Anyi's Song of Everlasting Sorrow; Eileen Chang's stories; Mian Mian for contemporary.",
+      "A licensed Shanghai walking guide for the French Concession or Old Town.",
+      "Wikivoyage Shanghai for orientation."
+    ],
+    "iinter": [
+      "You decide on the skyline view. Shanghai Tower's observation deck is the tallest in the world; Jin Mao is the second; the rooftop bars across Lujiazui give the framed view of Tower itself.",
+      "You decide on the French Concession depth. Walking Anfu Lu, Wukang Lu, Yongkang Lu, and Donghu Lu is the most pleasant urban walking in China.",
+      "You decide on day-trips. Suzhou (30 minutes by high-speed rail) for the gardens; Hangzhou (1 hour) for West Lake; Zhujiajiao for a water-town day.",
+      "You decide on the VPN. If you need WhatsApp, Google, Instagram, or Western news, set up a VPN before arrival.",
+      "You decide your political conversation register. China has clear limits on what foreigners can discuss publicly. Listen first."
+    ],
+    "ico": "Shanghai weather is humid-subtropical; hot summer, cold-damp winter, beautiful spring and autumn. Typhoons occasionally affect the city late summer. Air quality varies.\n\nBring a soft plan. If a typhoon disrupts outdoor plans, the Shanghai Museum, the Power Station of Art, and the Yu Garden's covered sections absorb a wet day. If air quality is red, indoor plans. If a state visit closes Lujiazui or the Bund, the French Concession is unaffected."
+  },
+  "anchorSpots": [
+    "The Bund + a Huangpu River ferry crossing to Pudong + Shanghai Tower observation deck. Sunrise or sunset both work.",
+    "French Concession walking afternoon. Wukang Mansion, Anfu Lu, Tianzifang, and Xintiandi.",
+    "Shanghai Museum (People's Square). The Chinese antiquities collection is one of the world's best. Free entry; verify hours.",
+    "Yu Garden + Old Town. Half-day walk through the surviving traditional Chinese garden and surrounding old streets.",
+    "M50 contemporary art district or the West Bund museum cluster. Pick one for a contemporary-art half-day."
+  ],
+  "recommendedLength": "Three to four days for Shanghai. Add a day for Suzhou, Hangzhou, or Zhujiajiao.",
+  "transportHint": "Walk in the French Concession and Old Town. Shanghai Metro is enormous and excellent; tap a card or use the Metro Daduhui app. DiDi for ride-hail. Shanghai Maglev from Pudong Airport (PVG) to Longyang Road; Hongqiao Airport (SHA) is connected by Metro. CRH high-speed rail to Suzhou, Hangzhou, Beijing.",
+  "prompt": "Please help me plan an ethical visit to Shanghai, China for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. the skyline, French Concession, modern art, food, day trips to Suzhou or Hangzhou]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Shanghai experiences I should not miss given my interests, and one I should consider skipping (a Yuyuan Bazaar overpaid souvenir, a tourist-river-cruise when the Metro and ferry do it better, midday observation deck). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include current visa or transit-visa-free rules, WeChat Pay/Alipay foreign-card setup, VPN preparation, Shanghai Museum hours, and air-quality forecasts.\n- **Information Curation.** Suggest at least four different source types: one official Chinese source, one Shanghai-based English news outlet, one Shanghai author, and one Shanghai-based walking or food guide.\n- **Inference Interaction.** List the decisions I personally need to make (skyline view spot, French Concession depth, day-trip choice, VPN, political conversation comfort).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a typhoon, air-quality red day, a state event closure, sold-out top restaurant).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include the Bund-and-Pudong crossing and one French Concession afternoon. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Meet Shanghai, the Shanghai Museum portal, the Chinese embassy visa page, and CRH for trains.\n2. Real people: a Shanghai resident, a licensed Shanghai guide, or hotel staff who live in Shanghai now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 1796236,
+  "order": 18
+}

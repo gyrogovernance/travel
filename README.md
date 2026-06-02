@@ -30,3 +30,14 @@ our research to the choices travelers face, and we turn it into clear advice you
 can act on.
 
 Travel thoughtfully. Travel kindly.
+
+## Development
+
+```bash
+bun install
+bun run dev          # local site
+bun run build        # production bundle (deploy)
+bun run destinations # after editing private/products/atlas/
+```
+
+Atlas source files live in `private/products/atlas/` (markdown + `assets/` images). Build commands and workflows are documented in `private/docs/context.md`.

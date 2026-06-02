@@ -1,0 +1,52 @@
+{
+  "slug": "banff",
+  "name": "Banff",
+  "country": "Canada",
+  "region": "Americas",
+  "image": "/destinations/banff.jpg",
+  "teaser": "Banff National Park is Canada's first national park and the heart of the Canadian Rockies UNESCO World Heritage site. Turquoise glacial lakes, grizzly bear corridors, and a small Alpine-style townsite at 1,400 metres sit inside a working ecological reserve managed by Parks Canada.",
+  "intro": "Banff National Park is Canada's first national park and the heart of the Canadian Rockies UNESCO World Heritage site. Turquoise glacial lakes, grizzly bear corridors, and a small Alpine-style townsite at 1,400 metres sit inside a working ecological reserve managed by Parks Canada.",
+  "whyVisit": "Banff is one of the few places on Earth where wild grizzly bears, wolves, elk, and bighorn sheep live within an hour of an espresso bar. Lake Louise and Moraine Lake are postcards for a reason; the colour comes from glacial flour, real ice melting upstream.\n\nThe park is also a case study in how to manage extreme visitor pressure on fragile ecology. Parks Canada has introduced shuttle-only access to several headline sites, parking restrictions, and a serious wildlife-corridor management plan. Visiting here means cooperating with those rules, not working around them.",
+  "ethicalCompass": {
+    "economy": "Stay in Banff townsite or Canmore (outside the park) rather than in chain motels along the highway. Eat at locally owned places in Banff Avenue, Canmore's Main Street, and the Bow Valley. Buy from local outfitters rather than international chains.",
+    "employment": "Hire certified mountain guides (ACMG, Association of Canadian Mountain Guides) for any backcountry, ice-walk, or scrambling activity. Tip generously in service-industry contexts; many workers live precariously in expensive resort labour markets.",
+    "education": "This is Treaty 7 territory; the Stoney Nakoda, Tsuut'ina, and Blackfoot nations have presence here. Visit the Buffalo Nations Luxton Museum and any Indigenous-led tour for the long story of this land. The Banff Park Museum is the oldest of its kind in Canada.",
+    "ecology": "Bears need corridors; do not feed wildlife, store food in bear-proof lockers, carry bear spray and know how to use it. Stay on trails, particularly around Lake Louise and Moraine Lake. The shuttle system exists to reduce road impact; use it."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "A Parks Canada Discovery Pass or daily park pass is required for everyone in the park. Buy on the official Parks Canada portal.",
+      "Moraine Lake is now accessible by shuttle, mass transit, or commercial operator only; private vehicle access is closed. Verify the current shuttle booking window on the Parks Canada portal.",
+      "Lake Louise parking is heavily managed; the Parks Canada shuttle is the practical default. Book ahead.",
+      "Backcountry permits (camping, certain trails) must be booked through Parks Canada in advance.",
+      "Confirm any guide is ACMG certified for technical activities (climbing, ice walks, ski touring). Verify on the official ACMG portal."
+    ],
+    "icu": [
+      "Parks Canada Banff site for trail closures, wildlife reports, shuttle bookings, and fire bans.",
+      "Banff and Lake Louise Tourism for events and lodging.",
+      "Avalanche Canada (official) for winter backcountry conditions; non-negotiable in shoulder and winter seasons.",
+      "A book on the Indigenous history of the region: Trevor Herriot's writing on the prairies, or anything by Treaty 7 authors.",
+      "Friends of Banff National Park and Yellowstone to Yukon Conservation Initiative for the broader ecological context."
+    ],
+    "iinter": [
+      "You decide your season. Summer means crowds and shuttle-only access; September is the quietest with the best larches; winter is a different park entirely.",
+      "You decide on the shuttle. Trying to drive to Moraine Lake is no longer possible. Trying to drive to Lake Louise in peak hours is futile. Accept the shuttle.",
+      "You decide on bear safety. Bear spray, a noisy group, situational awareness. The mountain owes you nothing.",
+      "You decide on backcountry vs frontcountry. A day hike on Plain of Six Glaciers is a serious commitment; the Bow Valley Parkway pullouts are achievable in normal shoes.",
+      "You decide on Indigenous engagement. Take the Indigenous-led tour, read the interpretive plaques, learn the names of the nations whose land this is."
+    ],
+    "ico": "Mountain weather is the boss. A blue-sky morning can turn into a snow squall by afternoon at any time of year. Wildfires close trails on short notice. Wildlife sightings close roads. The shuttle system constrains your timing.\n\nBring a soft plan. If your Moraine Lake shuttle is at 6 am, accept the early start. If a bear is on a trail, take the closure seriously and pick another. If wildfire smoke degrades the air, the museums in Banff townsite and the indoor pool at the Banff Upper Hot Springs absorb a bad-air day well."
+  },
+  "anchorSpots": [
+    "Lake Louise and the Plain of Six Glaciers. The lake by shuttle in the morning, then the 14 km return hike to the tea house with glacial views.",
+    "Moraine Lake. Shuttle-only access. The Rockpile sunrise is famous for a reason; book the earliest shuttle.",
+    "Johnston Canyon and the Ink Pots. A walkway through limestone canyons to colourful spring pools beyond. Strenuous but achievable.",
+    "Banff townsite, the Cave and Basin, and the Banff Park Museum. The original hot spring that founded the park, and the country's oldest natural history museum.",
+    "Icefields Parkway to the Columbia Icefield. The 230 km drive north from Lake Louise to Jasper is one of the world's great mountain roads. Stop at Peyto Lake and Mistaya Canyon."
+  ],
+  "recommendedLength": "Three to seven days for the park. Five lets you combine Banff townsite, Lake Louise area, and a day on the Icefields Parkway. A week or more if you want serious hiking or are pairing with Jasper.",
+  "transportHint": "Fly into Calgary International Airport (YYC), then drive or shuttle 90 minutes west on Highway 1. The Banff Airporter and Brewster Express buses are reliable alternatives to a rental car. Inside the park, the Roam Transit bus connects Banff, Canmore, Lake Louise, and the Moraine Lake shuttle hub. Avoid driving in midsummer if you can.",
+  "prompt": "Please help me plan an ethical visit to Banff National Park, Canada for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. hiking, wildlife, photography, Indigenous culture, winter sports]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Banff experiences I should not miss given my interests and season, and one I should consider skipping. Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the Parks Canada Discovery Pass, the mandatory Moraine Lake shuttle booking, Lake Louise parking and shuttle, any backcountry permits, and ACMG certification for technical guides.\n- **Information Curation.** Suggest at least four different source types: Parks Canada Banff, Banff and Lake Louise Tourism, Avalanche Canada (in winter), a book or article on Treaty 7 Indigenous history, and a Yellowstone to Yukon or Friends of Banff ecological source.\n- **Inference Interaction.** List the decisions I personally need to make (season, shuttle vs car, bear safety, backcountry vs frontcountry, Indigenous engagement).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (wildfire smoke, sudden snow, trail closure for wildlife, shuttle cancellation).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, shuttle bookings, and named trails. Include at least one Indigenous-led or interpretive experience if my dates allow. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Parks Canada Banff, Roam Transit, ACMG, and Avalanche Canada in winter.\n2. Real people: a local guide, a Roam Transit driver, or accommodation staff who live in Banff or Canmore now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 5892532,
+  "order": 61
+}

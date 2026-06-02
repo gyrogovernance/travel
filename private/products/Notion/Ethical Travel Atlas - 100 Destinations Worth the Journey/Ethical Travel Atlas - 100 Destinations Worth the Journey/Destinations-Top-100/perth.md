@@ -30,7 +30,7 @@ You come for the beaches, the Indian Ocean sunsets, Rottnest Island, the wine re
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - **Transperth** runs Perth public transport (Transperth Trains, buses, ferries); contactless or SmartRider card.
@@ -38,7 +38,7 @@ You come for the beaches, the Indian Ocean sunsets, Rottnest Island, the wine re
 - **Margaret River wineries** mostly accept walk-ins for cellar-door tastings but premium experiences book ahead.
 - **Western Australian National Parks** (Pinnacles, Karijini, Cape Le Grand) require a park pass at the gate or annual pass.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The West Australian** and **ABC Perth** for current local news.
 - **Tourism Western Australia** and **Destination Perth** (official) for events and openings.
@@ -46,7 +46,7 @@ You come for the beaches, the Indian Ocean sunsets, Rottnest Island, the wine re
 - A Noongar-led cultural tour (Wula Gura Nyinda Eco Cultural Adventures, Walyalup Wadjemup tours).
 - **Wikivoyage Perth** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Fremantle.** "Freo" is a 30-minute Transperth train south of Perth; the prison (UNESCO), the markets, the cappuccino strip, the harbour are all distinct from Perth proper.
 - **You decide on Rottnest commitment.** A full day on Rottnest; bicycle is the way to get around the car-free island; respect the quokkas.
@@ -54,7 +54,7 @@ You come for the beaches, the Indian Ocean sunsets, Rottnest Island, the wine re
 - **You decide on the wildflower season.** August to October the south-west has one of the world's most spectacular wildflower displays.
 - **You decide on Noongar engagement.** A Noongar-led walk in Kings Park or at Fremantle (Walyalup) is a different reading of the same landscape.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Perth weather is Mediterranean; long hot dry summer (December to March, often 35°C+), mild rainy winter (June to August). The Fremantle Doctor (afternoon sea-breeze) cools coastal summer afternoons. Bushfire risk in summer in the surrounding bush.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Perth experiences I should not miss given my interests, and one I should consider skipping (a one-day Margaret River when an overnight is steps better, a quokka selfie that approaches the animal, a Perth-only itinerary that misses Fremantle and Rottnest). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor, Transperth SmartRider or contactless, Rottnest ferry operators and island day-fee, Margaret River cellar-door bookings, and Western Australian National Parks passes.
-> - **Information Curation Variety.** Suggest at least four different source types: one official WA source, one local news outlet, one WA author (Tim Winton or Kim Scott), and one Noongar-led cultural tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Fremantle time, Rottnest day commitment, wine-region depth, wildflower season, Noongar engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer heat, Rottnest ferry weather cancellation, a bushfire affecting Margaret River, a heatwave grounding outdoor plans).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor, Transperth SmartRider or contactless, Rottnest ferry operators and island day-fee, Margaret River cellar-door bookings, and Western Australian National Parks passes.
+> - **Information Curation.** Suggest at least four different source types: one official WA source, one local news outlet, one WA author (Tim Winton or Kim Scott), and one Noongar-led cultural tour.
+> - **Inference Interaction.** List the decisions I personally need to make (Fremantle time, Rottnest day commitment, wine-region depth, wildflower season, Noongar engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer heat, Rottnest ferry weather cancellation, a bushfire affecting Margaret River, a heatwave grounding outdoor plans).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one Fremantle day, one Rottnest day, and one Noongar-led experience if available. Mark each business as confidently locally owned, or flag for me to verify.
 >

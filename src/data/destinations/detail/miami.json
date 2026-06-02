@@ -1,0 +1,52 @@
+{
+  "slug": "miami",
+  "name": "Miami",
+  "country": "United States",
+  "region": "Americas",
+  "image": "/destinations/miami.jpg",
+  "teaser": "Miami is the largest city in southern Florida, a six-million-person metropolitan area that is the United States' most Latin American city. South Beach Art Deco, Cuban Calle Ocho, Haitian Little Haiti, Caribbean-Atlantic beaches, and the wider Everglades and Florida Keys all within reach.",
+  "intro": "Miami is the largest city in southern Florida, a six-million-person metropolitan area that is the United States' most Latin American city. South Beach Art Deco, Cuban Calle Ocho, Haitian Little Haiti, Caribbean-Atlantic beaches, and the wider Everglades and Florida Keys all within reach.",
+  "whyVisit": "Miami is the most Latin city in the US. Spanish is the working language for huge swaths of life. Little Havana's Calle Ocho, Wynwood's mural-covered Arts District, the Design District, and Coral Gables each give a distinct Miami. The Art Deco district of South Beach is one of the world's largest concentrations of 1920s-1940s Art Deco architecture.\n\nThe city is also a gateway to the broader South Florida ecosystem: the Everglades, the Florida Keys, Biscayne National Park, and the cruise port for the Caribbean. Many visitors treat Miami as transit; spending three days here proper is the better trip.",
+  "ethicalCompass": {
+    "economy": "Eat at Cuban ventanitas (windows on Calle Ocho), Haitian restaurants in Little Haiti, Venezuelan arepa places in Doral and Brickell, Argentine parrillas in North Miami Beach. Avoid limiting yourself to Lincoln Road or Ocean Drive tourist set.",
+    "employment": "Tip 20 percent at sit-down restaurants; tip housekeeping, valet, ride-share. Service-industry workers in Miami face very high cost of living.",
+    "education": "Read about Cuban exile history (José Martí, the Mariel boatlift, the contemporary diaspora) and Haitian Miami. Visit the Bay of Pigs Museum, the Pérez Art Museum Miami (PAMM), and the HistoryMiami Museum.",
+    "ecology": "Miami is at climate-change ground zero: sea-level rise, hurricane intensity, freshwater stress. The Everglades is one of the world's most threatened ecosystems. Reef-safe sunscreen for any in-water activity in the Keys. Choose Everglades operators with conservation focus."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most international visitors need ESTA (visa waiver) or a B-2 visa for the US; verify on the official US State Department portal.",
+      "Vizcaya Museum and Gardens, the Pérez Art Museum Miami, the Frost Museum of Science sell tickets on official portals.",
+      "Everglades National Park (Shark Valley, Ernest Coe Visitor Center, Royal Palm) entry on Recreation.gov or at the gate.",
+      "For airboat tours, choose operators within or adjacent to Everglades National Park with permits; avoid pure tourist airboat operations outside the park.",
+      "Miami-Dade transit has Metrorail, Metromover (free, downtown), and Metrobus; tap a contactless card or get an EASY card."
+    ],
+    "icu": [
+      "Miami Herald and WLRN for serious local journalism.",
+      "Visit Miami (the official tourism site) for events and openings.",
+      "A Miami author: Edwidge Danticat (Haitian-Miami); Tom Wolfe's Back to Blood; Cristina García's Dreaming in Cuban.",
+      "A locally led Little Havana, Little Haiti, or Wynwood walking tour with a resident guide.",
+      "Wikivoyage Miami for orientation."
+    ],
+    "iinter": [
+      "You decide on the neighbourhood. South Beach is the postcard; Brickell is corporate-glass; Wynwood is murals; Little Havana is Cuban-working; Little Haiti is Haitian-working. Each gives a different Miami.",
+      "You decide on the beach. South Beach is the famous one; Mid-Beach (around 35th Street) is quieter; North Beach Boardwalk is local; Key Biscayne is a State Park alternative.",
+      "You decide on the Everglades trip. Half-day from Miami works; the airboat at Shark Valley is the family classic; a serious paddle in Flamingo or a guided slough walk is the deeper experience.",
+      "You decide on the Keys. Key West is 3.5 hours each way by car; a full day with a 4 am start or an overnight is the only humane way.",
+      "You decide on your engagement with Cuban exile politics. Calle Ocho is a working political space, not just a food street; engage respectfully."
+    ],
+    "ico": "Miami weather is subtropical; hurricane season runs June through November (peak August-October); afternoon thunderstorms are routine in summer. Major events (Art Basel December, Miami Open March, Ultra Music Festival March) reshape the city and book hotels.\n\nBring a soft plan. If a hurricane warning approaches, the airport and city plan ahead; have travel insurance. If a thunderstorm closes the beach, the museums and the Wynwood Arts District absorb a wet day. If a music festival fills your dates, accommodation prices triple; book very early."
+  },
+  "anchorSpots": [
+    "South Beach Art Deco walking tour. Miami Design Preservation League runs the official tour; book on their portal.",
+    "Wynwood Arts District + Pérez Art Museum. The Wynwood Walls outdoor murals; the PAMM downtown.",
+    "Little Havana on Calle Ocho. Walk from Domino Park through the ventanitas, El Tucán, Ball & Chain. Best on a Friday evening.",
+    "Everglades National Park (Shark Valley or Royal Palm). Half-day from Miami; airboat or boardwalk loop.",
+    "A Miami Beach day at Mid-Beach (35th Street area) or Key Biscayne. Quieter beach options away from the South Beach scrum."
+  ],
+  "recommendedLength": "Three to four days for Miami. Add days for the Keys (overnight better than day-trip) or the Everglades (one full day).",
+  "transportHint": "Walk South Beach and parts of downtown. The free Metromover loops downtown. Metrorail and Metrobus cover the rest but not comprehensively. Uber and Lyft are reliable. Renting a car helps for the Everglades and the Keys. Miami International Airport (MIA) is 20 to 40 minutes from South Beach.",
+  "prompt": "Please help me plan an ethical visit to Miami, United States for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Art Deco, Latin food and music, beaches, Everglades, contemporary art]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Miami experiences I should not miss given my interests, and one I should consider skipping (an Ocean Drive tourist restaurant, a Keys day-trip when an overnight is steps better, an airboat operator with no conservation tie). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official Vizcaya/PAMM/Frost ticketing, Everglades National Park entry on Recreation.gov, airboat operator permits, and Miami-Dade transit setup.\n- **Information Curation.** Suggest at least four different source types: one official Miami source, one local news outlet (Miami Herald or WLRN), one Miami author, and one Little Havana or Little Haiti walking guide.\n- **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, beach choice, Everglades depth, Keys commitment, Cuban exile engagement).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, afternoon thunderstorm, Art Basel pricing crunch, an Everglades closure for fire or flood).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Little Havana evening and one Everglades half-day. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Miami, Miami-Dade Transit, Everglades National Park (Recreation.gov), and the US State Department for ESTA.\n2. Real people: a Miami-based food or neighbourhood guide, a local resident, or hotel staff who live in Miami now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 4164138,
+  "order": 76
+}

@@ -30,7 +30,7 @@ You come for the ceremonies, the rice terraces, the food, and a chance to spend 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Check current **visa-on-arrival** and **e-VOA** requirements on the official Indonesian Directorate General of Immigration portal.
 - Pay the **Bali Tourist Levy** through the official Love Bali portal before or on arrival; keep the QR code.
@@ -38,7 +38,7 @@ You come for the ceremonies, the rice terraces, the food, and a chance to spend 
 - Book Mount Batur sunrise treks only through the **Mount Batur Trekking Guides Association (HPPGB)** or operators that work with them.
 - Verify your driver or motorbike rental is licensed; international driving permits are checked.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Bali Sun** and **The Jakarta Post** (English-language) for current local rules and tourism updates.
 - The **Love Bali** official portal for visitor levy, dress code, and behavioural guidance.
@@ -46,7 +46,7 @@ You come for the ceremonies, the rice terraces, the food, and a chance to spend 
 - A Bali-resident expat-and-local podcast (such as *The Bali Podcast*) for ground-truth on neighbourhoods and operators.
 - **Wikivoyage Bali** for area-by-area orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide where on the island you stay.** Canggu or Seminyak places you in the worst traffic and the most extractive tourism economy. Ubud, Sidemen, Munduk, Amed, and Pemuteran are different islands.
 - **You decide whether to rent a motorbike.** Riding without a licence and without experience is the largest single cause of tourist injury and death on Bali. Your call, with eyes open.
@@ -54,7 +54,7 @@ You come for the ceremonies, the rice terraces, the food, and a chance to spend 
 - **You decide your ceremony behaviour.** If you encounter a procession, you wait. You do not photograph faces close-up without permission. You do not stand above a priest.
 - **You decide on water and waste.** Refill, refuse plastic, choose accommodations that visibly manage rubbish.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Bali's ceremonial calendar runs in parallel to the Western one. *Nyepi*, the Balinese day of silence, shuts the entire island, airport included; the lead-up *ogoh-ogoh* parades are spectacular. *Galungan* and *Kuningan* (every 210 days) fill temples and roadsides with offerings. Plan around them, not against them.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Bali experiences I should not miss given my interests, and one I should consider skipping (the south-coast traffic, the over-photographed cafés, the unlicensed volcano trek). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the e-VOA on the official Indonesian Immigration portal, the Bali Tourist Levy on Love Bali, current temple dress and behavioural rules, the Mount Batur guides association (HPPGB), and any major ceremonies (especially Nyepi) in my dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Indonesian government source, one local English-language news outlet, one Balinese or Indonesian author, and one Bali-resident or community-based podcast or guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (which part of the island I stay in, whether to ride a motorbike, how I approach sacred sites, my plastic and water choices).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a ceremony closing a road, a rainy-season storm, a Mount Batur weather cancellation, an unexpected rāhui-like closure of a sacred site).
+> - **Governance Management.** What assumptions should I check before I book? Include the e-VOA on the official Indonesian Immigration portal, the Bali Tourist Levy on Love Bali, current temple dress and behavioural rules, the Mount Batur guides association (HPPGB), and any major ceremonies (especially Nyepi) in my dates.
+> - **Information Curation.** Suggest at least four different source types: one official Indonesian government source, one local English-language news outlet, one Balinese or Indonesian author, and one Bali-resident or community-based podcast or guide.
+> - **Inference Interaction.** List the decisions I personally need to make (which part of the island I stay in, whether to ride a motorbike, how I approach sacred sites, my plastic and water choices).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a ceremony closing a road, a rainy-season storm, a Mount Batur weather cancellation, an unexpected rāhui-like closure of a sacred site).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one cultural ceremony experience and one full day outside Canggu, Seminyak, and Kuta. Mark each business as confidently locally owned, or flag it for me to verify.
 >

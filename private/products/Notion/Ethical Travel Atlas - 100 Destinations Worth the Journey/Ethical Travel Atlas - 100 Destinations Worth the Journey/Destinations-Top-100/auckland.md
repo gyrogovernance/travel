@@ -30,7 +30,7 @@ You come for the islands, the food, the *taonga*, and a city that wears its mult
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **NZeTA (Electronic Travel Authority)** requirement and the **International Visitor Conservation and Tourism Levy** on the official Immigration New Zealand portal before booking.
 - Confirm Hauraki Gulf ferry timetables on the official **Fullers360** or **SeaLink** sites; weather cancels services regularly.
@@ -38,7 +38,7 @@ You come for the islands, the food, the *taonga*, and a city that wears its mult
 - Some Māori sites have *rāhui* (temporary protective closures). Verify status with local iwi before climbing volcanic cones such as Maungawhau (Mount Eden).
 - Confirm wine-tour and Waiheke operators are licensed; verify ferry-and-tour bundle pricing on each official site.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The New Zealand Herald** and **Stuff** for current Auckland and national news.
 - **Auckland Council's official tourism site** for event listings, opening hours, and current *rāhui* notices.
@@ -46,7 +46,7 @@ You come for the islands, the food, the *taonga*, and a city that wears its mult
 - A Māori-led cultural tour (TIME Unlimited Tours, Potiki Adventures) for tangata whenua perspective.
 - **Department of Conservation (DOC)** site for any nature-based visit; their advice is authoritative.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide whether to engage with Te Tiriti.** Visiting Aotearoa without understanding the Treaty is like visiting Berlin and ignoring the wall. Your choice, but a real one.
 - **You decide your *rāhui* response.** If a site is closed by iwi, the answer is to respect it, not to argue.
@@ -54,7 +54,7 @@ You come for the islands, the food, the *taonga*, and a city that wears its mult
 - **You decide where in Auckland you actually go.** The CBD is a small fraction of the city; South Auckland is where much of the cultural life happens.
 - **You decide on Tiritiri Matangi.** This rare predator-free bird sanctuary is one of the great conservation success stories on Earth. It needs a full day and serious biosecurity care.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Auckland weather is its own character. "Four seasons in a day" is not a tourist-board cliché; it is operationally true. The Hauraki Gulf can cancel ferries with little warning, the volcanic cones can be slick after rain, and the city's outdoor calendar shifts accordingly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Auckland experiences I should not miss given my interests, and one I should consider skipping. Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the NZeTA and conservation levy on the official Immigration New Zealand portal, Department of Conservation biosecurity rules for island visits, any current rāhui on volcanic cones, and ferry weather cancellations.
-> - **Information Curation Variety.** Suggest at least four different source types: one official New Zealand government source, one New Zealand news outlet, one Māori or Pacific author, and one Māori-led cultural tour or guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (engaging with Te Tiriti, rāhui response, city vs gulf balance, which neighbourhoods I actually explore, whether to commit a full day to Tiritiri Matangi).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (cancelled ferry, sudden weather change, a rāhui mid-trip, a sold-out cultural performance).
+> - **Governance Management.** What assumptions should I check before I book? Include the NZeTA and conservation levy on the official Immigration New Zealand portal, Department of Conservation biosecurity rules for island visits, any current rāhui on volcanic cones, and ferry weather cancellations.
+> - **Information Curation.** Suggest at least four different source types: one official New Zealand government source, one New Zealand news outlet, one Māori or Pacific author, and one Māori-led cultural tour or guide.
+> - **Inference Interaction.** List the decisions I personally need to make (engaging with Te Tiriti, rāhui response, city vs gulf balance, which neighbourhoods I actually explore, whether to commit a full day to Tiritiri Matangi).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (cancelled ferry, sudden weather change, a rāhui mid-trip, a sold-out cultural performance).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one Māori or Pacific cultural experience and one day in or beyond the CBD. Mark each business as confidently locally owned, or flag it for me to verify.
 >

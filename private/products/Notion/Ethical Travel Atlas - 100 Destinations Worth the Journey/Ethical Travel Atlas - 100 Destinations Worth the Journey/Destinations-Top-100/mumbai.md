@@ -30,7 +30,7 @@ You come for the food, the Bollywood-and-business energy, the Victorian-Gothic a
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Indian government e-Visa portal.
 - **Major museums** (Prince of Wales Museum, Bhau Daji Lad, the Mani Bhavan Gandhi house) sell tickets at the gate; verify hours.
@@ -38,7 +38,7 @@ You come for the food, the Bollywood-and-business energy, the Victorian-Gothic a
 - **Dharavi tours:** book only through socially responsible operators (Reality Tours and Travel is the gold standard, with proceeds funding local programmes); avoid voyeuristic operators.
 - **Mumbai Metro** lines are expanding; verify routes on the official MMRDA portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Hindu (Mumbai edition)**, **The Indian Express**, **Mid-Day** for serious local journalism.
 - The official **Maharashtra Tourism** portal for events and current advisories.
@@ -46,7 +46,7 @@ You come for the food, the Bollywood-and-business energy, the Victorian-Gothic a
 - A locally led Mumbai walking or food tour (Reality Tours, Mumbai Magic, Khaki Tours).
 - **Wikivoyage Mumbai** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your base.** South Mumbai (Colaba, Fort, Marine Drive) is historic and walkable; Bandra is the new creative-and-Bollywood hub; Lower Parel is corporate.
 - **You decide on the Dharavi tour.** A Reality Tours visit is genuinely informative and funds programmes in Dharavi itself; the "slum tour" voyeurism alternative is the opposite.
@@ -54,7 +54,7 @@ You come for the food, the Bollywood-and-business energy, the Victorian-Gothic a
 - **You decide on the food strategy.** Mumbai is one of the world's great street-food cities; a guided walking food tour is the best half-day investment in the city.
 - **You decide your monsoon comfort.** July is peak monsoon; the city floods regularly; this is a different Mumbai.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Mumbai weather is monsoonal; June to September brings serious rain and occasional flooding; the rest of the year is dry, with humid winters and very hot pre-monsoon (April-May). Traffic is the constant; allow 2x to 3x the time you would expect.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Mumbai experiences I should not miss given my interests, and one I should consider skipping (a voyeuristic "slum tour", an unlicensed Bollywood promise, the Elephanta ferry on a Monday). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Indian e-Visa portal, Reality Tours official booking for Dharavi, Elephanta Monday closure, Mumbai Metro routes on MMRDA, and air-quality forecasts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Indian or Maharashtra source, one Mumbai newspaper, one Mumbai author (especially Suketu Mehta), and one Mumbai-based walking or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, Dharavi tour operator, food-tour commitment, monsoon comfort, traffic-time padding).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (monsoon flood, traffic gridlock, a public-event road closure, an air-quality red day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Indian e-Visa portal, Reality Tours official booking for Dharavi, Elephanta Monday closure, Mumbai Metro routes on MMRDA, and air-quality forecasts.
+> - **Information Curation.** Suggest at least four different source types: one official Indian or Maharashtra source, one Mumbai newspaper, one Mumbai author (especially Suketu Mehta), and one Mumbai-based walking or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, Dharavi tour operator, food-tour commitment, monsoon comfort, traffic-time padding).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (monsoon flood, traffic gridlock, a public-event road closure, an air-quality red day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include the heritage walking loop, a Reality Tours Dharavi half-day, and one street-food walking tour. Mark each business as confidently locally owned, or flag for me to verify.
 >

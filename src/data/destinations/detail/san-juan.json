@@ -1,0 +1,52 @@
+{
+  "slug": "san-juan",
+  "name": "San Juan",
+  "country": "Puerto Rico",
+  "region": "Americas",
+  "image": "/destinations/san-juan.jpg",
+  "teaser": "San Juan is the capital of Puerto Rico, a Caribbean island that is a US commonwealth. A 350,000-person port city with a UNESCO-listed Spanish colonial centre (Old San Juan), warm Atlantic and Caribbean beaches, the El Yunque rainforest within reach, and a culture that is genuinely its own: Puerto Rican, Spanish-speaking, Caribbean, and connected to the US mainland.",
+  "intro": "San Juan is the capital of Puerto Rico, a Caribbean island that is a US commonwealth. A 350,000-person port city with a UNESCO-listed Spanish colonial centre (Old San Juan), warm Atlantic and Caribbean beaches, the El Yunque rainforest within reach, and a culture that is genuinely its own: Puerto Rican, Spanish-speaking, Caribbean, and connected to the US mainland.",
+  "whyVisit": "San Juan offers UNESCO-listed colonial architecture, beautiful beaches (Condado, Isla Verde, and the further-out Luquillo), and serious Puerto Rican cuisine (mofongo, lechón, alcapurrias). El Morro and San Cristóbal forts, the cobblestone streets of Old San Juan, the contemporary art at MAPR, and the salsa nights of Santurce all anchor a varied stay.\n\nThe island is also a real conversation about US-Puerto Rican relations, Hurricane Maria's lasting impact, and the lechón road of Guavate. Visiting respectfully means engaging Puerto Rico on its own terms, not as a generic Caribbean stop.",
+  "ethicalCompass": {
+    "economy": "Tip 18 to 20 percent at restaurants (US norms apply). The post-Maria and post-pandemic tourism economy depends on visitors who spend locally.",
+    "employment": "Tip 18 to 20 percent at restaurants (US norms apply). The post-Maria and post-pandemic tourism economy depends on visitors who spend locally.",
+    "education": "Read about Puerto Rican history (Taíno, Spanish colonial, the 1898 US annexation, the Jones Act, the statehood debate, Hurricane Maria 2017 and its aftermath, the contemporary diaspora). Visit the Museo de Arte de Puerto Rico (MAPR) and El Morro.",
+    "ecology": "Reef-safe sunscreen is encouraged across the Caribbean. El Yunque is the only US tropical rainforest in the National Forest system; stay on trails. The bioluminescent bays (Mosquito Bay in Vieques is the most famous) are fragile; use only certified operators."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "US citizens and US permanent residents need no passport for Puerto Rico (it is a US commonwealth). International visitors enter as if entering the US: ESTA or B-2 visa depending on nationality; verify on the official US State Department portal.",
+      "El Morro and San Cristóbal forts (San Juan National Historic Site) are managed by the US National Park Service; entry fee small; verify on the NPS portal.",
+      "El Yunque National Forest entry fee at the gate or pre-paid on Recreation.gov; some trails require reservations.",
+      "For bioluminescent bay tours in Vieques (Mosquito Bay), Fajardo (Laguna Grande), or La Parguera, choose operators using non-motorised kayaks; verify on Discover Puerto Rico.",
+      "The new Tren Urbano Metro serves only one route (San Juan to Bayamón); rental car, Uber, or taxi for everything else."
+    ],
+    "icu": [
+      "El Nuevo Día (Spanish) and The San Juan Daily Star (English) for current Puerto Rican news.",
+      "Discover Puerto Rico (the official tourism site) for events and openings.",
+      "A Puerto Rican author: Esmeralda Santiago; Rosario Ferré; Eduardo Lalo (Simone).",
+      "A locally led Old San Juan walking tour or food tour with a Puerto Rican guide.",
+      "Wikivoyage Puerto Rico for orientation."
+    ],
+    "iinter": [
+      "You decide on the El Yunque day. A serious 4 to 6 hour visit; the La Mina Falls trail is the classic; verify trail status on Recreation.gov.",
+      "You decide on the lechón road. Guavate (the Ruta del Lechón) is one of the world's great roadside-food experiences; 45 minutes by car; Saturday/Sunday afternoon is the local time.",
+      "You decide on the bio-bay. Vieques' Mosquito Bay is the world's brightest; the ferry to Vieques takes time and is unreliable. Fajardo's Laguna Grande is reachable from San Juan.",
+      "You decide on the beach. Condado is the postcard urban beach; Ocean Park is calmer; Luquillo (45 minutes east) is dramatically better and palm-lined.",
+      "You decide on day trips. Vieques, Culebra, Ponce (south coast colonial city), and Rincón (west coast surf) are all reachable."
+    ],
+    "ico": "San Juan weather is tropical and warm year-round; hurricane season runs June to November (peak August-October). Afternoon thunderstorms in summer are routine.\n\nBring a soft plan. If a hurricane warning approaches, plans must shift; have travel insurance. If a sudden rain shuts the beach, Old San Juan's forts, museums, and a leisurely Puerto Rican lunch absorb a wet afternoon. If the Vieques ferry is cancelled (common), Fajardo's bio-bay works."
+  },
+  "anchorSpots": [
+    "Old San Juan walking loop. El Morro, San Cristóbal, La Fortaleza, Plaza de Armas, Calle del Cristo, Calle San Sebastián.",
+    "El Yunque National Forest. The only US tropical rainforest; La Mina Falls trail; the lookout tower at Yokahú.",
+    "Guavate / Ruta del Lechón. Saturday-Sunday roadside lechón; 45 minutes by car from San Juan.",
+    "A bioluminescent bay tour (Mosquito Bay in Vieques if you can stay overnight, or Laguna Grande in Fajardo as a day-trip).",
+    "A Santurce evening: La Placita de Santurce. Real Puerto Rican salsa and food after dark."
+  ],
+  "recommendedLength": "Three to five days for San Juan and surroundings. Add days for Vieques, Culebra, or the west coast.",
+  "transportHint": "Walk in Old San Juan and Condado. Tren Urbano Metro is limited; Uber and rideshare for most trips. Renting a car for El Yunque, Guavate, and beach exploration. SJU airport is 20 minutes from Old San Juan.",
+  "prompt": "Please help me plan an ethical visit to San Juan and Puerto Rico for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Old San Juan history, food, El Yunque rainforest, bioluminescent bay, beaches]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Puerto Rico experiences I should not miss given my interests, and one I should consider skipping (a one-day Vieques attempt with unreliable ferry, a resort that doesn't leave Condado, a midday El Yunque without trail booking). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include US entry rules for international visitors (ESTA), the National Park Service for forts and El Yunque, Recreation.gov for trail reservations, bioluminescent bay operator certification, and Vieques ferry reliability.\n- **Information Curation.** Suggest at least four different source types: Discover Puerto Rico, a Puerto Rican news outlet (El Nuevo Día or The San Juan Daily Star), a Puerto Rican author (Santiago, Lalo, or Ferré), and a Puerto Rican walking or food guide.\n- **Inference Interaction.** List the decisions I personally need to make (El Yunque depth, Guavate visit, bio-bay choice, beach selection, day-trip islands).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, Vieques ferry cancellation, rain on El Yunque day, sargassum on a chosen beach).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include Old San Juan, one El Yunque half-day, and one local-food experience (Santurce or Guavate). Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Discover Puerto Rico, the National Park Service, Recreation.gov, and the US State Department for international entry.\n2. Real people: a Puerto Rican guide, a local resident, or hotel staff who live in San Juan now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 4568127,
+  "order": 84
+}

@@ -30,7 +30,7 @@ You come for the seafood, the beaches, the temples carved into cliffs, and a les
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **K-ETA (Korea Electronic Travel Authorization)** is required for many visa-waiver nationalities; verify your status on the official K-ETA portal before booking flights.
 - The **Busan Metro** has four lines; tap a Cashbee or T-money card or use contactless on most lines.
@@ -38,7 +38,7 @@ You come for the seafood, the beaches, the temples carved into cliffs, and a les
 - Verify any **Jagalchi Market guided tour** operates with a licensed Busan guide; tasting tours are excellent if properly run.
 - **Beach water safety:** verify current beach flags and warnings on the Busan municipal beach portal; jellyfish and currents are seasonal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Korea Herald** and **Korea JoongAng Daily** (English-language Korean newspapers) for national and Busan news.
 - **Visit Busan** (the official city tourism site) for events, openings, and seasonal advisories.
@@ -46,7 +46,7 @@ You come for the seafood, the beaches, the temples carved into cliffs, and a les
 - A locally led Gamcheon walking tour, ideally with a guide based in the village.
 - **Wikivoyage Busan** for area orientation; the city is spread along the coast and metro lines.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your base.** Seomyeon (central, restaurants, nightlife) versus Haeundae (beach, modern) versus Nampo-dong (old town, market) gives wildly different days.
 - **You decide on BIFF.** If your dates align, the festival is genuinely worth planning around; book early.
@@ -54,7 +54,7 @@ You come for the seafood, the beaches, the temples carved into cliffs, and a les
 - **You decide on Jagalchi etiquette.** Pointing at fish to be cooked upstairs is the system; do not haggle aggressively, and tip the cooking auntie modestly even if not customary.
 - **You decide on temple dress and behaviour.** Haedong Yonggungsa is a working Buddhist temple; cover shoulders, lower voices, no flash photography of monks.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Busan weather is humid and dramatic; typhoons reach the coast late summer through early autumn. The film festival fills the city in October. National holidays (Chuseok, Lunar New Year) close many businesses for several days.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Busan experiences I should not miss given my interests, and one I should consider skipping (an over-marketed beach club, a tourist-priced seafood spot, a packed day trip that should be an overnight). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the K-ETA on the official portal, Jagalchi Market etiquette, BIFF dates and ticketing if relevant, temple dress codes, and Busan beach conditions.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Korean or Busan source, one English-language Korean newspaper, one Korean author, and one local Gamcheon or Jagalchi-based guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, BIFF or no, day-trip ambition, market etiquette, temple behaviour).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (typhoon warning, beach closure, Chuseok closures, BIFF overcrowding).
+> - **Governance Management.** What assumptions should I check before I book? Include the K-ETA on the official portal, Jagalchi Market etiquette, BIFF dates and ticketing if relevant, temple dress codes, and Busan beach conditions.
+> - **Information Curation.** Suggest at least four different source types: one official Korean or Busan source, one English-language Korean newspaper, one Korean author, and one local Gamcheon or Jagalchi-based guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, BIFF or no, day-trip ambition, market etiquette, temple behaviour).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon warning, beach closure, Chuseok closures, BIFF overcrowding).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, metro lines, and named neighbourhoods. Include at least one Jagalchi seafood meal and one seaside temple visit. Mark each business as confidently locally owned, or flag it for me to verify.
 >

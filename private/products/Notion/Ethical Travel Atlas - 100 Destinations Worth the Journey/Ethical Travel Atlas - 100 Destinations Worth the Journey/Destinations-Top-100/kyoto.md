@@ -30,7 +30,7 @@ You come for the temples, the gardens, the kaiseki cuisine, and a chance to enga
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short stays** in Japan; verify on the official Ministry of Foreign Affairs portal.
 - **Kinkaku-ji, Ginkaku-ji, Ryōan-ji, Tofukuji** sell tickets at the gate; verify hours on the official temple portals. **Kiyomizu-dera** is most crowded; early morning is essential.
@@ -38,7 +38,7 @@ You come for the temples, the gardens, the kaiseki cuisine, and a chance to enga
 - **Geiko private banquets** are bookable only through *o-chaya* (teahouses) with introduction; tourist-targeted "geiko shows" are usually staged for visitors.
 - **Short-term rentals** must be licensed under Kyoto's strict *minpaku* law; verify the licence number on the listing.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Japan Times** and **Kyoto Shimbun** (English website) for current news.
 - The official **Kyoto City Tourism** portal for events, openings, and overtourism advisories.
@@ -46,7 +46,7 @@ You come for the temples, the gardens, the kaiseki cuisine, and a chance to enga
 - A licensed Kyoto walking guide (the Walk Japan slow-walking tours, Kyoto Free Walking Tour, or InsideKyoto resources).
 - **Wikivoyage Kyoto** for ward orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Gion timing and behaviour.** Specific narrow lanes in Gion (around Hanamikoji and the Shirakawa area) have photography bans and enforcement. Respect them; do not chase geiko.
 - **You decide on Kinkaku-ji and Fushimi Inari timing.** Both are best very early (Kinkaku-ji opens at 9 am; Fushimi Inari is 24-hour). Midday is brutal.
@@ -54,7 +54,7 @@ You come for the temples, the gardens, the kaiseki cuisine, and a chance to enga
 - **You decide on a kaiseki dinner.** A traditional kaiseki meal at a registered ryotei or ryokan is one of Japan's great culinary experiences; book months ahead.
 - **You decide on Arashiyama.** The bamboo grove is photographed everywhere; it is also a 200-metre stroll. The wider area (Tenryū-ji, Ōkōchi Sansō villa) is the actual destination.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Kyoto weather is four-season and intense. Cherry blossom (late March to early April) and autumn foliage (mid-November) fill the city to capacity; summer is hot and humid; winter is cold and occasionally snowy. Major matsuri (festivals) reshape specific neighbourhoods (Gion Matsuri in July, Jidai Matsuri in October).
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Kyoto experiences I should not miss given my interests, and one I should consider skipping (a midday Fushimi Inari lower loop, an unlicensed short-term rental, chasing geiko in Gion). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Japanese visa-exempt status, official temple portals for hours, Kyoto minpaku licensing for any short-term rental, Gion photography ban zones, and IC card setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Japanese or Kyoto source, one Japanese English news outlet, one Japanese author, and one licensed Kyoto guide or walking tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Gion timing and behaviour, temple selection, kaiseki commitment, Arashiyama timing, transport choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (cherry-blossom or foliage crowds, a sold-out kaiseki, a temple closure for a festival, rain on a temple-walk day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Japanese visa-exempt status, official temple portals for hours, Kyoto minpaku licensing for any short-term rental, Gion photography ban zones, and IC card setup.
+> - **Information Curation.** Suggest at least four different source types: one official Japanese or Kyoto source, one Japanese English news outlet, one Japanese author, and one licensed Kyoto guide or walking tour.
+> - **Inference Interaction.** List the decisions I personally need to make (Gion timing and behaviour, temple selection, kaiseki commitment, Arashiyama timing, transport choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (cherry-blossom or foliage crowds, a sold-out kaiseki, a temple closure for a festival, rain on a temple-walk day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named temples and neighbourhoods. Include at least one very early morning (Fushimi Inari or Kiyomizu before 7 am) and one kaiseki or ryokan dinner if my budget allows. Mark each business as confidently locally owned and licensed, or flag for me to verify.
 >

@@ -140,18 +140,29 @@ parameter, which Drive preserves.
 
 ### Search widgets (`WIDGETS` in `src/affiliate.js`)
 Travelpayouts widgets are external `<script>` embeds, which are static friendly.
-- Configured by key: `flightSearch`, `hotelSearch`, `toursSearch`.
+- Configured by key: `flightSearch`, `flightCompensation`, `hotelSearch`, `toursSearch`.
 - Each entry holds a `src` (paste the widget script URL from the dashboard).
 - While `src` is empty, a styled fallback button is shown, so nothing looks
   broken before the ids are added.
-- Rendered by `src/components/TravelWidget.jsx` (injects the script into a
-  container and cleans up on route change) and grouped by
+- `flightSearch` links to the full meta-search page at `/search/flights`.
+- `flightCompensation` uses the AirHelp embed (`tpemb.com`, promo 8679).
+- **Specific tours** on destination pages: WeGoTrip widget (promo 4489) with
+  `city_id` resolved at build time. **Full maintenance playbook: section 4.**
+- Rendered by `src/components/TravelWidget.jsx` and grouped by
   `src/components/TravelSearch.jsx`.
-- Placed on the Home page and in each Domain sidebar (mapped via `widgetKey` in
-  `src/data/domains.js`).
+- Placed on the Home page, `/search/flights`, and in each Domain sidebar
+  (mapped via `widgetKey` in `src/data/domains.js`).
 
 To activate a widget: build it in the dashboard (Tools > Widgets), copy the
 script src URL, and paste it into the matching `WIDGETS[...]src` value.
+
+### Flight meta-search page (`/search/flights`)
+White Label Web loader: `mountFlightMetaSearch()` in `src/affiliate.js`
+loads `tpemb.com/wl_web/main.js?wl_id=18249` and sets `TPWL_CONFIGURATION.resultsURL`
+to `https://travel.gyrogovernance.com/search/flights`.
+
+The React page provides `#tpwl-search`, `#tpwl-tickets`, and popular destination
+weedles. See `src/pages/FlightSearch.jsx`.
 
 ### Resources page (`/resources`)
 A curated, SEO friendly directory of programs by category. Links point at the
@@ -166,7 +177,93 @@ needed (for example `home-hero`, `guide-esim`).
 
 ---
 
-## 4. How we use this going forward (playbook)
+## 4. Destination tours widget (WeGoTrip) — maintenance
+
+Every Atlas destination page can show a **Specific Tours** widget (WeGoTrip via
+Travelpayouts, `promo_id=4489`, three tours). The widget URL is built in code;
+each destination gets a WeGoTrip **`city_id`** at build time.
+
+### How it works
+
+| Piece | Location |
+| --- | --- |
+| Widget URL builder | `buildToursWidgetSrc()` in `src/affiliate.js` (`TOURS_WIDGET`) |
+| UI on destination pages | `src/components/DestinationToursWidget.jsx` |
+| WeGoTrip city catalog | `scripts/data/wegotrip-cities.json` (generated, do not edit by hand) |
+| Slug → city matcher | `scripts/match-tours-city.mjs` |
+| `toursCityId` on each destination | `src/data/destinations.js` (generated) |
+
+The embed script reads **`city_id`** from the URL. That is the WeGoTrip numeric
+ID (from URLs like `wegotrip.com/paris-d123/` → `city_id=123`). SubID in the
+Travelpayouts widget builder is optional; **Content Analytics** already tracks
+each destination by page URL (`/destinations/{slug}`).
+
+We set `powered_by=false` in our embed URL and hide any leftover Travelpayouts
+badges with CSS, because the embed otherwise renders **two** “Powered by
+Travelpayouts” links. Our `DISCLOSURE` line under the widget satisfies the
+affiliate disclosure requirement.
+
+### Commands (run in order when refreshing)
+
+```bash
+# 1. Refresh WeGoTrip city list from their sitemap (~1100 cities)
+npm run tours-cities
+
+# 2. Re-match all 100 Atlas destinations and regenerate destinations.js
+npm run destinations
+
+# 3. Ship (build runs both scripts automatically)
+npm run build
+```
+
+After step 2, the console prints: `Tours widget: N/100 destinations matched
+WeGoTrip cities`. Expect **~84/100**; unmatched destinations simply omit the
+widget (no WeGoTrip coverage for that place).
+
+### When to run maintenance
+
+- **After adding or renaming** destinations in the Atlas markdown folder.
+- **Every few months**, or when tour widgets show wrong cities / empty iframes
+  (WeGoTrip adds cities to their sitemap).
+- **After changing** `SLUG_ALIASES` in `scripts/match-tours-city.mjs`.
+
+### Fixing a wrong or missing city match
+
+1. Open `scripts/data/wegotrip-cities.json` and search for the city slug
+   (e.g. `"slug": "paris"`).
+2. If the Atlas slug differs (e.g. `bali` → WeGoTrip uses `denpasar`), add an
+   entry to **`SLUG_ALIASES`** in `scripts/match-tours-city.mjs`:
+
+   ```js
+   "bali": "denpasar",
+   ```
+
+3. Re-run `npm run destinations` and confirm `toursCityId` on that destination
+   in `src/data/destinations.js`.
+
+### Changing widget settings
+
+Edit **`TOURS_WIDGET`** in `src/affiliate.js`:
+
+- `tours` — number of cards (default `3`)
+- `promoId` / `campaignId` — from Travelpayouts widget builder if you regenerate
+- `powered_by` — keep `false` unless you remove our CSS hide and accept double badges
+
+If the iframe is clipped or cards wrap awkwardly, the widget likely needs more
+**width** (it lives in `container-content`, not the narrow `max-w-3xl` article).
+Height is set automatically via WeGoTrip `[iFrameSizer]` postMessage in
+`src/components/ToursWidgetEmbed.jsx`. Adjust `min-height` on
+`.tours-widget-embed iframe` in `src/index.css` only if the first paint looks too
+short before resize messages arrive.
+
+### Files not to edit by hand
+
+- `src/data/destinations.js` — regenerated by `npm run destinations`
+- `scripts/data/wegotrip-cities.json` — regenerated by `npm run tours-cities`
+
+---
+
+## 5. How we use this going forward (playbook)
 
 1. Write genuinely useful travel content per domain. Drive only works on pages
    with real, travel related content.
@@ -183,7 +280,7 @@ needed (for example `home-hero`, `guide-esim`).
 
 ---
 
-## 5. Key documentation links
+## 6. Key documentation links
 
 - How to install Drive: https://support.travelpayouts.com/hc/en-us/articles/21844864838290-How-to-install-Drive-on-your-website
 - What is Drive: https://support.travelpayouts.com/hc/en-us/articles/21844777943058-What-is-Travelpayouts-Drive

@@ -30,7 +30,7 @@ You come for the medina, the riads, the food, the High Atlas day trips, and a se
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most Western nationals are **visa-exempt** for Morocco; verify on the Ministry of Foreign Affairs portal.
 - **Major sites** (Bahia Palace, El Badi Palace, Saadian Tombs, Majorelle Garden, YSL Museum) sell tickets at the gate or online; the **Majorelle and YSL** are timed-entry and crowded; book on their official portals.
@@ -38,7 +38,7 @@ You come for the medina, the riads, the food, the High Atlas day trips, and a se
 - For **hammam** experiences, distinguish between traditional public hammams (basic, local, cheap) and tourist riad hammams (luxury, expensive). Both are valid; know which you are choosing.
 - For **High Atlas day trips** (Imlil, Ourika Valley, Asni), use licensed operators and Berber guides; check for current weather and avalanche advisories in winter for Toubkal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Morocco World News** and **Hespress English** for current news.
 - The official **Moroccan National Tourist Office (ONMT)** for events and openings.
@@ -46,7 +46,7 @@ You come for the medina, the riads, the food, the High Atlas day trips, and a se
 - A licensed Marrakech medina guide; recommended through your riad.
 - **Wikivoyage Marrakech** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your riad.** A registered medina riad is the right default; chain hotels in Gueliz are options but miss the point.
 - **You decide on a licensed guide for the medina.** A first-day half-day with a guide is genuinely useful; the medina is a maze and freelancers will lead you to commission shops.
@@ -54,7 +54,7 @@ You come for the medina, the riads, the food, the High Atlas day trips, and a se
 - **You decide on the snake charmers and monkeys.** Animal welfare in the Jemaa el-Fna is genuinely poor; photographing them is paid (often demanded), and the demand drives the practice. Decline to engage if you have an opinion.
 - **You decide on the Atlas day trip.** Imlil for Toubkal foothills, Ourika for waterfalls, Asni for valleys, Aït Benhaddou for the kasbah and onward to Ouarzazate. Pick one and do it properly.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Marrakech weather is dry and hot. Summer (June to August) is brutally hot, especially midday; autumn and spring are ideal; winters are cool with sharp temperature drops at night. Ramadan reshapes daytime eating. Friday afternoon prayer reshapes Friday.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Marrakech experiences I should not miss given my interests, and one I should consider skipping (a chain hotel in Gueliz when a riad is steps better, a snake-charmer or monkey photo, a commission-shop tour with an unlicensed guide). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Moroccan visa-exempt status, riad official registration, Majorelle and YSL timed-entry tickets, licensed medina-guide booking through my riad, and Atlas-day-trip operator licensing.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Moroccan source, one Moroccan news outlet, one Moroccan author, and one licensed Marrakech medina guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (riad vs chain hotel, licensed-guide commitment, souk haggling style, animal-encounter ethics in Jemaa el-Fna, Atlas day choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (midday heat, Friday prayer closures, Ramadan timing, Atlas weather closure).
+> - **Governance Management.** What assumptions should I check before I book? Include Moroccan visa-exempt status, riad official registration, Majorelle and YSL timed-entry tickets, licensed medina-guide booking through my riad, and Atlas-day-trip operator licensing.
+> - **Information Curation.** Suggest at least four different source types: one official Moroccan source, one Moroccan news outlet, one Moroccan author, and one licensed Marrakech medina guide.
+> - **Inference Interaction.** List the decisions I personally need to make (riad vs chain hotel, licensed-guide commitment, souk haggling style, animal-encounter ethics in Jemaa el-Fna, Atlas day choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (midday heat, Friday prayer closures, Ramadan timing, Atlas weather closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named medina sites. Include one Atlas day, one hammam, and at least one sunset on Jemaa el-Fna. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the caldera, the Bronze Age, the wine, the geology, and you accept 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Akrotiri Archaeological Site** sells tickets at the gate; verify hours.
@@ -38,7 +38,7 @@ You come for the caldera, the Bronze Age, the wine, the geology, and you accept 
 - **Ferries** from Athens (Piraeus, Rafina) take 5 to 8 hours by conventional or 4 to 5 hours by high-speed; verify on Aegean Ferries or Hellenic Seaways.
 - **Cruise schedules:** verify the Santorini cruise-day schedule (specific days have dramatically more crowds in Fira).
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Kathimerini English edition** for Greek news.
 - The official **Greek Tourism Organization** site for ferry status and events.
@@ -46,7 +46,7 @@ You come for the caldera, the Bronze Age, the wine, the geology, and you accept 
 - A Santorini resident-led walking tour or wine guide.
 - **Wikivoyage Santorini** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the sunset.** Oia is the postcard; it is also a crush. Sunset from Imerovigli (the "Skaros Rock" walk) or from Pyrgos (the highest village) is calmer.
 - **You decide on the donkey.** Walking up from Fira old port is steep but achievable; the cable car is the recommended alternative; the donkey rides involve animal-welfare concerns.
@@ -54,7 +54,7 @@ You come for the caldera, the Bronze Age, the wine, the geology, and you accept 
 - **You decide on the wine experience.** Three to four wineries in a half-day with a driver is the right depth; one each at noon and after-sunset works if you walk.
 - **You decide on caldera-edge vs inland.** Caldera-edge hotels are the postcard view at premium prices; inland villages are dramatically cheaper and offer a different stay.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Santorini summers are hot and dry; the meltemi wind shapes the season; cruise-ship days double the daytime crowds. The island largely closes outside the May to October window.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Santorini experiences I should not miss given my interests, and one I should consider skipping (the worst of the Oia sunset crush, a donkey ride at Fira port, a caldera-edge restaurant at peak hour). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, Akrotiri hours, wine-estate booking portals, ferry operators, and cruise-ship schedules for the daytime crowd.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Greek source, one Kathimerini-level news outlet, one Santorini archaeology book, and one Santorini resident-led guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (sunset spot, donkey ethics, caldera-edge vs inland, wine depth, ATV vs car safety).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (meltemi wind cancelling boats, a cruise-day Fira flood, heatwave, sold-out high-season ferry).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, Akrotiri hours, wine-estate booking portals, ferry operators, and cruise-ship schedules for the daytime crowd.
+> - **Information Curation.** Suggest at least four different source types: one official Greek source, one Kathimerini-level news outlet, one Santorini archaeology book, and one Santorini resident-led guide.
+> - **Inference Interaction.** List the decisions I personally need to make (sunset spot, donkey ethics, caldera-edge vs inland, wine depth, ATV vs car safety).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (meltemi wind cancelling boats, a cruise-day Fira flood, heatwave, sold-out high-season ferry).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named villages and sites. Include Akrotiri and a wine half-day. Mark each business as confidently locally owned, or flag for me to verify.
 >

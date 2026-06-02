@@ -1,0 +1,52 @@
+{
+  "slug": "london",
+  "name": "London",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "image": "/destinations/london.jpg",
+  "teaser": "London is the British capital, a Thames-bisected megacity of around nine million, and one of the world's three or four most visited cities. Roman bones, medieval City walls, Tudor palaces, Georgian terraces, Victorian railway architecture, and twenty-first-century glass towers all share the same square miles.",
+  "intro": "London is the British capital, a Thames-bisected megacity of around nine million, and one of the world's three or four most visited cities. Roman bones, medieval City walls, Tudor palaces, Georgian terraces, Victorian railway architecture, and twenty-first-century glass towers all share the same square miles.",
+  "whyVisit": "London concentrates more world-class museums, theatres, and historic spaces in a single city than almost anywhere on Earth, and most of the great museums are free. The British Museum, the National Gallery, Tate Modern, the V&A, the Natural History Museum, and the British Library each justify a half day or full day. The West End is the most active English-language theatre district in the world.\n\nThe city is also a working capital with serious housing-affordability and tourism-pressure conversations, and a post-Brexit re-positioning still unfolding. Visiting respectfully means engaging the actual London beyond the Westminster postcard.",
+  "ethicalCompass": {
+    "economy": "Eat at neighbourhood places in Brixton, Peckham, Dalston, Hackney, Tooting, Whitechapel, and Soho's side streets, not only Leicester Square chains. Buy at Borough Market or smaller weekly markets (Maltby Street, Broadway Market), not the airport gift shops.",
+    "employment": "Tip 12.5 percent at sit-down restaurants (often added as \"service\" already; check). Tip a pound or two for table service at pubs is uncommon; tipping bar staff at cocktail bars is appreciated.",
+    "education": "Read about Empire, slavery, and the contemporary debates around museum collections (the British Museum's Parthenon marbles and Benin bronzes are live conversations). Visit the Museum of London Docklands and the International Slavery Museum exhibits to balance the Empire narratives elsewhere.",
+    "ecology": "Use the Tube, buses, and walking. The Ultra Low Emission Zone (ULEZ) covers most of London; driving is expensive and discouraged. Cycle hire (Santander) works for confident cyclists. Refill water; tap is safe."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most visitors need an ETA (UK Electronic Travel Authorization) or a visa; verify on the official UK government portal.",
+      "Tower of London, Westminster Abbey, St Paul's Cathedral, Tower Bridge sell timed tickets on official portals; book ahead in peak season.",
+      "British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum are free general admission; special exhibitions are ticketed.",
+      "Theatre tickets: book on the venue's official website, the official TKTS booth in Leicester Square (same-day discount), or trusted vendors. Beware resale-only sites.",
+      "Tube and bus: tap contactless or Oyster; the daily and weekly cap is automatic."
+    ],
+    "icu": [
+      "The Guardian and BBC London for serious British news.",
+      "Time Out London and Visit London (official) for events, openings, and current advisories.",
+      "A London author: Charles Dickens (canonical); Zadie Smith (Willesden and beyond); Hanif Kureishi (1980s and 1990s); Bernardine Evaristo.",
+      "A locally led East End, Brixton, or Notting Hill walking tour for a non-Westminster perspective.",
+      "Wikivoyage London for transport and district orientation."
+    ],
+    "iinter": [
+      "You decide on the museum strategy. A day per major museum is the right pace; trying to do three in a day burns out everyone involved.",
+      "You decide on theatre. A West End musical, a Shakespeare at the Globe, or a National Theatre production are all valid; the Globe is uncovered and seasonal.",
+      "You decide on royal visits. Buckingham Palace State Rooms open in summer only (verify); Kensington Palace is year-round; Hampton Court is the Tudor masterpiece outside the centre.",
+      "You decide your engagement with Empire history. The British Museum is a serious place to think about provenance; the way you read those galleries is up to you.",
+      "You decide on Notting Hill Carnival. August Bank Holiday weekend; one of Europe's largest street festivals; a unique London experience if your dates align."
+    ],
+    "ico": "London weather is famously variable. Tube strikes, line closures, and engineering works happen regularly; Network Rail and Transport for London publish updates. Major events (state occasions, marathons, Notting Hill Carnival, big sport) reshape transport on short notice.\n\nBring a soft plan. If a Tube line is closed, the bus network or walking covers most of central London. If rain shuts down a park-walk plan, the great museums absorb wet days indefinitely. If a theatre show is sold out, TKTS at Leicester Square has same-day options."
+  },
+  "anchorSpots": [
+    "British Museum + a long lunch. Three to four hours; the Rosetta Stone, the Elgin Marbles (think about provenance), the Mesopotamia and Egyptian galleries.",
+    "Tate Modern + walk across the Millennium Bridge to St Paul's. Free general admission; the view from the top floor is one of London's best.",
+    "A Royal Parks walk: Hyde Park, Kensington Gardens, St James's, Green Park, Regent's Park. London is greener than most visitors realise.",
+    "A West End theatre evening or Shakespeare at the Globe. Book on the official portals.",
+    "An East End or South London neighbourhood walk: Brick Lane, Spitalfields, Brixton, Peckham. A different London from the Westminster postcard."
+  ],
+  "recommendedLength": "Three to five days for a first visit. A week if you want to add day trips (Oxford, Cambridge, Bath, Stonehenge) or do museums in depth.",
+  "transportHint": "The Underground (Tube) plus buses cover almost everything; contactless or Oyster, with automatic daily and weekly caps. The Elizabeth Line has dramatically improved east-west and airport links. National Rail for day trips. London Heathrow (LHR) connects by Underground Piccadilly Line or Heathrow Express; Gatwick (LGW), Stansted (STN), Luton (LTN), and City (LCY) all have rail or coach options.",
+  "prompt": "Please help me plan an ethical visit to London, United Kingdom for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. museums, theatre, food, Empire history, day trips]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three London experiences I should not miss given my interests, and one I should consider skipping (a Leicester Square chain restaurant, a queue-only Tower visit on a peak day, a resale-marked-up theatre ticket). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the UK ETA, official ticketing for Tower of London/Westminster Abbey/St Paul's, free general admission for major national museums, theatre ticketing through venues or TKTS, and contactless/Oyster for transport.\n- **Information Curation.** Suggest at least four different source types: one official UK source, one British news outlet (Guardian or BBC), one London author, and one neighbourhood-based walking host outside Westminster.\n- **Inference Interaction.** List the decisions I personally need to make (museum pacing, theatre choice, royal-palace selection, Empire-history engagement, neighbourhood exploration).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a Tube strike, sudden rain, a sold-out show, a state-event street closure).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Tube lines, and named neighbourhoods. Include at least one major museum, one theatre or live show, and one neighbourhood beyond Westminster (East End, Brixton, Notting Hill, or Hackney). Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit London, Transport for London, the official museum and venue portals, and the UK government ETA portal.\n2. Real people: a local resident, a London guide, or hotel staff who live in London now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 2643743,
+  "order": 47
+}

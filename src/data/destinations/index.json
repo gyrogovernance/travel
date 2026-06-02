@@ -1,0 +1,1028 @@
+{
+  "regions": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "Americas",
+    "Oceania"
+  ],
+  "featuredSlugs": [
+    "tokyo",
+    "kyoto",
+    "cairo",
+    "cape-town",
+    "london",
+    "paris",
+    "rome",
+    "venice",
+    "new-york-city",
+    "mexico-city",
+    "rio-de-janeiro",
+    "sydney",
+    "bali",
+    "istanbul",
+    "machu-picchu"
+  ],
+  "destinations": [
+    {
+      "slug": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "region": "Asia",
+      "order": 1,
+      "image": "/destinations/abu-dhabi.jpg",
+      "teaser": "Abu Dhabi is the quieter, more deliberate cousin of Dubai. The capital of the UAE keeps its wealth visible but its volume lower. A great mosque, a Louvre on the sea, mangroves a metro stop from oil towers, and a desert that begins the moment the city ends.",
+      "toursCityId": 292968
+    },
+    {
+      "slug": "bali",
+      "name": "Bali",
+      "country": "Indonesia",
+      "region": "Asia",
+      "order": 2,
+      "image": "/destinations/bali.jpg",
+      "teaser": "Bali is the small Hindu island in a vast Muslim archipelago, a working ceremonial culture wrapped around terraced rice fields and volcanic ridges, and the most pressure-tested mass-tourism destination in Southeast Asia. How you visit here matters more than at almost any other beach destination on this list.",
+      "toursCityId": 1645528
+    },
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "region": "Asia",
+      "order": 3,
+      "image": "/destinations/bangkok.jpg",
+      "teaser": "Bangkok (Krung Thep) is one of the most visited cities on Earth and a working Thai capital of nearly ten million. Royal temples and a tropical river at the centre, a vast street-food culture, and a relentless 24-hour energy that locals navigate by motorbike and BTS Skytrain.",
+      "toursCityId": 1609350
+    },
+    {
+      "slug": "beijing",
+      "name": "Beijing",
+      "country": "China",
+      "region": "Asia",
+      "order": 4,
+      "image": "/destinations/beijing.jpg",
+      "teaser": "Beijing is the political and cultural capital of China, an imperial city of more than 800 years overlaid by a modern megacity of 21 million. The Forbidden City still anchors the axis. The Great Wall begins (and never quite ends) a couple of hours from your hotel.",
+      "toursCityId": 1816670
+    },
+    {
+      "slug": "busan",
+      "name": "Busan",
+      "country": "South Korea",
+      "region": "Asia",
+      "order": 5,
+      "image": "/destinations/busan.jpg",
+      "teaser": "Busan is South Korea's second city and largest port, a Pacific-facing coastline of beaches, fishing villages, and high-rises wrapped around mountains and a working harbour. The country's seafood capital, the country's film festival capital, and a quietly different rhythm from Seoul.",
+      "toursCityId": null
+    },
+    {
+      "slug": "delhi",
+      "name": "Delhi",
+      "country": "India",
+      "region": "Asia",
+      "order": 6,
+      "image": "/destinations/delhi.jpg",
+      "teaser": "Delhi is India's national capital and one of the world's largest urban areas, home to more than thirty million people across Old Delhi, New Delhi, and a dozen satellite cities. Seven historic capitals have been built on this plain over a thousand years; you can walk past four of them in a single afternoon.",
+      "toursCityId": 1273294
+    },
+    {
+      "slug": "dubai",
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Asia",
+      "order": 7,
+      "image": "/destinations/dubai.jpg",
+      "teaser": "Dubai is the largest city in the UAE and one of the world's most visited destinations, a global trade and transit hub built from a fishing and pearling town into a skyline of superlatives in roughly two generations. The Burj Khalifa, the Palm Jumeirah, the largest mall on Earth, and an underlying Bedouin and South Asian working population that the postcards rarely show.",
+      "toursCityId": 292223
+    },
+    {
+      "slug": "hanoi",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "region": "Asia",
+      "order": 8,
+      "image": "/destinations/hanoi.jpg",
+      "teaser": "Hanoi (Hà Nội) is Vietnam's capital, a thousand-year-old city on the Red River where Confucian, French colonial, and Communist-era layers stack visibly on top of each other. A city of around 8.5 million, lake-centred, motorbike-busy, and the gateway to Ha Long Bay and northern Vietnam.",
+      "toursCityId": null
+    },
+    {
+      "slug": "ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "region": "Asia",
+      "order": 9,
+      "image": "/destinations/ho-chi-minh-city.jpg",
+      "teaser": "Ho Chi Minh City (still widely called Sài Gòn, especially by residents) is Vietnam's largest city and economic capital, a Mekong-delta-edge metropolis of around nine million people. Younger, hotter, busier, and more commercially driven than Hanoi; the heart of Vietnam's post-1986 economic transformation.",
+      "toursCityId": null
+    },
+    {
+      "slug": "hong-kong",
+      "name": "Hong Kong",
+      "country": "China",
+      "region": "Asia",
+      "order": 10,
+      "image": "/destinations/hong-kong.jpg",
+      "teaser": "Hong Kong is a special administrative region of China and one of the world's most densely built cities, a Cantonese-speaking, British-colonial-shaped harbour metropolis of roughly 7.5 million packed onto Hong Kong Island, Kowloon, the New Territories, and 200 smaller islands. The skyline, the dim sum, the trams, and the protected country parks (40 percent of the territory) all share the same compact geography.",
+      "toursCityId": 1819729
+    },
+    {
+      "slug": "istanbul",
+      "name": "Istanbul",
+      "country": "Turkiye",
+      "region": "Asia",
+      "order": 11,
+      "image": "/destinations/istanbul.jpg",
+      "teaser": "Istanbul is the only city in the world built on two continents, a 16-million-person Turkish metropolis straddling the Bosphorus strait between Europe and Asia. Capital of three empires (Roman, Byzantine, Ottoman) and still one of the world's great trade and cultural crossroads.",
+      "toursCityId": 745044
+    },
+    {
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "country": "India",
+      "region": "Asia",
+      "order": 12,
+      "image": "/destinations/jaipur.jpg",
+      "teaser": "Jaipur is the capital of Rajasthan, India's \"Pink City\" of around four million on the edge of the Thar desert. The eighteenth-century planned royal capital of the Kachwaha Rajputs, UNESCO-listed for its walled old city, and the western corner of India's classic Golden Triangle (Delhi, Agra, Jaipur).",
+      "toursCityId": 1269515
+    },
+    {
+      "slug": "kyoto",
+      "name": "Kyoto",
+      "country": "Japan",
+      "region": "Asia",
+      "order": 13,
+      "image": "/destinations/kyoto.jpg",
+      "teaser": "Kyoto (京都) is Japan's imperial capital for more than a thousand years, a city of around 1.4 million in central Honshu that holds the highest concentration of UNESCO-listed Buddhist temples, Shinto shrines, traditional gardens, and machiya townhouses in the country. The cultural heart of Japan, and one of the most pressure-tested by overtourism.",
+      "toursCityId": 1857910
+    },
+    {
+      "slug": "mumbai",
+      "name": "Mumbai",
+      "country": "India",
+      "region": "Asia",
+      "order": 14,
+      "image": "/destinations/mumbai.jpg",
+      "teaser": "Mumbai (formerly Bombay) is India's financial capital and largest city, a 21-million-person Arabian Sea metropolis on a chain of seven reclaimed islands. Home to Bollywood, the Bombay Stock Exchange, India's most concentrated wealth and its largest slum, and one of the most cinematic cities on Earth.",
+      "toursCityId": 1275339
+    },
+    {
+      "slug": "osaka",
+      "name": "Osaka",
+      "country": "Japan",
+      "region": "Asia",
+      "order": 15,
+      "image": "/destinations/osaka.jpg",
+      "teaser": "Osaka is Japan's third-largest city, a 2.7-million-person Kansai-region capital that has long been the country's commercial and food heart. Less imperial than Kyoto, less corporate than Tokyo, more direct in its dialect and humour, and one of the world's great street-food cities.",
+      "toursCityId": 1853909
+    },
+    {
+      "slug": "phuket",
+      "name": "Phuket",
+      "country": "Thailand",
+      "region": "Asia",
+      "order": 16,
+      "image": "/destinations/phuket.jpg",
+      "teaser": "Phuket is Thailand's largest island, a 550 square kilometre Andaman Sea hub of 600,000 residents and one of Asia's most-visited beach destinations. Mountainous interior, limestone-karst seascapes nearby (Phang Nga Bay, Phi Phi Islands), serious diving sites, and a complicated tourism economy.",
+      "toursCityId": 1151254
+    },
+    {
+      "slug": "seoul",
+      "name": "Seoul",
+      "country": "South Korea",
+      "region": "Asia",
+      "order": 17,
+      "image": "/destinations/seoul.jpg",
+      "teaser": "Seoul is the South Korean capital, a 10-million-person city in the wider 26-million Seoul metropolitan area, the world's fifth-largest metropolitan economy. Joseon-dynasty palaces, hanok villages, K-pop and K-drama global headquarters, and one of the most digitally connected and culinarily exciting cities on the planet.",
+      "toursCityId": 1835848
+    },
+    {
+      "slug": "shanghai",
+      "name": "Shanghai",
+      "country": "China",
+      "region": "Asia",
+      "order": 18,
+      "image": "/destinations/shanghai.jpg",
+      "teaser": "Shanghai is China's largest city, a 25-million-person Yangtze-delta megacity that is the country's commercial and financial capital. The Bund's colonial waterfront, Pudong's twenty-first-century skyline across the Huangpu River, the French Concession's tree-lined streets, and one of the world's most ambitious working cities.",
+      "toursCityId": 1796236
+    },
+    {
+      "slug": "singapore",
+      "name": "Singapore",
+      "country": "Singapore",
+      "region": "Asia",
+      "order": 19,
+      "image": "/destinations/singapore.jpg",
+      "teaser": "Singapore is the city-state at the southern tip of the Malay Peninsula, a 5.6-million-person island metropolis that is one of the world's wealthiest, safest, and most carefully engineered cities. A multicultural society (Chinese, Malay, Indian, Eurasian, and global expat communities), the world's third-busiest container port, and one of Asia's culinary capitals.",
+      "toursCityId": 1880252
+    },
+    {
+      "slug": "tokyo",
+      "name": "Tokyo",
+      "country": "Japan",
+      "region": "Asia",
+      "order": 20,
+      "image": "/destinations/tokyo.jpg",
+      "teaser": "Tokyo is the Japanese capital, a 14-million-person city centre with 37 million in the wider metropolitan area, the largest urban agglomeration in the world. Edo-era shogunate seat, imperial capital, twenty-first-century neon city, and one of the most rewarding cities on Earth to walk slowly through, neighbourhood by neighbourhood.",
+      "toursCityId": 1850147
+    },
+    {
+      "slug": "addis-ababa",
+      "name": "Addis Ababa",
+      "country": "Ethiopia",
+      "region": "Africa",
+      "order": 21,
+      "image": "/destinations/addis-ababa.jpg",
+      "teaser": "Addis Ababa sits at 2,400 metres on the Entoto plateau, the political and cultural heart of the only African nation never formally colonised. Coffee was first cultivated here, the African Union is headquartered here, and the city moves at the speed of long conversations in shared spaces.",
+      "toursCityId": null
+    },
+    {
+      "slug": "cairo",
+      "name": "Cairo",
+      "country": "Egypt",
+      "region": "Africa",
+      "order": 22,
+      "image": "/destinations/cairo.jpg",
+      "teaser": "Cairo (Al-Qāhirah) is the largest city in the Arab world and Africa, a 22 million-person megalopolis on the Nile with five thousand years of human settlement under its streets. Pharaonic, Coptic, Islamic, Ottoman, and modern Cairo all live in the same city; the Grand Egyptian Museum is the new front door.",
+      "toursCityId": 360630
+    },
+    {
+      "slug": "cape-town",
+      "name": "Cape Town",
+      "country": "South Africa",
+      "region": "Africa",
+      "order": 23,
+      "image": "/destinations/cape-town.jpg",
+      "teaser": "Cape Town (iKapa in Xhosa) sits at the south-western tip of Africa, wrapped around Table Mountain and two oceans, with a 350-year history of colonial trade, slavery, segregation, and resistance written into every neighbourhood. It is one of the world's most spectacular cities and one of the most unequal.",
+      "toursCityId": 3369157
+    },
+    {
+      "slug": "casablanca",
+      "name": "Casablanca",
+      "country": "Morocco",
+      "region": "Africa",
+      "order": 24,
+      "image": "/destinations/casablanca.jpg",
+      "teaser": "Casablanca (ad-Dār al-Bayḍāʾ) is Morocco's largest city and economic capital, a Atlantic-facing port of nearly four million, and the country's most modern face. Less postcard than Marrakech or Fes, more working metropolis, with the immense Hassan II Mosque on the ocean and a quietly excellent Art Deco core.",
+      "toursCityId": 2553604
+    },
+    {
+      "slug": "giza",
+      "name": "Giza",
+      "country": "Egypt",
+      "region": "Africa",
+      "order": 25,
+      "image": "/destinations/giza.jpg",
+      "teaser": "Giza is the city and necropolis on the west bank of the Nile across from Cairo, home to the only surviving wonder of the ancient world: the Great Pyramid of Khufu, the Pyramid of Khafre, the Pyramid of Menkaure, and the Great Sphinx. The Grand Egyptian Museum opened nearby as the new front door to Pharaonic Egypt.",
+      "toursCityId": 360630
+    },
+    {
+      "slug": "johannesburg",
+      "name": "Johannesburg",
+      "country": "South Africa",
+      "region": "Africa",
+      "order": 26,
+      "image": "/destinations/johannesburg.jpg",
+      "teaser": "Johannesburg (eGoli, \"place of gold\", in Zulu) is South Africa's largest city, the economic heart of the country, and Africa's most economically powerful urban area. A 130-year-old gold-rush town turned megalopolis of around six million in the city proper and ten million in Gauteng province, the centre of South African Black political and cultural life and the gateway to Kruger.",
+      "toursCityId": 993800
+    },
+    {
+      "slug": "kigali",
+      "name": "Kigali",
+      "country": "Rwanda",
+      "region": "Africa",
+      "order": 27,
+      "image": "/destinations/kigali.jpg",
+      "teaser": "Kigali is Rwanda's capital, a hill-laced city of around 1.7 million that has become one of Africa's safest and most orderly urban centres in the three decades since the 1994 genocide against the Tutsi. The gateway to mountain-gorilla trekking in Volcanoes National Park and to a national reckoning with one of the twentieth century's worst atrocities.",
+      "toursCityId": 202061
+    },
+    {
+      "slug": "kruger-national-park",
+      "name": "Kruger National Park",
+      "country": "South Africa",
+      "region": "Africa",
+      "order": 28,
+      "image": "/destinations/kruger-national-park.jpg",
+      "teaser": "Kruger National Park is South Africa's flagship wildlife reserve, a roughly two-million-hectare protected savannah along the Mozambican border. Home to the \"Big Five\" (lion, leopard, elephant, rhino, buffalo) and one of the most accessible and well-managed big-game reserves in Africa, run by SANParks with private concessions on its edges.",
+      "toursCityId": 993800
+    },
+    {
+      "slug": "lagos",
+      "name": "Lagos",
+      "country": "Nigeria",
+      "region": "Africa",
+      "order": 29,
+      "image": "/destinations/lagos.jpg",
+      "teaser": "Lagos is Africa's largest city by metropolitan population, a working megacity of around 22 million on the southwestern Nigerian coast. Commercial capital of West Africa, the heart of Afrobeats and Nollywood, a Yoruba-cultural anchor, and one of the most economically dynamic places on the continent.",
+      "toursCityId": 2267226
+    },
+    {
+      "slug": "maasai-mara",
+      "name": "Maasai Mara",
+      "country": "Kenya",
+      "region": "Africa",
+      "order": 30,
+      "image": "/destinations/maasai-mara.jpg",
+      "teaser": "The Maasai Mara National Reserve is Kenya's flagship wildlife reserve, a roughly 1,500 square kilometre stretch of savannah in the south-west of the country, continuous with the Serengeti across the Tanzanian border. Home to the annual Great Migration river crossings, exceptional big-cat density, and Maasai pastoralist communities whose land surrounds and includes the conservancies.",
+      "toursCityId": 184745
+    },
+    {
+      "slug": "marrakech",
+      "name": "Marrakech",
+      "country": "Morocco",
+      "region": "Africa",
+      "order": 31,
+      "image": "/destinations/marrakech.jpg",
+      "teaser": "Marrakech is the \"Red City\", a thousand-year-old imperial capital at the edge of the Atlas Mountains in central Morocco. UNESCO-listed medina, working souks, palace gardens, and a famous main square (Jemaa el-Fna) that transforms from market to outdoor stage every evening. The country's most-visited city after Casablanca.",
+      "toursCityId": null
+    },
+    {
+      "slug": "nairobi",
+      "name": "Nairobi",
+      "country": "Kenya",
+      "region": "Africa",
+      "order": 32,
+      "image": "/destinations/nairobi.jpg",
+      "teaser": "Nairobi is the Kenyan capital, a 5 million-person East African business and political hub at the eastern edge of the Great Rift Valley. The only major capital with a national park within its city limits; the gateway to Kenya's safari circuit; and the diplomatic heart of East Africa.",
+      "toursCityId": 184745
+    },
+    {
+      "slug": "serengeti-national-park",
+      "name": "Serengeti National Park",
+      "country": "Tanzania",
+      "region": "Africa",
+      "order": 33,
+      "image": "/destinations/serengeti-national-park.jpg",
+      "teaser": "The Serengeti is Tanzania's flagship national park, a 15,000-square-kilometre savannah in the north of the country, continuous with Kenya's Maasai Mara. UNESCO World Heritage-listed, home to the largest annual mammal migration on Earth (around 1.5 million wildebeest, 250,000 zebra, and the predators that follow them), and one of the planet's most studied ecosystems.",
+      "toursCityId": null
+    },
+    {
+      "slug": "victoria-falls",
+      "name": "Victoria Falls",
+      "country": "Zambia and Zimbabwe",
+      "region": "Africa",
+      "order": 34,
+      "image": "/destinations/victoria-falls.jpg",
+      "teaser": "Victoria Falls (Mosi-oa-Tunya, \"the smoke that thunders\" in local Lozi) is the world's largest waterfall by combined width and height, on the Zambezi River between Zambia and Zimbabwe. UNESCO World Heritage-listed on both sides, twice the height of Niagara and one-and-a-half times wider, and the centre of one of southern Africa's premier nature-tourism circuits.",
+      "toursCityId": null
+    },
+    {
+      "slug": "zanzibar",
+      "name": "Zanzibar",
+      "country": "Tanzania",
+      "region": "Africa",
+      "order": 35,
+      "image": "/destinations/zanzibar.jpg",
+      "teaser": "Zanzibar is a Tanzanian archipelago in the Indian Ocean off the East African coast, consisting of the main island of Unguja, smaller Pemba, and several islets. Stone Town (UNESCO World Heritage) is the historic urban centre, a Swahili-Arab-Indian-Portuguese fusion city; the beaches of the north and east coasts are some of the most beautiful in East Africa.",
+      "toursCityId": null
+    },
+    {
+      "slug": "amsterdam",
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "region": "Europe",
+      "order": 36,
+      "image": "/destinations/amsterdam.jpg",
+      "teaser": "Amsterdam fits a Golden Age, a global art collection, a colonial reckoning, and a quietly radical urban plan into a UNESCO ring of canals you can walk across in twenty minutes. It is also one of the most pressure-tested tourism cities in Europe, and openly trying to design a different relationship with its visitors.",
+      "toursCityId": 2759794
+    },
+    {
+      "slug": "athens",
+      "name": "Athens",
+      "country": "Greece",
+      "region": "Europe",
+      "order": 37,
+      "image": "/destinations/athens.jpg",
+      "teaser": "A few hours in Athens will teach you that the past is not behind glass here. It is the rock you walk around to find the metro, the marble polished by twenty-five centuries of feet, the argument shouted from a Kypseli balcony at midnight. Visit thoughtfully and the city gives back more than the photos suggest.",
+      "toursCityId": 264371
+    },
+    {
+      "slug": "barcelona",
+      "name": "Barcelona",
+      "country": "Spain",
+      "region": "Europe",
+      "order": 38,
+      "image": "/destinations/barcelona.jpg",
+      "teaser": "Barcelona is the capital of Catalonia, a Mediterranean port with Roman bones, Gothic walls, a nineteenth-century grid by Cerdà, and Gaudí's surrealist Modernisme draped across all of it. It is also one of the most active centres of the European anti-overtourism movement, and visiting respectfully here is not optional.",
+      "toursCityId": 3128760
+    },
+    {
+      "slug": "berlin",
+      "name": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "order": 39,
+      "image": "/destinations/berlin.jpg",
+      "teaser": "Berlin is the German capital of memory. Reunified for less than a long lifetime, the city wears its twentieth century openly: the Wall traces, the Holocaust memorials, the rebuilt Reichstag, the squat-turned-gallery, the techno club in the power station. It is also a working capital of 3.8 million, with a quietly aggressive housing politics.",
+      "toursCityId": 2950159
+    },
+    {
+      "slug": "budapest",
+      "name": "Budapest",
+      "country": "Hungary",
+      "region": "Europe",
+      "order": 40,
+      "image": "/destinations/budapest.jpg",
+      "teaser": "Budapest is two old cities (hilly Buda and flat Pest) on opposite banks of the Danube, stitched together by nine bridges and a parliament that looks like a wedding cake. Roman bones, Ottoman thermal baths, Habsburg facades, Soviet-era housing, and one of Central Europe's most active food and ruin-bar scenes.",
+      "toursCityId": 3054643
+    },
+    {
+      "slug": "copenhagen",
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "region": "Europe",
+      "order": 41,
+      "image": "/destinations/copenhagen.jpg",
+      "teaser": "Copenhagen (København) is the Danish capital, a city of around 660,000 built on islands between Sweden and the rest of Denmark. The world's most-cited urban-design model, a working bicycle city, the kitchen of New Nordic cuisine, and a quietly radical climate-adaptation programme.",
+      "toursCityId": 2618425
+    },
+    {
+      "slug": "dublin",
+      "name": "Dublin",
+      "country": "Ireland",
+      "region": "Europe",
+      "order": 42,
+      "image": "/destinations/dublin.jpg",
+      "teaser": "Dublin (Baile Átha Cliath) is the capital of the Republic of Ireland, a small Georgian-and-Viking city of around 1.4 million in the wider area, walkable end to end in an afternoon. It produced more literature per square mile than almost any city on Earth, and the music keeps coming.",
+      "toursCityId": 2964574
+    },
+    {
+      "slug": "edinburgh",
+      "name": "Edinburgh",
+      "country": "Scotland",
+      "region": "Europe",
+      "order": 43,
+      "image": "/destinations/edinburgh.jpg",
+      "teaser": "Edinburgh is the Scottish capital, a UNESCO-listed double city of medieval Old Town and Georgian New Town strung along volcanic ridges and an extinct volcano (Arthur's Seat). Home to the world's largest arts festival each August, the Scottish Parliament, and one of Europe's most photogenic skylines.",
+      "toursCityId": 2650225
+    },
+    {
+      "slug": "florence",
+      "name": "Florence",
+      "country": "Italy",
+      "region": "Europe",
+      "order": 44,
+      "image": "/destinations/florence.jpg",
+      "teaser": "Florence (Firenze) is the capital of Tuscany and the cradle of the Italian Renaissance, a small UNESCO city of around 380,000 along the Arno river. Birthplace of Michelangelo, Botticelli, Leonardo, and the modern Italian language, with a daily summer pressure of tourism that the historic centre struggles to absorb.",
+      "toursCityId": 3176959
+    },
+    {
+      "slug": "interlaken",
+      "name": "Interlaken",
+      "country": "Switzerland",
+      "region": "Europe",
+      "order": 45,
+      "image": "/destinations/interlaken.jpg",
+      "teaser": "Interlaken is a small Swiss town of around 5,500 people in the Bernese Oberland, perfectly placed between Lake Thun and Lake Brienz with the Eiger, Mönch, and Jungfrau alpine massif directly to the south. The gateway to the Jungfrau region's UNESCO Alpine landscapes and one of Europe's best-established mountain adventure bases.",
+      "toursCityId": null
+    },
+    {
+      "slug": "lisbon",
+      "name": "Lisbon",
+      "country": "Portugal",
+      "region": "Europe",
+      "order": 46,
+      "image": "/destinations/lisbon.jpg",
+      "teaser": "Lisbon (Lisboa) is the Portuguese capital, a hill-stacked Atlantic port-city of around 550,000 in the city proper and three million in the wider area. Tiled façades, yellow trams, fado music, and a 350-year-old earthquake-rebuilt grid in the Baixa give the city a melancholic-bright character of its own.",
+      "toursCityId": 2267057
+    },
+    {
+      "slug": "london",
+      "name": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "order": 47,
+      "image": "/destinations/london.jpg",
+      "teaser": "London is the British capital, a Thames-bisected megacity of around nine million, and one of the world's three or four most visited cities. Roman bones, medieval City walls, Tudor palaces, Georgian terraces, Victorian railway architecture, and twenty-first-century glass towers all share the same square miles.",
+      "toursCityId": 2643743
+    },
+    {
+      "slug": "madrid",
+      "name": "Madrid",
+      "country": "Spain",
+      "region": "Europe",
+      "order": 48,
+      "image": "/destinations/madrid.jpg",
+      "teaser": "Madrid is the Spanish capital, a 3.3 million-person city on a high plain in the country's centre. Royal-court foundation, Habsburg and Bourbon baroque, twentieth-century democratic capital, and one of Europe's great late-night cities; the world's top concentration of nineteenth-century Spanish painting and one of its best museum triangles.",
+      "toursCityId": 3117735
+    },
+    {
+      "slug": "munich",
+      "name": "Munich",
+      "country": "Germany",
+      "region": "Europe",
+      "order": 49,
+      "image": "/destinations/munich.jpg",
+      "teaser": "Munich (München) is the capital of Bavaria, a 1.5 million-person southern German city at the foot of the Alps. Royal Wittelsbach residence, world-class museum centre, beer-garden capital, and home of Oktoberfest (which is a Munich event, not a generic German one).",
+      "toursCityId": 2867714
+    },
+    {
+      "slug": "mykonos",
+      "name": "Mykonos",
+      "country": "Greece",
+      "region": "Europe",
+      "order": 50,
+      "image": "/destinations/mykonos.jpg",
+      "teaser": "Mykonos is a small Cycladic island in the central Aegean, around 90 square kilometres with roughly 10,000 permanent residents and one to two million annual visitors. Famous for whitewashed Chora (the main town), the iconic windmills of Kato Mili, party beaches, and as the launching point for sacred Delos.",
+      "toursCityId": 33
+    },
+    {
+      "slug": "oslo",
+      "name": "Oslo",
+      "country": "Norway",
+      "region": "Europe",
+      "order": 51,
+      "image": "/destinations/oslo.jpg",
+      "teaser": "Oslo is the Norwegian capital, a 700,000-person fjord-side city surrounded by forest and the Oslofjord islands. Royal residence, museum capital, and the financial and political heart of one of the world's wealthiest and most carefully designed countries.",
+      "toursCityId": 3143244
+    },
+    {
+      "slug": "paris",
+      "name": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "order": 52,
+      "image": "/destinations/paris.jpg",
+      "teaser": "Paris is the French capital, a 2.1-million-person city centre with 12 million in the wider metropolitan area, organised by Haussmann's nineteenth-century grand boulevards around the Seine. The most-visited city in Europe most years, the home of the Louvre, the Eiffel Tower, Notre-Dame, and an art and food history rivalled by no other city.",
+      "toursCityId": 2988507
+    },
+    {
+      "slug": "porto",
+      "name": "Porto",
+      "country": "Portugal",
+      "region": "Europe",
+      "order": 53,
+      "image": "/destinations/porto.jpg",
+      "teaser": "Porto (Oporto) is Portugal's second city, a 240,000-person hill-stacked port-town on the Douro River where the river meets the Atlantic. UNESCO-listed historic centre, the home of port wine (made up-river, aged in Vila Nova de Gaia across the river), and one of Europe's most photogenic working cities.",
+      "toursCityId": 3175453
+    },
+    {
+      "slug": "prague",
+      "name": "Prague",
+      "country": "Czech Republic",
+      "region": "Europe",
+      "order": 54,
+      "image": "/destinations/prague.jpg",
+      "teaser": "Prague (Praha) is the Czech capital, a 1.3-million-person Bohemian city on the Vltava River that emerged from WWII largely undamaged. UNESCO-listed centre, Gothic-Baroque-Art-Nouveau density, the largest castle complex in the world by area (Prague Castle), and one of the most-visited cities in Central Europe.",
+      "toursCityId": 3067696
+    },
+    {
+      "slug": "rome",
+      "name": "Rome",
+      "country": "Italy",
+      "region": "Europe",
+      "order": 55,
+      "image": "/destinations/rome.jpg",
+      "teaser": "Rome is the Italian capital, a 2.8-million-person city built across 2,700 years of continuous habitation around the Tiber River. Imperial capital, papal capital, Renaissance and Baroque masterwork, and one of the most visited cities in the world. The Vatican City, the world's smallest state, sits inside its boundaries.",
+      "toursCityId": 3169070
+    },
+    {
+      "slug": "santorini",
+      "name": "Santorini",
+      "country": "Greece",
+      "region": "Europe",
+      "order": 56,
+      "image": "/destinations/santorini.jpg",
+      "teaser": "Santorini (Thira) is a Cycladic island in the southern Aegean, the remnant of one of history's largest volcanic eruptions (the Minoan eruption around 1600 BCE). The island's caldera, the cliff-top villages of Oia and Fira, the black-and-red volcanic beaches, and the prehistoric site of Akrotiri define one of the most-photographed places on Earth.",
+      "toursCityId": 32
+    },
+    {
+      "slug": "stockholm",
+      "name": "Stockholm",
+      "country": "Sweden",
+      "region": "Europe",
+      "order": 57,
+      "image": "/destinations/stockholm.jpg",
+      "teaser": "Stockholm is the Swedish capital, a 1-million-person city built across 14 islands at the meeting of Lake Mälaren and the Baltic Sea. The Royal Palace and the medieval Gamla Stan (Old Town) on Stadsholmen island; the Vasa Museum's restored seventeenth-century warship; the Stockholm Archipelago of 30,000 islands begins at the city's edge.",
+      "toursCityId": 2673730
+    },
+    {
+      "slug": "venice",
+      "name": "Venice",
+      "country": "Italy",
+      "region": "Europe",
+      "order": 58,
+      "image": "/destinations/venice.jpg",
+      "teaser": "Venice (Venezia) is the historic centre of the Republic of Venice, a city of around 50,000 residents built across 118 islands in a Venetian Lagoon at the head of the Adriatic Sea. UNESCO World Heritage-listed in its entirety, currently visited by around 20 million people per year, and the most-cited example of overtourism on the planet.",
+      "toursCityId": 3164603
+    },
+    {
+      "slug": "vienna",
+      "name": "Vienna",
+      "country": "Austria",
+      "region": "Europe",
+      "order": 59,
+      "image": "/destinations/vienna.jpg",
+      "teaser": "Vienna (Wien) is the Austrian capital, a 1.9-million-person Danube city that served as the Habsburg imperial capital for over six centuries. UNESCO-listed historic centre, world-class concert halls (the Musikverein, Staatsoper), Klimt and Schiele in the Belvedere and Leopold museums, and one of Europe's most consistently top-ranked livable cities.",
+      "toursCityId": 2761369
+    },
+    {
+      "slug": "zurich",
+      "name": "Zurich",
+      "country": "Switzerland",
+      "region": "Europe",
+      "order": 60,
+      "image": "/destinations/zurich.jpg",
+      "teaser": "Zurich (Zürich) is the largest city in Switzerland, a 430,000-person financial and cultural capital at the head of Lake Zurich, with the Alps visible from the city centre. The global home of Swiss banking, a UNESCO-listed historic centre, swimmable city rivers and lake, and one of the world's most consistently top-ranked livable cities.",
+      "toursCityId": 2657896
+    },
+    {
+      "slug": "banff",
+      "name": "Banff",
+      "country": "Canada",
+      "region": "Americas",
+      "order": 61,
+      "image": "/destinations/banff.jpg",
+      "teaser": "Banff National Park is Canada's first national park and the heart of the Canadian Rockies UNESCO World Heritage site. Turquoise glacial lakes, grizzly bear corridors, and a small Alpine-style townsite at 1,400 metres sit inside a working ecological reserve managed by Parks Canada.",
+      "toursCityId": 5892532
+    },
+    {
+      "slug": "bogota",
+      "name": "Bogota",
+      "country": "Colombia",
+      "region": "Americas",
+      "order": 62,
+      "image": "/destinations/bogota.jpg",
+      "teaser": "Bogota sits at 2,640 metres on a high plateau of the Andes, the political and academic capital of Colombia and the country's largest city. Spanish colonial centre, twentieth-century concrete sprawl, world-class museums, and a serious coffee and cuisine scene wrapped in cool mountain air.",
+      "toursCityId": 3688689
+    },
+    {
+      "slug": "buenos-aires",
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "region": "Americas",
+      "order": 63,
+      "image": "/destinations/buenos-aires.jpg",
+      "teaser": "Buenos Aires is the largest city in Spanish-speaking South America, a Belle Époque capital of around 15 million in the metropolitan area, and one of the most literary and stylish cities on the continent. Tango was invented in its port neighbourhoods, beef in its grasslands; both define meals here.",
+      "toursCityId": 3435910
+    },
+    {
+      "slug": "cancun",
+      "name": "Cancun",
+      "country": "Mexico",
+      "region": "Americas",
+      "order": 64,
+      "image": "/destinations/cancun.jpg",
+      "teaser": "Cancun is the planned tourist city on Mexico's Caribbean coast, built in the 1970s as a federal megaproject and now the gateway to the wider Yucatán: Mayan ruins, cenotes, the Mesoamerican Reef, and the colonial cities of Mérida and Valladolid. The Hotel Zone is the postcard; the Yucatán beyond is the trip.",
+      "toursCityId": 3531673
+    },
+    {
+      "slug": "cartagena",
+      "name": "Cartagena",
+      "country": "Colombia",
+      "region": "Americas",
+      "order": 65,
+      "image": "/destinations/cartagena.jpg",
+      "teaser": "Cartagena de Indias is Colombia's Caribbean port-city, a UNESCO-listed walled colonial centre painted every colour, a fortified Spanish-American showpiece, and one of the most romantic cities in the Americas. It is also one of the most pressure-tested by tourism on the continent.",
+      "toursCityId": 3038634
+    },
+    {
+      "slug": "chicago",
+      "name": "Chicago",
+      "country": "United States",
+      "region": "Americas",
+      "order": 66,
+      "image": "/destinations/chicago.jpg",
+      "teaser": "Chicago is the third-largest US city, the capital of the American Midwest, and one of the great architectural cities of the world. Built and rebuilt around Lake Michigan and the Chicago River, it gave the world the skyscraper, modern jazz, deep-dish pizza, and Barack Obama.",
+      "toursCityId": 4887398
+    },
+    {
+      "slug": "cusco",
+      "name": "Cusco",
+      "country": "Peru",
+      "region": "Americas",
+      "order": 67,
+      "image": "/destinations/cusco.jpg",
+      "teaser": "Cusco (Qosqo in Quechua) sits at 3,400 metres in the southern Peruvian Andes, the historic capital of the Inca Empire and the gateway to Machu Picchu and the Sacred Valley. A working Quechua-and-Spanish city of around 400,000, layered with Inca walls, Spanish colonial churches, and contemporary Andean life.",
+      "toursCityId": 3941584
+    },
+    {
+      "slug": "havana",
+      "name": "Havana",
+      "country": "Cuba",
+      "region": "Americas",
+      "order": 68,
+      "image": "/destinations/havana.jpg",
+      "teaser": "Havana (La Habana) is the Cuban capital, a UNESCO-listed colonial port-city of around 2.1 million people, defined by a five-century Spanish architectural inheritance, sixty-plus years of revolutionary government, and one of the most distinctive cultural lives in the Americas. Music, dance, baseball, and street energy run on their own terms here.",
+      "toursCityId": null
+    },
+    {
+      "slug": "honolulu",
+      "name": "Honolulu",
+      "country": "United States",
+      "region": "Americas",
+      "order": 69,
+      "image": "/destinations/honolulu.jpg",
+      "teaser": "Honolulu is the capital and largest city of Hawai'i, located on the south shore of O'ahu. A Polynesian island kingdom illegally overthrown by US interests and annexed; a Pacific naval port and World War II flashpoint; a contemporary city of about a million people; and the gateway to one of the world's most ecologically and culturally distinctive island chains.",
+      "toursCityId": 5856195
+    },
+    {
+      "slug": "iguazu-falls",
+      "name": "Iguazu Falls",
+      "country": "Argentina and Brazil",
+      "region": "Americas",
+      "order": 70,
+      "image": "/destinations/iguazu-falls.jpg",
+      "teaser": "Iguazu Falls (Cataratas del Iguazú in Spanish, Cataratas do Iguaçu in Portuguese) is a 2.7 kilometre system of waterfalls on the Iguazu River, straddling the Argentina-Brazil border at the edge of the Atlantic Forest. UNESCO-listed on both sides, more powerful than Niagara, taller than Victoria, and the centrepiece of two adjoining national parks.",
+      "toursCityId": null
+    },
+    {
+      "slug": "las-vegas",
+      "name": "Las Vegas",
+      "country": "United States",
+      "region": "Americas",
+      "order": 71,
+      "image": "/destinations/las-vegas.jpg",
+      "teaser": "Las Vegas is the largest city in Nevada, a 2.3 million metropolitan area in the Mojave Desert, and the world's most famous casino city. The Strip is a four-mile boulevard of megaresorts; the Mojave Desert, Red Rock Canyon, and the Grand Canyon's south rim sit within a few hours' drive.",
+      "toursCityId": 5506956
+    },
+    {
+      "slug": "lima",
+      "name": "Lima",
+      "country": "Peru",
+      "region": "Americas",
+      "order": 72,
+      "image": "/destinations/lima.jpg",
+      "teaser": "Lima is the Peruvian capital, a 10-million-person Pacific-coast city wrapped in coastal fog half the year, and the gastronomic capital of South America. Founded by Pizarro in 1535, the only colonial Spanish capital that survived as the seat of power for South America, and now home to several of the world's top-ranked restaurants.",
+      "toursCityId": 3936456
+    },
+    {
+      "slug": "los-angeles",
+      "name": "Los Angeles",
+      "country": "United States",
+      "region": "Americas",
+      "order": 73,
+      "image": "/destinations/los-angeles.jpg",
+      "teaser": "Los Angeles is California's largest city, a 13-million-person Pacific basin sprawl that contains Hollywood, Beverly Hills, downtown LA, Santa Monica, Venice, Compton, East LA, the San Fernando Valley, and a hundred other distinct places stitched together by freeway. The world's entertainment capital and one of its most culturally diverse cities.",
+      "toursCityId": 5368361
+    },
+    {
+      "slug": "machu-picchu",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "region": "Americas",
+      "order": 74,
+      "image": "/destinations/machu-picchu.jpg",
+      "teaser": "Machu Picchu is the fifteenth-century Inca citadel built on a ridge at 2,430 metres above the Urubamba River in southern Peru. UNESCO World Heritage-listed, capacity-controlled, and one of the most-visited and most-photographed archaeological sites on Earth.",
+      "toursCityId": 3941584
+    },
+    {
+      "slug": "mexico-city",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "region": "Americas",
+      "order": 75,
+      "image": "/destinations/mexico-city.jpg",
+      "teaser": "Mexico City (Ciudad de México, CDMX) is the largest city in North America, a 22-million-person valley capital built on the drained lake-bed of the Aztec island-city Tenochtitlán. UNESCO-listed historic centre, world-class museums, a serious contemporary art and design scene, and one of the most exciting food cities on the planet.",
+      "toursCityId": 3530597
+    },
+    {
+      "slug": "miami",
+      "name": "Miami",
+      "country": "United States",
+      "region": "Americas",
+      "order": 76,
+      "image": "/destinations/miami.jpg",
+      "teaser": "Miami is the largest city in southern Florida, a six-million-person metropolitan area that is the United States' most Latin American city. South Beach Art Deco, Cuban Calle Ocho, Haitian Little Haiti, Caribbean-Atlantic beaches, and the wider Everglades and Florida Keys all within reach.",
+      "toursCityId": 4164138
+    },
+    {
+      "slug": "montreal",
+      "name": "Montreal",
+      "country": "Canada",
+      "region": "Americas",
+      "order": 77,
+      "image": "/destinations/montreal.jpg",
+      "teaser": "Montreal (Montréal) is the largest city in Québec and the second-largest in Canada, an island city at the confluence of the St Lawrence and Ottawa rivers. The largest French-speaking metropolitan area in the Americas, a bilingual cultural capital, and home to a serious food, music, and festival scene through both winter and summer.",
+      "toursCityId": 6077243
+    },
+    {
+      "slug": "new-york-city",
+      "name": "New York City",
+      "country": "United States",
+      "region": "Americas",
+      "order": 78,
+      "image": "/destinations/new-york-city.jpg",
+      "teaser": "New York City is the largest city in the United States, an 8.8-million-person, five-borough metropolis at the mouth of the Hudson River. Global financial capital, theatre capital, museum capital, and one of the most ethnically and linguistically diverse cities on the planet (around 800 languages spoken).",
+      "toursCityId": 5128581
+    },
+    {
+      "slug": "orlando",
+      "name": "Orlando",
+      "country": "United States",
+      "region": "Americas",
+      "order": 79,
+      "image": "/destinations/orlando.jpg",
+      "teaser": "Orlando is a 2.7-million-person central Florida metropolitan area, home to Walt Disney World, Universal Orlando, SeaWorld, and the densest cluster of major theme parks on Earth. The world's most-visited theme-park destination, with the wider central-Florida natural landscape (springs, swamps, the Kennedy Space Center) within reach.",
+      "toursCityId": 4167147
+    },
+    {
+      "slug": "patagonia",
+      "name": "Patagonia",
+      "country": "Chile and Argentina",
+      "region": "Americas",
+      "order": 80,
+      "image": "/destinations/patagonia.jpg",
+      "teaser": "Patagonia is the vast southern cone of South America shared between Chile and Argentina, stretching from roughly the 40th parallel south to Tierra del Fuego. Glacial landscapes, granite-tower peaks (Torres del Paine, Fitz Roy), one of the world's largest temperate-glacier systems, and one of the planet's most spectacular trekking regions.",
+      "toursCityId": null
+    },
+    {
+      "slug": "punta-cana",
+      "name": "Punta Cana",
+      "country": "Dominican Republic",
+      "region": "Americas",
+      "order": 81,
+      "image": "/destinations/punta-cana.jpg",
+      "teaser": "Punta Cana is the easternmost beach resort region of the Dominican Republic, a 60-kilometre coast on the Caribbean and Atlantic. The country's main beach-resort hub, with one of the largest concentrations of all-inclusive resorts in the Caribbean, white-sand beaches, and proximity to colonial Santo Domingo and the Samaná Peninsula.",
+      "toursCityId": null
+    },
+    {
+      "slug": "rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "region": "Americas",
+      "order": 82,
+      "image": "/destinations/rio-de-janeiro.jpg",
+      "teaser": "Rio de Janeiro is Brazil's most-photographed city, a 6.7-million-person Atlantic port wrapped around granite peaks (Sugarloaf, Corcovado), Atlantic Forest, and some of the world's most famous beaches (Copacabana, Ipanema, Leblon). The cultural heart of Brazil, the home of samba and carnival, and one of the most spectacularly situated cities on Earth.",
+      "toursCityId": 3451190
+    },
+    {
+      "slug": "san-francisco",
+      "name": "San Francisco",
+      "country": "United States",
+      "region": "Americas",
+      "order": 83,
+      "image": "/destinations/san-francisco.jpg",
+      "teaser": "San Francisco is the northern California port city of around 850,000 (with around 7 million in the wider Bay Area), built on hills at the mouth of San Francisco Bay. The capital of contemporary tech, the historic centre of West Coast counterculture, and one of America's most architecturally and culturally distinctive cities.",
+      "toursCityId": 5391959
+    },
+    {
+      "slug": "san-juan",
+      "name": "San Juan",
+      "country": "Puerto Rico",
+      "region": "Americas",
+      "order": 84,
+      "image": "/destinations/san-juan.jpg",
+      "teaser": "San Juan is the capital of Puerto Rico, a Caribbean island that is a US commonwealth. A 350,000-person port city with a UNESCO-listed Spanish colonial centre (Old San Juan), warm Atlantic and Caribbean beaches, the El Yunque rainforest within reach, and a culture that is genuinely its own: Puerto Rican, Spanish-speaking, Caribbean, and connected to the US mainland.",
+      "toursCityId": 4568127
+    },
+    {
+      "slug": "santiago",
+      "name": "Santiago",
+      "country": "Chile",
+      "region": "Americas",
+      "order": 85,
+      "image": "/destinations/santiago.jpg",
+      "teaser": "Santiago is Chile's capital, a 7-million-person city in a long valley at the foot of the Andes. South America's most modern major capital, the launching point for the wider Chilean experience (Atacama Desert, Patagonia, central wine valleys, Pacific coast), and a serious cultural and food city in its own right.",
+      "toursCityId": 3871336
+    },
+    {
+      "slug": "sao-paulo",
+      "name": "São Paulo",
+      "country": "Brazil",
+      "region": "Americas",
+      "order": 86,
+      "image": "/destinations/sao-paulo.jpg",
+      "teaser": "São Paulo (Sampa) is the largest city in the southern hemisphere, a 22-million-person megacity that is Brazil's financial, business, and cultural capital. The home of the world's largest Japanese diaspora outside Japan, one of the world's great food cities, and a serious contemporary art and design centre.",
+      "toursCityId": 3448439
+    },
+    {
+      "slug": "toronto",
+      "name": "Toronto",
+      "country": "Canada",
+      "region": "Americas",
+      "order": 87,
+      "image": "/destinations/toronto.jpg",
+      "teaser": "Toronto is Canada's largest city, a 3-million-person city centre with 6.4 million in the wider Greater Toronto Area, on the north shore of Lake Ontario. Canada's financial and entertainment capital, one of the world's most ethnically diverse cities (around half the population is foreign-born), and the gateway to Niagara Falls (1.5 hours by car or bus).",
+      "toursCityId": 6167865
+    },
+    {
+      "slug": "tulum",
+      "name": "Tulum",
+      "country": "Mexico",
+      "region": "Americas",
+      "order": 88,
+      "image": "/destinations/tulum.jpg",
+      "teaser": "Tulum is a Caribbean coastal town and archaeological site on Mexico's Yucatán Peninsula. The Maya walled city of Tulum, built on a cliff above the Caribbean, is one of the most photographed archaeological sites in the world. The beach town has transformed in two decades from a quiet backpacker enclave into one of Mexico's most expensive (and most contested) beach destinations.",
+      "toursCityId": 3515040
+    },
+    {
+      "slug": "vancouver",
+      "name": "Vancouver",
+      "country": "Canada",
+      "region": "Americas",
+      "order": 89,
+      "image": "/destinations/vancouver.jpg",
+      "teaser": "Vancouver is the largest city in British Columbia, a 2.5-million-person metropolitan area on Canada's Pacific coast, wrapped by the Strait of Georgia and the North Shore mountains. One of the world's most consistently top-ranked livable cities, with serious natural and cultural assets within walking distance.",
+      "toursCityId": 6173331
+    },
+    {
+      "slug": "washington-dc",
+      "name": "Washington",
+      "country": "DC, United States",
+      "region": "Americas",
+      "order": 90,
+      "image": "/destinations/washington-dc.jpg",
+      "teaser": "Washington, DC is the capital of the United States, a 700,000-person federal district between Maryland and Virginia. The home of Congress, the White House, the Supreme Court, the Smithsonian museum complex, and the most concentrated set of free world-class museums anywhere on Earth. A working political capital with serious neighbourhood food and culture.",
+      "toursCityId": 4140963
+    },
+    {
+      "slug": "auckland",
+      "name": "Auckland",
+      "country": "New Zealand",
+      "region": "Oceania",
+      "order": 91,
+      "image": "/destinations/auckland.jpg",
+      "teaser": "Auckland (Tāmaki Makaurau in te reo Māori) is built on fifty-three volcanoes and wrapped by two harbours. It is the largest Polynesian city in the world, the gateway to most of New Zealand, and a place where Māori, Pacific, Asian, and European histories actively share the same urban grammar.",
+      "toursCityId": 2193733
+    },
+    {
+      "slug": "brisbane",
+      "name": "Brisbane",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 92,
+      "image": "/destinations/brisbane.jpg",
+      "teaser": "Brisbane (Meanjin in Yagara language) is Queensland's subtropical capital on a wide brown river that loops through the city six times. Smaller and more humid than Sydney or Melbourne, host of a coming Olympic Games, and a real working gateway to the Great Barrier Reef and the Sunshine and Gold Coasts.",
+      "toursCityId": 2174003
+    },
+    {
+      "slug": "cairns",
+      "name": "Cairns",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 93,
+      "image": "/destinations/cairns.jpg",
+      "teaser": "Cairns is the small tropical city of Far North Queensland that functions as the world's main gateway to the Great Barrier Reef and the Daintree, the oldest continuously surviving rainforest on Earth. A working port, a serious dive industry, and a long Aboriginal and Torres Strait Islander presence.",
+      "toursCityId": 2172797
+    },
+    {
+      "slug": "fiji-nadi",
+      "name": "Fiji (Nadi and the Mamanuca and Yasawa Islands)",
+      "country": "Fiji",
+      "region": "Oceania",
+      "order": 94,
+      "image": "/destinations/fiji-nadi.jpg",
+      "teaser": "Fiji is a Melanesian archipelago of more than 330 islands in the South Pacific. Nadi (pronounced Nandi) on the western coast of Viti Levu is the country's tourism gateway. From here the Mamanuca and Yasawa islands (resort and backpacker islands respectively) and the Coral Coast spread out across some of the world's clearest tropical water.",
+      "toursCityId": null
+    },
+    {
+      "slug": "gold-coast",
+      "name": "Gold Coast",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 95,
+      "image": "/destinations/gold-coast.jpg",
+      "teaser": "The Gold Coast is a 70-kilometre coastal city in south-east Queensland, famous for surf beaches, theme parks, high-rise apartment towers, and the rainforest of the McPherson Range right behind it. A subtropical climate, a serious surf culture, and a city where you can swim at sunrise and walk through World Heritage rainforest by lunchtime.",
+      "toursCityId": 63
+    },
+    {
+      "slug": "great-barrier-reef",
+      "name": "Great Barrier Reef",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 96,
+      "image": "/destinations/great-barrier-reef.jpg",
+      "teaser": "The Great Barrier Reef is the world's largest coral reef system, stretching roughly 2,300 kilometres along the Queensland coast and visible from space. UNESCO World Heritage-listed, managed by the Great Barrier Reef Marine Park Authority, and one of the most ecologically pressured ecosystems on Earth.",
+      "toursCityId": 2172797
+    },
+    {
+      "slug": "melbourne",
+      "name": "Melbourne",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 97,
+      "image": "/destinations/melbourne.jpg",
+      "teaser": "Melbourne (Naarm) is the capital of Victoria and Australia's second-largest city, a five-million-person grid wrapped around the Yarra River. Often ranked the world's most liveable city, the cultural and sporting capital of Australia, the home of strong coffee, laneway bars, and Australian Rules football.",
+      "toursCityId": 2158177
+    },
+    {
+      "slug": "perth",
+      "name": "Perth",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 98,
+      "image": "/destinations/perth.jpg",
+      "teaser": "Perth (Boorloo in Whadjuk Noongar) is the capital of Western Australia, a 2.3 million-person city on the Indian Ocean coast, isolated by 2,000 kilometres of desert from the next major city. The most remote major city in the world, with a Mediterranean climate, world-class beaches, and a serious wildflower and dolphin and wine season.",
+      "toursCityId": null
+    },
+    {
+      "slug": "queenstown",
+      "name": "Queenstown",
+      "country": "New Zealand",
+      "region": "Oceania",
+      "order": 99,
+      "image": "/destinations/queenstown.jpg",
+      "teaser": "Queenstown (Tāhuna in te reo Māori) is a 30,000-resident resort town on the shore of Lake Wakatipu in New Zealand's South Island, surrounded by the Remarkables mountain range. The self-described \"adventure capital of the world\", the launching point for Fiordland (Milford Sound, Doubtful Sound), and a serious year-round outdoor destination.",
+      "toursCityId": null
+    },
+    {
+      "slug": "sydney",
+      "name": "Sydney",
+      "country": "Australia",
+      "region": "Oceania",
+      "order": 100,
+      "image": "/destinations/sydney.jpg",
+      "teaser": "Sydney (Warrane in Gadigal language for the harbour) is the capital of New South Wales and Australia's largest city, a 5.5-million-person harbour metropolis on the Pacific. The Sydney Opera House and Harbour Bridge silhouette is one of the planet's most-recognised images; the beaches (Bondi, Manly, Bronte, Coogee) define a serious surf and swim culture.",
+      "toursCityId": 2147714
+    }
+  ]
+}

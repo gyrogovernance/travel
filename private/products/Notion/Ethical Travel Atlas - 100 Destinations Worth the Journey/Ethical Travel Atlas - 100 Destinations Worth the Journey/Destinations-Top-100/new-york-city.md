@@ -30,7 +30,7 @@ You come because not visiting NYC at least once is a serious gap. And you stay l
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **The Met, MoMA, Whitney, Guggenheim, Natural History Museum** sell timed tickets on official portals; book ahead in peak season. The Met technically operates on "suggested admission" for NY state residents only; visitors pay the full price.
@@ -38,7 +38,7 @@ You come because not visiting NYC at least once is a serious gap. And you stay l
 - **MTA subway** uses **OMNY contactless** (tap any contactless card or phone) or MetroCard; the OMNY weekly cap is automatic.
 - **9/11 Memorial Museum** sells timed tickets on the official portal; the outdoor memorial is free.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The New York Times** and **Curbed** (for the city itself) for local journalism.
 - **NYC Tourism + Conventions** (the official tourism site) for events.
@@ -46,7 +46,7 @@ You come because not visiting NYC at least once is a serious gap. And you stay l
 - A locally led food or neighbourhood tour in Queens, Brooklyn, or the Bronx; the Tenement Museum's walking tours of the Lower East Side are excellent.
 - **Wikivoyage New York** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the borough strategy.** A trip that never leaves Manhattan misses 80 percent of the city. Add at least one full day in Brooklyn (Brooklyn Heights, Williamsburg, DUMBO), Queens (Flushing or Astoria), or Harlem.
 - **You decide on the Broadway show.** Big musicals are reliable; smaller plays at the Public Theater, Atlantic Theater Company, or Off-Broadway venues are often more interesting. TKTS for same-day at 50 percent.
@@ -54,7 +54,7 @@ You come because not visiting NYC at least once is a serious gap. And you stay l
 - **You decide your museum pace.** A serious morning at the Met then a serious afternoon at MoMA the next day is the right rhythm.
 - **You decide on the Tenement Museum.** Genuinely one of the most powerful small museums in the country; book a tour.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 NYC weather is four-season; brutally hot summer, cold winter, dramatic shoulder seasons. The subway runs through almost everything (closures published in advance). Major events (Macy's Thanksgiving Parade, New Year's Eve, US Open tennis, NYC Marathon, fashion weeks) reshape parts of the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three NYC experiences I should not miss given my interests, and one I should consider skipping (a Times Square chain restaurant, a Manhattan-only itinerary, a resale-priced Broadway ticket). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, official museum portals for the Met/MoMA/Whitney/9/11, Broadway through official venues or TKTS, and MTA OMNY contactless setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official NYC source, one local news outlet (NY Times or Curbed), one New York author, and one neighbourhood-led walking guide outside Manhattan.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (borough strategy, Broadway show choice, Statue of Liberty approach, museum pace, Tenement Museum commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a sudden weather change, a subway-line closure, sold-out Broadway, a major event traffic snarl).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official museum portals for the Met/MoMA/Whitney/9/11, Broadway through official venues or TKTS, and MTA OMNY contactless setup.
+> - **Information Curation.** Suggest at least four different source types: one official NYC source, one local news outlet (NY Times or Curbed), one New York author, and one neighbourhood-led walking guide outside Manhattan.
+> - **Inference Interaction.** List the decisions I personally need to make (borough strategy, Broadway show choice, Statue of Liberty approach, museum pace, Tenement Museum commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a sudden weather change, a subway-line closure, sold-out Broadway, a major event traffic snarl).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, subway lines, and named neighbourhoods. Include at least one full day outside Manhattan (Brooklyn, Queens, or Harlem). Mark each business as confidently locally owned, or flag for me to verify.
 >

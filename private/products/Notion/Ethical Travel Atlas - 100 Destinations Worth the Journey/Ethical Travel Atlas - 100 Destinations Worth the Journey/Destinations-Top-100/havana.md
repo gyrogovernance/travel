@@ -30,7 +30,7 @@ You come for the music, the architecture, the *paladares* (private restaurants),
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need a **Tourist Card** (Cuba's tourist visa); verify how to obtain it on your home country's Cuban embassy portal or through your airline.
 - **US travellers** require a specific licence category for travel to Cuba; verify on the US Treasury OFAC portal before booking.
@@ -38,7 +38,7 @@ You come for the music, the architecture, the *paladares* (private restaurants),
 - **Internet access** has improved but is limited; ETECSA Wi-Fi cards or a portable plan you set up in advance. Verify current options.
 - For **classic car tours** and **paladares**, ask your casa host for verified operators; many of the most "famous" places are not the best.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **OnCuba News** and **Granma International** (Cuba's English-language Communist Party paper) for two different lenses on the same news.
 - **Cubatravel** (the official tourism portal) for official events.
@@ -46,7 +46,7 @@ You come for the music, the architecture, the *paladares* (private restaurants),
 - A casa particular host or independent local guide for ground-truth on shortages, queues, and the actual day-to-day.
 - **Wikivoyage Cuba** for current practical advice (changes frequently).
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the casa particular.** Staying in a Cuban family's registered guesthouse is fundamentally different (better) than a state hotel. The whole interaction shifts.
 - **You decide on the paladar.** Private restaurants are the food scene; state restaurants are mostly mediocre.
@@ -54,7 +54,7 @@ You come for the music, the architecture, the *paladares* (private restaurants),
 - **You decide your music engagement.** Live music is everywhere; tipping the band is part of how musicians eat.
 - **You decide your political conversation comfort.** Cubans are often happy to talk politics with foreigners; criticism of the government in public still carries risks for them, not you.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Cuba's economy is in flux; prices, currency rules, and access to goods change frequently. Tropical weather is hot year-round; hurricane season runs August to November. Power outages (apagones) are common in some periods.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Havana experiences I should not miss given my interests, and one I should consider skipping (a state hotel when a casa particular is steps better, a state-run restaurant when paladares are everywhere, a "free" cigar pitch on the street). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Tourist Card and (for US travellers) OFAC licence requirements, cash-only practicality, ETECSA Wi-Fi or pre-arranged data, and registered casa particular sources.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Cuban source, one independent Cuban-international news outlet, one Cuban author, and a casa particular host or independent local guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (casa vs hotel, paladar vs state restaurant, classic car ride choice, music tipping, political conversation comfort).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a power outage, a paladar running out, a hurricane warning, a sudden currency-rule change).
+> - **Governance Management.** What assumptions should I check before I book? Include the Tourist Card and (for US travellers) OFAC licence requirements, cash-only practicality, ETECSA Wi-Fi or pre-arranged data, and registered casa particular sources.
+> - **Information Curation.** Suggest at least four different source types: one official Cuban source, one independent Cuban-international news outlet, one Cuban author, and a casa particular host or independent local guide.
+> - **Inference Interaction.** List the decisions I personally need to make (casa vs hotel, paladar vs state restaurant, classic car ride choice, music tipping, political conversation comfort).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a power outage, a paladar running out, a hurricane warning, a sudden currency-rule change).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one live music night, one Vedado afternoon, and one paladar meal in Centro Habana. Mark each business as confidently locally run (casa or paladar), or flag for me to verify.
 >

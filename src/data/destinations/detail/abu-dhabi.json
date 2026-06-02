@@ -1,0 +1,52 @@
+{
+  "slug": "abu-dhabi",
+  "name": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "region": "Asia",
+  "image": "/destinations/abu-dhabi.jpg",
+  "teaser": "Abu Dhabi is the quieter, more deliberate cousin of Dubai. The capital of the UAE keeps its wealth visible but its volume lower. A great mosque, a Louvre on the sea, mangroves a metro stop from oil towers, and a desert that begins the moment the city ends.",
+  "intro": "Abu Dhabi is the quieter, more deliberate cousin of Dubai. The capital of the UAE keeps its wealth visible but its volume lower. A great mosque, a Louvre on the sea, mangroves a metro stop from oil towers, and a desert that begins the moment the city ends.",
+  "whyVisit": "Abu Dhabi is what happens when a young oil capital decides culture is part of the long game. The Sheikh Zayed Grand Mosque is one of the most architecturally generous religious buildings of this century, and the Louvre Abu Dhabi is a serious museum, not a souvenir of the original.\n\nBeyond the headline buildings, the city is unexpectedly green. Mangroves wrap the eastern coastline, the Corniche is a real public promenade where families walk after sunset, and the Empty Quarter desert is two hours away if you want to feel the scale of Arabia.",
+  "ethicalCompass": {
+    "economy": "Most of what you spend in Abu Dhabi flows to international hotel and restaurant chains. Steer some of it local: eat at Lebanese, Egyptian, Indian, and Filipino canteens in Tourist Club Area or Madinat Zayed, buy dates from the Mina Port date market, and book Emirati-run desert camps rather than the largest tour operators.",
+    "employment": "The hospitality, construction, and driving workforce is overwhelmingly South Asian and East African on labour contracts. Tip taxi drivers, hotel staff, and porters generously in cash, address people by name when you can read it on a badge, and avoid the rhetoric that flattens migrant workers into \"service\".",
+    "education": "Read about the Bedouin pearling history before you mistake the city for a recent invention. Visit Qasr Al Hosn (the original fort) and Qasr Al Watan (the presidential palace) for the Emirati story alongside the global one at the Louvre. Dress modestly at mosques and heritage sites; this is asked, not optional.",
+    "ecology": "Summer cooling drives extreme energy use; visit October through April and you halve your air-conditioning load. Bring a refillable bottle and avoid bottled water where possible. Choose the mangrove kayak or the Eastern Mangroves boardwalk over jet-ski tours."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Confirm entry to the Sheikh Zayed Grand Mosque is timed and free, booked on the official mosque portal. Tour operators often add a transport fee on top; the entry itself should never cost you anything.",
+      "Verify Louvre Abu Dhabi, Qasr Al Watan, and Qasr Al Hosn hours through their official websites, not third-party listings. Friday and Ramadan hours shift.",
+      "Check the current dress code for mosque visits on the official mosque site. Robes are provided, but knowing the rules in advance avoids the rebooking queue.",
+      "Confirm your driver's vehicle is a metered Abu Dhabi taxi (silver with a coloured roof) or a licensed ride-hail; avoid unofficial drivers at the airport arrivals curb.",
+      "Alcohol is legal in licensed venues only. If you plan to drink outside hotel bars and licensed restaurants, verify current rules on the official UAE government portal before booking that desert party."
+    ],
+    "icu": [
+      "The National and Khaleej Times (English-language UAE newspapers) for current event listings, cultural openings, and weather.",
+      "Visit Abu Dhabi (the official tourism site) for opening hours, cultural calendars, and Ramadan timings.",
+      "A book by an Emirati or long-resident author on the Gulf transition. From Rags to Riches by Mohammed Al-Fahim is a useful primer from the inside.",
+      "A migrant-worker-focused voice, such as the reporting of Migrant-Rights.org, to balance the official narrative.",
+      "Wikivoyage Abu Dhabi for unfiltered practicalities (transport, costs, district orientation)."
+    ],
+    "iinter": [
+      "You decide your season. Visit in summer and you accept indoor-only days; visit in shoulder months and you can actually walk the Corniche.",
+      "You decide on Ramadan. Travelling during the fast is a different city, more contemplative, with reduced daytime hours. It is a choice worth making with eyes open.",
+      "You decide where to direct your dirhams. Five-star resort or local guesthouse, chain mall or Madinat Zayed canteen, ticketed desert spectacle or smaller Emirati-run camp.",
+      "You decide your dress. Modest dress is required at religious sites and expected at heritage sites and traditional neighbourhoods. The city is more relaxed on beaches and in malls. The judgement is yours, in context.",
+      "You decide whether to engage the harder questions about labour conditions, freedom of expression, and regional politics. The Atlas will not pretend they do not exist."
+    ],
+    "ico": "The Gulf moves fast. Museums open and close wings, transport links extend, the cultural district on Saadiyat Island adds new flagship buildings every couple of years. A plan made today may be outdated by next season.\n\nBuild a soft week. If a sandstorm rolls through, swap outdoor days for the Louvre and indoor souks. If a public holiday brings the Corniche alive at midnight, follow the families and adjust. The city responds well to curiosity and patience."
+  },
+  "anchorSpots": [
+    "Sheikh Zayed Grand Mosque. Free entry on a timed booking; allow ninety minutes plus dressing time. Sunset light on the white marble is unforgettable.",
+    "Louvre Abu Dhabi. Jean Nouvel's \"rain of light\" dome over a museum that genuinely re-imagines world history. Plan two to three hours.",
+    "Qasr Al Hosn and the Cultural Foundation. The original fort, now restored, traces Abu Dhabi from a pearling outpost to a capital. Pair it with Qasr Al Watan, the working presidential palace.",
+    "Eastern Mangroves National Park. Kayak through the tidal forest that the city was nearly built over. Early morning is calm and cool.",
+    "Liwa Oasis and the Empty Quarter. Two hours south by road, the dunes of Rub' al Khali start. A licensed overnight desert camp here is a different planet from the city."
+  ],
+  "recommendedLength": "Three to four days for the city. Add one to two for a Liwa desert overnight or a day on Sir Bani Yas Island.",
+  "transportHint": "Walk the Corniche and Saadiyat boardwalks. For longer hops, taxis (metered) and ride-hail apps are the practical defaults; the public bus network is comprehensive but slow. The airport is a thirty-minute taxi to downtown. There is no metro.",
+  "prompt": "Please help me plan an ethical visit to Abu Dhabi, United Arab Emirates for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. architecture, museums, desert, mangroves]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Abu Dhabi experiences I should not miss given my interests, and one I should consider skipping. For each, briefly explain the trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the timed free booking for the Sheikh Zayed Grand Mosque, official ticketing for Louvre Abu Dhabi and Qasr Al Watan, current dress and alcohol rules on UAE government portals, and Ramadan or public-holiday timing shifts in my dates.\n- **Information Curation.** Suggest at least four different source types: one official UAE government source, one local English-language newspaper, one Emirati or long-resident author, and one migrant-worker or human-rights voice.\n- **Inference Interaction.** List the decisions I personally need to make (season, Ramadan, where my dirhams go, dress code, which harder questions I engage with).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sandstorm, extreme heat, a public-holiday traffic shutdown, a closed wing at a flagship museum).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one half-day at the mangroves or in the desert if my dates allow. Mark each recommendation as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: the Sheikh Zayed Grand Mosque portal, Visit Abu Dhabi, the Louvre Abu Dhabi site, and the UAE government portal for current rules.\n2. Real people: a local resident, a licensed guide, or hotel staff who live in Abu Dhabi now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 292968,
+  "order": 1
+}

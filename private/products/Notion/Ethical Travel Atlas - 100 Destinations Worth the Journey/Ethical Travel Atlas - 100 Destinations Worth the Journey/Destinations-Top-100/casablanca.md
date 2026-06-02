@@ -30,7 +30,7 @@ You come for the mosque, the architecture, the seafood on the corniche, and a mo
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **visa-exempt or visa-required** status on the official Moroccan Ministry of Foreign Affairs portal; most Western nationalities are exempt for short visits.
 - **Hassan II Mosque** visits are guided-tour only for non-Muslims; check the official mosque portal for tour times and dress requirements. Tickets are bought at the door.
@@ -38,7 +38,7 @@ You come for the mosque, the architecture, the seafood on the corniche, and a mo
 - Confirm any taxi (the small red *petit taxi* or larger white *grand taxi*) is using the meter (*compteur*).
 - For **day trips to Rabat** by train, book on the official ONCF portal; the journey is roughly one hour.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Morocco World News** and **Hespress English** (English-language Moroccan outlets) for current events.
 - The official **Moroccan National Tourist Office (ONMT)** for cultural and event listings.
@@ -46,7 +46,7 @@ You come for the mosque, the architecture, the seafood on the corniche, and a mo
 - A licensed Casablanca walking guide for the Art Deco quarter; recommended through your hotel.
 - **Wikivoyage Casablanca** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the mosque visit.** The Hassan II tour is genuinely worth it; dress modestly (shoulders, knees covered; no shoes inside; women can wear or borrow a head covering).
 - **You decide on the architecture walk.** Casablanca's Art Deco quarter rewards a slow morning with a guide who can point at façades you would otherwise miss.
@@ -54,7 +54,7 @@ You come for the mosque, the architecture, the seafood on the corniche, and a mo
 - **You decide on dress.** Morocco is broadly tolerant in cities but conservative; shoulders and knees covered avoids the worst street attention.
 - **You decide on day-trips.** Rabat (one hour by train) is a calm contrast to Casablanca and an actual capital.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Casablanca runs on its own rhythm; lunch around 1 to 3 pm is sacred, dinner after 8 pm. Friday afternoon prayers shape the day. Ramadan reshapes the month. Air-quality and heat days affect outdoor plans.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Casablanca experiences I should not miss given my interests, and one I should consider skipping (a "Casablanca film tour" with little actual relevance, an unlicensed street guide, a Rick's Café visit on a budget that should fund a Rabat day trip). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Moroccan visa-exempt status, the Hassan II Mosque tour times and dress code, tramway and petit taxi rules, and ONCF train booking for Rabat or further travel.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Moroccan source, one English-language Moroccan news outlet, one Moroccan author, and one licensed Casablanca walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (mosque visit commitment, architecture walk, corniche time allocation, dress code, day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Friday prayer street closures, Ramadan timing, a heat wave, an air-quality red day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Moroccan visa-exempt status, the Hassan II Mosque tour times and dress code, tramway and petit taxi rules, and ONCF train booking for Rabat or further travel.
+> - **Information Curation.** Suggest at least four different source types: one official Moroccan source, one English-language Moroccan news outlet, one Moroccan author, and one licensed Casablanca walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (mosque visit commitment, architecture walk, corniche time allocation, dress code, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Friday prayer street closures, Ramadan timing, a heat wave, an air-quality red day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include the Hassan II Mosque tour and at least one architecture walk or Habous quarter visit. Mark each business as confidently locally owned, or flag it for me to verify.
 >

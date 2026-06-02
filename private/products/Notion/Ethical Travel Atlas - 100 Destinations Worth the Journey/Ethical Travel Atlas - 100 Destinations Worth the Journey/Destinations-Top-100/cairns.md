@@ -30,7 +30,7 @@ You come here for the Reef, for the rainforest, and for the chance to engage wit
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - Confirm any Reef operator is on the **Great Barrier Reef Marine Park Authority** list of certified operators; verify on the official GBRMPA portal.
@@ -38,7 +38,7 @@ You come here for the Reef, for the rainforest, and for the chance to engage wit
 - **Stinger season** runs roughly November to May; outer Reef pontoons supply stinger suits but verify before booking summer in-water activities.
 - **Crocodile risk** in Daintree and Cape Tribulation waters is real; do not swim in unmarked rivers or estuaries. Verify current advisories with Queensland Parks and Wildlife.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Great Barrier Reef Marine Park Authority (GBRMPA)** for current reef conditions, certified operators, and education materials.
 - **Cairns Post** and **ABC Far North** for local news, weather, and event listings.
@@ -46,7 +46,7 @@ You come here for the Reef, for the rainforest, and for the chance to engage wit
 - An Indigenous-led Daintree or Mossman Gorge tour with Kuku Yalanji or Yidinji custodians.
 - A book on the Reef: J.E.N. Veron's *A Reef in Time*, or recent journalism on the Reef's bleaching crisis.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your Reef operator.** A High Standard Tourism Operator costs marginally more and delivers far better education, safety, and conservation outcomes than the cheapest day boat.
 - **You decide on sunscreen.** Reef-safe (non-oxybenzone, non-octinoxate) is non-negotiable for anyone going in the water near coral.
@@ -54,7 +54,7 @@ You come here for the Reef, for the rainforest, and for the chance to engage wit
 - **You decide on Daintree as a day trip vs overnight.** A day trip is 12 hours of bus from Cairns; an overnight in Cape Tribulation lets you actually experience the forest at night.
 - **You decide on Indigenous engagement.** A Walkabout or Mandingalbay tour is a different reading of the same landscape; well worth a half day or full day.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Tropical North Queensland weather is dramatic. The wet season (November to April) brings monsoonal storms, cyclones, and stinger risk in coastal waters. The dry season (May to October) is the practical visitor window. Reef visibility varies with weather and recent rainfall runoff.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cairns and Daintree experiences I should not miss given my interests, and one I should consider skipping (the cheapest unverified Reef trip, an inner-Reef-only day in poor visibility, a Daintree day-trip if I could afford an overnight). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, High Standard Tourism Operator certification on GBRMPA, stinger and crocodile advisories, and Environmental Management Charge inclusion.
-> - **Information Curation Variety.** Suggest at least four different source types: GBRMPA, Tropical North Queensland Tourism, an Indigenous-led tour operator (Walkabout, Mandingalbay, or Mossman Gorge), and a recent book or article on the Reef's condition.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (operator choice, reef-safe sunscreen, inner vs outer Reef, Daintree day vs overnight, Indigenous engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Reef trip cancelled by swell, Daintree road cut by flood, poor visibility, cyclone warning).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, High Standard Tourism Operator certification on GBRMPA, stinger and crocodile advisories, and Environmental Management Charge inclusion.
+> - **Information Curation.** Suggest at least four different source types: GBRMPA, Tropical North Queensland Tourism, an Indigenous-led tour operator (Walkabout, Mandingalbay, or Mossman Gorge), and a recent book or article on the Reef's condition.
+> - **Inference Interaction.** List the decisions I personally need to make (operator choice, reef-safe sunscreen, inner vs outer Reef, Daintree day vs overnight, Indigenous engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Reef trip cancelled by swell, Daintree road cut by flood, poor visibility, cyclone warning).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named operators where I should book. Include at least one High Standard Reef day and one Indigenous-led rainforest experience. Mark each business as confidently locally owned, or flag it for me to verify.
 >

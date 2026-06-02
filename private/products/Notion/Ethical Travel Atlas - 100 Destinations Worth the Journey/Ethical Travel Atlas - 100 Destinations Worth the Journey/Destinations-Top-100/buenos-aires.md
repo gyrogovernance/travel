@@ -30,7 +30,7 @@ You come for the literature (Borges, Cortázar, Piglia), the beef and Malbec, th
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify **visa or visa-exempt** status on the official Argentine Migraciones portal.
 - **Currency.** Argentina has multiple exchange rates; the official rate is unfavourable for tourists. Verify current rules and your options (cash USD, Western Union pickup, Visa MEP exchange) on multiple recent sources before assuming.
@@ -38,7 +38,7 @@ You come for the literature (Borges, Cortázar, Piglia), the beef and Malbec, th
 - For **tango shows**, separate the touristic dinner-show (passable) from the *milongas* (real social tango halls). The latter is the experience; do not pay tourist prices to watch a stage version.
 - Buy intercity bus tickets only through **Plataforma 10** or the official terminal at Retiro; resellers charge premiums.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Buenos Aires Times** (English) and **Clarín** or **La Nación** (Spanish) for current news.
 - The official **Ciudad de Buenos Aires** tourism site for events and current rules.
@@ -46,7 +46,7 @@ You come for the literature (Borges, Cortázar, Piglia), the beef and Malbec, th
 - A locally led walking tour in San Telmo, La Boca (with caveats; see Step 1), or Palermo. Free Walking Tours BA is well regarded.
 - **Wikivoyage Buenos Aires** for neighbourhood orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the currency strategy.** Cash USD, Western Union, or card rates each have implications. Verify which is best now; the answer changes.
 - **You decide your neighbourhood base.** Palermo (Soho, Hollywood, Chico) is restaurant- and nightlife-rich; Recoleta is grand and quieter; San Telmo is bohemian; Puerto Madero is corporate-clean and sterile.
@@ -54,7 +54,7 @@ You come for the literature (Borges, Cortázar, Piglia), the beef and Malbec, th
 - **You decide on the tango.** A milonga (Confitería Ideal, La Catedral, Salón Canning) is real social tango; a Caminito dinner show is dinner with a show. The choice is yours.
 - **You decide whether to engage with Argentina's political conversation.** Locals are extremely engaged; Peronism, Macrismo, Mileinomics are all everyday conversation. Listen first.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Buenos Aires runs on its own clock. Lunch at 2 pm, dinner at 10 pm, nightclubs after 2 am. The summer (December to February) is genuinely hot and the city half-empties for the coast. Inflation reshapes prices weekly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Buenos Aires experiences I should not miss given my interests, and one I should consider skipping (a tourist dinner-tango show, La Boca after dark, an unofficial airport driver). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Argentine Migraciones visa portal, current currency exchange options (the official rate vs alternatives), Teatro Colón booking, and licensed San Telmo or La Boca walking guides.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Argentine source, one Argentine news outlet, one Argentine author, and one local milonga-going or barrio guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (currency strategy, neighbourhood base, La Boca approach, tango show vs milonga, how I engage Argentine politics).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a paro strike, a heatwave, a power-grid outage in summer, a sudden price jump).
+> - **Governance Management.** What assumptions should I check before I book? Include the Argentine Migraciones visa portal, current currency exchange options (the official rate vs alternatives), Teatro Colón booking, and licensed San Telmo or La Boca walking guides.
+> - **Information Curation.** Suggest at least four different source types: one official Argentine source, one Argentine news outlet, one Argentine author, and one local milonga-going or barrio guide.
+> - **Inference Interaction.** List the decisions I personally need to make (currency strategy, neighbourhood base, La Boca approach, tango show vs milonga, how I engage Argentine politics).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a paro strike, a heatwave, a power-grid outage in summer, a sudden price jump).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one milonga visit (or beginner class), one Sunday in San Telmo, and one parrilla lunch. Mark each business as confidently locally owned, or flag it for me to verify.
 >

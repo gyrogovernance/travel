@@ -30,7 +30,7 @@ You come for the food, the views, the trams, the hiking, and a Cantonese culture
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for Hong Kong (separate from mainland China rules); verify on the official Hong Kong Immigration Department portal.
 - The **Octopus card** is the universal payment system; buy at any MTR station or at the airport. Contactless bank cards work on most MTR lines as well.
@@ -38,7 +38,7 @@ You come for the food, the views, the trams, the hiking, and a Cantonese culture
 - **Hong Kong Disneyland and Ocean Park** sell tickets on official portals.
 - For **hiking** (Dragon's Back, Lion Rock, MacLehose Stages), verify current trail status on the official AFCD (Agriculture, Fisheries and Conservation Department) portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **South China Morning Post** for serious English-language coverage.
 - The official **Hong Kong Tourism Board** for events, openings, and current advisories.
@@ -46,7 +46,7 @@ You come for the food, the views, the trams, the hiking, and a Cantonese culture
 - A locally led food tour or neighbourhood walk in Sham Shui Po or Kowloon City.
 - **Wikivoyage Hong Kong** for district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the harbour view.** The Symphony of Lights at 8 pm from the Tsim Sha Tsui waterfront is free; from the Peak, it is more expensive and the same view from above; from Star Ferry, it is the best moving picture.
 - **You decide on hiking.** Dragon's Back, Victoria Peak Circle, Lantau Trail Stage 2 (above Tai O), and Sai Kung's MacLehose are all achievable in a half day; the country parks transform your understanding of Hong Kong.
@@ -54,7 +54,7 @@ You come for the food, the views, the trams, the hiking, and a Cantonese culture
 - **You decide your political-conversation register.** Things have changed in recent years. Listen to what locals do and do not bring up.
 - **You decide on Macau as a day-trip.** One hour by ferry; the colonial Portuguese centre is UNESCO-listed; the casinos are mostly skippable.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Hong Kong weather is subtropical; typhoons can shut the city on short notice in summer and autumn. Air quality on still days can be poor. The MTR is one of the world's best metros but is occasionally affected by political events or maintenance.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Hong Kong experiences I should not miss given my interests, and one I should consider skipping (a Peak Tram queue when the bus is steps better, the casinos in Macau, an overpriced harbour cruise when the Star Ferry covers it). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Hong Kong visa portal, Octopus card or contactless setup, the Peak Tram and Ngong Ping 360 official portals, country-park trail status, and typhoon signals.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Hong Kong source, the South China Morning Post or a serious English-language outlet, a Hong Kong author, and a local food or neighbourhood walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (harbour view from where, hiking commitment, dim sum strategy, political conversation register, Macau add-on).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (typhoon signal 8 closing the city, red air-quality day, sold-out Peak Tram, an MTR line closure).
+> - **Governance Management.** What assumptions should I check before I book? Include the Hong Kong visa portal, Octopus card or contactless setup, the Peak Tram and Ngong Ping 360 official portals, country-park trail status, and typhoon signals.
+> - **Information Curation.** Suggest at least four different source types: one official Hong Kong source, the South China Morning Post or a serious English-language outlet, a Hong Kong author, and a local food or neighbourhood walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (harbour view from where, hiking commitment, dim sum strategy, political conversation register, Macau add-on).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon signal 8 closing the city, red air-quality day, sold-out Peak Tram, an MTR line closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, MTR lines, and named districts. Include at least one country-park hike and one Sham Shui Po food walk. Mark each business as confidently locally owned, or flag it for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the food, the art, the architecture (Oscar Niemeyer is everywhere),
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify **visa rules** on the official Brazilian Ministry of Foreign Affairs portal. Some nationalities now require e-visas; verify before booking.
 - **MASP** sells tickets at the door; verify hours and current exhibitions on the official portal. Free on Tuesdays (sometimes).
@@ -38,7 +38,7 @@ You come for the food, the art, the architecture (Oscar Niemeyer is everywhere),
 - **Theatro Municipal** and **Sala São Paulo** (concerts) sell tickets on official venue portals.
 - **Metro and bus** under SPTrans use the **Bilhete Único** card or contactless on most Metro lines.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Folha de S. Paulo** and **O Estado de S. Paulo** for major Brazilian news; **The Brazilian Report** for English.
 - **Visit São Paulo** (the official tourism site) for events.
@@ -46,7 +46,7 @@ You come for the food, the art, the architecture (Oscar Niemeyer is everywhere),
 - A São Paulo-based food or neighbourhood guide.
 - **Wikivoyage São Paulo** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the safety strategy.** São Paulo is fine for prepared visitors using ride-hail and licensed transport; do not walk certain areas at night; do not display valuables on the street.
 - **You decide on the food strategy.** A serious food walking tour for the first night, then exploring afterwards, is the best way into the city's massive scene.
@@ -54,7 +54,7 @@ You come for the food, the art, the architecture (Oscar Niemeyer is everywhere),
 - **You decide on Ibirapuera.** Free, vast, Niemeyer-designed; one of the city's gifts.
 - **You decide on the contemporary art scene.** MASP + Pinacoteca + Japan House + Instituto Tomie Ohtake covers a full day or two of contemporary art.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 São Paulo weather is subtropical; winter (June to August) is cool and grey; summer (December to February) is hot with rain. Major events (Lollapalooza Brasil in March, São Paulo Fashion Week, Formula 1 in November) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three São Paulo experiences I should not miss given my interests, and one I should consider skipping (a centro-only day that misses the food neighbourhoods, walking certain areas at night, an Avenida Paulista visit on a non-Sunday). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Brazilian visa portal, MASP and Pinacoteca official portals, Theatro Municipal ticketing, Bilhete Único or contactless Metro, and home-government safety advisories.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Brazilian source, one Brazilian newspaper, one Brazilian author, and one São Paulo-based food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safety strategy, food-tour first night, neighbourhood depth, top-restaurant booking, art-museum cluster).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (heavy rain, traffic gridlock, a public-event Paulista closure, sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include the Brazilian visa portal, MASP and Pinacoteca official portals, Theatro Municipal ticketing, Bilhete Único or contactless Metro, and home-government safety advisories.
+> - **Information Curation.** Suggest at least four different source types: one official Brazilian source, one Brazilian newspaper, one Brazilian author, and one São Paulo-based food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (safety strategy, food-tour first night, neighbourhood depth, top-restaurant booking, art-museum cluster).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (heavy rain, traffic gridlock, a public-event Paulista closure, sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one food walking tour and one neighbourhood evening (Vila Madalena, Liberdade, Pinheiros, or Bixiga). Mark each business as confidently locally owned, or flag for me to verify.
 >

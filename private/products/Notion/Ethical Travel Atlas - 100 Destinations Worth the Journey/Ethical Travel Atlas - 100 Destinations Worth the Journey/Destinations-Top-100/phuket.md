@@ -30,7 +30,7 @@ You come for the Andaman Sea, the diving and snorkelling, the food (Phuketian Th
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Confirm your **visa exemption or visa-on-arrival** on the official Thai Ministry of Foreign Affairs portal.
 - **Maya Bay** (made famous by *The Beach*) has been managed with closure periods to restore coral; verify current opening status and any reservation system on the Department of National Parks portal.
@@ -38,7 +38,7 @@ You come for the Andaman Sea, the diving and snorkelling, the food (Phuketian Th
 - For **elephant interactions**, choose only walk-with-elephant sanctuaries (Phuket Elephant Sanctuary is the reference); never elephant-ride operators.
 - **Khao Lak** (an hour and a half north) is a quieter alternative base; verify operator licensing for Similan trips.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Bangkok Post** and **Phuket News** for current events and local rules.
 - The official **Tourism Authority of Thailand (TAT)** site for events and current advisories.
@@ -46,7 +46,7 @@ You come for the Andaman Sea, the diving and snorkelling, the food (Phuketian Th
 - A Phuket-resident expat-and-local YouTube channel or guide for ground-truth on operators and current scam patterns.
 - **Wikivoyage Phuket** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your beach.** Patong is loud, dense, party-focused; Karon and Kata are family-mid-range; Surin and Bang Tao are upmarket; Rawai and Nai Harn are quieter; the east coast is the local fishing-village side.
 - **You decide on Phi Phi.** A day trip from Phuket gives the postcard view; an overnight on Phi Phi Don is the deeper experience. Maya Bay rules have evolved repeatedly; verify current access.
@@ -54,7 +54,7 @@ You come for the Andaman Sea, the diving and snorkelling, the food (Phuketian Th
 - **You decide on elephant ethics.** A walk-with-elephant sanctuary visit is a different day from a riding-elephant attraction. Choose deliberately.
 - **You decide on Old Phuket Town.** A morning of Sino-Portuguese architecture and Hokkien food is one of the island's most overlooked highlights.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Phuket weather is monsoonal; wet season (May to October) brings rain, swell on west coasts, and reduced boat operations; dry season (November to April) is the peak tourist window. Major Thai holidays (Songkran in April, Loy Krathong in November) reshape the island.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Phuket experiences I should not miss given my interests, and one I should consider skipping (an elephant-riding attraction, a Patong nightlife focus if I came for nature, a tuk-tuk ride at the inflated price). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Thai Ministry of Foreign Affairs visa portal, Maya Bay current status, ethical elephant sanctuary verification, Phi Phi and Phang Nga operator reputation, and reef-safe sunscreen.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Thai source, one Phuket news outlet, one Thai author or contextual book, and one local guide or ethical sanctuary.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (beach base, Phi Phi vs Phang Nga, elephant ethics, Old Phuket Town time, taxi vs tuk-tuk).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (monsoon swell cancelling boats, a Maya Bay closure, a heat wave, a Songkran water-fight during my dates).
+> - **Governance Management.** What assumptions should I check before I book? Include the Thai Ministry of Foreign Affairs visa portal, Maya Bay current status, ethical elephant sanctuary verification, Phi Phi and Phang Nga operator reputation, and reef-safe sunscreen.
+> - **Information Curation.** Suggest at least four different source types: one official Thai source, one Phuket news outlet, one Thai author or contextual book, and one local guide or ethical sanctuary.
+> - **Inference Interaction.** List the decisions I personally need to make (beach base, Phi Phi vs Phang Nga, elephant ethics, Old Phuket Town time, taxi vs tuk-tuk).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (monsoon swell cancelling boats, a Maya Bay closure, a heat wave, a Songkran water-fight during my dates).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named beaches and sites. Include at least one Old Phuket Town morning and one boat trip. Mark each business as confidently locally owned and ethically operated, or flag for me to verify.
 >

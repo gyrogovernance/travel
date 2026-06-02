@@ -30,7 +30,7 @@ You come for Old San Juan, the food, the beaches, El Yunque rainforest, and as a
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - US citizens and US permanent residents need no passport for Puerto Rico (it is a US commonwealth). International visitors enter as if entering the US: **ESTA or B-2 visa** depending on nationality; verify on the official US State Department portal.
 - **El Morro and San Cristóbal forts** (San Juan National Historic Site) are managed by the US National Park Service; entry fee small; verify on the NPS portal.
@@ -38,7 +38,7 @@ You come for Old San Juan, the food, the beaches, El Yunque rainforest, and as a
 - For **bioluminescent bay tours** in Vieques (Mosquito Bay), Fajardo (Laguna Grande), or La Parguera, choose operators using non-motorised kayaks; verify on Discover Puerto Rico.
 - The new **Tren Urbano** Metro serves only one route (San Juan to Bayamón); rental car, Uber, or taxi for everything else.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Nuevo Día** (Spanish) and **The San Juan Daily Star** (English) for current Puerto Rican news.
 - **Discover Puerto Rico** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for Old San Juan, the food, the beaches, El Yunque rainforest, and as a
 - A locally led Old San Juan walking tour or food tour with a Puerto Rican guide.
 - **Wikivoyage Puerto Rico** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the El Yunque day.** A serious 4 to 6 hour visit; the La Mina Falls trail is the classic; verify trail status on Recreation.gov.
 - **You decide on the lechón road.** Guavate (the *Ruta del Lechón*) is one of the world's great roadside-food experiences; 45 minutes by car; Saturday/Sunday afternoon is the local time.
@@ -54,7 +54,7 @@ You come for Old San Juan, the food, the beaches, El Yunque rainforest, and as a
 - **You decide on the beach.** Condado is the postcard urban beach; Ocean Park is calmer; Luquillo (45 minutes east) is dramatically better and palm-lined.
 - **You decide on day trips.** Vieques, Culebra, Ponce (south coast colonial city), and Rincón (west coast surf) are all reachable.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 San Juan weather is tropical and warm year-round; hurricane season runs June to November (peak August-October). Afternoon thunderstorms in summer are routine.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Puerto Rico experiences I should not miss given my interests, and one I should consider skipping (a one-day Vieques attempt with unreliable ferry, a resort that doesn't leave Condado, a midday El Yunque without trail booking). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include US entry rules for international visitors (ESTA), the National Park Service for forts and El Yunque, Recreation.gov for trail reservations, bioluminescent bay operator certification, and Vieques ferry reliability.
-> - **Information Curation Variety.** Suggest at least four different source types: Discover Puerto Rico, a Puerto Rican news outlet (El Nuevo Día or The San Juan Daily Star), a Puerto Rican author (Santiago, Lalo, or Ferré), and a Puerto Rican walking or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (El Yunque depth, Guavate visit, bio-bay choice, beach selection, day-trip islands).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, Vieques ferry cancellation, rain on El Yunque day, sargassum on a chosen beach).
+> - **Governance Management.** What assumptions should I check before I book? Include US entry rules for international visitors (ESTA), the National Park Service for forts and El Yunque, Recreation.gov for trail reservations, bioluminescent bay operator certification, and Vieques ferry reliability.
+> - **Information Curation.** Suggest at least four different source types: Discover Puerto Rico, a Puerto Rican news outlet (El Nuevo Día or The San Juan Daily Star), a Puerto Rican author (Santiago, Lalo, or Ferré), and a Puerto Rican walking or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (El Yunque depth, Guavate visit, bio-bay choice, beach selection, day-trip islands).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, Vieques ferry cancellation, rain on El Yunque day, sargassum on a chosen beach).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include Old San Juan, one El Yunque half-day, and one local-food experience (Santurce or Guavate). Mark each business as confidently locally owned, or flag for me to verify.
 >

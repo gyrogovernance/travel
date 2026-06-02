@@ -1,0 +1,52 @@
+{
+  "slug": "brisbane",
+  "name": "Brisbane",
+  "country": "Australia",
+  "region": "Oceania",
+  "image": "/destinations/brisbane.jpg",
+  "teaser": "Brisbane (Meanjin in Yagara language) is Queensland's subtropical capital on a wide brown river that loops through the city six times. Smaller and more humid than Sydney or Melbourne, host of a coming Olympic Games, and a real working gateway to the Great Barrier Reef and the Sunshine and Gold Coasts.",
+  "intro": "Brisbane (Meanjin in Yagara language) is Queensland's subtropical capital on a wide brown river that loops through the city six times. Smaller and more humid than Sydney or Melbourne, host of a coming Olympic Games, and a real working gateway to the Great Barrier Reef and the Sunshine and Gold Coasts.",
+  "whyVisit": "Brisbane has spent the last twenty years quietly becoming one of Australia's most liveable cities. The Cultural Centre at South Bank holds GOMA (the Gallery of Modern Art), one of the best contemporary collections in the Southern Hemisphere. The river is a transport spine via the CityCat ferries. The food culture has caught up with the rest of the country.\n\nThe city is also the gateway to a wider Queensland that includes Aboriginal-led tourism on Stradbroke Island (Minjerribah), Moreton Bay's whale and dugong populations, and the southern entry to the Great Barrier Reef. Brisbane is a base, not just a stop.",
+  "ethicalCompass": {
+    "economy": "Eat at independent places in Fortitude Valley, West End, New Farm, and Paddington rather than chain mall food courts. Buy at the West End or Powerhouse farmers' markets. Stay in licensed hotels and apartment-hotels; Queensland regulates short-term lets less strictly than NSW or Victoria but the housing pressure is rising.",
+    "employment": "Tip is not customary in Australia. Use Translink (the public transport network) where you can; the CityCat ferry is both transport and sightseeing.",
+    "education": "This is Yagara, Turrbal, and Jagera country. Visit Aboriginal-led experiences (Minjerribah on Stradbroke Island, or downtown cultural tours run by First Nations operators) before assuming you have seen the Brisbane story. The state has a real conversation about reconciliation; engage it.",
+    "ecology": "Brisbane summers are humid and increasingly hot; plan strenuous outdoor days carefully. Reef-bound trips from Brisbane should choose High Standard Tourism Operators certified by Tourism Australia and the Great Barrier Reef Marine Park Authority."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "ETA or eVisitor visa is required for most travellers; verify your nationality on the Australian Department of Home Affairs portal.",
+      "Translink runs all Brisbane public transport (train, bus, CityCat ferry); contactless payment is accepted on most services.",
+      "GOMA, QAGOMA, and the Queensland Museum at South Bank are mostly free; verify special-exhibition pricing on official portals.",
+      "For day trips to Moreton Island or North Stradbroke, confirm ferry operators (SeaLink for Stradbroke, MICAT for Moreton) on official sites.",
+      "Any wildlife encounter (koala sanctuary, dolphin feeding) should be licensed by Queensland Parks and Wildlife; verify before booking."
+    ],
+    "icu": [
+      "The Brisbane Times and ABC Brisbane for current city news.",
+      "Visit Brisbane (the official city tourism site) for events, openings, and seasonal advisories.",
+      "An Aboriginal author with Queensland connection: Melissa Lucashenko's Too Much Lip (set in northern NSW but resonant), or anthology Growing Up Aboriginal in Australia.",
+      "A First Nations-led Brisbane tour: BlackCard or Yura Tours for in-city; Quandamooka tours on Minjerribah.",
+      "Wikivoyage Brisbane for area orientation."
+    ],
+    "iinter": [
+      "You decide on the Olympics overlay. Brisbane is hosting in coming years; construction is already reshaping parts of the city. Your visit can support or bypass the displacement that often comes with mega-events.",
+      "You decide on Quandamooka and Minjerribah. A day on North Stradbroke with Quandamooka-led tourism is a different Australia from the riverside CBD; it is also a longer day.",
+      "You decide on the Reef from Brisbane. It is a long way to the Great Barrier Reef from Brisbane; the southern reef (off Lady Elliot or Heron Island) is closer than the northern reef. Be honest with yourself about distance.",
+      "You decide on koala interactions. Lone Pine Koala Sanctuary allows holding; many ethical voices argue against this. Decide on your principles.",
+      "You decide your river engagement. The CityCat (or the free CityHopper inner-city route) is one of the great public-transport experiences. Use it."
+    ],
+    "ico": "Brisbane weather is subtropical; thunderstorms arrive fast in summer, the river floods periodically (most recently with serious damage), and humidity drives the rhythm of the day. Major events (festivals, sport, eventually the Olympics) reshape transport at short notice.\n\nBring a soft plan. If a storm closes the river, the cultural centre at South Bank absorbs a wet afternoon. If a koala sanctuary day feels wrong, the Lone Pine alternative is just to walk D'Aguilar National Park trails. If a CityCat is cancelled, Translink buses cover the same routes."
+  },
+  "anchorSpots": [
+    "GOMA and the Queensland Cultural Centre. Free general admission, one of the great contemporary collections in the Southern Hemisphere. Plan three hours.",
+    "CityCat down the river. Apollo Road to West End, or end-to-end. The cheapest sightseeing in Brisbane.",
+    "South Bank Parklands. The river beach, the rainforest walk, the Wheel of Brisbane, the night markets on weekends.",
+    "Mt Coot-tha and the Botanic Gardens. Twenty minutes from the CBD, panoramic city view, native plant sections worth two hours.",
+    "North Stradbroke Island (Minjerribah). Ferry from Cleveland; Quandamooka-led cultural tourism, point lookout, gorges, and beaches."
+  ],
+  "recommendedLength": "Two to three days for the city. Add one to two for Minjerribah or Moreton, more for onward to the Sunshine Coast or Great Barrier Reef.",
+  "transportHint": "Translink CityCat ferries are both transport and the most pleasant way to see the river; pay contactless. CityTrain serves the airport in 20 minutes. Buses cover the rest. The compact CBD is walkable; cycling on the riverside paths is excellent.",
+  "prompt": "Please help me plan an ethical visit to Brisbane (Meanjin), Australia for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. contemporary art, river life, First Nations culture, food, islands]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Brisbane experiences I should not miss given my interests, and one I should consider skipping. Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Translink contactless payments, ferry operators to Stradbroke and Moreton, and licensing of any wildlife-encounter operators.\n- **Information Curation.** Suggest at least four different source types: one official Australian or Queensland source, one Brisbane news outlet, one First Nations author or tour operator, and one neighbourhood-based food or walking host.\n- **Inference Interaction.** List the decisions I personally need to make (Olympics-overlay considerations, Quandamooka engagement, Reef-from-Brisbane reality, koala ethics, river engagement).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, cancelled CityCat, ferry weather cancellation, a closed wing at GOMA).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one First Nations-led experience and one full CityCat run. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Brisbane, Translink, the Department of Home Affairs, and Tourism Australia for Reef operators if applicable.\n2. Real people: a local resident, a First Nations guide, or hotel staff who live in Brisbane now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 2174003,
+  "order": 92
+}

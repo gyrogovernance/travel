@@ -30,7 +30,7 @@ You come for the food, the multicultural neighbourhoods, the museums, the lake a
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **eTA (Canadian Electronic Travel Authorization)** if visa-exempt, or a visa otherwise; verify on the official Government of Canada Immigration portal.
 - **CN Tower** sells timed tickets on the official portal.
@@ -38,7 +38,7 @@ You come for the food, the multicultural neighbourhoods, the museums, the lake a
 - **TTC** (subway, streetcars, buses) uses **Presto card** or contactless on most lines.
 - **Toronto Islands ferries** sell tickets at the Jack Layton Ferry Terminal; verify on the official Toronto Islands portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Toronto Star** and **CBC Toronto** for serious local news.
 - **Destination Toronto** (the official city tourism site) for events.
@@ -46,7 +46,7 @@ You come for the food, the multicultural neighbourhoods, the museums, the lake a
 - An Indigenous-led First Story Toronto tour or a Kensington Market food tour.
 - **Wikivoyage Toronto** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the neighbourhood depth.** Spending most of your trip downtown is the most common mistake. Add at least one full day in Kensington/Chinatown, the Danforth, or Little Italy.
 - **You decide on the CN Tower.** The Edgewalk is the only adrenaline addition; the observation deck is the calmer option.
@@ -54,7 +54,7 @@ You come for the food, the multicultural neighbourhoods, the museums, the lake a
 - **You decide on the Toronto Islands.** Half-day on the free ferry; Ward's Island and Centre Island; one of the city's most pleasant escapes.
 - **You decide on Indigenous engagement.** First Story Toronto's walking tours or a Native Canadian Centre visit gives real context.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Toronto weather is four-season; serious winter (December-March, often below freezing with windchill), beautiful but short summer (June-August), dramatic shoulder seasons. Major events (TIFF film festival in September, Pride in June, Caribana in August) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Toronto experiences I should not miss given my interests, and one I should consider skipping (a downtown-only itinerary, a midday CN Tower, a Niagara one-day attempt if I could afford an overnight). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Canadian eTA, official CN Tower and museum portals, TTC Presto/contactless, the Toronto Islands ferry, and TIFF/Caribana dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Toronto source, one Toronto news outlet, one Toronto author, and one Indigenous-led tour (First Story Toronto).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood depth, CN Tower experience choice, Niagara approach, Toronto Islands day, Indigenous engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (winter snowstorm, TIFF-week hotel spike, a Caribana street closure, a sold-out CN Tower).
+> - **Governance Management.** What assumptions should I check before I book? Include the Canadian eTA, official CN Tower and museum portals, TTC Presto/contactless, the Toronto Islands ferry, and TIFF/Caribana dates.
+> - **Information Curation.** Suggest at least four different source types: one official Toronto source, one Toronto news outlet, one Toronto author, and one Indigenous-led tour (First Story Toronto).
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood depth, CN Tower experience choice, Niagara approach, Toronto Islands day, Indigenous engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (winter snowstorm, TIFF-week hotel spike, a Caribana street closure, a sold-out CN Tower).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one ethnic-neighbourhood food day. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come for Stone Town, the beaches, the spice tours (Zanzibar was the world's 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers need a **visa** for Tanzania (on arrival or e-visa); verify on the official Tanzania Immigration portal. **Yellow fever** required from countries with risk.
 - Zanzibar charges its own **arrival tax** in addition to the Tanzania visa.
@@ -38,7 +38,7 @@ You come for Stone Town, the beaches, the spice tours (Zanzibar was the world's 
 - For **dolphin tours** (Kizimkazi area), choose operators using boat-distance and no-touching rules; many do not.
 - **Dhow cruises** to Bawe, Changuu (Prison Island), and Chumbe are common; verify operator legitimacy.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Daily News** (Tanzania) for current events.
 - The official **Zanzibar Commission for Tourism** for events.
@@ -46,7 +46,7 @@ You come for Stone Town, the beaches, the spice tours (Zanzibar was the world's 
 - A Zanzibari-led Stone Town walking tour or a spice farm tour with a local guide.
 - **Wikivoyage Zanzibar** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Stone Town vs beaches.** Most visitors do both: 2 to 3 nights in Stone Town for culture and 3 to 5 nights at a beach. The split is important.
 - **You decide on the coast.** North (Nungwi, Kendwa) is party, deeper water, less tidal; east (Paje, Jambiani, Matemwe) is dramatic tides, kitesurfing, calmer atmosphere.
@@ -54,7 +54,7 @@ You come for Stone Town, the beaches, the spice tours (Zanzibar was the world's 
 - **You decide on the Old Slave Market.** A serious visit; the underground holding chambers; the Anglican Cathedral built on the site.
 - **You decide on a dhow trip.** A sunset dhow is one of the world's great cheap experiences; verify the boat is safe.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Zanzibar weather is tropical; long rains (March-May), short rains (November), dry seasons in between are the main visitor windows. Ramadan reshapes Stone Town daytime eating.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of Stone Town and beach days, and one I should consider skipping (a beach-only resort week with no Stone Town, a dolphin-touch operator, a Stone Town visit in only swimwear). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Tanzania Immigration visa, Zanzibar arrival tax, yellow-fever, plastic-bag ban, modest dress code in Stone Town, and Mnemba Atoll operator standards.
-> - **Information Curation Variety.** Suggest at least four different source types: Zanzibar Commission for Tourism, Tanzanian news, Abdulrazak Gurnah's fiction (Nobel laureate Zanzibari), and a Zanzibari-led Stone Town guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Stone Town vs beach days, north vs east coast, dress code commitment, Old Slave Market visit, Ramadan timing).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (long-rains afternoon downpour, Ramadan timing, a Mnemba sea-cancellation, a flight delay from mainland).
+> - **Governance Management.** What assumptions should I check before I book? Include Tanzania Immigration visa, Zanzibar arrival tax, yellow-fever, plastic-bag ban, modest dress code in Stone Town, and Mnemba Atoll operator standards.
+> - **Information Curation.** Suggest at least four different source types: Zanzibar Commission for Tourism, Tanzanian news, Abdulrazak Gurnah's fiction (Nobel laureate Zanzibari), and a Zanzibari-led Stone Town guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Stone Town vs beach days, north vs east coast, dress code commitment, Old Slave Market visit, Ramadan timing).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (long-rains afternoon downpour, Ramadan timing, a Mnemba sea-cancellation, a flight delay from mainland).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods and beaches. Include Stone Town, a spice tour, a beach stay, and one snorkel or dhow day. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the mountain, the coast, the wines, the African penguin, and the ch
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Visa requirements** vary widely by nationality; verify on the official Department of Home Affairs portal. Many countries get 90 days visa-free.
 - The **Robben Island tour** must be booked through the official Robben Island Museum portal; weather cancels ferries.
@@ -38,7 +38,7 @@ You come for the mountain, the coast, the wines, the African penguin, and the ch
 - The **Cape Peninsula day tour** (Boulders Beach penguins, Cape Point) requires reserve entry fees; verify on the SANParks portal.
 - **MyCiTi bus** is the city's reliable public transport; verify routes and current pricing on the official MyCiTi portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Daily Maverick** and **News24** for serious South African journalism in English.
 - **Cape Town Tourism** (the official city site) for events, current advisories, and weather warnings.
@@ -46,7 +46,7 @@ You come for the mountain, the coast, the wines, the African penguin, and the ch
 - A locally led township tour run by resident operators (Coffee Beans Routes, Uthando Tours); avoid bus-window tours.
 - **SANParks** for Table Mountain National Park and Cape Point information.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on safety.** Cape Town has high inequality and real petty and serious crime in some areas. Listen to local advice on walking after dark, neighbourhoods, and parked-car valuables. Most visitors have problem-free trips by following advice.
 - **You decide on the township engagement.** A bus-window tour is voyeurism; a resident-led walking visit with conversation, a meal, and time is meaningful.
@@ -54,7 +54,7 @@ You come for the mountain, the coast, the wines, the African penguin, and the ch
 - **You decide on the Winelands.** Stellenbosch, Franschhoek, and Constantia each give different days; consider whether a designated driver, a wine bus, or a hired guide is the safer plan.
 - **You decide on Robben Island timing.** Morning ferries are more reliable; afternoons can be cancelled. Book days ahead.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Cape Town weather is famously fickle. The "tablecloth" cloud on Table Mountain rolls in within minutes. Summer south-easters (the "Cape Doctor") can shut beaches. Winter storms close the cable car and ferries.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cape Town experiences I should not miss given my interests, and one I should consider skipping (a drive-through township "tour", a Camps Bay sunset with a stiff south-easter, a Winelands day without a designated driver). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, Robben Island official booking, Table Mountain cable car operating status, SANParks for the peninsula, and loadshedding status with my accommodation.
-> - **Information Curation Variety.** Suggest at least four different source types: one official South African source, one serious South African news outlet, one South African author, and one resident-led township tour operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safety practice, township engagement style, cable car vs hike, Winelands transport, Robben Island timing).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Table Mountain closed, Robben Island cancelled, a strong south-easter wind, a loadshedding scheduled cut).
+> - **Governance Management.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, Robben Island official booking, Table Mountain cable car operating status, SANParks for the peninsula, and loadshedding status with my accommodation.
+> - **Information Curation.** Suggest at least four different source types: one official South African source, one serious South African news outlet, one South African author, and one resident-led township tour operator.
+> - **Inference Interaction.** List the decisions I personally need to make (safety practice, township engagement style, cable car vs hike, Winelands transport, Robben Island timing).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Table Mountain closed, Robben Island cancelled, a strong south-easter wind, a loadshedding scheduled cut).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one resident-led township or Bo-Kaap experience, one full peninsula day, and one Winelands afternoon. Mark each business as confidently locally owned, or flag it for me to verify.
 >

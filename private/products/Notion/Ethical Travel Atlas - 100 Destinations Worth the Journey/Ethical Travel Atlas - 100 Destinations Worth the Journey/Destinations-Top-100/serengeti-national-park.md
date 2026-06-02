@@ -30,7 +30,7 @@ You come for the migration, the predators, the savannah, the Maasai culture at t
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers need a **visa** for Tanzania (on arrival or e-visa); verify on the official Tanzania Immigration portal. **Yellow fever** required if arriving from countries with risk.
 - **Park entry and concession fees** for the Serengeti, Ngorongoro, and other parks are substantial and paid through your operator; verify current pricing on TANAPA (Tanzania National Parks) portal.
@@ -38,7 +38,7 @@ You come for the migration, the predators, the savannah, the Maasai culture at t
 - **Fly-in vs drive-in:** small bush flights connect Arusha to Serengeti airstrips (Seronera, Kogatende, Kusini); driving is rough and long.
 - For **hot-air balloon safari**, verify operator certification.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Tanzania National Parks (TANAPA)** for park information.
 - **Daily News** (Tanzanian English) and **The Citizen** for current news.
@@ -46,7 +46,7 @@ You come for the migration, the predators, the savannah, the Maasai culture at t
 - A Tanzanian-owned or accredited safari operator (Maramboi, Asilia, Nomad, Roho ya Selous, Wayo Africa).
 - **Wikivoyage Serengeti** for cross-park logistics.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the safari style.** Tented camp (basic but real) versus luxury lodge (comfort but more removed) versus mobile camp (follows the migration). Each is a different trip.
 - **You decide on migration timing.** Calving (January-February) in the south; river crossings (July-October) in the north. The "wrong" months still have spectacular resident wildlife.
@@ -54,7 +54,7 @@ You come for the migration, the predators, the savannah, the Maasai culture at t
 - **You decide on the Olduvai Gorge add-on.** A short visit to the museum and excavation site between Ngorongoro and Serengeti gives the deep-time context.
 - **You decide on Maasai engagement.** A registered Maasai village visit (not a roadside performance) is meaningful; insist on the proper introduction.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Serengeti weather has two rainy seasons: the long rains (March-May, the park is greenest, fewer tourists, but tracks may be boggy) and short rains (October-December). Dry seasons (June-October, January-February) are easier visiting. Migration river crossings cannot be predicted on a daily basis.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of Serengeti zones (Seronera, Ndutu, western corridor, northern Serengeti), Ngorongoro, and Tarangire given my dates and migration position. Identify one I should consider skipping (a too-rushed 4-day northern circuit, an unaccredited budget operator, a balloon if my budget is tight). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Tanzania Immigration visa, yellow-fever, TANAPA park fees, current migration position (operator-verified), and Tanzanian-accredited safari operators.
-> - **Information Curation Variety.** Suggest at least four different source types: TANAPA, Tanzanian news, an Anthony Sinclair or Grzimek book, and a Tanzanian or community-benefit-aligned safari operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safari style, migration position, northern-circuit pace, Olduvai add-on, Maasai engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (no river crossings on my dates, boggy tracks in rains, a fly-in weather cancellation, a sighting jam).
+> - **Governance Management.** What assumptions should I check before I book? Include Tanzania Immigration visa, yellow-fever, TANAPA park fees, current migration position (operator-verified), and Tanzanian-accredited safari operators.
+> - **Information Curation.** Suggest at least four different source types: TANAPA, Tanzanian news, an Anthony Sinclair or Grzimek book, and a Tanzanian or community-benefit-aligned safari operator.
+> - **Inference Interaction.** List the decisions I personally need to make (safari style, migration position, northern-circuit pace, Olduvai add-on, Maasai engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (no river crossings on my dates, boggy tracks in rains, a fly-in weather cancellation, a sighting jam).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, named camps or lodges, and named game zones. Include the right migration zone for my dates and at least one community-benefit-aligned camp. Mark each as confidently certified, or flag for me to verify.
 >

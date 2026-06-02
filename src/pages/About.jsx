@@ -125,47 +125,62 @@ stake in the place you visit?
 <li>
 <strong>Employment</strong> is governed by the Gyroscope Protocol,
 which classifies meaningful human work into four categories of
-contribution: governance management, information curation,
-inference interaction, and intelligence cooperation. In travel:
+contribution: Governance Management, Information Curation,
+Inference Interaction, and Intelligence Cooperation. In travel:
 does tourism create real work with real accountability, or does it
 reduce people to interchangeable parts in a booking machine?
 </li>
 <li>
 <strong>Education</strong> is governed by The Human Mark (THM),
-which defines the human capacities needed for aligned cooperation.
-In travel: do you learn from diverse, direct sources, or do you
-rely on a single indirect source that compresses everything into
-the most popular answer?
+which defines four alignment capacities: Governance Management
+Traceability, Information Curation Variety, Inference Interaction
+Accountability, and Intelligence Cooperation Integrity. In travel:
+do you trace AI tips back to real sources, keep your own
+accountability for decisions, and treat locals as direct authority,
+or treat model output as ground truth?
 </li>
 <li>
-<strong>Ecology</strong> aggregates the state of all three other domains into a
-single measure of systemic health. In travel: do your choices add
-up to regeneration or degradation?
+<strong>Ecology</strong> closes the loop: it aggregates economy,
+employment, and education into systemic health and displacement
+(GTD, IVD, IAD, IID). In travel: do your choices add up to
+regeneration or degradation?
 </li>
 </ul>
 <p>
-Within this structure, THM also identifies four displacement risks
-that can show up in any domain. These are the patterns that break
-alignment: Governance Traceability Displacement, when AI systems
-are treated as autonomous decision-makers rather than instruments
-traceable to human oversight; Information Variety Displacement,
-when AI-generated information is treated as if it came from direct
-human observation; Inference Accountability Displacement, when
-accountability for choices shifts to systems that cannot bear it;
-and Intelligence Integrity Displacement, when human judgment is
-treated as inferior to machine output.
+THM and the Gyroscope Protocol are related but not identical.
+THM names alignment <em>capacities</em> and displacement
+<em>risks</em> (source-type errors). The Gyroscope Protocol names
+<em>work categories</em> for how people contribute in practice.
+Destination pages use the Gyroscope categories; this page explains
+the THM research behind them.
 </p>
 <p>
-In travel, these patterns explain what goes wrong when tourists
-trust algorithms over locals, when booking platforms extract money
-from communities, or when travelers treat their own judgment as less
-important than convenience. The same patterns that cause AI to fail
-also cause travel to fail. The same principles that keep AI aligned
-also keep travel aligned. Destination pages use the Gyroscope
-Protocol's four work categories as visitor-facing preparation
-steps; THM's displacement risks and alignment principles are the
-research vocabulary behind that compass. That is why an AI Safety
-Lab works on travel.
+The four displacement risks arise when Authority and Agency are
+treated as titles for a system or person instead of categories of
+source type. Governance Traceability Displacement (GTD) is
+approaching indirect authority and agency as direct: treating an
+AI or platform as an autonomous decision-maker rather than an
+instrument traceable to human oversight. Information Variety
+Displacement (IVD) is approaching indirect authority without agency
+as direct: treating AI-generated information as if you had
+directly observed or verified it yourself. Inference Accountability
+Displacement (IAD) is approaching indirect agency without authority
+as direct: treating an AI conclusion as if it were an authoritative
+provider rather than your own accountable inference. Intelligence
+Integrity Displacement (IID) is approaching direct authority and
+agency as indirect: deferring to algorithmic defaults over your own
+judgment and local advice.
+</p>
+<p>
+In travel, GTD shows up when booking systems seem to decide for
+you; IVD when a single AI answer replaces checking official sites;
+IAD when responsibility for a plan is attributed to the tool; IID
+when you override local knowledge because an app said otherwise.
+The same patterns that break AI alignment break ethical travel.
+Destination preparation steps follow the Gyroscope Protocol work
+categories (Governance Management, Information Curation, Inference
+Interaction, Intelligence Cooperation). THM principles guide how
+we built those steps. That is why an AI Safety Lab works on travel.
 </p>
 </section>
 {/* AI prompts as a tool */}

@@ -30,7 +30,7 @@ You come for the beaches, the surf, the volcanic landscape, and a chance to enga
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Hanauma Bay Nature Preserve** requires advance online reservation on the official City and County of Honolulu portal; closed Tuesdays.
@@ -38,7 +38,7 @@ You come for the beaches, the surf, the volcanic landscape, and a chance to enga
 - **Pearl Harbor (Pearl Harbor National Memorial)** is free but the USS Arizona Memorial requires a free timed ticket on Recreation.gov; book weeks ahead in peak season.
 - **TheBus** is O'ahu's public transit system; HOLO card or contactless on board. The Honolulu Skyline rail is gradually opening; verify current routes.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Honolulu Star-Advertiser** and **Honolulu Civil Beat** for serious Hawai'i news.
 - The official **Go Hawai'i** site and the **Hawai'i Tourism Authority** for events and openings.
@@ -46,7 +46,7 @@ You come for the beaches, the surf, the volcanic landscape, and a chance to enga
 - A Native Hawaiian-led cultural experience: Polynesian Cultural Center (Lā'ie), Bishop Museum-affiliated programmes, or smaller community-run tours.
 - **Wikivoyage Honolulu** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Waikīkī.** Convenient but the worst of resort-strip Honolulu; an alternative neighbourhood or windward-side stay gives a different O'ahu.
 - **You decide on Pearl Harbor.** Free entry, free USS Arizona Memorial ticket required; book on Recreation.gov weeks ahead.
@@ -54,7 +54,7 @@ You come for the beaches, the surf, the volcanic landscape, and a chance to enga
 - **You decide on the North Shore.** A full day is right; surf-watching at Waimea, Sunset, or Pipeline in winter is genuinely one of the planet's great free shows.
 - **You decide on engagement with Native Hawaiian sovereignty.** Read, listen, and engage with respect; this is not abstract.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 O'ahu weather is dry-and-windy south side, wet windward side; winter brings the North Shore surf and rain showers; summer is hot and dry. Trade winds shape the day. Vog (volcanic smog) from the Big Island occasionally reaches O'ahu.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three O'ahu experiences I should not miss given my interests, and one I should consider skipping (a Waikīkī-only itinerary, a private luau when an authentic cultural centre is steps better, snorkelling at Hanauma without a reservation). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US ESTA, Hanauma Bay reservations on the City and County portal, Diamond Head reservations on Hawai'i State Parks, USS Arizona Memorial ticket on Recreation.gov, and reef-safe sunscreen rules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Hawai'i source, one Hawai'i news outlet (Civil Beat or Star-Advertiser), one Native Hawaiian author, and one Native Hawaiian-led cultural experience.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Waikīkī vs alternative neighbourhood, Pearl Harbor depth, Hanauma vs alternative snorkel, North Shore day, engagement with Native Hawaiian sovereignty).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (north-swell storm, sold-out Hanauma reservation, vog day, a Pearl Harbor weather closure).
+> - **Governance Management.** What assumptions should I check before I book? Include the US ESTA, Hanauma Bay reservations on the City and County portal, Diamond Head reservations on Hawai'i State Parks, USS Arizona Memorial ticket on Recreation.gov, and reef-safe sunscreen rules.
+> - **Information Curation.** Suggest at least four different source types: one official Hawai'i source, one Hawai'i news outlet (Civil Beat or Star-Advertiser), one Native Hawaiian author, and one Native Hawaiian-led cultural experience.
+> - **Inference Interaction.** List the decisions I personally need to make (Waikīkī vs alternative neighbourhood, Pearl Harbor depth, Hanauma vs alternative snorkel, North Shore day, engagement with Native Hawaiian sovereignty).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (north-swell storm, sold-out Hanauma reservation, vog day, a Pearl Harbor weather closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one Native Hawaiian cultural experience and one full North Shore day. Mark each business as confidently locally owned (especially Native Hawaiian-owned where I can support), or flag for me to verify.
 >

@@ -1,0 +1,52 @@
+{
+  "slug": "rome",
+  "name": "Rome",
+  "country": "Italy",
+  "region": "Europe",
+  "image": "/destinations/rome.jpg",
+  "teaser": "Rome is the Italian capital, a 2.8-million-person city built across 2,700 years of continuous habitation around the Tiber River. Imperial capital, papal capital, Renaissance and Baroque masterwork, and one of the most visited cities in the world. The Vatican City, the world's smallest state, sits inside its boundaries.",
+  "intro": "Rome is the Italian capital, a 2.8-million-person city built across 2,700 years of continuous habitation around the Tiber River. Imperial capital, papal capital, Renaissance and Baroque masterwork, and one of the most visited cities in the world. The Vatican City, the world's smallest state, sits inside its boundaries.",
+  "whyVisit": "Rome compresses more first-rank Western history into a single city than anywhere else. The Colosseum, the Roman Forum, the Pantheon, the Trevi Fountain, the Spanish Steps, the Vatican Museums (with the Sistine Chapel), St Peter's Basilica, the Borghese Gallery: these are not optional; they define the syllabus.\n\nThe city is also pressure-tested by tourism. The Trevi Fountain and Spanish Steps at peak hour are crushes; the Vatican Museums sells out months ahead in summer; restaurants at major sites are usually tourist-traps. Visiting respectfully means early starts, neighbourhood eating, and engaging Rome beyond the postcard.",
+  "ethicalCompass": {
+    "economy": "Eat at trattorie and osterie in Trastevere (back streets, not the main piazza), Testaccio (the working-class food district), Monti, Pigneto, and Garbatella rather than the tourist set near major monuments. Buy at the Testaccio market or smaller neighbourhood feed-markets, not the tourist-row shops.",
+    "employment": "Tip a euro or two at sit-down meals; coperto (cover charge) is not a tip. Hire Italian-state-licensed guides for the Colosseum, Forum, and Vatican; freelancers outside the gates are usually unlicensed.",
+    "education": "Read about the Roman Empire (the Mary Beard SPQR is the popular gold standard), the early Christian transition, the Renaissance papacy, and modern Roman history (the Mussolini era and the Liberation). The Centro Storico holds layers from every period.",
+    "ecology": "Walk; central Rome is dense and walkable. Use the Metro and trams for hops. Refill from nasoni (the city's public drinking fountains); the water is excellent and ancient (the aqueducts still partly supply the city)."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Schengen rules apply; verify on official portals.",
+      "Colosseum and Roman Forum sell timed combined tickets on the official CoopCulture portal; book ahead in any season. Skip-the-line is the term for timed entry; book on the official portal.",
+      "Vatican Museums (with the Sistine Chapel) sell timed tickets on the official Vatican Museums portal; St Peter's Basilica is free but the dome climb is ticketed.",
+      "Borghese Gallery requires advance timed reservation on the official portal; capped at small groups.",
+      "Short-term rentals in Rome require registration; verify the CIR number on any listing."
+    ],
+    "icu": [
+      "La Repubblica and Wanted in Rome (English) for current news.",
+      "Visit Roma (the official city tourism site) for events and openings.",
+      "A Roman or Italy-set author: Elsa Morante's History; Alberto Moravia; Italo Calvino; recent: Elena Ferrante (Naples but Italian-language); Caroline Lawrence's children's Roman Mysteries for context.",
+      "A licensed Italian-state guide for the Colosseum, Forum, and Vatican; recommended through your hotel.",
+      "Wikivoyage Rome for rione (district) orientation."
+    ],
+    "iinter": [
+      "You decide on the Vatican strategy. First-slot of the day or last-slot are the calmest; Wednesday mornings have the Papal Audience and are different.",
+      "You decide on the Colosseum + Forum + Palatine. A single morning with a licensed guide is the right way; doing them separately misses connections.",
+      "You decide on the food strategy. A trattoria in Trastevere's back streets or Testaccio is the meal you remember; the restaurant on the Piazza Navona is the meal you regret.",
+      "You decide on the day trip. Tivoli (Villa d'Este, Hadrian's Villa), Ostia Antica, or the Amalfi Coast (long day) are all reachable.",
+      "You decide on the Borghese. Booking days ahead is essential; the Bernini sculptures alone justify a visit."
+    ],
+    "ico": "Rome weather is Mediterranean; very hot summer (July-August can reach 38°C+), cold-damp winter, beautiful shoulder seasons. Major events (Easter at the Vatican, the major papal events) reshape parts of the city. Strikes (scioperi) can affect Metro and bus on short notice.\n\nBring a soft plan. If a Metro strike hits, walking covers the historic centre. If a summer heatwave makes outdoor sites brutal, early morning and the cool of the Vatican Museums interior absorb a heat day. If your Borghese slot drops, the Capitoline Museums work as a substitute."
+  },
+  "anchorSpots": [
+    "Colosseum + Roman Forum + Palatine. Combined ticket, half-day, with a licensed guide. First-morning slot ideal.",
+    "Vatican Museums + Sistine Chapel + St Peter's Basilica. A full half-day; book the Vatican Museums on the official portal.",
+    "Trastevere walking + dinner. Walk Santa Maria in Trastevere, the Piazza di Pietro Vannutelli back streets, dinner at a back-street trattoria.",
+    "Pantheon + Piazza Navona + Trevi Fountain walking circuit. Free; best at sunrise or after 10 pm.",
+    "Borghese Gallery + Villa Borghese garden. Booked timed ticket; Bernini and Caravaggio together."
+  ],
+  "recommendedLength": "Four to five days for Rome. Add a day for Tivoli, Ostia Antica, or Florence (1.5 hours by AV/Frecciarossa).",
+  "transportHint": "Walk in the historic centre. Metro (3 lines), trams, buses; integrated Roma Capitale ticket, day passes, or contactless on many lines. Fiumicino (FCO) and Ciampino (CIA) airports both serve Rome; FCO connects by Leonardo Express train to Termini in 30 minutes.",
+  "prompt": "Please help me plan an ethical visit to Rome, Italy for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. ancient Roman history, Vatican art, food, Renaissance, day trips]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Rome experiences I should not miss given my interests, and one I should consider skipping (a Piazza Navona tourist restaurant, a midday Vatican when sunrise was available, an unlicensed guide at the Colosseum gate). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include Schengen, official CoopCulture for Colosseum/Forum, the official Vatican Museums portal, the Borghese Gallery reservations, CIR registration for any rental, and Metro strike alerts.\n- **Information Curation.** Suggest at least four different source types: one official Italian or Roman source, one English-language Italy outlet, one Italian author or historian, and one Roman-based walking or food guide.\n- **Inference Interaction.** List the decisions I personally need to make (Vatican slot timing, Colosseum guide commitment, food strategy, day-trip choice, Borghese booking).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Metro strike, summer heat-wave, sold-out Vatican slot, a closed museum wing).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include at least one Trastevere or Testaccio dinner and one early-morning walking loop. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Roma, CoopCulture, the Vatican Museums portal, the Galleria Borghese, and Trenitalia/Italo for trains.\n2. Real people: a Roman resident, a licensed Italian-state guide, or hotel staff who live in Rome now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 3169070,
+  "order": 55
+}

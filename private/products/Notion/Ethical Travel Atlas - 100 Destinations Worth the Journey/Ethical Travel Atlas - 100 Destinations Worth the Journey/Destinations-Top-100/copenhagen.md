@@ -30,7 +30,7 @@ You come for the design, the food, the cycling, and a chance to live in a city t
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify your nationality's status on the Danish or Schengen portals.
 - **Tivoli Gardens** sells timed tickets on the official portal; verify ride access bundles if relevant.
@@ -38,7 +38,7 @@ You come for the design, the food, the cycling, and a chance to live in a city t
 - **Copenhagen Card** bundles public transport and museum entry; verify whether it suits your specific itinerary on the official Copenhagen Card portal.
 - For the **Tivoli Christmas market or Distortion festival**, book accommodation months ahead.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Local Denmark** and **Politiken** (Danish, partial English) for current Copenhagen news.
 - **VisitCopenhagen** (the official city tourism site) for events, openings, and current rules.
@@ -46,7 +46,7 @@ You come for the design, the food, the cycling, and a chance to live in a city t
 - A Copenhagen-resident food or design guide (the Copenhagen Food Tour, A.M. Mansoor's design walks).
 - **Wikivoyage Copenhagen** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide to cycle.** The city is designed for it. Renting and riding is the right default for most visitors.
 - **You decide on Noma.** Noma's reservations are months ahead and priced accordingly. The wider New Nordic scene (Geranium, Alchemist, Sanchez, Hart Bageri) offers more accessible alternatives.
@@ -54,7 +54,7 @@ You come for the design, the food, the cycling, and a chance to live in a city t
 - **You decide on harbour swimming.** The harbour baths are free, safe, and the most Danish thing you can do in summer.
 - **You decide on Louisiana.** The Louisiana Museum of Modern Art is 35 minutes by train north; many visitors call it the best art museum in Denmark.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Copenhagen weather is variable but rarely extreme. Summer days are long and cool; winter days are short and grey. Major events (Distortion in June, Christmas markets, the Royal Christmas calendar) reshape parts of the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Copenhagen experiences I should not miss given my interests, and one I should consider skipping (a tourist canal tour when cycling does the job, an over-priced Strøget meal, a Noma chase that crowds out other Nordic spots). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen rules, Tivoli and Louisiana ticketing, the Copenhagen Card cost-benefit, and Christiania's current rules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Danish source, one Danish news outlet, one Danish author, and one Copenhagen-resident design or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (whether to cycle, Noma vs the wider Nordic scene, Christiania approach, harbour swimming, Louisiana commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sudden rain, a harbour-bath closure for water quality, a sold-out restaurant, a winter daylight day).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen rules, Tivoli and Louisiana ticketing, the Copenhagen Card cost-benefit, and Christiania's current rules.
+> - **Information Curation.** Suggest at least four different source types: one official Danish source, one Danish news outlet, one Danish author, and one Copenhagen-resident design or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (whether to cycle, Noma vs the wider Nordic scene, Christiania approach, harbour swimming, Louisiana commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden rain, a harbour-bath closure for water quality, a sold-out restaurant, a winter daylight day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one cycling loop and one harbour-or-Louisiana experience. Mark each business as confidently locally owned, or flag it for me to verify.
 >

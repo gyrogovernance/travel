@@ -30,7 +30,7 @@ You come for the beaches, the food (Cuban, Haitian, Venezuelan, Argentine, Peruv
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Vizcaya Museum and Gardens, the Pérez Art Museum Miami, the Frost Museum of Science** sell tickets on official portals.
@@ -38,7 +38,7 @@ You come for the beaches, the food (Cuban, Haitian, Venezuelan, Argentine, Peruv
 - For **airboat tours**, choose operators within or adjacent to Everglades National Park with permits; avoid pure tourist airboat operations outside the park.
 - **Miami-Dade transit** has Metrorail, Metromover (free, downtown), and Metrobus; tap a contactless card or get an EASY card.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Miami Herald** and **WLRN** for serious local journalism.
 - **Visit Miami** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the beaches, the food (Cuban, Haitian, Venezuelan, Argentine, Peruv
 - A locally led Little Havana, Little Haiti, or Wynwood walking tour with a resident guide.
 - **Wikivoyage Miami** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the neighbourhood.** South Beach is the postcard; Brickell is corporate-glass; Wynwood is murals; Little Havana is Cuban-working; Little Haiti is Haitian-working. Each gives a different Miami.
 - **You decide on the beach.** South Beach is the famous one; Mid-Beach (around 35th Street) is quieter; North Beach Boardwalk is local; Key Biscayne is a State Park alternative.
@@ -54,7 +54,7 @@ You come for the beaches, the food (Cuban, Haitian, Venezuelan, Argentine, Peruv
 - **You decide on the Keys.** Key West is 3.5 hours each way by car; a full day with a 4 am start or an overnight is the only humane way.
 - **You decide on your engagement with Cuban exile politics.** Calle Ocho is a working political space, not just a food street; engage respectfully.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Miami weather is subtropical; hurricane season runs June through November (peak August-October); afternoon thunderstorms are routine in summer. Major events (Art Basel December, Miami Open March, Ultra Music Festival March) reshape the city and book hotels.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Miami experiences I should not miss given my interests, and one I should consider skipping (an Ocean Drive tourist restaurant, a Keys day-trip when an overnight is steps better, an airboat operator with no conservation tie). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, official Vizcaya/PAMM/Frost ticketing, Everglades National Park entry on Recreation.gov, airboat operator permits, and Miami-Dade transit setup.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Miami source, one local news outlet (Miami Herald or WLRN), one Miami author, and one Little Havana or Little Haiti walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, beach choice, Everglades depth, Keys commitment, Cuban exile engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, afternoon thunderstorm, Art Basel pricing crunch, an Everglades closure for fire or flood).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official Vizcaya/PAMM/Frost ticketing, Everglades National Park entry on Recreation.gov, airboat operator permits, and Miami-Dade transit setup.
+> - **Information Curation.** Suggest at least four different source types: one official Miami source, one local news outlet (Miami Herald or WLRN), one Miami author, and one Little Havana or Little Haiti walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, beach choice, Everglades depth, Keys commitment, Cuban exile engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, afternoon thunderstorm, Art Basel pricing crunch, an Everglades closure for fire or flood).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Little Havana evening and one Everglades half-day. Mark each business as confidently locally owned, or flag for me to verify.
 >

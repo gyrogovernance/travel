@@ -30,7 +30,7 @@ You come for the food, the neighbourhoods, the design, the contemporary art, the
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short stays**; verify on the official Ministry of Foreign Affairs portal.
 - **Tokyo Metro and Toei Subway** plus JR Yamanote Line cover everywhere; **Suica or Pasmo** IC card for tap; rechargeable at any station; contactless on most major lines.
@@ -38,7 +38,7 @@ You come for the food, the neighbourhoods, the design, the contemporary art, the
 - **Tsukiji Outer Market** is open daily; the inner market has moved to Toyosu (sushi auctions and breakfast restaurants).
 - **JR Pass** has been substantially restructured; verify whether it still suits your overall Japan itinerary at current pricing.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Japan Times** and **Time Out Tokyo** for current Tokyo news and openings.
 - **Go Tokyo** (the official city tourism site) for events.
@@ -46,7 +46,7 @@ You come for the food, the neighbourhoods, the design, the contemporary art, the
 - A locally led Tokyo food walking tour (Tokyo Food Tour, Arigato Travel) or a neighbourhood walk in Yanaka or Shimokitazawa.
 - **Wikivoyage Tokyo** for ward orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the neighbourhood depth.** A trip that only sees Shibuya, Shinjuku, and Asakusa misses 80 percent of Tokyo. Add Yanaka, Shimokitazawa, Koenji, Kichijoji, or Daikanyama.
 - **You decide on Studio Ghibli.** Tickets sell out a month in advance and can only be bought in specific windows; verify on the official portal.
@@ -54,7 +54,7 @@ You come for the food, the neighbourhoods, the design, the contemporary art, the
 - **You decide on the etiquette commitment.** Learning a few Japanese phrases, removing shoes when expected, being quiet on trains, and keeping things tidy is the default.
 - **You decide on a sushi commitment.** Real sushi-bar experience at Sushi Yoshitake or similar (book months ahead) is a different planet from chain sushi.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Tokyo weather is four-season; humid hot summer, cool wet autumn (typhoons in September), cold dry winter, warm spring. Major events (cherry blossom, Golden Week early May, Obon in August, Christmas illumination, New Year shrine visits) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Tokyo experiences I should not miss given my interests, and one I should consider skipping (a Shibuya-only itinerary, a chain sushi when a real sushi-bar is steps better, an over-marketed tourist attraction). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Japanese visa-exempt status, Suica or Pasmo IC card, Studio Ghibli and teamLab advance tickets, JR Pass cost-benefit, and Golden Week / cherry blossom dates.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Tokyo source, one Tokyo English news outlet (Japan Times or Time Out), one Japanese author, and one Tokyo-based food or neighbourhood guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood depth, Studio Ghibli commitment, day-trip choice, etiquette, sushi-bar investment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (typhoon, sold-out Studio Ghibli, cherry blossom rain, Golden Week closures).
+> - **Governance Management.** What assumptions should I check before I book? Include the Japanese visa-exempt status, Suica or Pasmo IC card, Studio Ghibli and teamLab advance tickets, JR Pass cost-benefit, and Golden Week / cherry blossom dates.
+> - **Information Curation.** Suggest at least four different source types: one official Tokyo source, one Tokyo English news outlet (Japan Times or Time Out), one Japanese author, and one Tokyo-based food or neighbourhood guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood depth, Studio Ghibli commitment, day-trip choice, etiquette, sushi-bar investment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon, sold-out Studio Ghibli, cherry blossom rain, Golden Week closures).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include at least one neighbourhood beyond Shibuya/Shinjuku/Asakusa (Yanaka, Shimokitazawa, Koenji, Kichijoji, or Daikanyama). Mark each business as confidently locally owned, or flag for me to verify.
 >

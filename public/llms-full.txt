@@ -16,6 +16,7 @@ Gyro Governance Ethical Travel helps visitors use AI to plan moral trips, suppor
 - [Guides hub](https://travel.gyrogovernance.com/guides): Guides hub
 - [Destinations Atlas](https://travel.gyrogovernance.com/destinations): Destinations Atlas
 - [Travel Resources](https://travel.gyrogovernance.com/resources): Travel Resources
+- [Search Flights](https://travel.gyrogovernance.com/search/flights): Search Flights
 - [AI Prompts](https://travel.gyrogovernance.com/prompts): AI Prompts
 - [About](https://travel.gyrogovernance.com/about): About
 

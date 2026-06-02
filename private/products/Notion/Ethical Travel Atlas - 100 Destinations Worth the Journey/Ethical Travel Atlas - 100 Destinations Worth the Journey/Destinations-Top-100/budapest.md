@@ -30,7 +30,7 @@ You come for the baths, the river, the Jewish quarter, the food (Hungarian cuisi
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen visa** rules apply; verify your nationality's current status on the official Hungarian government or your home consulate portal.
 - The **Parliament** offers guided tours only; book on the official portal with passport. Sells out days ahead in peak season.
@@ -38,7 +38,7 @@ You come for the baths, the river, the Jewish quarter, the food (Hungarian cuisi
 - Confirm any **boat cruise** on the Danube is operated by a licensed Hungarian company; the river has had safety incidents in recent years and standards vary.
 - Verify any **food tour or wine tour** operator (Hungary has serious wine regions reachable as day trips) is registered.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Telex** and **Hungary Today** (English coverage of Hungarian news) for current politics and city events.
 - **Budapest Info** (the official city tourism site) for events, rules, and pass options.
@@ -46,7 +46,7 @@ You come for the baths, the river, the Jewish quarter, the food (Hungarian cuisi
 - A locally led Jewish Quarter walking tour with a Jewish-Hungarian guide for a non-superficial reading of District VII.
 - **Wikivoyage Budapest** for transport and district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Parliament timing.** The tour is short, ticketed, and sells out. Book days ahead in the language you want.
 - **You decide on which bath, on which day.** Széchenyi is the postcard; Gellért is Art Nouveau; Rudas has Turkish-era pools and male/female-only days. Read the rules of your chosen bath.
@@ -54,7 +54,7 @@ You come for the baths, the river, the Jewish quarter, the food (Hungarian cuisi
 - **You decide how you engage Hungarian politics.** Avoid lectures. Listen to locals; many are themselves divided.
 - **You decide on Buda vs Pest as a base.** Pest is dense, walkable, and where the nightlife is. Buda is quieter, leafier, and where the castle and many baths are.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Budapest weather is continental; summers are hot and humid (the baths help), winters are bitter (the indoor baths still help). Major events (national holidays, Sziget Festival in August) reshape the city. Renovations rotate through the major historic buildings.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Budapest experiences I should not miss given my interests, and one I should consider skipping (the tourist traps on Castle Hill, an unofficial airport taxi, the worst of Váci utca). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Parliament tour passport booking, thermal-bath rules and hours on each official portal, Schengen visa rules for my nationality, and licensed Danube cruise operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Hungarian source, one English-language Hungarian news outlet, one Hungarian author, and one Jewish Quarter or neighbourhood-led walking host.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Parliament tour timing, which bath and when, Buda vs Pest base, how I engage Hungarian politics).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sold-out Parliament slot, a summer heatwave, a winter snowstorm, a closed wing at a major museum).
+> - **Governance Management.** What assumptions should I check before I book? Include the Parliament tour passport booking, thermal-bath rules and hours on each official portal, Schengen visa rules for my nationality, and licensed Danube cruise operators.
+> - **Information Curation.** Suggest at least four different source types: one official Hungarian source, one English-language Hungarian news outlet, one Hungarian author, and one Jewish Quarter or neighbourhood-led walking host.
+> - **Inference Interaction.** List the decisions I personally need to make (Parliament tour timing, which bath and when, Buda vs Pest base, how I engage Hungarian politics).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sold-out Parliament slot, a summer heatwave, a winter snowstorm, a closed wing at a major museum).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one thermal bath visit, one Jewish Quarter walk, and one étkezde or family-restaurant meal. Mark each business as confidently locally owned, or flag it for me to verify.
 >

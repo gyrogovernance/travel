@@ -30,7 +30,7 @@ You come for the food, the directness of Osakan character, the access to Kansai'
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short stays** in Japan; verify on the official Ministry of Foreign Affairs portal.
 - **Osaka Castle** sells tickets at the gate; verify hours on the official portal.
@@ -38,7 +38,7 @@ You come for the food, the directness of Osakan character, the access to Kansai'
 - **ICOCA card** (Kansai region) or **Suica** (national) for public transport; tap and ride.
 - **Osaka Amazing Pass / Osaka eMetro Pass / Kansai Thru Pass** are multi-day options; verify on the official portals which suits your specific itinerary.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Japan Times** and **Mainichi** (English edition) for current news.
 - The official **Osaka Convention and Tourism Bureau** site for events and openings.
@@ -46,7 +46,7 @@ You come for the food, the directness of Osakan character, the access to Kansai'
 - A licensed Osaka food walking tour (Eat Osaka, Magical Trip).
 - **Wikivoyage Osaka** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the food strategy.** A guided street-food walking tour the first night is the best single use of an evening; you learn what to order on your own afterwards.
 - **You decide on Osaka vs Kyoto base.** Osaka is cheaper and food-richer; Kyoto is calmer and more culturally weighted. 15 minutes by Shinkansen separates them; you can day-trip either way.
@@ -54,7 +54,7 @@ You come for the food, the directness of Osakan character, the access to Kansai'
 - **You decide on day-trips.** Nara (deer and Todaiji), Himeji Castle, Koyasan (overnight temple stay) are all from Osaka.
 - **You decide on the Hanshin Tigers game.** Real Osakan baseball culture if your dates align.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Osaka weather is humid-subtropical; hot summer, cold-damp winter, dramatic shoulder seasons. Major events (cherry blossom, autumn foliage, Tenjin Matsuri in July) fill the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Osaka experiences I should not miss given my interests, and one I should consider skipping (a tourist-trap Dotonbori restaurant when the next street is better, a day at Universal if I came for culture, an unguided first-night food crawl). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Japanese visa-exempt status, Universal Studios official ticketing, ICOCA setup, multi-day pass cost-benefit, and short-term rental licensing.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Osaka source, one Japanese English news outlet, one Japanese author, and one Osaka food walking tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Osaka vs Kyoto base, Universal commitment, day-trip choice, food-tour first night, Hanshin Tigers game).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (typhoon disruption, a Shinkansen delay, a sold-out Universal day, a major festival overlap).
+> - **Governance Management.** What assumptions should I check before I book? Include the Japanese visa-exempt status, Universal Studios official ticketing, ICOCA setup, multi-day pass cost-benefit, and short-term rental licensing.
+> - **Information Curation.** Suggest at least four different source types: one official Osaka source, one Japanese English news outlet, one Japanese author, and one Osaka food walking tour.
+> - **Inference Interaction.** List the decisions I personally need to make (Osaka vs Kyoto base, Universal commitment, day-trip choice, food-tour first night, Hanshin Tigers game).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon disruption, a Shinkansen delay, a sold-out Universal day, a major festival overlap).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, metro lines, and named neighbourhoods. Include at least one Dotonbori evening and one day-trip if my schedule allows. Mark each business as confidently locally owned, or flag for me to verify.
 >

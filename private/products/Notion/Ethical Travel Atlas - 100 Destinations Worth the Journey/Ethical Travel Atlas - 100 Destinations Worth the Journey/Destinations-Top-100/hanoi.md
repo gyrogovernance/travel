@@ -30,7 +30,7 @@ You come for the Old Quarter, the food (one of the world's great cuisines, more 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers need an **e-visa** through the official Vietnamese Immigration portal; verify your nationality's current status.
 - **Ho Chi Minh Mausoleum** has specific opening days (closed for two months annually for body maintenance) and a strict dress code; verify on the official portal.
@@ -38,7 +38,7 @@ You come for the Old Quarter, the food (one of the world's great cuisines, more 
 - For **Ha Long Bay** or **Lan Ha Bay cruises**, choose operators with current environmental and safety certification. The bay has had safety incidents historically; verify operator standards.
 - For **train tickets** to Sapa or further south, book on the official Vietnam Railways portal or through a trusted agent.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **VnExpress International** and **Tuoi Tre News** (Vietnamese English-language outlets) for current events.
 - The **Vietnam National Administration of Tourism** for official portals.
@@ -46,7 +46,7 @@ You come for the Old Quarter, the food (one of the world's great cuisines, more 
 - A locally led food walking tour in the Old Quarter (Hanoi Street Food Tour, Hanoi Cooking Centre).
 - **Wikivoyage Hanoi** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Mausoleum.** The dress code is strict (no shorts, no exposed shoulders, no cameras, no talking); the queue is long. Worth it for the experience of how Ho Chi Minh is presented today; not for the body itself.
 - **You decide on Ha Long vs Lan Ha.** Ha Long Bay is the famous one and the most crowded; Lan Ha Bay (south, accessed from Cat Ba Island) is quieter, similarly beautiful, less industrial.
@@ -54,7 +54,7 @@ You come for the Old Quarter, the food (one of the world's great cuisines, more 
 - **You decide on the egg coffee.** Hanoi's *cà phê trứng* is real, invented at Café Giảng. Try it where it was invented.
 - **You decide on a guided cooking class.** Vietnamese cuisine deserves a half-day; the Hanoi Cooking Centre and similar offer market-and-meal experiences.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Hanoi weather is four-season; northern Vietnam has real winter (December to February, cold and damp) and a summer monsoon (June to August). Major holidays (Tet Lunar New Year, Reunification Day, National Day) close many businesses for days.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Hanoi experiences I should not miss given my interests, and one I should consider skipping (a packaged Ha Long day-trip when an overnight is steps better, a tourist-priced water-puppet show, an unlicensed scooter rental). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Vietnamese e-Visa portal, Ho Chi Minh Mausoleum dress code and closure dates, Ha Long Bay operator safety and environmental certification, Vietnam Railways for onward train tickets, and air-quality forecasts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Vietnamese source, one English-language Vietnamese news outlet, one Vietnamese author, and one Hanoi-based food or cooking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Mausoleum visit, Ha Long vs Lan Ha, street crossing technique, egg coffee, cooking class commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (typhoon warning closing Ha Long, air-quality red day, Tet closures, a Mausoleum closure day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Vietnamese e-Visa portal, Ho Chi Minh Mausoleum dress code and closure dates, Ha Long Bay operator safety and environmental certification, Vietnam Railways for onward train tickets, and air-quality forecasts.
+> - **Information Curation.** Suggest at least four different source types: one official Vietnamese source, one English-language Vietnamese news outlet, one Vietnamese author, and one Hanoi-based food or cooking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Mausoleum visit, Ha Long vs Lan Ha, street crossing technique, egg coffee, cooking class commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon warning closing Ha Long, air-quality red day, Tet closures, a Mausoleum closure day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Old Quarter food walk and one Ha Long or Lan Ha overnight if my dates allow. Mark each business as confidently locally owned, or flag it for me to verify.
 >

@@ -1,0 +1,5641 @@
+{
+  "fetchedAt": "2026-06-02T17:17:26.678Z",
+  "count": 1127,
+  "cities": [
+    {
+      "slug": "a-coruna",
+      "cityId": 3119841,
+      "url": "https://wegotrip.com/a-coruna-d3119841/"
+    },
+    {
+      "slug": "aachen",
+      "cityId": 3247449,
+      "url": "https://wegotrip.com/aachen-d3247449/"
+    },
+    {
+      "slug": "aalborg",
+      "cityId": 2624886,
+      "url": "https://wegotrip.com/aalborg-d2624886/"
+    },
+    {
+      "slug": "aberdeen",
+      "cityId": 2657832,
+      "url": "https://wegotrip.com/aberdeen-d2657832/"
+    },
+    {
+      "slug": "abu-dhabi",
+      "cityId": 292968,
+      "url": "https://wegotrip.com/abu-dhabi-d292968/"
+    },
+    {
+      "slug": "acireale",
+      "cityId": 2525790,
+      "url": "https://wegotrip.com/acireale-d2525790/"
+    },
+    {
+      "slug": "adeje",
+      "cityId": 2522437,
+      "url": "https://wegotrip.com/adeje-d2522437/"
+    },
+    {
+      "slug": "adelaide",
+      "cityId": 2078025,
+      "url": "https://wegotrip.com/adelaide-d2078025/"
+    },
+    {
+      "slug": "agen",
+      "cityId": 3038634,
+      "url": "https://wegotrip.com/agen-d3038634/"
+    },
+    {
+      "slug": "agra",
+      "cityId": 1279259,
+      "url": "https://wegotrip.com/agra-d1279259/"
+    },
+    {
+      "slug": "agrigento",
+      "cityId": 2525764,
+      "url": "https://wegotrip.com/agrigento-d2525764/"
+    },
+    {
+      "slug": "aix-en-provence",
+      "cityId": 3038354,
+      "url": "https://wegotrip.com/aix-en-provence-d3038354/"
+    },
+    {
+      "slug": "ajaccio",
+      "cityId": 3038334,
+      "url": "https://wegotrip.com/ajaccio-d3038334/"
+    },
+    {
+      "slug": "akureyri",
+      "cityId": 2633274,
+      "url": "https://wegotrip.com/akureyri-d2633274/"
+    },
+    {
+      "slug": "al-ain-city",
+      "cityId": 292913,
+      "url": "https://wegotrip.com/al-ain-city-d292913/"
+    },
+    {
+      "slug": "al-buraymi",
+      "cityId": 289317,
+      "url": "https://wegotrip.com/al-buraymi-d289317/"
+    },
+    {
+      "slug": "alaior",
+      "cityId": 2522259,
+      "url": "https://wegotrip.com/alaior-d2522259/"
+    },
+    {
+      "slug": "alanya",
+      "cityId": 324190,
+      "url": "https://wegotrip.com/alanya-d324190/"
+    },
+    {
+      "slug": "albany-5106834",
+      "cityId": 5106834,
+      "url": "https://wegotrip.com/albany-5106834-d5106834/"
+    },
+    {
+      "slug": "alberobello",
+      "cityId": 3183330,
+      "url": "https://wegotrip.com/alberobello-d3183330/"
+    },
+    {
+      "slug": "albufeira",
+      "cityId": 2272222,
+      "url": "https://wegotrip.com/albufeira-d2272222/"
+    },
+    {
+      "slug": "albuquerque",
+      "cityId": 5454711,
+      "url": "https://wegotrip.com/albuquerque-d5454711/"
+    },
+    {
+      "slug": "alexandria-361058",
+      "cityId": 361058,
+      "url": "https://wegotrip.com/alexandria-361058-d361058/"
+    },
+    {
+      "slug": "alexandria-4744091",
+      "cityId": 4744091,
+      "url": "https://wegotrip.com/alexandria-4744091-d4744091/"
+    },
+    {
+      "slug": "alfredo-v-bonfil",
+      "cityId": 3822723,
+      "url": "https://wegotrip.com/alfredo-v-bonfil-d3822723/"
+    },
+    {
+      "slug": "alghero",
+      "cityId": 3183284,
+      "url": "https://wegotrip.com/alghero-d3183284/"
+    },
+    {
+      "slug": "alicante",
+      "cityId": 2521978,
+      "url": "https://wegotrip.com/alicante-d2521978/"
+    },
+    {
+      "slug": "allentown",
+      "cityId": 5178127,
+      "url": "https://wegotrip.com/allentown-d5178127/"
+    },
+    {
+      "slug": "almaty",
+      "cityId": 1526384,
+      "url": "https://wegotrip.com/almaty-d1526384/"
+    },
+    {
+      "slug": "almeria",
+      "cityId": 2521886,
+      "url": "https://wegotrip.com/almeria-d2521886/"
+    },
+    {
+      "slug": "altamura",
+      "cityId": 3183178,
+      "url": "https://wegotrip.com/altamura-d3183178/"
+    },
+    {
+      "slug": "amersfoort",
+      "cityId": 2759821,
+      "url": "https://wegotrip.com/amersfoort-d2759821/"
+    },
+    {
+      "slug": "amman",
+      "cityId": 250441,
+      "url": "https://wegotrip.com/amman-d250441/"
+    },
+    {
+      "slug": "amneville",
+      "cityId": 3037838,
+      "url": "https://wegotrip.com/amneville-d3037838/"
+    },
+    {
+      "slug": "amsterdam",
+      "cityId": 2759794,
+      "url": "https://wegotrip.com/amsterdam-d2759794/"
+    },
+    {
+      "slug": "amsterdam",
+      "cityId": 2759794,
+      "url": "https://wegotrip.com/amsterdam-d2759794/"
+    },
+    {
+      "slug": "amsterdam",
+      "cityId": 2759794,
+      "url": "https://wegotrip.com/amsterdam-d2759794/"
+    },
+    {
+      "slug": "amsterdam",
+      "cityId": 2759794,
+      "url": "https://wegotrip.com/amsterdam-d2759794/"
+    },
+    {
+      "slug": "amsterdam",
+      "cityId": 2759794,
+      "url": "https://wegotrip.com/amsterdam-d2759794/"
+    },
+    {
+      "slug": "anacapri",
+      "cityId": 3183099,
+      "url": "https://wegotrip.com/anacapri-d3183099/"
+    },
+    {
+      "slug": "ancon",
+      "cityId": 3714734,
+      "url": "https://wegotrip.com/ancon-d3714734/"
+    },
+    {
+      "slug": "andorra-la-vella",
+      "cityId": 3041563,
+      "url": "https://wegotrip.com/andorra-la-vella-d3041563/"
+    },
+    {
+      "slug": "angers",
+      "cityId": 3037656,
+      "url": "https://wegotrip.com/angers-d3037656/"
+    },
+    {
+      "slug": "ankara",
+      "cityId": 323786,
+      "url": "https://wegotrip.com/ankara-d323786/"
+    },
+    {
+      "slug": "annapolis",
+      "cityId": 4347242,
+      "url": "https://wegotrip.com/annapolis-d4347242/"
+    },
+    {
+      "slug": "antalya",
+      "cityId": 323777,
+      "url": "https://wegotrip.com/antalya-d323777/"
+    },
+    {
+      "slug": "antequera",
+      "cityId": 2521710,
+      "url": "https://wegotrip.com/antequera-d2521710/"
+    },
+    {
+      "slug": "antibes",
+      "cityId": 3037456,
+      "url": "https://wegotrip.com/antibes-d3037456/"
+    },
+    {
+      "slug": "antigua-guatemala",
+      "cityId": 3599699,
+      "url": "https://wegotrip.com/antigua-guatemala-d3599699/"
+    },
+    {
+      "slug": "antwerpen",
+      "cityId": 2803138,
+      "url": "https://wegotrip.com/antwerpen-d2803138/"
+    },
+    {
+      "slug": "antwerpen",
+      "cityId": 2803138,
+      "url": "https://wegotrip.com/antwerpen-d2803138/"
+    },
+    {
+      "slug": "aranjuez",
+      "cityId": 3129857,
+      "url": "https://wegotrip.com/aranjuez-d3129857/"
+    },
+    {
+      "slug": "arcachon",
+      "cityId": 3037253,
+      "url": "https://wegotrip.com/arcachon-d3037253/"
+    },
+    {
+      "slug": "arezzo",
+      "cityId": 3182884,
+      "url": "https://wegotrip.com/arezzo-d3182884/"
+    },
+    {
+      "slug": "arhus",
+      "cityId": 2624652,
+      "url": "https://wegotrip.com/arhus-d2624652/"
+    },
+    {
+      "slug": "arnhem",
+      "cityId": 2759661,
+      "url": "https://wegotrip.com/arnhem-d2759661/"
+    },
+    {
+      "slug": "arnsberg",
+      "cityId": 2955471,
+      "url": "https://wegotrip.com/arnsberg-d2955471/"
+    },
+    {
+      "slug": "aschaffenburg",
+      "cityId": 2955272,
+      "url": "https://wegotrip.com/aschaffenburg-d2955272/"
+    },
+    {
+      "slug": "ascoli-piceno",
+      "cityId": 3182749,
+      "url": "https://wegotrip.com/ascoli-piceno-d3182749/"
+    },
+    {
+      "slug": "asheville",
+      "cityId": 4453066,
+      "url": "https://wegotrip.com/asheville-d4453066/"
+    },
+    {
+      "slug": "ashtarak",
+      "cityId": 616877,
+      "url": "https://wegotrip.com/ashtarak-d616877/"
+    },
+    {
+      "slug": "aspen",
+      "cityId": 5412230,
+      "url": "https://wegotrip.com/aspen-d5412230/"
+    },
+    {
+      "slug": "assisi",
+      "cityId": 25,
+      "url": "https://wegotrip.com/assisi-d25/"
+    },
+    {
+      "slug": "asti",
+      "cityId": 3182714,
+      "url": "https://wegotrip.com/asti-d3182714/"
+    },
+    {
+      "slug": "astorga-3129231",
+      "cityId": 3129231,
+      "url": "https://wegotrip.com/astorga-3129231-d3129231/"
+    },
+    {
+      "slug": "astorga-3129231",
+      "cityId": 3129231,
+      "url": "https://wegotrip.com/astorga-3129231-d3129231/"
+    },
+    {
+      "slug": "astorga-3129231",
+      "cityId": 3129231,
+      "url": "https://wegotrip.com/astorga-3129231-d3129231/"
+    },
+    {
+      "slug": "astorga-3129231",
+      "cityId": 3129231,
+      "url": "https://wegotrip.com/astorga-3129231-d3129231/"
+    },
+    {
+      "slug": "astorga-3129231",
+      "cityId": 3129231,
+      "url": "https://wegotrip.com/astorga-3129231-d3129231/"
+    },
+    {
+      "slug": "athens",
+      "cityId": 264371,
+      "url": "https://wegotrip.com/athens-d264371/"
+    },
+    {
+      "slug": "athens",
+      "cityId": 264371,
+      "url": "https://wegotrip.com/athens-d264371/"
+    },
+    {
+      "slug": "athens",
+      "cityId": 264371,
+      "url": "https://wegotrip.com/athens-d264371/"
+    },
+    {
+      "slug": "athens",
+      "cityId": 264371,
+      "url": "https://wegotrip.com/athens-d264371/"
+    },
+    {
+      "slug": "athens",
+      "cityId": 264371,
+      "url": "https://wegotrip.com/athens-d264371/"
+    },
+    {
+      "slug": "atlanta",
+      "cityId": 4180439,
+      "url": "https://wegotrip.com/atlanta-d4180439/"
+    },
+    {
+      "slug": "auckland",
+      "cityId": 2193733,
+      "url": "https://wegotrip.com/auckland-d2193733/"
+    },
+    {
+      "slug": "augsburg",
+      "cityId": 2954172,
+      "url": "https://wegotrip.com/augsburg-d2954172/"
+    },
+    {
+      "slug": "augsburg",
+      "cityId": 2954172,
+      "url": "https://wegotrip.com/augsburg-d2954172/"
+    },
+    {
+      "slug": "augustusburg",
+      "cityId": 2954127,
+      "url": "https://wegotrip.com/augustusburg-d2954127/"
+    },
+    {
+      "slug": "austin",
+      "cityId": 4671654,
+      "url": "https://wegotrip.com/austin-d4671654/"
+    },
+    {
+      "slug": "aveiro",
+      "cityId": 2742611,
+      "url": "https://wegotrip.com/aveiro-d2742611/"
+    },
+    {
+      "slug": "avignon",
+      "cityId": 3035681,
+      "url": "https://wegotrip.com/avignon-d3035681/"
+    },
+    {
+      "slug": "avila",
+      "cityId": 3129136,
+      "url": "https://wegotrip.com/avila-d3129136/"
+    },
+    {
+      "slug": "ayer-hangat",
+      "cityId": 1222391,
+      "url": "https://wegotrip.com/ayer-hangat-d1222391/"
+    },
+    {
+      "slug": "bad-mergentheim",
+      "cityId": 2953402,
+      "url": "https://wegotrip.com/bad-mergentheim-d2953402/"
+    },
+    {
+      "slug": "baden-baden",
+      "cityId": 2953504,
+      "url": "https://wegotrip.com/baden-baden-d2953504/"
+    },
+    {
+      "slug": "baeza",
+      "cityId": 2521413,
+      "url": "https://wegotrip.com/baeza-d2521413/"
+    },
+    {
+      "slug": "bagno-di-romagna",
+      "cityId": 3174270,
+      "url": "https://wegotrip.com/bagno-di-romagna-d3174270/"
+    },
+    {
+      "slug": "bagnoregio",
+      "cityId": 29,
+      "url": "https://wegotrip.com/bagnoregio-d29/"
+    },
+    {
+      "slug": "baku",
+      "cityId": 587084,
+      "url": "https://wegotrip.com/baku-d587084/"
+    },
+    {
+      "slug": "ballarat",
+      "cityId": 2177091,
+      "url": "https://wegotrip.com/ballarat-d2177091/"
+    },
+    {
+      "slug": "baltimore",
+      "cityId": 4347778,
+      "url": "https://wegotrip.com/baltimore-d4347778/"
+    },
+    {
+      "slug": "bamberg",
+      "cityId": 2952984,
+      "url": "https://wegotrip.com/bamberg-d2952984/"
+    },
+    {
+      "slug": "banff",
+      "cityId": 5892532,
+      "url": "https://wegotrip.com/banff-d5892532/"
+    },
+    {
+      "slug": "bangkok",
+      "cityId": 1609350,
+      "url": "https://wegotrip.com/bangkok-d1609350/"
+    },
+    {
+      "slug": "banja-luka",
+      "cityId": 3204541,
+      "url": "https://wegotrip.com/banja-luka-d3204541/"
+    },
+    {
+      "slug": "barcelona",
+      "cityId": 3128760,
+      "url": "https://wegotrip.com/barcelona-d3128760/"
+    },
+    {
+      "slug": "barcelona",
+      "cityId": 3128760,
+      "url": "https://wegotrip.com/barcelona-d3128760/"
+    },
+    {
+      "slug": "barcelona",
+      "cityId": 3128760,
+      "url": "https://wegotrip.com/barcelona-d3128760/"
+    },
+    {
+      "slug": "barcelona",
+      "cityId": 3128760,
+      "url": "https://wegotrip.com/barcelona-d3128760/"
+    },
+    {
+      "slug": "barcelona",
+      "cityId": 3128760,
+      "url": "https://wegotrip.com/barcelona-d3128760/"
+    },
+    {
+      "slug": "barcelos-2742416",
+      "cityId": 2742416,
+      "url": "https://wegotrip.com/barcelos-2742416-d2742416/"
+    },
+    {
+      "slug": "barnstable",
+      "cityId": 4929771,
+      "url": "https://wegotrip.com/barnstable-d4929771/"
+    },
+    {
+      "slug": "basel",
+      "cityId": 2661604,
+      "url": "https://wegotrip.com/basel-d2661604/"
+    },
+    {
+      "slug": "batalha-2271006",
+      "cityId": 2271006,
+      "url": "https://wegotrip.com/batalha-2271006-d2271006/"
+    },
+    {
+      "slug": "bath",
+      "cityId": 2656173,
+      "url": "https://wegotrip.com/bath-d2656173/"
+    },
+    {
+      "slug": "batumi",
+      "cityId": 615532,
+      "url": "https://wegotrip.com/batumi-d615532/"
+    },
+    {
+      "slug": "bayreuth",
+      "cityId": 2951825,
+      "url": "https://wegotrip.com/bayreuth-d2951825/"
+    },
+    {
+      "slug": "beaune",
+      "cityId": 3034126,
+      "url": "https://wegotrip.com/beaune-d3034126/"
+    },
+    {
+      "slug": "beijing",
+      "cityId": 1816670,
+      "url": "https://wegotrip.com/beijing-d1816670/"
+    },
+    {
+      "slug": "beirut",
+      "cityId": 276781,
+      "url": "https://wegotrip.com/beirut-d276781/"
+    },
+    {
+      "slug": "belfast",
+      "cityId": 2655984,
+      "url": "https://wegotrip.com/belfast-d2655984/"
+    },
+    {
+      "slug": "belgrade",
+      "cityId": 792680,
+      "url": "https://wegotrip.com/belgrade-d792680/"
+    },
+    {
+      "slug": "benalmadena",
+      "cityId": 2521139,
+      "url": "https://wegotrip.com/benalmadena-d2521139/"
+    },
+    {
+      "slug": "bengaluru",
+      "cityId": 1277333,
+      "url": "https://wegotrip.com/bengaluru-d1277333/"
+    },
+    {
+      "slug": "benidorm",
+      "cityId": 2521088,
+      "url": "https://wegotrip.com/benidorm-d2521088/"
+    },
+    {
+      "slug": "berat",
+      "cityId": 3186084,
+      "url": "https://wegotrip.com/berat-d3186084/"
+    },
+    {
+      "slug": "bergamo",
+      "cityId": 3182164,
+      "url": "https://wegotrip.com/bergamo-d3182164/"
+    },
+    {
+      "slug": "bergen-3161732",
+      "cityId": 3161732,
+      "url": "https://wegotrip.com/bergen-3161732-d3161732/"
+    },
+    {
+      "slug": "berlin",
+      "cityId": 2950159,
+      "url": "https://wegotrip.com/berlin-d2950159/"
+    },
+    {
+      "slug": "berlin",
+      "cityId": 2950159,
+      "url": "https://wegotrip.com/berlin-d2950159/"
+    },
+    {
+      "slug": "berlin",
+      "cityId": 2950159,
+      "url": "https://wegotrip.com/berlin-d2950159/"
+    },
+    {
+      "slug": "berlin",
+      "cityId": 2950159,
+      "url": "https://wegotrip.com/berlin-d2950159/"
+    },
+    {
+      "slug": "berlin",
+      "cityId": 2950159,
+      "url": "https://wegotrip.com/berlin-d2950159/"
+    },
+    {
+      "slug": "bern",
+      "cityId": 2661552,
+      "url": "https://wegotrip.com/bern-d2661552/"
+    },
+    {
+      "slug": "beverly-hills-5328041",
+      "cityId": 5328041,
+      "url": "https://wegotrip.com/beverly-hills-5328041-d5328041/"
+    },
+    {
+      "slug": "bialystok",
+      "cityId": 776069,
+      "url": "https://wegotrip.com/bialystok-d776069/"
+    },
+    {
+      "slug": "bilbao",
+      "cityId": 3128026,
+      "url": "https://wegotrip.com/bilbao-d3128026/"
+    },
+    {
+      "slug": "bilbao",
+      "cityId": 3128026,
+      "url": "https://wegotrip.com/bilbao-d3128026/"
+    },
+    {
+      "slug": "bilbao",
+      "cityId": 3128026,
+      "url": "https://wegotrip.com/bilbao-d3128026/"
+    },
+    {
+      "slug": "bilbao",
+      "cityId": 3128026,
+      "url": "https://wegotrip.com/bilbao-d3128026/"
+    },
+    {
+      "slug": "bilbao",
+      "cityId": 3128026,
+      "url": "https://wegotrip.com/bilbao-d3128026/"
+    },
+    {
+      "slug": "billund",
+      "cityId": 2624144,
+      "url": "https://wegotrip.com/billund-d2624144/"
+    },
+    {
+      "slug": "birmingham",
+      "cityId": 2655603,
+      "url": "https://wegotrip.com/birmingham-d2655603/"
+    },
+    {
+      "slug": "bishopric-of-perugia",
+      "cityId": 12032166,
+      "url": "https://wegotrip.com/bishopric-of-perugia-d12032166/"
+    },
+    {
+      "slug": "bitonto",
+      "cityId": 3181995,
+      "url": "https://wegotrip.com/bitonto-d3181995/"
+    },
+    {
+      "slug": "blackpool",
+      "cityId": 2655459,
+      "url": "https://wegotrip.com/blackpool-d2655459/"
+    },
+    {
+      "slug": "blankenberge",
+      "cityId": 2801858,
+      "url": "https://wegotrip.com/blankenberge-d2801858/"
+    },
+    {
+      "slug": "blois",
+      "cityId": 3032213,
+      "url": "https://wegotrip.com/blois-d3032213/"
+    },
+    {
+      "slug": "bod",
+      "cityId": 3160881,
+      "url": "https://wegotrip.com/bod-d3160881/"
+    },
+    {
+      "slug": "bodrum",
+      "cityId": 320995,
+      "url": "https://wegotrip.com/bodrum-d320995/"
+    },
+    {
+      "slug": "boerne",
+      "cityId": 4675373,
+      "url": "https://wegotrip.com/boerne-d4675373/"
+    },
+    {
+      "slug": "bogota",
+      "cityId": 3688689,
+      "url": "https://wegotrip.com/bogota-d3688689/"
+    },
+    {
+      "slug": "bogota",
+      "cityId": 3688689,
+      "url": "https://wegotrip.com/bogota-d3688689/"
+    },
+    {
+      "slug": "bologna",
+      "cityId": 3181928,
+      "url": "https://wegotrip.com/bologna-d3181928/"
+    },
+    {
+      "slug": "bonn",
+      "cityId": 2946447,
+      "url": "https://wegotrip.com/bonn-d2946447/"
+    },
+    {
+      "slug": "bordeaux",
+      "cityId": 3031582,
+      "url": "https://wegotrip.com/bordeaux-d3031582/"
+    },
+    {
+      "slug": "bordeaux",
+      "cityId": 3031582,
+      "url": "https://wegotrip.com/bordeaux-d3031582/"
+    },
+    {
+      "slug": "borgarnes",
+      "cityId": 3418076,
+      "url": "https://wegotrip.com/borgarnes-d3418076/"
+    },
+    {
+      "slug": "boston-4930956",
+      "cityId": 4930956,
+      "url": "https://wegotrip.com/boston-4930956-d4930956/"
+    },
+    {
+      "slug": "bottrop",
+      "cityId": 2945756,
+      "url": "https://wegotrip.com/bottrop-d2945756/"
+    },
+    {
+      "slug": "boulder",
+      "cityId": 5574991,
+      "url": "https://wegotrip.com/boulder-d5574991/"
+    },
+    {
+      "slug": "bourg-en-bresse",
+      "cityId": 3031009,
+      "url": "https://wegotrip.com/bourg-en-bresse-d3031009/"
+    },
+    {
+      "slug": "bourges",
+      "cityId": 3031005,
+      "url": "https://wegotrip.com/bourges-d3031005/"
+    },
+    {
+      "slug": "bova",
+      "cityId": 43,
+      "url": "https://wegotrip.com/bova-d43/"
+    },
+    {
+      "slug": "bowling-green",
+      "cityId": 4285268,
+      "url": "https://wegotrip.com/bowling-green-d4285268/"
+    },
+    {
+      "slug": "bracciano",
+      "cityId": 3181628,
+      "url": "https://wegotrip.com/bracciano-d3181628/"
+    },
+    {
+      "slug": "braga",
+      "cityId": 2742032,
+      "url": "https://wegotrip.com/braga-d2742032/"
+    },
+    {
+      "slug": "brasilia",
+      "cityId": 3469058,
+      "url": "https://wegotrip.com/brasilia-d3469058/"
+    },
+    {
+      "slug": "brasov",
+      "cityId": 683844,
+      "url": "https://wegotrip.com/brasov-d683844/"
+    },
+    {
+      "slug": "bratislava",
+      "cityId": 3060972,
+      "url": "https://wegotrip.com/bratislava-d3060972/"
+    },
+    {
+      "slug": "bratislava",
+      "cityId": 3060972,
+      "url": "https://wegotrip.com/bratislava-d3060972/"
+    },
+    {
+      "slug": "braunschweig",
+      "cityId": 2945024,
+      "url": "https://wegotrip.com/braunschweig-d2945024/"
+    },
+    {
+      "slug": "bregenz",
+      "cityId": 2781503,
+      "url": "https://wegotrip.com/bregenz-d2781503/"
+    },
+    {
+      "slug": "bremen",
+      "cityId": 2944388,
+      "url": "https://wegotrip.com/bremen-d2944388/"
+    },
+    {
+      "slug": "bremen",
+      "cityId": 2944388,
+      "url": "https://wegotrip.com/bremen-d2944388/"
+    },
+    {
+      "slug": "brescia",
+      "cityId": 3181554,
+      "url": "https://wegotrip.com/brescia-d3181554/"
+    },
+    {
+      "slug": "bridgetown",
+      "cityId": 3374036,
+      "url": "https://wegotrip.com/bridgetown-d3374036/"
+    },
+    {
+      "slug": "brighton",
+      "cityId": 2654710,
+      "url": "https://wegotrip.com/brighton-d2654710/"
+    },
+    {
+      "slug": "brindisi",
+      "cityId": 3181528,
+      "url": "https://wegotrip.com/brindisi-d3181528/"
+    },
+    {
+      "slug": "brisbane",
+      "cityId": 2174003,
+      "url": "https://wegotrip.com/brisbane-d2174003/"
+    },
+    {
+      "slug": "brno",
+      "cityId": 3078610,
+      "url": "https://wegotrip.com/brno-d3078610/"
+    },
+    {
+      "slug": "brooklyn",
+      "cityId": 5110302,
+      "url": "https://wegotrip.com/brooklyn-d5110302/"
+    },
+    {
+      "slug": "brugge",
+      "cityId": 2800931,
+      "url": "https://wegotrip.com/brugge-d2800931/"
+    },
+    {
+      "slug": "brugge",
+      "cityId": 2800931,
+      "url": "https://wegotrip.com/brugge-d2800931/"
+    },
+    {
+      "slug": "brussels",
+      "cityId": 2800866,
+      "url": "https://wegotrip.com/brussels-d2800866/"
+    },
+    {
+      "slug": "brussels",
+      "cityId": 2800866,
+      "url": "https://wegotrip.com/brussels-d2800866/"
+    },
+    {
+      "slug": "brussels",
+      "cityId": 2800866,
+      "url": "https://wegotrip.com/brussels-d2800866/"
+    },
+    {
+      "slug": "brussels",
+      "cityId": 2800866,
+      "url": "https://wegotrip.com/brussels-d2800866/"
+    },
+    {
+      "slug": "brussels",
+      "cityId": 2800866,
+      "url": "https://wegotrip.com/brussels-d2800866/"
+    },
+    {
+      "slug": "bryan",
+      "cityId": 4677008,
+      "url": "https://wegotrip.com/bryan-d4677008/"
+    },
+    {
+      "slug": "bucharest",
+      "cityId": 683506,
+      "url": "https://wegotrip.com/bucharest-d683506/"
+    },
+    {
+      "slug": "budapest",
+      "cityId": 3054643,
+      "url": "https://wegotrip.com/budapest-d3054643/"
+    },
+    {
+      "slug": "budapest",
+      "cityId": 3054643,
+      "url": "https://wegotrip.com/budapest-d3054643/"
+    },
+    {
+      "slug": "budapest",
+      "cityId": 3054643,
+      "url": "https://wegotrip.com/budapest-d3054643/"
+    },
+    {
+      "slug": "budapest",
+      "cityId": 3054643,
+      "url": "https://wegotrip.com/budapest-d3054643/"
+    },
+    {
+      "slug": "buenos-aires",
+      "cityId": 3435910,
+      "url": "https://wegotrip.com/buenos-aires-d3435910/"
+    },
+    {
+      "slug": "buenos-aires",
+      "cityId": 3435910,
+      "url": "https://wegotrip.com/buenos-aires-d3435910/"
+    },
+    {
+      "slug": "buffalo",
+      "cityId": 5019588,
+      "url": "https://wegotrip.com/buffalo-d5019588/"
+    },
+    {
+      "slug": "buffalo-5110629",
+      "cityId": 5110629,
+      "url": "https://wegotrip.com/buffalo-5110629-d5110629/"
+    },
+    {
+      "slug": "bukhara",
+      "cityId": 1217662,
+      "url": "https://wegotrip.com/bukhara-d1217662/"
+    },
+    {
+      "slug": "bursa",
+      "cityId": 750269,
+      "url": "https://wegotrip.com/bursa-d750269/"
+    },
+    {
+      "slug": "busselton",
+      "cityId": 2075265,
+      "url": "https://wegotrip.com/busselton-d2075265/"
+    },
+    {
+      "slug": "caceres",
+      "cityId": 2520611,
+      "url": "https://wegotrip.com/caceres-d2520611/"
+    },
+    {
+      "slug": "cadaques",
+      "cityId": 61,
+      "url": "https://wegotrip.com/cadaques-d61/"
+    },
+    {
+      "slug": "cadiz",
+      "cityId": 2520600,
+      "url": "https://wegotrip.com/cadiz-d2520600/"
+    },
+    {
+      "slug": "caen",
+      "cityId": 3029241,
+      "url": "https://wegotrip.com/caen-d3029241/"
+    },
+    {
+      "slug": "cagliari",
+      "cityId": 2525473,
+      "url": "https://wegotrip.com/cagliari-d2525473/"
+    },
+    {
+      "slug": "cahors",
+      "cityId": 3029213,
+      "url": "https://wegotrip.com/cahors-d3029213/"
+    },
+    {
+      "slug": "cairns",
+      "cityId": 2172797,
+      "url": "https://wegotrip.com/cairns-d2172797/"
+    },
+    {
+      "slug": "cairo",
+      "cityId": 360630,
+      "url": "https://wegotrip.com/cairo-d360630/"
+    },
+    {
+      "slug": "cala-rajada",
+      "cityId": 2520564,
+      "url": "https://wegotrip.com/cala-rajada-d2520564/"
+    },
+    {
+      "slug": "calgary",
+      "cityId": 5913490,
+      "url": "https://wegotrip.com/calgary-d5913490/"
+    },
+    {
+      "slug": "cali",
+      "cityId": 3687925,
+      "url": "https://wegotrip.com/cali-d3687925/"
+    },
+    {
+      "slug": "california",
+      "cityId": 4350049,
+      "url": "https://wegotrip.com/california-d4350049/"
+    },
+    {
+      "slug": "camp-verde",
+      "cityId": 5288261,
+      "url": "https://wegotrip.com/camp-verde-d5288261/"
+    },
+    {
+      "slug": "campeche",
+      "cityId": 3531732,
+      "url": "https://wegotrip.com/campeche-d3531732/"
+    },
+    {
+      "slug": "campobello-di-mazara",
+      "cityId": 2525425,
+      "url": "https://wegotrip.com/campobello-di-mazara-d2525425/"
+    },
+    {
+      "slug": "can-picafort",
+      "cityId": 2520229,
+      "url": "https://wegotrip.com/can-picafort-d2520229/"
+    },
+    {
+      "slug": "canandaigua",
+      "cityId": 5111405,
+      "url": "https://wegotrip.com/canandaigua-d5111405/"
+    },
+    {
+      "slug": "canberra",
+      "cityId": 2172517,
+      "url": "https://wegotrip.com/canberra-d2172517/"
+    },
+    {
+      "slug": "cancun",
+      "cityId": 3531673,
+      "url": "https://wegotrip.com/cancun-d3531673/"
+    },
+    {
+      "slug": "cannes",
+      "cityId": 3028808,
+      "url": "https://wegotrip.com/cannes-d3028808/"
+    },
+    {
+      "slug": "cape-town",
+      "cityId": 3369157,
+      "url": "https://wegotrip.com/cape-town-d3369157/"
+    },
+    {
+      "slug": "cape-town",
+      "cityId": 3369157,
+      "url": "https://wegotrip.com/cape-town-d3369157/"
+    },
+    {
+      "slug": "capranica",
+      "cityId": 3180644,
+      "url": "https://wegotrip.com/capranica-d3180644/"
+    },
+    {
+      "slug": "carcassonne",
+      "cityId": 3028641,
+      "url": "https://wegotrip.com/carcassonne-d3028641/"
+    },
+    {
+      "slug": "cardiff",
+      "cityId": 2653822,
+      "url": "https://wegotrip.com/cardiff-d2653822/"
+    },
+    {
+      "slug": "carouge",
+      "cityId": 2661265,
+      "url": "https://wegotrip.com/carouge-d2661265/"
+    },
+    {
+      "slug": "cartagena-3687238",
+      "cityId": 3687238,
+      "url": "https://wegotrip.com/cartagena-3687238-d3687238/"
+    },
+    {
+      "slug": "carthage",
+      "cityId": 2468245,
+      "url": "https://wegotrip.com/carthage-d2468245/"
+    },
+    {
+      "slug": "casablanca",
+      "cityId": 2553604,
+      "url": "https://wegotrip.com/casablanca-d2553604/"
+    },
+    {
+      "slug": "castro-3896218",
+      "cityId": 3896218,
+      "url": "https://wegotrip.com/castro-3896218-d3896218/"
+    },
+    {
+      "slug": "catania",
+      "cityId": 2525068,
+      "url": "https://wegotrip.com/catania-d2525068/"
+    },
+    {
+      "slug": "cesky-krumlov",
+      "cityId": 3077889,
+      "url": "https://wegotrip.com/cesky-krumlov-d3077889/"
+    },
+    {
+      "slug": "chambery",
+      "cityId": 3027422,
+      "url": "https://wegotrip.com/chambery-d3027422/"
+    },
+    {
+      "slug": "chania",
+      "cityId": 260114,
+      "url": "https://wegotrip.com/chania-d260114/"
+    },
+    {
+      "slug": "charleston-4574324",
+      "cityId": 4574324,
+      "url": "https://wegotrip.com/charleston-4574324-d4574324/"
+    },
+    {
+      "slug": "charlotte",
+      "cityId": 4460243,
+      "url": "https://wegotrip.com/charlotte-d4460243/"
+    },
+    {
+      "slug": "charlottetown",
+      "cityId": 5920288,
+      "url": "https://wegotrip.com/charlottetown-d5920288/"
+    },
+    {
+      "slug": "chattanooga",
+      "cityId": 4612862,
+      "url": "https://wegotrip.com/chattanooga-d4612862/"
+    },
+    {
+      "slug": "chefchaouene",
+      "cityId": 2553455,
+      "url": "https://wegotrip.com/chefchaouene-d2553455/"
+    },
+    {
+      "slug": "chelmsford",
+      "cityId": 2653266,
+      "url": "https://wegotrip.com/chelmsford-d2653266/"
+    },
+    {
+      "slug": "chennai",
+      "cityId": 1264527,
+      "url": "https://wegotrip.com/chennai-d1264527/"
+    },
+    {
+      "slug": "chertsey",
+      "cityId": 2653239,
+      "url": "https://wegotrip.com/chertsey-d2653239/"
+    },
+    {
+      "slug": "chester",
+      "cityId": 2653228,
+      "url": "https://wegotrip.com/chester-d2653228/"
+    },
+    {
+      "slug": "chicago",
+      "cityId": 4887398,
+      "url": "https://wegotrip.com/chicago-d4887398/"
+    },
+    {
+      "slug": "chicago",
+      "cityId": 4887398,
+      "url": "https://wegotrip.com/chicago-d4887398/"
+    },
+    {
+      "slug": "chicago",
+      "cityId": 4887398,
+      "url": "https://wegotrip.com/chicago-d4887398/"
+    },
+    {
+      "slug": "chicago",
+      "cityId": 4887398,
+      "url": "https://wegotrip.com/chicago-d4887398/"
+    },
+    {
+      "slug": "chicago",
+      "cityId": 4887398,
+      "url": "https://wegotrip.com/chicago-d4887398/"
+    },
+    {
+      "slug": "chisinau",
+      "cityId": 618426,
+      "url": "https://wegotrip.com/chisinau-d618426/"
+    },
+    {
+      "slug": "chon-buri",
+      "cityId": 1611110,
+      "url": "https://wegotrip.com/chon-buri-d1611110/"
+    },
+    {
+      "slug": "christchurch-2192362",
+      "cityId": 2192362,
+      "url": "https://wegotrip.com/christchurch-2192362-d2192362/"
+    },
+    {
+      "slug": "chula-vista",
+      "cityId": 5336899,
+      "url": "https://wegotrip.com/chula-vista-d5336899/"
+    },
+    {
+      "slug": "chur",
+      "cityId": 2661169,
+      "url": "https://wegotrip.com/chur-d2661169/"
+    },
+    {
+      "slug": "cincinnati",
+      "cityId": 4508722,
+      "url": "https://wegotrip.com/cincinnati-d4508722/"
+    },
+    {
+      "slug": "city-of-london",
+      "cityId": 2643741,
+      "url": "https://wegotrip.com/city-of-london-d2643741/"
+    },
+    {
+      "slug": "ciudad-rodrigo",
+      "cityId": 3124963,
+      "url": "https://wegotrip.com/ciudad-rodrigo-d3124963/"
+    },
+    {
+      "slug": "civitavecchia",
+      "cityId": 3178587,
+      "url": "https://wegotrip.com/civitavecchia-d3178587/"
+    },
+    {
+      "slug": "clarksdale",
+      "cityId": 4421935,
+      "url": "https://wegotrip.com/clarksdale-d4421935/"
+    },
+    {
+      "slug": "clearwater",
+      "cityId": 4151316,
+      "url": "https://wegotrip.com/clearwater-d4151316/"
+    },
+    {
+      "slug": "clermont-ferrand",
+      "cityId": 3024635,
+      "url": "https://wegotrip.com/clermont-ferrand-d3024635/"
+    },
+    {
+      "slug": "cleveland-5150529",
+      "cityId": 5150529,
+      "url": "https://wegotrip.com/cleveland-5150529-d5150529/"
+    },
+    {
+      "slug": "cluj-napoca",
+      "cityId": 681290,
+      "url": "https://wegotrip.com/cluj-napoca-d681290/"
+    },
+    {
+      "slug": "cobh",
+      "cityId": 2965260,
+      "url": "https://wegotrip.com/cobh-d2965260/"
+    },
+    {
+      "slug": "cobram",
+      "cityId": 2171173,
+      "url": "https://wegotrip.com/cobram-d2171173/"
+    },
+    {
+      "slug": "cochin",
+      "cityId": 1273874,
+      "url": "https://wegotrip.com/cochin-d1273874/"
+    },
+    {
+      "slug": "cody",
+      "cityId": 5821593,
+      "url": "https://wegotrip.com/cody-d5821593/"
+    },
+    {
+      "slug": "coimbra",
+      "cityId": 2740637,
+      "url": "https://wegotrip.com/coimbra-d2740637/"
+    },
+    {
+      "slug": "colmar",
+      "cityId": 3024297,
+      "url": "https://wegotrip.com/colmar-d3024297/"
+    },
+    {
+      "slug": "columbia",
+      "cityId": 4236206,
+      "url": "https://wegotrip.com/columbia-d4236206/"
+    },
+    {
+      "slug": "columbus-4509177",
+      "cityId": 4509177,
+      "url": "https://wegotrip.com/columbus-4509177-d4509177/"
+    },
+    {
+      "slug": "como",
+      "cityId": 3178229,
+      "url": "https://wegotrip.com/como-d3178229/"
+    },
+    {
+      "slug": "concord-4461574",
+      "cityId": 4461574,
+      "url": "https://wegotrip.com/concord-4461574-d4461574/"
+    },
+    {
+      "slug": "constanta",
+      "cityId": 680963,
+      "url": "https://wegotrip.com/constanta-d680963/"
+    },
+    {
+      "slug": "conway-4575461",
+      "cityId": 4575461,
+      "url": "https://wegotrip.com/conway-4575461-d4575461/"
+    },
+    {
+      "slug": "copenhagen",
+      "cityId": 2618425,
+      "url": "https://wegotrip.com/copenhagen-d2618425/"
+    },
+    {
+      "slug": "cordoba",
+      "cityId": 3860259,
+      "url": "https://wegotrip.com/cordoba-d3860259/"
+    },
+    {
+      "slug": "cordoba-2519240",
+      "cityId": 2519240,
+      "url": "https://wegotrip.com/cordoba-2519240-d2519240/"
+    },
+    {
+      "slug": "corfu",
+      "cityId": 2463679,
+      "url": "https://wegotrip.com/corfu-d2463679/"
+    },
+    {
+      "slug": "cork",
+      "cityId": 2965140,
+      "url": "https://wegotrip.com/cork-d2965140/"
+    },
+    {
+      "slug": "corleone",
+      "cityId": 2524928,
+      "url": "https://wegotrip.com/corleone-d2524928/"
+    },
+    {
+      "slug": "coronado",
+      "cityId": 5339663,
+      "url": "https://wegotrip.com/coronado-d5339663/"
+    },
+    {
+      "slug": "corte-franca",
+      "cityId": 3177983,
+      "url": "https://wegotrip.com/corte-franca-d3177983/"
+    },
+    {
+      "slug": "cortona",
+      "cityId": 30,
+      "url": "https://wegotrip.com/cortona-d30/"
+    },
+    {
+      "slug": "cosenza",
+      "cityId": 2524907,
+      "url": "https://wegotrip.com/cosenza-d2524907/"
+    },
+    {
+      "slug": "costa-teguise",
+      "cityId": 6355127,
+      "url": "https://wegotrip.com/costa-teguise-d6355127/"
+    },
+    {
+      "slug": "cozumel",
+      "cityId": 3530103,
+      "url": "https://wegotrip.com/cozumel-d3530103/"
+    },
+    {
+      "slug": "crema",
+      "cityId": 3177841,
+      "url": "https://wegotrip.com/crema-d3177841/"
+    },
+    {
+      "slug": "crestview",
+      "cityId": 4152311,
+      "url": "https://wegotrip.com/crestview-d4152311/"
+    },
+    {
+      "slug": "cuenca-3124132",
+      "cityId": 3124132,
+      "url": "https://wegotrip.com/cuenca-3124132-d3124132/"
+    },
+    {
+      "slug": "cuneo",
+      "cityId": 3177700,
+      "url": "https://wegotrip.com/cuneo-d3177700/"
+    },
+    {
+      "slug": "curitiba",
+      "cityId": 3464975,
+      "url": "https://wegotrip.com/curitiba-d3464975/"
+    },
+    {
+      "slug": "cusco",
+      "cityId": 3941584,
+      "url": "https://wegotrip.com/cusco-d3941584/"
+    },
+    {
+      "slug": "cusco",
+      "cityId": 3941584,
+      "url": "https://wegotrip.com/cusco-d3941584/"
+    },
+    {
+      "slug": "dachau",
+      "cityId": 2939623,
+      "url": "https://wegotrip.com/dachau-d2939623/"
+    },
+    {
+      "slug": "dallas",
+      "cityId": 4190598,
+      "url": "https://wegotrip.com/dallas-d4190598/"
+    },
+    {
+      "slug": "dallas-4684888",
+      "cityId": 4684888,
+      "url": "https://wegotrip.com/dallas-4684888-d4684888/"
+    },
+    {
+      "slug": "dar-es-salaam",
+      "cityId": 160263,
+      "url": "https://wegotrip.com/dar-es-salaam-d160263/"
+    },
+    {
+      "slug": "darmstadt",
+      "cityId": 2938913,
+      "url": "https://wegotrip.com/darmstadt-d2938913/"
+    },
+    {
+      "slug": "darwin",
+      "cityId": 2073124,
+      "url": "https://wegotrip.com/darwin-d2073124/"
+    },
+    {
+      "slug": "delft",
+      "cityId": 2757345,
+      "url": "https://wegotrip.com/delft-d2757345/"
+    },
+    {
+      "slug": "delhi",
+      "cityId": 1273294,
+      "url": "https://wegotrip.com/delhi-d1273294/"
+    },
+    {
+      "slug": "den-burg",
+      "cityId": 2757244,
+      "url": "https://wegotrip.com/den-burg-d2757244/"
+    },
+    {
+      "slug": "denpasar",
+      "cityId": 1645528,
+      "url": "https://wegotrip.com/denpasar-d1645528/"
+    },
+    {
+      "slug": "denton-4685907",
+      "cityId": 4685907,
+      "url": "https://wegotrip.com/denton-4685907-d4685907/"
+    },
+    {
+      "slug": "denver",
+      "cityId": 5419384,
+      "url": "https://wegotrip.com/denver-d5419384/"
+    },
+    {
+      "slug": "denver",
+      "cityId": 5419384,
+      "url": "https://wegotrip.com/denver-d5419384/"
+    },
+    {
+      "slug": "denver",
+      "cityId": 5419384,
+      "url": "https://wegotrip.com/denver-d5419384/"
+    },
+    {
+      "slug": "denver",
+      "cityId": 5419384,
+      "url": "https://wegotrip.com/denver-d5419384/"
+    },
+    {
+      "slug": "dessau",
+      "cityId": 2937959,
+      "url": "https://wegotrip.com/dessau-d2937959/"
+    },
+    {
+      "slug": "detroit",
+      "cityId": 4990729,
+      "url": "https://wegotrip.com/detroit-d4990729/"
+    },
+    {
+      "slug": "dijon",
+      "cityId": 3021372,
+      "url": "https://wegotrip.com/dijon-d3021372/"
+    },
+    {
+      "slug": "dinant",
+      "cityId": 2799357,
+      "url": "https://wegotrip.com/dinant-d2799357/"
+    },
+    {
+      "slug": "donostia--san-sebastian",
+      "cityId": 3110044,
+      "url": "https://wegotrip.com/donostia--san-sebastian-d3110044/"
+    },
+    {
+      "slug": "dorchester-2651101",
+      "cityId": 2651101,
+      "url": "https://wegotrip.com/dorchester-2651101-d2651101/"
+    },
+    {
+      "slug": "dordrecht",
+      "cityId": 2756669,
+      "url": "https://wegotrip.com/dordrecht-d2756669/"
+    },
+    {
+      "slug": "dortmund",
+      "cityId": 2935517,
+      "url": "https://wegotrip.com/dortmund-d2935517/"
+    },
+    {
+      "slug": "dresden",
+      "cityId": 2935022,
+      "url": "https://wegotrip.com/dresden-d2935022/"
+    },
+    {
+      "slug": "dubai",
+      "cityId": 292223,
+      "url": "https://wegotrip.com/dubai-d292223/"
+    },
+    {
+      "slug": "dublin",
+      "cityId": 2964574,
+      "url": "https://wegotrip.com/dublin-d2964574/"
+    },
+    {
+      "slug": "dubrovnik",
+      "cityId": 3201047,
+      "url": "https://wegotrip.com/dubrovnik-d3201047/"
+    },
+    {
+      "slug": "duisburg",
+      "cityId": 2934691,
+      "url": "https://wegotrip.com/duisburg-d2934691/"
+    },
+    {
+      "slug": "dundee",
+      "cityId": 2650752,
+      "url": "https://wegotrip.com/dundee-d2650752/"
+    },
+    {
+      "slug": "dunedin",
+      "cityId": 2191562,
+      "url": "https://wegotrip.com/dunedin-d2191562/"
+    },
+    {
+      "slug": "durban",
+      "cityId": 1007311,
+      "url": "https://wegotrip.com/durban-d1007311/"
+    },
+    {
+      "slug": "durham-4464368",
+      "cityId": 4464368,
+      "url": "https://wegotrip.com/durham-4464368-d4464368/"
+    },
+    {
+      "slug": "durres",
+      "cityId": 3185728,
+      "url": "https://wegotrip.com/durres-d3185728/"
+    },
+    {
+      "slug": "dusseldorf",
+      "cityId": 2934246,
+      "url": "https://wegotrip.com/dusseldorf-d2934246/"
+    },
+    {
+      "slug": "easton-5188140",
+      "cityId": 5188140,
+      "url": "https://wegotrip.com/easton-5188140-d5188140/"
+    },
+    {
+      "slug": "eau-claire",
+      "cityId": 5251436,
+      "url": "https://wegotrip.com/eau-claire-d5251436/"
+    },
+    {
+      "slug": "edam",
+      "cityId": 2756431,
+      "url": "https://wegotrip.com/edam-d2756431/"
+    },
+    {
+      "slug": "edinburgh",
+      "cityId": 2650225,
+      "url": "https://wegotrip.com/edinburgh-d2650225/"
+    },
+    {
+      "slug": "egilsstair",
+      "cityId": 2632132,
+      "url": "https://wegotrip.com/egilsstair-d2632132/"
+    },
+    {
+      "slug": "eindhoven",
+      "cityId": 2756253,
+      "url": "https://wegotrip.com/eindhoven-d2756253/"
+    },
+    {
+      "slug": "eisenach",
+      "cityId": 2931574,
+      "url": "https://wegotrip.com/eisenach-d2931574/"
+    },
+    {
+      "slug": "eisenstadt",
+      "cityId": 2780190,
+      "url": "https://wegotrip.com/eisenstadt-d2780190/"
+    },
+    {
+      "slug": "ekaterinburg",
+      "cityId": 1486209,
+      "url": "https://wegotrip.com/ekaterinburg-d1486209/"
+    },
+    {
+      "slug": "el-paso-5520993",
+      "cityId": 5520993,
+      "url": "https://wegotrip.com/el-paso-5520993-d5520993/"
+    },
+    {
+      "slug": "entebbe",
+      "cityId": 233508,
+      "url": "https://wegotrip.com/entebbe-d233508/"
+    },
+    {
+      "slug": "ercolano",
+      "cityId": 3177363,
+      "url": "https://wegotrip.com/ercolano-d3177363/"
+    },
+    {
+      "slug": "erfurt",
+      "cityId": 2929670,
+      "url": "https://wegotrip.com/erfurt-d2929670/"
+    },
+    {
+      "slug": "erice",
+      "cityId": 50,
+      "url": "https://wegotrip.com/erice-d50/"
+    },
+    {
+      "slug": "es-castell",
+      "cityId": 2509607,
+      "url": "https://wegotrip.com/es-castell-d2509607/"
+    },
+    {
+      "slug": "esparreguera",
+      "cityId": 3122912,
+      "url": "https://wegotrip.com/esparreguera-d3122912/"
+    },
+    {
+      "slug": "espita",
+      "cityId": 3527720,
+      "url": "https://wegotrip.com/espita-d3527720/"
+    },
+    {
+      "slug": "essen-2928810",
+      "cityId": 2928810,
+      "url": "https://wegotrip.com/essen-2928810-d2928810/"
+    },
+    {
+      "slug": "esslingen",
+      "cityId": 2928751,
+      "url": "https://wegotrip.com/esslingen-d2928751/"
+    },
+    {
+      "slug": "estepona",
+      "cityId": 2517816,
+      "url": "https://wegotrip.com/estepona-d2517816/"
+    },
+    {
+      "slug": "esztergom",
+      "cityId": 3053163,
+      "url": "https://wegotrip.com/esztergom-d3053163/"
+    },
+    {
+      "slug": "evora",
+      "cityId": 2268406,
+      "url": "https://wegotrip.com/evora-d2268406/"
+    },
+    {
+      "slug": "faro",
+      "cityId": 2268339,
+      "url": "https://wegotrip.com/faro-d2268339/"
+    },
+    {
+      "slug": "fayetteville",
+      "cityId": 4110486,
+      "url": "https://wegotrip.com/fayetteville-d4110486/"
+    },
+    {
+      "slug": "fecamp",
+      "cityId": 3018794,
+      "url": "https://wegotrip.com/fecamp-d3018794/"
+    },
+    {
+      "slug": "ferney-voltaire",
+      "cityId": 3018679,
+      "url": "https://wegotrip.com/ferney-voltaire-d3018679/"
+    },
+    {
+      "slug": "ferrara",
+      "cityId": 3177090,
+      "url": "https://wegotrip.com/ferrara-d3177090/"
+    },
+    {
+      "slug": "fes",
+      "cityId": 2548885,
+      "url": "https://wegotrip.com/fes-d2548885/"
+    },
+    {
+      "slug": "figueres",
+      "cityId": 3122453,
+      "url": "https://wegotrip.com/figueres-d3122453/"
+    },
+    {
+      "slug": "figueres",
+      "cityId": 3122453,
+      "url": "https://wegotrip.com/figueres-d3122453/"
+    },
+    {
+      "slug": "figueres",
+      "cityId": 3122453,
+      "url": "https://wegotrip.com/figueres-d3122453/"
+    },
+    {
+      "slug": "figueres",
+      "cityId": 3122453,
+      "url": "https://wegotrip.com/figueres-d3122453/"
+    },
+    {
+      "slug": "figueres",
+      "cityId": 3122453,
+      "url": "https://wegotrip.com/figueres-d3122453/"
+    },
+    {
+      "slug": "florence",
+      "cityId": 3176959,
+      "url": "https://wegotrip.com/florence-d3176959/"
+    },
+    {
+      "slug": "florence",
+      "cityId": 3176959,
+      "url": "https://wegotrip.com/florence-d3176959/"
+    },
+    {
+      "slug": "florence",
+      "cityId": 3176959,
+      "url": "https://wegotrip.com/florence-d3176959/"
+    },
+    {
+      "slug": "florence",
+      "cityId": 3176959,
+      "url": "https://wegotrip.com/florence-d3176959/"
+    },
+    {
+      "slug": "florence",
+      "cityId": 3176959,
+      "url": "https://wegotrip.com/florence-d3176959/"
+    },
+    {
+      "slug": "foggia",
+      "cityId": 3176885,
+      "url": "https://wegotrip.com/foggia-d3176885/"
+    },
+    {
+      "slug": "folsom",
+      "cityId": 4558002,
+      "url": "https://wegotrip.com/folsom-d4558002/"
+    },
+    {
+      "slug": "fort-lauderdale",
+      "cityId": 4155966,
+      "url": "https://wegotrip.com/fort-lauderdale-d4155966/"
+    },
+    {
+      "slug": "fort-myers",
+      "cityId": 4155995,
+      "url": "https://wegotrip.com/fort-myers-d4155995/"
+    },
+    {
+      "slug": "frankfurt-am-main",
+      "cityId": 2925533,
+      "url": "https://wegotrip.com/frankfurt-am-main-d2925533/"
+    },
+    {
+      "slug": "frankston-east",
+      "cityId": 2166143,
+      "url": "https://wegotrip.com/frankston-east-d2166143/"
+    },
+    {
+      "slug": "fredrikstad",
+      "cityId": 3156529,
+      "url": "https://wegotrip.com/fredrikstad-d3156529/"
+    },
+    {
+      "slug": "freiburg",
+      "cityId": 2925177,
+      "url": "https://wegotrip.com/freiburg-d2925177/"
+    },
+    {
+      "slug": "frosinone",
+      "cityId": 3176515,
+      "url": "https://wegotrip.com/frosinone-d3176515/"
+    },
+    {
+      "slug": "funchal",
+      "cityId": 2267827,
+      "url": "https://wegotrip.com/funchal-d2267827/"
+    },
+    {
+      "slug": "fussen",
+      "cityId": 2923507,
+      "url": "https://wegotrip.com/fussen-d2923507/"
+    },
+    {
+      "slug": "fussen",
+      "cityId": 2923507,
+      "url": "https://wegotrip.com/fussen-d2923507/"
+    },
+    {
+      "slug": "gaillimh",
+      "cityId": 2964180,
+      "url": "https://wegotrip.com/gaillimh-d2964180/"
+    },
+    {
+      "slug": "galatina",
+      "cityId": 3176407,
+      "url": "https://wegotrip.com/galatina-d3176407/"
+    },
+    {
+      "slug": "galle",
+      "cityId": 1246294,
+      "url": "https://wegotrip.com/galle-d1246294/"
+    },
+    {
+      "slug": "galveston",
+      "cityId": 4692883,
+      "url": "https://wegotrip.com/galveston-d4692883/"
+    },
+    {
+      "slug": "gangtok",
+      "cityId": 1271631,
+      "url": "https://wegotrip.com/gangtok-d1271631/"
+    },
+    {
+      "slug": "gdansk",
+      "cityId": 3099434,
+      "url": "https://wegotrip.com/gdansk-d3099434/"
+    },
+    {
+      "slug": "geisenfeld",
+      "cityId": 2921713,
+      "url": "https://wegotrip.com/geisenfeld-d2921713/"
+    },
+    {
+      "slug": "geneve",
+      "cityId": 2660646,
+      "url": "https://wegotrip.com/geneve-d2660646/"
+    },
+    {
+      "slug": "genoa",
+      "cityId": 3176219,
+      "url": "https://wegotrip.com/genoa-d3176219/"
+    },
+    {
+      "slug": "gent",
+      "cityId": 2797656,
+      "url": "https://wegotrip.com/gent-d2797656/"
+    },
+    {
+      "slug": "george-town-1735106",
+      "cityId": 1735106,
+      "url": "https://wegotrip.com/george-town-1735106-d1735106/"
+    },
+    {
+      "slug": "gettysburg",
+      "cityId": 4558183,
+      "url": "https://wegotrip.com/gettysburg-d4558183/"
+    },
+    {
+      "slug": "gibraltar",
+      "cityId": 2411585,
+      "url": "https://wegotrip.com/gibraltar-d2411585/"
+    },
+    {
+      "slug": "girona",
+      "cityId": 3121456,
+      "url": "https://wegotrip.com/girona-d3121456/"
+    },
+    {
+      "slug": "gjirokaster",
+      "cityId": 783148,
+      "url": "https://wegotrip.com/gjirokaster-d783148/"
+    },
+    {
+      "slug": "gorlitz",
+      "cityId": 2918987,
+      "url": "https://wegotrip.com/gorlitz-d2918987/"
+    },
+    {
+      "slug": "goshen-5118920",
+      "cityId": 5118920,
+      "url": "https://wegotrip.com/goshen-5118920-d5118920/"
+    },
+    {
+      "slug": "goteborg",
+      "cityId": 2711537,
+      "url": "https://wegotrip.com/goteborg-d2711537/"
+    },
+    {
+      "slug": "gottingen",
+      "cityId": 2918632,
+      "url": "https://wegotrip.com/gottingen-d2918632/"
+    },
+    {
+      "slug": "gottingen",
+      "cityId": 2918632,
+      "url": "https://wegotrip.com/gottingen-d2918632/"
+    },
+    {
+      "slug": "gouda",
+      "cityId": 2755420,
+      "url": "https://wegotrip.com/gouda-d2755420/"
+    },
+    {
+      "slug": "granada-2517117",
+      "cityId": 2517117,
+      "url": "https://wegotrip.com/granada-2517117-d2517117/"
+    },
+    {
+      "slug": "grand-rapids-5028537",
+      "cityId": 5028537,
+      "url": "https://wegotrip.com/grand-rapids-5028537-d5028537/"
+    },
+    {
+      "slug": "graz",
+      "cityId": 2778067,
+      "url": "https://wegotrip.com/graz-d2778067/"
+    },
+    {
+      "slug": "greensburg-5192029",
+      "cityId": 5192029,
+      "url": "https://wegotrip.com/greensburg-5192029-d5192029/"
+    },
+    {
+      "slug": "greifswald",
+      "cityId": 2917788,
+      "url": "https://wegotrip.com/greifswald-d2917788/"
+    },
+    {
+      "slug": "grindavik-3416886",
+      "cityId": 3416886,
+      "url": "https://wegotrip.com/grindavik-3416886-d3416886/"
+    },
+    {
+      "slug": "groningen",
+      "cityId": 2755251,
+      "url": "https://wegotrip.com/groningen-d2755251/"
+    },
+    {
+      "slug": "grosseto",
+      "cityId": 3175786,
+      "url": "https://wegotrip.com/grosseto-d3175786/"
+    },
+    {
+      "slug": "guadalajara-4005539",
+      "cityId": 4005539,
+      "url": "https://wegotrip.com/guadalajara-4005539-d4005539/"
+    },
+    {
+      "slug": "guanajuato",
+      "cityId": 4005270,
+      "url": "https://wegotrip.com/guanajuato-d4005270/"
+    },
+    {
+      "slug": "guarda",
+      "cityId": 2738785,
+      "url": "https://wegotrip.com/guarda-d2738785/"
+    },
+    {
+      "slug": "guatemala-city",
+      "cityId": 3598132,
+      "url": "https://wegotrip.com/guatemala-city-d3598132/"
+    },
+    {
+      "slug": "gunzburg",
+      "cityId": 2913555,
+      "url": "https://wegotrip.com/gunzburg-d2913555/"
+    },
+    {
+      "slug": "gyumri",
+      "cityId": 616635,
+      "url": "https://wegotrip.com/gyumri-d616635/"
+    },
+    {
+      "slug": "haarlem",
+      "cityId": 2755003,
+      "url": "https://wegotrip.com/haarlem-d2755003/"
+    },
+    {
+      "slug": "hackensack",
+      "cityId": 5098706,
+      "url": "https://wegotrip.com/hackensack-d5098706/"
+    },
+    {
+      "slug": "hallstatt",
+      "cityId": 11,
+      "url": "https://wegotrip.com/hallstatt-d11/"
+    },
+    {
+      "slug": "hamburg",
+      "cityId": 2911298,
+      "url": "https://wegotrip.com/hamburg-d2911298/"
+    },
+    {
+      "slug": "hampi",
+      "cityId": 1270448,
+      "url": "https://wegotrip.com/hampi-d1270448/"
+    },
+    {
+      "slug": "hannover",
+      "cityId": 2910831,
+      "url": "https://wegotrip.com/hannover-d2910831/"
+    },
+    {
+      "slug": "hannut",
+      "cityId": 2796583,
+      "url": "https://wegotrip.com/hannut-d2796583/"
+    },
+    {
+      "slug": "harrisburg-5192726",
+      "cityId": 5192726,
+      "url": "https://wegotrip.com/harrisburg-5192726-d5192726/"
+    },
+    {
+      "slug": "hattem",
+      "cityId": 2754768,
+      "url": "https://wegotrip.com/hattem-d2754768/"
+    },
+    {
+      "slug": "heidelberg",
+      "cityId": 2907911,
+      "url": "https://wegotrip.com/heidelberg-d2907911/"
+    },
+    {
+      "slug": "helsingr",
+      "cityId": 2620473,
+      "url": "https://wegotrip.com/helsingr-d2620473/"
+    },
+    {
+      "slug": "helsinki",
+      "cityId": 658225,
+      "url": "https://wegotrip.com/helsinki-d658225/"
+    },
+    {
+      "slug": "hermanus",
+      "cityId": 3366880,
+      "url": "https://wegotrip.com/hermanus-d3366880/"
+    },
+    {
+      "slug": "hermosa-beach",
+      "cityId": 5356521,
+      "url": "https://wegotrip.com/hermosa-beach-d5356521/"
+    },
+    {
+      "slug": "hilo",
+      "cityId": 5855927,
+      "url": "https://wegotrip.com/hilo-d5855927/"
+    },
+    {
+      "slug": "hiroshima",
+      "cityId": 1862415,
+      "url": "https://wegotrip.com/hiroshima-d1862415/"
+    },
+    {
+      "slug": "hobart",
+      "cityId": 2163355,
+      "url": "https://wegotrip.com/hobart-d2163355/"
+    },
+    {
+      "slug": "honfleur",
+      "cityId": 3013173,
+      "url": "https://wegotrip.com/honfleur-d3013173/"
+    },
+    {
+      "slug": "hong-kong",
+      "cityId": 1819729,
+      "url": "https://wegotrip.com/hong-kong-d1819729/"
+    },
+    {
+      "slug": "honolulu",
+      "cityId": 5856195,
+      "url": "https://wegotrip.com/honolulu-d5856195/"
+    },
+    {
+      "slug": "houston-4699066",
+      "cityId": 4699066,
+      "url": "https://wegotrip.com/houston-4699066-d4699066/"
+    },
+    {
+      "slug": "houston-4699066",
+      "cityId": 4699066,
+      "url": "https://wegotrip.com/houston-4699066-d4699066/"
+    },
+    {
+      "slug": "houston-4699066",
+      "cityId": 4699066,
+      "url": "https://wegotrip.com/houston-4699066-d4699066/"
+    },
+    {
+      "slug": "houston-4699066",
+      "cityId": 4699066,
+      "url": "https://wegotrip.com/houston-4699066-d4699066/"
+    },
+    {
+      "slug": "hue",
+      "cityId": 1580240,
+      "url": "https://wegotrip.com/hue-d1580240/"
+    },
+    {
+      "slug": "huelva",
+      "cityId": 2516548,
+      "url": "https://wegotrip.com/huelva-d2516548/"
+    },
+    {
+      "slug": "huntsville-4068590",
+      "cityId": 4068590,
+      "url": "https://wegotrip.com/huntsville-4068590-d4068590/"
+    },
+    {
+      "slug": "hvar",
+      "cityId": 36,
+      "url": "https://wegotrip.com/hvar-d36/"
+    },
+    {
+      "slug": "ibiza",
+      "cityId": 2516479,
+      "url": "https://wegotrip.com/ibiza-d2516479/"
+    },
+    {
+      "slug": "imdina",
+      "cityId": 2562746,
+      "url": "https://wegotrip.com/imdina-d2562746/"
+    },
+    {
+      "slug": "imperia",
+      "cityId": 3175532,
+      "url": "https://wegotrip.com/imperia-d3175532/"
+    },
+    {
+      "slug": "incline-village",
+      "cityId": 5505963,
+      "url": "https://wegotrip.com/incline-village-d5505963/"
+    },
+    {
+      "slug": "indianapolis",
+      "cityId": 4259418,
+      "url": "https://wegotrip.com/indianapolis-d4259418/"
+    },
+    {
+      "slug": "ingolstadt",
+      "cityId": 2895992,
+      "url": "https://wegotrip.com/ingolstadt-d2895992/"
+    },
+    {
+      "slug": "innsbruck",
+      "cityId": 2775220,
+      "url": "https://wegotrip.com/innsbruck-d2775220/"
+    },
+    {
+      "slug": "invergordon",
+      "cityId": 20,
+      "url": "https://wegotrip.com/invergordon-d20/"
+    },
+    {
+      "slug": "inverness",
+      "cityId": 2646088,
+      "url": "https://wegotrip.com/inverness-d2646088/"
+    },
+    {
+      "slug": "irakleion",
+      "cityId": 261745,
+      "url": "https://wegotrip.com/irakleion-d261745/"
+    },
+    {
+      "slug": "irakleion",
+      "cityId": 261745,
+      "url": "https://wegotrip.com/irakleion-d261745/"
+    },
+    {
+      "slug": "irakleion",
+      "cityId": 261745,
+      "url": "https://wegotrip.com/irakleion-d261745/"
+    },
+    {
+      "slug": "irakleion",
+      "cityId": 261745,
+      "url": "https://wegotrip.com/irakleion-d261745/"
+    },
+    {
+      "slug": "irakleion",
+      "cityId": 261745,
+      "url": "https://wegotrip.com/irakleion-d261745/"
+    },
+    {
+      "slug": "ischia-porto",
+      "cityId": 3175453,
+      "url": "https://wegotrip.com/ischia-porto-d3175453/"
+    },
+    {
+      "slug": "istanbul",
+      "cityId": 745044,
+      "url": "https://wegotrip.com/istanbul-d745044/"
+    },
+    {
+      "slug": "izamal",
+      "cityId": 3526662,
+      "url": "https://wegotrip.com/izamal-d3526662/"
+    },
+    {
+      "slug": "izmir",
+      "cityId": 311046,
+      "url": "https://wegotrip.com/izmir-d311046/"
+    },
+    {
+      "slug": "jaen",
+      "cityId": 2516395,
+      "url": "https://wegotrip.com/jaen-d2516395/"
+    },
+    {
+      "slug": "jaipur",
+      "cityId": 1269515,
+      "url": "https://wegotrip.com/jaipur-d1269515/"
+    },
+    {
+      "slug": "jaisalmer",
+      "cityId": 1269507,
+      "url": "https://wegotrip.com/jaisalmer-d1269507/"
+    },
+    {
+      "slug": "jersey-city",
+      "cityId": 5099836,
+      "url": "https://wegotrip.com/jersey-city-d5099836/"
+    },
+    {
+      "slug": "jerusalem",
+      "cityId": 281184,
+      "url": "https://wegotrip.com/jerusalem-d281184/"
+    },
+    {
+      "slug": "jodhpur",
+      "cityId": 1268865,
+      "url": "https://wegotrip.com/jodhpur-d1268865/"
+    },
+    {
+      "slug": "johannesburg",
+      "cityId": 993800,
+      "url": "https://wegotrip.com/johannesburg-d993800/"
+    },
+    {
+      "slug": "johor-bahru",
+      "cityId": 1732752,
+      "url": "https://wegotrip.com/johor-bahru-d1732752/"
+    },
+    {
+      "slug": "kaatsheuvel",
+      "cityId": 10,
+      "url": "https://wegotrip.com/kaatsheuvel-d10/"
+    },
+    {
+      "slug": "kamakura",
+      "cityId": 1860672,
+      "url": "https://wegotrip.com/kamakura-d1860672/"
+    },
+    {
+      "slug": "kamnik",
+      "cityId": 3198365,
+      "url": "https://wegotrip.com/kamnik-d3198365/"
+    },
+    {
+      "slug": "kansas-city",
+      "cityId": 4273837,
+      "url": "https://wegotrip.com/kansas-city-d4273837/"
+    },
+    {
+      "slug": "karlovy-vary",
+      "cityId": 3073803,
+      "url": "https://wegotrip.com/karlovy-vary-d3073803/"
+    },
+    {
+      "slug": "karlsruhe",
+      "cityId": 2892794,
+      "url": "https://wegotrip.com/karlsruhe-d2892794/"
+    },
+    {
+      "slug": "kashgar",
+      "cityId": 1280849,
+      "url": "https://wegotrip.com/kashgar-d1280849/"
+    },
+    {
+      "slug": "kassel",
+      "cityId": 2892518,
+      "url": "https://wegotrip.com/kassel-d2892518/"
+    },
+    {
+      "slug": "kasterlee",
+      "cityId": 2794663,
+      "url": "https://wegotrip.com/kasterlee-d2794663/"
+    },
+    {
+      "slug": "kathmandu",
+      "cityId": 1283240,
+      "url": "https://wegotrip.com/kathmandu-d1283240/"
+    },
+    {
+      "slug": "katowice",
+      "cityId": 3096472,
+      "url": "https://wegotrip.com/katowice-d3096472/"
+    },
+    {
+      "slug": "kaunas",
+      "cityId": 598316,
+      "url": "https://wegotrip.com/kaunas-d598316/"
+    },
+    {
+      "slug": "kazan",
+      "cityId": 551487,
+      "url": "https://wegotrip.com/kazan-d551487/"
+    },
+    {
+      "slug": "kerkrade",
+      "cityId": 2752923,
+      "url": "https://wegotrip.com/kerkrade-d2752923/"
+    },
+    {
+      "slug": "keszthely",
+      "cityId": 3050212,
+      "url": "https://wegotrip.com/keszthely-d3050212/"
+    },
+    {
+      "slug": "key-west",
+      "cityId": 4160812,
+      "url": "https://wegotrip.com/key-west-d4160812/"
+    },
+    {
+      "slug": "khiwa",
+      "cityId": 1513604,
+      "url": "https://wegotrip.com/khiwa-d1513604/"
+    },
+    {
+      "slug": "kiel",
+      "cityId": 2891122,
+      "url": "https://wegotrip.com/kiel-d2891122/"
+    },
+    {
+      "slug": "kigali",
+      "cityId": 202061,
+      "url": "https://wegotrip.com/kigali-d202061/"
+    },
+    {
+      "slug": "kilkenny",
+      "cityId": 2963398,
+      "url": "https://wegotrip.com/kilkenny-d2963398/"
+    },
+    {
+      "slug": "kissimmee",
+      "cityId": 4160983,
+      "url": "https://wegotrip.com/kissimmee-d4160983/"
+    },
+    {
+      "slug": "klagenfurt-am-worthersee",
+      "cityId": 2774326,
+      "url": "https://wegotrip.com/klagenfurt-am-worthersee-d2774326/"
+    },
+    {
+      "slug": "knoxville",
+      "cityId": 4634946,
+      "url": "https://wegotrip.com/knoxville-d4634946/"
+    },
+    {
+      "slug": "kobe",
+      "cityId": 1859171,
+      "url": "https://wegotrip.com/kobe-d1859171/"
+    },
+    {
+      "slug": "kofu",
+      "cityId": 1859100,
+      "url": "https://wegotrip.com/kofu-d1859100/"
+    },
+    {
+      "slug": "kolkata",
+      "cityId": 1275004,
+      "url": "https://wegotrip.com/kolkata-d1275004/"
+    },
+    {
+      "slug": "koln",
+      "cityId": 2886242,
+      "url": "https://wegotrip.com/koln-d2886242/"
+    },
+    {
+      "slug": "koln",
+      "cityId": 2886242,
+      "url": "https://wegotrip.com/koln-d2886242/"
+    },
+    {
+      "slug": "konstanz",
+      "cityId": 2885679,
+      "url": "https://wegotrip.com/konstanz-d2885679/"
+    },
+    {
+      "slug": "koprivshtitsa",
+      "cityId": 730159,
+      "url": "https://wegotrip.com/koprivshtitsa-d730159/"
+    },
+    {
+      "slug": "korce",
+      "cityId": 782756,
+      "url": "https://wegotrip.com/korce-d782756/"
+    },
+    {
+      "slug": "korinthos",
+      "cityId": 259289,
+      "url": "https://wegotrip.com/korinthos-d259289/"
+    },
+    {
+      "slug": "kosice",
+      "cityId": 724443,
+      "url": "https://wegotrip.com/kosice-d724443/"
+    },
+    {
+      "slug": "kotor",
+      "cityId": 3197538,
+      "url": "https://wegotrip.com/kotor-d3197538/"
+    },
+    {
+      "slug": "kowloon",
+      "cityId": 1819609,
+      "url": "https://wegotrip.com/kowloon-d1819609/"
+    },
+    {
+      "slug": "krakow",
+      "cityId": 3094802,
+      "url": "https://wegotrip.com/krakow-d3094802/"
+    },
+    {
+      "slug": "krasnoyarsk",
+      "cityId": 1502026,
+      "url": "https://wegotrip.com/krasnoyarsk-d1502026/"
+    },
+    {
+      "slug": "kristiansand",
+      "cityId": 3149318,
+      "url": "https://wegotrip.com/kristiansand-d3149318/"
+    },
+    {
+      "slug": "kruje",
+      "cityId": 3185082,
+      "url": "https://wegotrip.com/kruje-d3185082/"
+    },
+    {
+      "slug": "kuah",
+      "cityId": 1222396,
+      "url": "https://wegotrip.com/kuah-d1222396/"
+    },
+    {
+      "slug": "kuala-lumpur",
+      "cityId": 1735161,
+      "url": "https://wegotrip.com/kuala-lumpur-d1735161/"
+    },
+    {
+      "slug": "kumasi",
+      "cityId": 2298890,
+      "url": "https://wegotrip.com/kumasi-d2298890/"
+    },
+    {
+      "slug": "kutaisi",
+      "cityId": 613607,
+      "url": "https://wegotrip.com/kutaisi-d613607/"
+    },
+    {
+      "slug": "kutna-hora",
+      "cityId": 3072463,
+      "url": "https://wegotrip.com/kutna-hora-d3072463/"
+    },
+    {
+      "slug": "kyoto",
+      "cityId": 1857910,
+      "url": "https://wegotrip.com/kyoto-d1857910/"
+    },
+    {
+      "slug": "la-roche-sur-yon",
+      "cityId": 3006767,
+      "url": "https://wegotrip.com/la-roche-sur-yon-d3006767/"
+    },
+    {
+      "slug": "la-spezia",
+      "cityId": 3175081,
+      "url": "https://wegotrip.com/la-spezia-d3175081/"
+    },
+    {
+      "slug": "lagoa",
+      "cityId": 2267254,
+      "url": "https://wegotrip.com/lagoa-d2267254/"
+    },
+    {
+      "slug": "lagos-2267226",
+      "cityId": 2267226,
+      "url": "https://wegotrip.com/lagos-2267226-d2267226/"
+    },
+    {
+      "slug": "lancaster-5197079",
+      "cityId": 5197079,
+      "url": "https://wegotrip.com/lancaster-5197079-d5197079/"
+    },
+    {
+      "slug": "larnaca",
+      "cityId": 146400,
+      "url": "https://wegotrip.com/larnaca-d146400/"
+    },
+    {
+      "slug": "las-palmas-de-gran-canaria",
+      "cityId": 2515270,
+      "url": "https://wegotrip.com/las-palmas-de-gran-canaria-d2515270/"
+    },
+    {
+      "slug": "las-vegas-5506956",
+      "cityId": 5506956,
+      "url": "https://wegotrip.com/las-vegas-5506956-d5506956/"
+    },
+    {
+      "slug": "lausanne",
+      "cityId": 2659994,
+      "url": "https://wegotrip.com/lausanne-d2659994/"
+    },
+    {
+      "slug": "le-puy-en-velay",
+      "cityId": 3002465,
+      "url": "https://wegotrip.com/le-puy-en-velay-d3002465/"
+    },
+    {
+      "slug": "le-relecq-kerhuon",
+      "cityId": 3002373,
+      "url": "https://wegotrip.com/le-relecq-kerhuon-d3002373/"
+    },
+    {
+      "slug": "leavenworth",
+      "cityId": 4274305,
+      "url": "https://wegotrip.com/leavenworth-d4274305/"
+    },
+    {
+      "slug": "lecce",
+      "cityId": 3174953,
+      "url": "https://wegotrip.com/lecce-d3174953/"
+    },
+    {
+      "slug": "leeds",
+      "cityId": 2644688,
+      "url": "https://wegotrip.com/leeds-d2644688/"
+    },
+    {
+      "slug": "leeuwarden",
+      "cityId": 2751792,
+      "url": "https://wegotrip.com/leeuwarden-d2751792/"
+    },
+    {
+      "slug": "leiden",
+      "cityId": 2751773,
+      "url": "https://wegotrip.com/leiden-d2751773/"
+    },
+    {
+      "slug": "leipzig",
+      "cityId": 2879139,
+      "url": "https://wegotrip.com/leipzig-d2879139/"
+    },
+    {
+      "slug": "leipzig",
+      "cityId": 2879139,
+      "url": "https://wegotrip.com/leipzig-d2879139/"
+    },
+    {
+      "slug": "leiria",
+      "cityId": 2267095,
+      "url": "https://wegotrip.com/leiria-d2267095/"
+    },
+    {
+      "slug": "lelystad",
+      "cityId": 2751738,
+      "url": "https://wegotrip.com/lelystad-d2751738/"
+    },
+    {
+      "slug": "leuven",
+      "cityId": 2792482,
+      "url": "https://wegotrip.com/leuven-d2792482/"
+    },
+    {
+      "slug": "levoca",
+      "cityId": 724294,
+      "url": "https://wegotrip.com/levoca-d724294/"
+    },
+    {
+      "slug": "lille-2998324",
+      "cityId": 2998324,
+      "url": "https://wegotrip.com/lille-2998324-d2998324/"
+    },
+    {
+      "slug": "lima",
+      "cityId": 3936456,
+      "url": "https://wegotrip.com/lima-d3936456/"
+    },
+    {
+      "slug": "lindau",
+      "cityId": 2877550,
+      "url": "https://wegotrip.com/lindau-d2877550/"
+    },
+    {
+      "slug": "linz",
+      "cityId": 2772400,
+      "url": "https://wegotrip.com/linz-d2772400/"
+    },
+    {
+      "slug": "lisbon",
+      "cityId": 2267057,
+      "url": "https://wegotrip.com/lisbon-d2267057/"
+    },
+    {
+      "slug": "lisbon",
+      "cityId": 2267057,
+      "url": "https://wegotrip.com/lisbon-d2267057/"
+    },
+    {
+      "slug": "lisbon",
+      "cityId": 2267057,
+      "url": "https://wegotrip.com/lisbon-d2267057/"
+    },
+    {
+      "slug": "liverpool-2644210",
+      "cityId": 2644210,
+      "url": "https://wegotrip.com/liverpool-2644210-d2644210/"
+    },
+    {
+      "slug": "livingston-5663049",
+      "cityId": 5663049,
+      "url": "https://wegotrip.com/livingston-5663049-d5663049/"
+    },
+    {
+      "slug": "livorno",
+      "cityId": 3174659,
+      "url": "https://wegotrip.com/livorno-d3174659/"
+    },
+    {
+      "slug": "ljubljana",
+      "cityId": 3196359,
+      "url": "https://wegotrip.com/ljubljana-d3196359/"
+    },
+    {
+      "slug": "llandudno",
+      "cityId": 2644120,
+      "url": "https://wegotrip.com/llandudno-d2644120/"
+    },
+    {
+      "slug": "llanrwst",
+      "cityId": 49,
+      "url": "https://wegotrip.com/llanrwst-d49/"
+    },
+    {
+      "slug": "london",
+      "cityId": 2643743,
+      "url": "https://wegotrip.com/london-d2643743/"
+    },
+    {
+      "slug": "london",
+      "cityId": 2643743,
+      "url": "https://wegotrip.com/london-d2643743/"
+    },
+    {
+      "slug": "london",
+      "cityId": 2643743,
+      "url": "https://wegotrip.com/london-d2643743/"
+    },
+    {
+      "slug": "london",
+      "cityId": 2643743,
+      "url": "https://wegotrip.com/london-d2643743/"
+    },
+    {
+      "slug": "london",
+      "cityId": 2643743,
+      "url": "https://wegotrip.com/london-d2643743/"
+    },
+    {
+      "slug": "los-angeles-5368361",
+      "cityId": 5368361,
+      "url": "https://wegotrip.com/los-angeles-5368361-d5368361/"
+    },
+    {
+      "slug": "los-angeles-5368361",
+      "cityId": 5368361,
+      "url": "https://wegotrip.com/los-angeles-5368361-d5368361/"
+    },
+    {
+      "slug": "los-angeles-5368361",
+      "cityId": 5368361,
+      "url": "https://wegotrip.com/los-angeles-5368361-d5368361/"
+    },
+    {
+      "slug": "los-angeles-5368361",
+      "cityId": 5368361,
+      "url": "https://wegotrip.com/los-angeles-5368361-d5368361/"
+    },
+    {
+      "slug": "los-angeles-5368361",
+      "cityId": 5368361,
+      "url": "https://wegotrip.com/los-angeles-5368361-d5368361/"
+    },
+    {
+      "slug": "los-corrales-de-buelna",
+      "cityId": 3118024,
+      "url": "https://wegotrip.com/los-corrales-de-buelna-d3118024/"
+    },
+    {
+      "slug": "losone",
+      "cityId": 2659853,
+      "url": "https://wegotrip.com/losone-d2659853/"
+    },
+    {
+      "slug": "louisville",
+      "cityId": 4299276,
+      "url": "https://wegotrip.com/louisville-d4299276/"
+    },
+    {
+      "slug": "lourinha",
+      "cityId": 2266961,
+      "url": "https://wegotrip.com/lourinha-d2266961/"
+    },
+    {
+      "slug": "lubeck",
+      "cityId": 2875601,
+      "url": "https://wegotrip.com/lubeck-d2875601/"
+    },
+    {
+      "slug": "lublin",
+      "cityId": 765876,
+      "url": "https://wegotrip.com/lublin-d765876/"
+    },
+    {
+      "slug": "lucca",
+      "cityId": 3174530,
+      "url": "https://wegotrip.com/lucca-d3174530/"
+    },
+    {
+      "slug": "lund",
+      "cityId": 2693678,
+      "url": "https://wegotrip.com/lund-d2693678/"
+    },
+    {
+      "slug": "luxembourg",
+      "cityId": 2960316,
+      "url": "https://wegotrip.com/luxembourg-d2960316/"
+    },
+    {
+      "slug": "luzern",
+      "cityId": 2659811,
+      "url": "https://wegotrip.com/luzern-d2659811/"
+    },
+    {
+      "slug": "lyon",
+      "cityId": 2996944,
+      "url": "https://wegotrip.com/lyon-d2996944/"
+    },
+    {
+      "slug": "maastricht",
+      "cityId": 2751283,
+      "url": "https://wegotrip.com/maastricht-d2751283/"
+    },
+    {
+      "slug": "machico",
+      "cityId": 2266895,
+      "url": "https://wegotrip.com/machico-d2266895/"
+    },
+    {
+      "slug": "madison-5261457",
+      "cityId": 5261457,
+      "url": "https://wegotrip.com/madison-5261457-d5261457/"
+    },
+    {
+      "slug": "madrid",
+      "cityId": 3117735,
+      "url": "https://wegotrip.com/madrid-d3117735/"
+    },
+    {
+      "slug": "madrid",
+      "cityId": 3117735,
+      "url": "https://wegotrip.com/madrid-d3117735/"
+    },
+    {
+      "slug": "madrid",
+      "cityId": 3117735,
+      "url": "https://wegotrip.com/madrid-d3117735/"
+    },
+    {
+      "slug": "madrid",
+      "cityId": 3117735,
+      "url": "https://wegotrip.com/madrid-d3117735/"
+    },
+    {
+      "slug": "madrid",
+      "cityId": 3117735,
+      "url": "https://wegotrip.com/madrid-d3117735/"
+    },
+    {
+      "slug": "maitland",
+      "cityId": 2159045,
+      "url": "https://wegotrip.com/maitland-d2159045/"
+    },
+    {
+      "slug": "maizieres-les-metz",
+      "cityId": 2996538,
+      "url": "https://wegotrip.com/maizieres-les-metz-d2996538/"
+    },
+    {
+      "slug": "malacca",
+      "cityId": 1734759,
+      "url": "https://wegotrip.com/malacca-d1734759/"
+    },
+    {
+      "slug": "malaga",
+      "cityId": 2514256,
+      "url": "https://wegotrip.com/malaga-d2514256/"
+    },
+    {
+      "slug": "malmo",
+      "cityId": 2692969,
+      "url": "https://wegotrip.com/malmo-d2692969/"
+    },
+    {
+      "slug": "malmo",
+      "cityId": 2692969,
+      "url": "https://wegotrip.com/malmo-d2692969/"
+    },
+    {
+      "slug": "malmo",
+      "cityId": 2692969,
+      "url": "https://wegotrip.com/malmo-d2692969/"
+    },
+    {
+      "slug": "malmo",
+      "cityId": 2692969,
+      "url": "https://wegotrip.com/malmo-d2692969/"
+    },
+    {
+      "slug": "malmo",
+      "cityId": 2692969,
+      "url": "https://wegotrip.com/malmo-d2692969/"
+    },
+    {
+      "slug": "managua",
+      "cityId": 3617763,
+      "url": "https://wegotrip.com/managua-d3617763/"
+    },
+    {
+      "slug": "manchester",
+      "cityId": 2643123,
+      "url": "https://wegotrip.com/manchester-d2643123/"
+    },
+    {
+      "slug": "manchester-4865996",
+      "cityId": 4865996,
+      "url": "https://wegotrip.com/manchester-4865996-d4865996/"
+    },
+    {
+      "slug": "mandello-del-lario",
+      "cityId": 3174107,
+      "url": "https://wegotrip.com/mandello-del-lario-d3174107/"
+    },
+    {
+      "slug": "manhattan-5125771",
+      "cityId": 5125771,
+      "url": "https://wegotrip.com/manhattan-5125771-d5125771/"
+    },
+    {
+      "slug": "mannheim",
+      "cityId": 2873891,
+      "url": "https://wegotrip.com/mannheim-d2873891/"
+    },
+    {
+      "slug": "mantova",
+      "cityId": 3174051,
+      "url": "https://wegotrip.com/mantova-d3174051/"
+    },
+    {
+      "slug": "maranello",
+      "cityId": 3174032,
+      "url": "https://wegotrip.com/maranello-d3174032/"
+    },
+    {
+      "slug": "marbella",
+      "cityId": 2514169,
+      "url": "https://wegotrip.com/marbella-d2514169/"
+    },
+    {
+      "slug": "marburg-an-der-lahn",
+      "cityId": 2873759,
+      "url": "https://wegotrip.com/marburg-an-der-lahn-d2873759/"
+    },
+    {
+      "slug": "mariehamn",
+      "cityId": 3041732,
+      "url": "https://wegotrip.com/mariehamn-d3041732/"
+    },
+    {
+      "slug": "marrakesh",
+      "cityId": 2542997,
+      "url": "https://wegotrip.com/marrakesh-d2542997/"
+    },
+    {
+      "slug": "marsaxlokk",
+      "cityId": 2562247,
+      "url": "https://wegotrip.com/marsaxlokk-d2562247/"
+    },
+    {
+      "slug": "marseille",
+      "cityId": 2995469,
+      "url": "https://wegotrip.com/marseille-d2995469/"
+    },
+    {
+      "slug": "maspalomas",
+      "cityId": 2514042,
+      "url": "https://wegotrip.com/maspalomas-d2514042/"
+    },
+    {
+      "slug": "massa-lombarda",
+      "cityId": 3173761,
+      "url": "https://wegotrip.com/massa-lombarda-d3173761/"
+    },
+    {
+      "slug": "matale",
+      "cityId": 1235855,
+      "url": "https://wegotrip.com/matale-d1235855/"
+    },
+    {
+      "slug": "mataram",
+      "cityId": 1635882,
+      "url": "https://wegotrip.com/mataram-d1635882/"
+    },
+    {
+      "slug": "matera",
+      "cityId": 3173721,
+      "url": "https://wegotrip.com/matera-d3173721/"
+    },
+    {
+      "slug": "matsuyama",
+      "cityId": 1926099,
+      "url": "https://wegotrip.com/matsuyama-d1926099/"
+    },
+    {
+      "slug": "mclean",
+      "cityId": 4772354,
+      "url": "https://wegotrip.com/mclean-d4772354/"
+    },
+    {
+      "slug": "mechelen",
+      "cityId": 2791537,
+      "url": "https://wegotrip.com/mechelen-d2791537/"
+    },
+    {
+      "slug": "medellin",
+      "cityId": 3674962,
+      "url": "https://wegotrip.com/medellin-d3674962/"
+    },
+    {
+      "slug": "meersburg",
+      "cityId": 2872486,
+      "url": "https://wegotrip.com/meersburg-d2872486/"
+    },
+    {
+      "slug": "meissen",
+      "cityId": 2872155,
+      "url": "https://wegotrip.com/meissen-d2872155/"
+    },
+    {
+      "slug": "melbourne",
+      "cityId": 2158177,
+      "url": "https://wegotrip.com/melbourne-d2158177/"
+    },
+    {
+      "slug": "melfi",
+      "cityId": 3173615,
+      "url": "https://wegotrip.com/melfi-d3173615/"
+    },
+    {
+      "slug": "mellieha",
+      "cityId": 2562744,
+      "url": "https://wegotrip.com/mellieha-d2562744/"
+    },
+    {
+      "slug": "memphis-4641239",
+      "cityId": 4641239,
+      "url": "https://wegotrip.com/memphis-4641239-d4641239/"
+    },
+    {
+      "slug": "menton",
+      "cityId": 2994497,
+      "url": "https://wegotrip.com/menton-d2994497/"
+    },
+    {
+      "slug": "merida",
+      "cityId": 2513917,
+      "url": "https://wegotrip.com/merida-d2513917/"
+    },
+    {
+      "slug": "merida-3523349",
+      "cityId": 3523349,
+      "url": "https://wegotrip.com/merida-3523349-d3523349/"
+    },
+    {
+      "slug": "messina",
+      "cityId": 2524170,
+      "url": "https://wegotrip.com/messina-d2524170/"
+    },
+    {
+      "slug": "metz",
+      "cityId": 2994160,
+      "url": "https://wegotrip.com/metz-d2994160/"
+    },
+    {
+      "slug": "mexico-city",
+      "cityId": 3530597,
+      "url": "https://wegotrip.com/mexico-city-d3530597/"
+    },
+    {
+      "slug": "mexico-city",
+      "cityId": 3530597,
+      "url": "https://wegotrip.com/mexico-city-d3530597/"
+    },
+    {
+      "slug": "miami",
+      "cityId": 4164138,
+      "url": "https://wegotrip.com/miami-d4164138/"
+    },
+    {
+      "slug": "miami-4542692",
+      "cityId": 4542692,
+      "url": "https://wegotrip.com/miami-4542692-d4542692/"
+    },
+    {
+      "slug": "middelburg",
+      "cityId": 2750896,
+      "url": "https://wegotrip.com/middelburg-d2750896/"
+    },
+    {
+      "slug": "milan",
+      "cityId": 3173435,
+      "url": "https://wegotrip.com/milan-d3173435/"
+    },
+    {
+      "slug": "milan",
+      "cityId": 3173435,
+      "url": "https://wegotrip.com/milan-d3173435/"
+    },
+    {
+      "slug": "milan",
+      "cityId": 3173435,
+      "url": "https://wegotrip.com/milan-d3173435/"
+    },
+    {
+      "slug": "milan",
+      "cityId": 3173435,
+      "url": "https://wegotrip.com/milan-d3173435/"
+    },
+    {
+      "slug": "milan",
+      "cityId": 3173435,
+      "url": "https://wegotrip.com/milan-d3173435/"
+    },
+    {
+      "slug": "milwaukee",
+      "cityId": 5263045,
+      "url": "https://wegotrip.com/milwaukee-d5263045/"
+    },
+    {
+      "slug": "mindelo",
+      "cityId": 3374462,
+      "url": "https://wegotrip.com/mindelo-d3374462/"
+    },
+    {
+      "slug": "minneapolis",
+      "cityId": 5037649,
+      "url": "https://wegotrip.com/minneapolis-d5037649/"
+    },
+    {
+      "slug": "minsk",
+      "cityId": 625144,
+      "url": "https://wegotrip.com/minsk-d625144/"
+    },
+    {
+      "slug": "mobile",
+      "cityId": 4076598,
+      "url": "https://wegotrip.com/mobile-d4076598/"
+    },
+    {
+      "slug": "modena",
+      "cityId": 3173331,
+      "url": "https://wegotrip.com/modena-d3173331/"
+    },
+    {
+      "slug": "mombasa",
+      "cityId": 186301,
+      "url": "https://wegotrip.com/mombasa-d186301/"
+    },
+    {
+      "slug": "monaco",
+      "cityId": 2993458,
+      "url": "https://wegotrip.com/monaco-d2993458/"
+    },
+    {
+      "slug": "monopoli",
+      "cityId": 3173131,
+      "url": "https://wegotrip.com/monopoli-d3173131/"
+    },
+    {
+      "slug": "monsanto",
+      "cityId": 2266249,
+      "url": "https://wegotrip.com/monsanto-d2266249/"
+    },
+    {
+      "slug": "mont-saint-michel",
+      "cityId": 1,
+      "url": "https://wegotrip.com/mont-saint-michel-d1/"
+    },
+    {
+      "slug": "mont-saint-michel",
+      "cityId": 1,
+      "url": "https://wegotrip.com/mont-saint-michel-d1/"
+    },
+    {
+      "slug": "montefiascone",
+      "cityId": 3172931,
+      "url": "https://wegotrip.com/montefiascone-d3172931/"
+    },
+    {
+      "slug": "montemor-o-novo",
+      "cityId": 2265888,
+      "url": "https://wegotrip.com/montemor-o-novo-d2265888/"
+    },
+    {
+      "slug": "monterey",
+      "cityId": 5374361,
+      "url": "https://wegotrip.com/monterey-d5374361/"
+    },
+    {
+      "slug": "monteux",
+      "cityId": 2992638,
+      "url": "https://wegotrip.com/monteux-d2992638/"
+    },
+    {
+      "slug": "montevideo-3441575",
+      "cityId": 3441575,
+      "url": "https://wegotrip.com/montevideo-3441575-d3441575/"
+    },
+    {
+      "slug": "montgomery",
+      "cityId": 4076784,
+      "url": "https://wegotrip.com/montgomery-d4076784/"
+    },
+    {
+      "slug": "montpellier",
+      "cityId": 2992166,
+      "url": "https://wegotrip.com/montpellier-d2992166/"
+    },
+    {
+      "slug": "montreal",
+      "cityId": 6077243,
+      "url": "https://wegotrip.com/montreal-d6077243/"
+    },
+    {
+      "slug": "mormugao",
+      "cityId": 1263494,
+      "url": "https://wegotrip.com/mormugao-d1263494/"
+    },
+    {
+      "slug": "moscow",
+      "cityId": 524901,
+      "url": "https://wegotrip.com/moscow-d524901/"
+    },
+    {
+      "slug": "mostar",
+      "cityId": 3194828,
+      "url": "https://wegotrip.com/mostar-d3194828/"
+    },
+    {
+      "slug": "muizenberg",
+      "cityId": 48,
+      "url": "https://wegotrip.com/muizenberg-d48/"
+    },
+    {
+      "slug": "mumbai",
+      "cityId": 1275339,
+      "url": "https://wegotrip.com/mumbai-d1275339/"
+    },
+    {
+      "slug": "munich",
+      "cityId": 2867714,
+      "url": "https://wegotrip.com/munich-d2867714/"
+    },
+    {
+      "slug": "munich",
+      "cityId": 2867714,
+      "url": "https://wegotrip.com/munich-d2867714/"
+    },
+    {
+      "slug": "munster-2867543",
+      "cityId": 2867543,
+      "url": "https://wegotrip.com/munster-2867543-d2867543/"
+    },
+    {
+      "slug": "murcia",
+      "cityId": 2513416,
+      "url": "https://wegotrip.com/murcia-d2513416/"
+    },
+    {
+      "slug": "murmansk",
+      "cityId": 524305,
+      "url": "https://wegotrip.com/murmansk-d524305/"
+    },
+    {
+      "slug": "mussomeli",
+      "cityId": 2524028,
+      "url": "https://wegotrip.com/mussomeli-d2524028/"
+    },
+    {
+      "slug": "mykonos",
+      "cityId": 33,
+      "url": "https://wegotrip.com/mykonos-d33/"
+    },
+    {
+      "slug": "naarden",
+      "cityId": 2750521,
+      "url": "https://wegotrip.com/naarden-d2750521/"
+    },
+    {
+      "slug": "nafplio",
+      "cityId": 256637,
+      "url": "https://wegotrip.com/nafplio-d256637/"
+    },
+    {
+      "slug": "naini-tal",
+      "cityId": 1262117,
+      "url": "https://wegotrip.com/naini-tal-d1262117/"
+    },
+    {
+      "slug": "nairobi",
+      "cityId": 184745,
+      "url": "https://wegotrip.com/nairobi-d184745/"
+    },
+    {
+      "slug": "nantes",
+      "cityId": 2990969,
+      "url": "https://wegotrip.com/nantes-d2990969/"
+    },
+    {
+      "slug": "nantes",
+      "cityId": 2990969,
+      "url": "https://wegotrip.com/nantes-d2990969/"
+    },
+    {
+      "slug": "naples",
+      "cityId": 3172394,
+      "url": "https://wegotrip.com/naples-d3172394/"
+    },
+    {
+      "slug": "nara-shi",
+      "cityId": 1855612,
+      "url": "https://wegotrip.com/nara-shi-d1855612/"
+    },
+    {
+      "slug": "narangba",
+      "cityId": 2155787,
+      "url": "https://wegotrip.com/narangba-d2155787/"
+    },
+    {
+      "slug": "nashville",
+      "cityId": 4481519,
+      "url": "https://wegotrip.com/nashville-d4481519/"
+    },
+    {
+      "slug": "nashville-4644585",
+      "cityId": 4644585,
+      "url": "https://wegotrip.com/nashville-4644585-d4644585/"
+    },
+    {
+      "slug": "nassau",
+      "cityId": 3571824,
+      "url": "https://wegotrip.com/nassau-d3571824/"
+    },
+    {
+      "slug": "naxos",
+      "cityId": 256632,
+      "url": "https://wegotrip.com/naxos-d256632/"
+    },
+    {
+      "slug": "nazare-2265552",
+      "cityId": 2265552,
+      "url": "https://wegotrip.com/nazare-2265552-d2265552/"
+    },
+    {
+      "slug": "nesebar",
+      "cityId": 728825,
+      "url": "https://wegotrip.com/nesebar-d728825/"
+    },
+    {
+      "slug": "nesebar",
+      "cityId": 728825,
+      "url": "https://wegotrip.com/nesebar-d728825/"
+    },
+    {
+      "slug": "new-orleans",
+      "cityId": 4335045,
+      "url": "https://wegotrip.com/new-orleans-d4335045/"
+    },
+    {
+      "slug": "new-york-city",
+      "cityId": 5128581,
+      "url": "https://wegotrip.com/new-york-city-d5128581/"
+    },
+    {
+      "slug": "new-york-city",
+      "cityId": 5128581,
+      "url": "https://wegotrip.com/new-york-city-d5128581/"
+    },
+    {
+      "slug": "new-york-city",
+      "cityId": 5128581,
+      "url": "https://wegotrip.com/new-york-city-d5128581/"
+    },
+    {
+      "slug": "new-york-city",
+      "cityId": 5128581,
+      "url": "https://wegotrip.com/new-york-city-d5128581/"
+    },
+    {
+      "slug": "new-york-city",
+      "cityId": 5128581,
+      "url": "https://wegotrip.com/new-york-city-d5128581/"
+    },
+    {
+      "slug": "newcastle",
+      "cityId": 2155472,
+      "url": "https://wegotrip.com/newcastle-d2155472/"
+    },
+    {
+      "slug": "newcastle-upon-tyne",
+      "cityId": 2641673,
+      "url": "https://wegotrip.com/newcastle-upon-tyne-d2641673/"
+    },
+    {
+      "slug": "newport",
+      "cityId": 2155412,
+      "url": "https://wegotrip.com/newport-d2155412/"
+    },
+    {
+      "slug": "newport-2641599",
+      "cityId": 2641599,
+      "url": "https://wegotrip.com/newport-2641599-d2641599/"
+    },
+    {
+      "slug": "newport-4302529",
+      "cityId": 4302529,
+      "url": "https://wegotrip.com/newport-4302529-d4302529/"
+    },
+    {
+      "slug": "newport-5223593",
+      "cityId": 5223593,
+      "url": "https://wegotrip.com/newport-5223593-d5223593/"
+    },
+    {
+      "slug": "newport-east",
+      "cityId": 7257658,
+      "url": "https://wegotrip.com/newport-east-d7257658/"
+    },
+    {
+      "slug": "niagara-falls",
+      "cityId": 6087892,
+      "url": "https://wegotrip.com/niagara-falls-d6087892/"
+    },
+    {
+      "slug": "nice",
+      "cityId": 2990440,
+      "url": "https://wegotrip.com/nice-d2990440/"
+    },
+    {
+      "slug": "nicosia",
+      "cityId": 146268,
+      "url": "https://wegotrip.com/nicosia-d146268/"
+    },
+    {
+      "slug": "nimes",
+      "cityId": 2990363,
+      "url": "https://wegotrip.com/nimes-d2990363/"
+    },
+    {
+      "slug": "nis",
+      "cityId": 787657,
+      "url": "https://wegotrip.com/nis-d787657/"
+    },
+    {
+      "slug": "noosa-heads",
+      "cityId": 2155135,
+      "url": "https://wegotrip.com/noosa-heads-d2155135/"
+    },
+    {
+      "slug": "norwich",
+      "cityId": 2641181,
+      "url": "https://wegotrip.com/norwich-d2641181/"
+    },
+    {
+      "slug": "noto",
+      "cityId": 2523998,
+      "url": "https://wegotrip.com/noto-d2523998/"
+    },
+    {
+      "slug": "nuoro",
+      "cityId": 3172154,
+      "url": "https://wegotrip.com/nuoro-d3172154/"
+    },
+    {
+      "slug": "nurnberg",
+      "cityId": 2861650,
+      "url": "https://wegotrip.com/nurnberg-d2861650/"
+    },
+    {
+      "slug": "nurnberg",
+      "cityId": 2861650,
+      "url": "https://wegotrip.com/nurnberg-d2861650/"
+    },
+    {
+      "slug": "oakhurst",
+      "cityId": 13,
+      "url": "https://wegotrip.com/oakhurst-d13/"
+    },
+    {
+      "slug": "oakland-5378538",
+      "cityId": 5378538,
+      "url": "https://wegotrip.com/oakland-5378538-d5378538/"
+    },
+    {
+      "slug": "obidos-2265485",
+      "cityId": 2265485,
+      "url": "https://wegotrip.com/obidos-2265485-d2265485/"
+    },
+    {
+      "slug": "ocean-shores",
+      "cityId": 8310752,
+      "url": "https://wegotrip.com/ocean-shores-d8310752/"
+    },
+    {
+      "slug": "ocho-rios",
+      "cityId": 3489239,
+      "url": "https://wegotrip.com/ocho-rios-d3489239/"
+    },
+    {
+      "slug": "odz",
+      "cityId": 3093133,
+      "url": "https://wegotrip.com/odz-d3093133/"
+    },
+    {
+      "slug": "ohrid",
+      "cityId": 787487,
+      "url": "https://wegotrip.com/ohrid-d787487/"
+    },
+    {
+      "slug": "olsztyn",
+      "cityId": 763166,
+      "url": "https://wegotrip.com/olsztyn-d763166/"
+    },
+    {
+      "slug": "olympia",
+      "cityId": 5805687,
+      "url": "https://wegotrip.com/olympia-d5805687/"
+    },
+    {
+      "slug": "opatija",
+      "cityId": 3194099,
+      "url": "https://wegotrip.com/opatija-d3194099/"
+    },
+    {
+      "slug": "orange-5379513",
+      "cityId": 5379513,
+      "url": "https://wegotrip.com/orange-5379513-d5379513/"
+    },
+    {
+      "slug": "oranjestad",
+      "cityId": 3577154,
+      "url": "https://wegotrip.com/oranjestad-d3577154/"
+    },
+    {
+      "slug": "orlando",
+      "cityId": 4167147,
+      "url": "https://wegotrip.com/orlando-d4167147/"
+    },
+    {
+      "slug": "orleans-2989317",
+      "cityId": 2989317,
+      "url": "https://wegotrip.com/orleans-2989317-d2989317/"
+    },
+    {
+      "slug": "orvieto",
+      "cityId": 3171874,
+      "url": "https://wegotrip.com/orvieto-d3171874/"
+    },
+    {
+      "slug": "osaka",
+      "cityId": 1853909,
+      "url": "https://wegotrip.com/osaka-d1853909/"
+    },
+    {
+      "slug": "oslo",
+      "cityId": 3143244,
+      "url": "https://wegotrip.com/oslo-d3143244/"
+    },
+    {
+      "slug": "ostuni",
+      "cityId": 3171786,
+      "url": "https://wegotrip.com/ostuni-d3171786/"
+    },
+    {
+      "slug": "oswiecim",
+      "cityId": 3089658,
+      "url": "https://wegotrip.com/oswiecim-d3089658/"
+    },
+    {
+      "slug": "oswiecim",
+      "cityId": 3089658,
+      "url": "https://wegotrip.com/oswiecim-d3089658/"
+    },
+    {
+      "slug": "oswiecim",
+      "cityId": 3089658,
+      "url": "https://wegotrip.com/oswiecim-d3089658/"
+    },
+    {
+      "slug": "oswiecim",
+      "cityId": 3089658,
+      "url": "https://wegotrip.com/oswiecim-d3089658/"
+    },
+    {
+      "slug": "oswiecim",
+      "cityId": 3089658,
+      "url": "https://wegotrip.com/oswiecim-d3089658/"
+    },
+    {
+      "slug": "otranto",
+      "cityId": 40,
+      "url": "https://wegotrip.com/otranto-d40/"
+    },
+    {
+      "slug": "ottawa",
+      "cityId": 6094817,
+      "url": "https://wegotrip.com/ottawa-d6094817/"
+    },
+    {
+      "slug": "oud-gastel",
+      "cityId": 2748956,
+      "url": "https://wegotrip.com/oud-gastel-d2748956/"
+    },
+    {
+      "slug": "oviedo",
+      "cityId": 3114711,
+      "url": "https://wegotrip.com/oviedo-d3114711/"
+    },
+    {
+      "slug": "ozark-4402245",
+      "cityId": 4402245,
+      "url": "https://wegotrip.com/ozark-4402245-d4402245/"
+    },
+    {
+      "slug": "paarl",
+      "cityId": 3363094,
+      "url": "https://wegotrip.com/paarl-d3363094/"
+    },
+    {
+      "slug": "padang-mat-sirat",
+      "cityId": 1222387,
+      "url": "https://wegotrip.com/padang-mat-sirat-d1222387/"
+    },
+    {
+      "slug": "padova",
+      "cityId": 3171728,
+      "url": "https://wegotrip.com/padova-d3171728/"
+    },
+    {
+      "slug": "paestum",
+      "cityId": 51,
+      "url": "https://wegotrip.com/paestum-d51/"
+    },
+    {
+      "slug": "palanga",
+      "cityId": 596238,
+      "url": "https://wegotrip.com/palanga-d596238/"
+    },
+    {
+      "slug": "palenque-3522164",
+      "cityId": 3522164,
+      "url": "https://wegotrip.com/palenque-3522164-d3522164/"
+    },
+    {
+      "slug": "palermo-2523920",
+      "cityId": 2523920,
+      "url": "https://wegotrip.com/palermo-2523920-d2523920/"
+    },
+    {
+      "slug": "palm-springs-5380668",
+      "cityId": 5380668,
+      "url": "https://wegotrip.com/palm-springs-5380668-d5380668/"
+    },
+    {
+      "slug": "palma",
+      "cityId": 2512989,
+      "url": "https://wegotrip.com/palma-d2512989/"
+    },
+    {
+      "slug": "palma",
+      "cityId": 2512989,
+      "url": "https://wegotrip.com/palma-d2512989/"
+    },
+    {
+      "slug": "panama",
+      "cityId": 3703443,
+      "url": "https://wegotrip.com/panama-d3703443/"
+    },
+    {
+      "slug": "panama-city",
+      "cityId": 4167694,
+      "url": "https://wegotrip.com/panama-city-d4167694/"
+    },
+    {
+      "slug": "paraty",
+      "cityId": 3455036,
+      "url": "https://wegotrip.com/paraty-d3455036/"
+    },
+    {
+      "slug": "paris",
+      "cityId": 2988507,
+      "url": "https://wegotrip.com/paris-d2988507/"
+    },
+    {
+      "slug": "paris",
+      "cityId": 2988507,
+      "url": "https://wegotrip.com/paris-d2988507/"
+    },
+    {
+      "slug": "paris",
+      "cityId": 2988507,
+      "url": "https://wegotrip.com/paris-d2988507/"
+    },
+    {
+      "slug": "paris",
+      "cityId": 2988507,
+      "url": "https://wegotrip.com/paris-d2988507/"
+    },
+    {
+      "slug": "paris",
+      "cityId": 2988507,
+      "url": "https://wegotrip.com/paris-d2988507/"
+    },
+    {
+      "slug": "parma",
+      "cityId": 3171457,
+      "url": "https://wegotrip.com/parma-d3171457/"
+    },
+    {
+      "slug": "passau",
+      "cityId": 2855328,
+      "url": "https://wegotrip.com/passau-d2855328/"
+    },
+    {
+      "slug": "patti-2523864",
+      "cityId": 2523864,
+      "url": "https://wegotrip.com/patti-2523864-d2523864/"
+    },
+    {
+      "slug": "peniche",
+      "cityId": 2264923,
+      "url": "https://wegotrip.com/peniche-d2264923/"
+    },
+    {
+      "slug": "peoria",
+      "cityId": 4905687,
+      "url": "https://wegotrip.com/peoria-d4905687/"
+    },
+    {
+      "slug": "perigueux",
+      "cityId": 2987967,
+      "url": "https://wegotrip.com/perigueux-d2987967/"
+    },
+    {
+      "slug": "perpignan",
+      "cityId": 2987914,
+      "url": "https://wegotrip.com/perpignan-d2987914/"
+    },
+    {
+      "slug": "perugia",
+      "cityId": 3171180,
+      "url": "https://wegotrip.com/perugia-d3171180/"
+    },
+    {
+      "slug": "peterhof",
+      "cityId": 510291,
+      "url": "https://wegotrip.com/peterhof-d510291/"
+    },
+    {
+      "slug": "petropavlovsk-kamchatsky",
+      "cityId": 2122104,
+      "url": "https://wegotrip.com/petropavlovsk-kamchatsky-d2122104/"
+    },
+    {
+      "slug": "phang-nga",
+      "cityId": 1151464,
+      "url": "https://wegotrip.com/phang-nga-d1151464/"
+    },
+    {
+      "slug": "philadelphia-4560349",
+      "cityId": 4560349,
+      "url": "https://wegotrip.com/philadelphia-4560349-d4560349/"
+    },
+    {
+      "slug": "phillip-island",
+      "cityId": 7302624,
+      "url": "https://wegotrip.com/phillip-island-d7302624/"
+    },
+    {
+      "slug": "phoenix",
+      "cityId": 5308655,
+      "url": "https://wegotrip.com/phoenix-d5308655/"
+    },
+    {
+      "slug": "phuket",
+      "cityId": 1151254,
+      "url": "https://wegotrip.com/phuket-d1151254/"
+    },
+    {
+      "slug": "pigeon-forge",
+      "cityId": 4649251,
+      "url": "https://wegotrip.com/pigeon-forge-d4649251/"
+    },
+    {
+      "slug": "piraeus",
+      "cityId": 255274,
+      "url": "https://wegotrip.com/piraeus-d255274/"
+    },
+    {
+      "slug": "pisa",
+      "cityId": 3170647,
+      "url": "https://wegotrip.com/pisa-d3170647/"
+    },
+    {
+      "slug": "pisa",
+      "cityId": 3170647,
+      "url": "https://wegotrip.com/pisa-d3170647/"
+    },
+    {
+      "slug": "pistoia",
+      "cityId": 3170621,
+      "url": "https://wegotrip.com/pistoia-d3170621/"
+    },
+    {
+      "slug": "pittsburgh",
+      "cityId": 5206379,
+      "url": "https://wegotrip.com/pittsburgh-d5206379/"
+    },
+    {
+      "slug": "plant-city",
+      "cityId": 4168773,
+      "url": "https://wegotrip.com/plant-city-d4168773/"
+    },
+    {
+      "slug": "playa-blanca",
+      "cityId": 2512465,
+      "url": "https://wegotrip.com/playa-blanca-d2512465/"
+    },
+    {
+      "slug": "plovdiv",
+      "cityId": 728193,
+      "url": "https://wegotrip.com/plovdiv-d728193/"
+    },
+    {
+      "slug": "poitiers",
+      "cityId": 2986495,
+      "url": "https://wegotrip.com/poitiers-d2986495/"
+    },
+    {
+      "slug": "polignano-a-mare",
+      "cityId": 3170382,
+      "url": "https://wegotrip.com/polignano-a-mare-d3170382/"
+    },
+    {
+      "slug": "pompei",
+      "cityId": 3170335,
+      "url": "https://wegotrip.com/pompei-d3170335/"
+    },
+    {
+      "slug": "ponta-delgada",
+      "cityId": 6941014,
+      "url": "https://wegotrip.com/ponta-delgada-d6941014/"
+    },
+    {
+      "slug": "pontevedra-3113209",
+      "cityId": 3113209,
+      "url": "https://wegotrip.com/pontevedra-3113209-d3113209/"
+    },
+    {
+      "slug": "pontiac-5006166",
+      "cityId": 5006166,
+      "url": "https://wegotrip.com/pontiac-5006166-d5006166/"
+    },
+    {
+      "slug": "port-douglas",
+      "cityId": 2152681,
+      "url": "https://wegotrip.com/port-douglas-d2152681/"
+    },
+    {
+      "slug": "port-louis-934154",
+      "cityId": 934154,
+      "url": "https://wegotrip.com/port-louis-934154-d934154/"
+    },
+    {
+      "slug": "port-washington-5267776",
+      "cityId": 5267776,
+      "url": "https://wegotrip.com/port-washington-5267776-d5267776/"
+    },
+    {
+      "slug": "porthcawl",
+      "cityId": 2640054,
+      "url": "https://wegotrip.com/porthcawl-d2640054/"
+    },
+    {
+      "slug": "portland-4650946",
+      "cityId": 4650946,
+      "url": "https://wegotrip.com/portland-4650946-d4650946/"
+    },
+    {
+      "slug": "portland-4975802",
+      "cityId": 4975802,
+      "url": "https://wegotrip.com/portland-4975802-d4975802/"
+    },
+    {
+      "slug": "portland-5746545",
+      "cityId": 5746545,
+      "url": "https://wegotrip.com/portland-5746545-d5746545/"
+    },
+    {
+      "slug": "porto-2735943",
+      "cityId": 2735943,
+      "url": "https://wegotrip.com/porto-2735943-d2735943/"
+    },
+    {
+      "slug": "portoferraio",
+      "cityId": 3170094,
+      "url": "https://wegotrip.com/portoferraio-d3170094/"
+    },
+    {
+      "slug": "portogruaro",
+      "cityId": 3170086,
+      "url": "https://wegotrip.com/portogruaro-d3170086/"
+    },
+    {
+      "slug": "portsmouth-2639996",
+      "cityId": 2639996,
+      "url": "https://wegotrip.com/portsmouth-2639996-d2639996/"
+    },
+    {
+      "slug": "potsdam",
+      "cityId": 2852458,
+      "url": "https://wegotrip.com/potsdam-d2852458/"
+    },
+    {
+      "slug": "poznan",
+      "cityId": 3088171,
+      "url": "https://wegotrip.com/poznan-d3088171/"
+    },
+    {
+      "slug": "pozzuoli",
+      "cityId": 3169984,
+      "url": "https://wegotrip.com/pozzuoli-d3169984/"
+    },
+    {
+      "slug": "prague",
+      "cityId": 3067696,
+      "url": "https://wegotrip.com/prague-d3067696/"
+    },
+    {
+      "slug": "prague",
+      "cityId": 3067696,
+      "url": "https://wegotrip.com/prague-d3067696/"
+    },
+    {
+      "slug": "prague",
+      "cityId": 3067696,
+      "url": "https://wegotrip.com/prague-d3067696/"
+    },
+    {
+      "slug": "prague",
+      "cityId": 3067696,
+      "url": "https://wegotrip.com/prague-d3067696/"
+    },
+    {
+      "slug": "prague",
+      "cityId": 3067696,
+      "url": "https://wegotrip.com/prague-d3067696/"
+    },
+    {
+      "slug": "prato",
+      "cityId": 3169921,
+      "url": "https://wegotrip.com/prato-d3169921/"
+    },
+    {
+      "slug": "privas",
+      "cityId": 2985290,
+      "url": "https://wegotrip.com/privas-d2985290/"
+    },
+    {
+      "slug": "puebla",
+      "cityId": 3521081,
+      "url": "https://wegotrip.com/puebla-d3521081/"
+    },
+    {
+      "slug": "puerto-del-carmen",
+      "cityId": 6355013,
+      "url": "https://wegotrip.com/puerto-del-carmen-d6355013/"
+    },
+    {
+      "slug": "puerto-vallarta",
+      "cityId": 3991328,
+      "url": "https://wegotrip.com/puerto-vallarta-d3991328/"
+    },
+    {
+      "slug": "pula",
+      "cityId": 3192224,
+      "url": "https://wegotrip.com/pula-d3192224/"
+    },
+    {
+      "slug": "puno",
+      "cityId": 3931276,
+      "url": "https://wegotrip.com/puno-d3931276/"
+    },
+    {
+      "slug": "purmerend",
+      "cityId": 2748413,
+      "url": "https://wegotrip.com/purmerend-d2748413/"
+    },
+    {
+      "slug": "quarteira",
+      "cityId": 2264299,
+      "url": "https://wegotrip.com/quarteira-d2264299/"
+    },
+    {
+      "slug": "quebec",
+      "cityId": 6325494,
+      "url": "https://wegotrip.com/quebec-d6325494/"
+    },
+    {
+      "slug": "quedlinburg",
+      "cityId": 2851465,
+      "url": "https://wegotrip.com/quedlinburg-d2851465/"
+    },
+    {
+      "slug": "quinns-rocks",
+      "cityId": 2078766,
+      "url": "https://wegotrip.com/quinns-rocks-d2078766/"
+    },
+    {
+      "slug": "quito",
+      "cityId": 3652462,
+      "url": "https://wegotrip.com/quito-d3652462/"
+    },
+    {
+      "slug": "rabat",
+      "cityId": 2538475,
+      "url": "https://wegotrip.com/rabat-d2538475/"
+    },
+    {
+      "slug": "ragusa",
+      "cityId": 2523650,
+      "url": "https://wegotrip.com/ragusa-d2523650/"
+    },
+    {
+      "slug": "raleigh",
+      "cityId": 4487042,
+      "url": "https://wegotrip.com/raleigh-d4487042/"
+    },
+    {
+      "slug": "ravenna",
+      "cityId": 3169561,
+      "url": "https://wegotrip.com/ravenna-d3169561/"
+    },
+    {
+      "slug": "rayong",
+      "cityId": 1607017,
+      "url": "https://wegotrip.com/rayong-d1607017/"
+    },
+    {
+      "slug": "redlynch",
+      "cityId": 2151886,
+      "url": "https://wegotrip.com/redlynch-d2151886/"
+    },
+    {
+      "slug": "redwood-city",
+      "cityId": 5386834,
+      "url": "https://wegotrip.com/redwood-city-d5386834/"
+    },
+    {
+      "slug": "regensburg",
+      "cityId": 2849483,
+      "url": "https://wegotrip.com/regensburg-d2849483/"
+    },
+    {
+      "slug": "regensburg",
+      "cityId": 2849483,
+      "url": "https://wegotrip.com/regensburg-d2849483/"
+    },
+    {
+      "slug": "reims",
+      "cityId": 2984114,
+      "url": "https://wegotrip.com/reims-d2984114/"
+    },
+    {
+      "slug": "reno",
+      "cityId": 5511077,
+      "url": "https://wegotrip.com/reno-d5511077/"
+    },
+    {
+      "slug": "rethymno",
+      "cityId": 254352,
+      "url": "https://wegotrip.com/rethymno-d254352/"
+    },
+    {
+      "slug": "reykjavik",
+      "cityId": 3413829,
+      "url": "https://wegotrip.com/reykjavik-d3413829/"
+    },
+    {
+      "slug": "riccione",
+      "cityId": 3169424,
+      "url": "https://wegotrip.com/riccione-d3169424/"
+    },
+    {
+      "slug": "richmond-4781708",
+      "cityId": 4781708,
+      "url": "https://wegotrip.com/richmond-4781708-d4781708/"
+    },
+    {
+      "slug": "riga",
+      "cityId": 456172,
+      "url": "https://wegotrip.com/riga-d456172/"
+    },
+    {
+      "slug": "rimini",
+      "cityId": 3169361,
+      "url": "https://wegotrip.com/rimini-d3169361/"
+    },
+    {
+      "slug": "ringkbing",
+      "cityId": 2614776,
+      "url": "https://wegotrip.com/ringkbing-d2614776/"
+    },
+    {
+      "slug": "rio-de-janeiro",
+      "cityId": 3451190,
+      "url": "https://wegotrip.com/rio-de-janeiro-d3451190/"
+    },
+    {
+      "slug": "ripoll",
+      "cityId": 3111607,
+      "url": "https://wegotrip.com/ripoll-d3111607/"
+    },
+    {
+      "slug": "riverside-5387877",
+      "cityId": 5387877,
+      "url": "https://wegotrip.com/riverside-5387877-d5387877/"
+    },
+    {
+      "slug": "robertson",
+      "cityId": 3362349,
+      "url": "https://wegotrip.com/robertson-d3362349/"
+    },
+    {
+      "slug": "rodos",
+      "cityId": 400666,
+      "url": "https://wegotrip.com/rodos-d400666/"
+    },
+    {
+      "slug": "rodos",
+      "cityId": 400666,
+      "url": "https://wegotrip.com/rodos-d400666/"
+    },
+    {
+      "slug": "rodos",
+      "cityId": 400666,
+      "url": "https://wegotrip.com/rodos-d400666/"
+    },
+    {
+      "slug": "rodos",
+      "cityId": 400666,
+      "url": "https://wegotrip.com/rodos-d400666/"
+    },
+    {
+      "slug": "rodos",
+      "cityId": 400666,
+      "url": "https://wegotrip.com/rodos-d400666/"
+    },
+    {
+      "slug": "rome",
+      "cityId": 3169070,
+      "url": "https://wegotrip.com/rome-d3169070/"
+    },
+    {
+      "slug": "rome",
+      "cityId": 3169070,
+      "url": "https://wegotrip.com/rome-d3169070/"
+    },
+    {
+      "slug": "rome",
+      "cityId": 3169070,
+      "url": "https://wegotrip.com/rome-d3169070/"
+    },
+    {
+      "slug": "rome",
+      "cityId": 3169070,
+      "url": "https://wegotrip.com/rome-d3169070/"
+    },
+    {
+      "slug": "rome",
+      "cityId": 3169070,
+      "url": "https://wegotrip.com/rome-d3169070/"
+    },
+    {
+      "slug": "ronda",
+      "cityId": 2511730,
+      "url": "https://wegotrip.com/ronda-d2511730/"
+    },
+    {
+      "slug": "roskilde",
+      "cityId": 2614481,
+      "url": "https://wegotrip.com/roskilde-d2614481/"
+    },
+    {
+      "slug": "rostock",
+      "cityId": 2844588,
+      "url": "https://wegotrip.com/rostock-d2844588/"
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber",
+      "cityId": 2844056,
+      "url": "https://wegotrip.com/rothenburg-ob-der-tauber-d2844056/"
+    },
+    {
+      "slug": "rotorua",
+      "cityId": 6241325,
+      "url": "https://wegotrip.com/rotorua-d6241325/"
+    },
+    {
+      "slug": "rotterdam",
+      "cityId": 2747891,
+      "url": "https://wegotrip.com/rotterdam-d2747891/"
+    },
+    {
+      "slug": "rouen",
+      "cityId": 2982652,
+      "url": "https://wegotrip.com/rouen-d2982652/"
+    },
+    {
+      "slug": "rovaniemi",
+      "cityId": 638936,
+      "url": "https://wegotrip.com/rovaniemi-d638936/"
+    },
+    {
+      "slug": "rovinj",
+      "cityId": 3191518,
+      "url": "https://wegotrip.com/rovinj-d3191518/"
+    },
+    {
+      "slug": "royan",
+      "cityId": 2982343,
+      "url": "https://wegotrip.com/royan-d2982343/"
+    },
+    {
+      "slug": "rust",
+      "cityId": 2842861,
+      "url": "https://wegotrip.com/rust-d2842861/"
+    },
+    {
+      "slug": "s-hertogenbosch",
+      "cityId": 2747351,
+      "url": "https://wegotrip.com/s-hertogenbosch-d2747351/"
+    },
+    {
+      "slug": "saarbrucken",
+      "cityId": 2842647,
+      "url": "https://wegotrip.com/saarbrucken-d2842647/"
+    },
+    {
+      "slug": "sacramento-5389489",
+      "cityId": 5389489,
+      "url": "https://wegotrip.com/sacramento-5389489-d5389489/"
+    },
+    {
+      "slug": "saint-andrews",
+      "cityId": 2638864,
+      "url": "https://wegotrip.com/saint-andrews-d2638864/"
+    },
+    {
+      "slug": "saint-augustine",
+      "cityId": 4170894,
+      "url": "https://wegotrip.com/saint-augustine-d4170894/"
+    },
+    {
+      "slug": "saint-denis",
+      "cityId": 2980916,
+      "url": "https://wegotrip.com/saint-denis-d2980916/"
+    },
+    {
+      "slug": "saint-emilion",
+      "cityId": 44,
+      "url": "https://wegotrip.com/saint-emilion-d44/"
+    },
+    {
+      "slug": "saint-etienne",
+      "cityId": 2980291,
+      "url": "https://wegotrip.com/saint-etienne-d2980291/"
+    },
+    {
+      "slug": "saint-john",
+      "cityId": 6138517,
+      "url": "https://wegotrip.com/saint-john-d6138517/"
+    },
+    {
+      "slug": "saint-malo",
+      "cityId": 2978640,
+      "url": "https://wegotrip.com/saint-malo-d2978640/"
+    },
+    {
+      "slug": "saint-martin-boulogne",
+      "cityId": 2978439,
+      "url": "https://wegotrip.com/saint-martin-boulogne-d2978439/"
+    },
+    {
+      "slug": "saint-paul-5045360",
+      "cityId": 5045360,
+      "url": "https://wegotrip.com/saint-paul-5045360-d5045360/"
+    },
+    {
+      "slug": "saint-petersburg",
+      "cityId": 498817,
+      "url": "https://wegotrip.com/saint-petersburg-d498817/"
+    },
+    {
+      "slug": "saint-tropez",
+      "cityId": 2976742,
+      "url": "https://wegotrip.com/saint-tropez-d2976742/"
+    },
+    {
+      "slug": "salamanca-3111108",
+      "cityId": 3111108,
+      "url": "https://wegotrip.com/salamanca-3111108-d3111108/"
+    },
+    {
+      "slug": "salem-4950065",
+      "cityId": 4950065,
+      "url": "https://wegotrip.com/salem-4950065-d4950065/"
+    },
+    {
+      "slug": "salerno",
+      "cityId": 3168673,
+      "url": "https://wegotrip.com/salerno-d3168673/"
+    },
+    {
+      "slug": "salford",
+      "cityId": 2638671,
+      "url": "https://wegotrip.com/salford-d2638671/"
+    },
+    {
+      "slug": "salzburg",
+      "cityId": 2766824,
+      "url": "https://wegotrip.com/salzburg-d2766824/"
+    },
+    {
+      "slug": "samarkand",
+      "cityId": 1216265,
+      "url": "https://wegotrip.com/samarkand-d1216265/"
+    },
+    {
+      "slug": "samut-prakan",
+      "cityId": 1606590,
+      "url": "https://wegotrip.com/samut-prakan-d1606590/"
+    },
+    {
+      "slug": "san-anselmo",
+      "cityId": 5391615,
+      "url": "https://wegotrip.com/san-anselmo-d5391615/"
+    },
+    {
+      "slug": "san-antonio-4726206",
+      "cityId": 4726206,
+      "url": "https://wegotrip.com/san-antonio-4726206-d4726206/"
+    },
+    {
+      "slug": "san-antonio-4726206",
+      "cityId": 4726206,
+      "url": "https://wegotrip.com/san-antonio-4726206-d4726206/"
+    },
+    {
+      "slug": "san-antonio-4726206",
+      "cityId": 4726206,
+      "url": "https://wegotrip.com/san-antonio-4726206-d4726206/"
+    },
+    {
+      "slug": "san-antonio-4726206",
+      "cityId": 4726206,
+      "url": "https://wegotrip.com/san-antonio-4726206-d4726206/"
+    },
+    {
+      "slug": "san-antonio-4726206",
+      "cityId": 4726206,
+      "url": "https://wegotrip.com/san-antonio-4726206-d4726206/"
+    },
+    {
+      "slug": "san-diego-5391811",
+      "cityId": 5391811,
+      "url": "https://wegotrip.com/san-diego-5391811-d5391811/"
+    },
+    {
+      "slug": "san-francisco-5391959",
+      "cityId": 5391959,
+      "url": "https://wegotrip.com/san-francisco-5391959-d5391959/"
+    },
+    {
+      "slug": "san-jose-5392171",
+      "cityId": 5392171,
+      "url": "https://wegotrip.com/san-jose-5392171-d5392171/"
+    },
+    {
+      "slug": "san-jose-del-cabo",
+      "cityId": 3986172,
+      "url": "https://wegotrip.com/san-jose-del-cabo-d3986172/"
+    },
+    {
+      "slug": "san-juan-4568127",
+      "cityId": 4568127,
+      "url": "https://wegotrip.com/san-juan-4568127-d4568127/"
+    },
+    {
+      "slug": "san-luis-obispo",
+      "cityId": 5392323,
+      "url": "https://wegotrip.com/san-luis-obispo-d5392323/"
+    },
+    {
+      "slug": "san-marino",
+      "cityId": 3168070,
+      "url": "https://wegotrip.com/san-marino-d3168070/"
+    },
+    {
+      "slug": "san-marino",
+      "cityId": 3168070,
+      "url": "https://wegotrip.com/san-marino-d3168070/"
+    },
+    {
+      "slug": "san-miguel-de-abona",
+      "cityId": 2511287,
+      "url": "https://wegotrip.com/san-miguel-de-abona-d2511287/"
+    },
+    {
+      "slug": "san-miguel-de-allende",
+      "cityId": 3985344,
+      "url": "https://wegotrip.com/san-miguel-de-allende-d3985344/"
+    },
+    {
+      "slug": "san-miniato",
+      "cityId": 3167953,
+      "url": "https://wegotrip.com/san-miniato-d3167953/"
+    },
+    {
+      "slug": "san-nicolas-2511275",
+      "cityId": 2511275,
+      "url": "https://wegotrip.com/san-nicolas-2511275-d2511275/"
+    },
+    {
+      "slug": "san-salvador-3583361",
+      "cityId": 3583361,
+      "url": "https://wegotrip.com/san-salvador-3583361-d3583361/"
+    },
+    {
+      "slug": "sanary-sur-mer",
+      "cityId": 2976258,
+      "url": "https://wegotrip.com/sanary-sur-mer-d2976258/"
+    },
+    {
+      "slug": "sanford",
+      "cityId": 4172086,
+      "url": "https://wegotrip.com/sanford-d4172086/"
+    },
+    {
+      "slug": "sangimignano",
+      "cityId": 22,
+      "url": "https://wegotrip.com/sangimignano-d22/"
+    },
+    {
+      "slug": "sankt-gallen",
+      "cityId": 2658822,
+      "url": "https://wegotrip.com/sankt-gallen-d2658822/"
+    },
+    {
+      "slug": "sankt-polten",
+      "cityId": 2766429,
+      "url": "https://wegotrip.com/sankt-polten-d2766429/"
+    },
+    {
+      "slug": "sant-antoni-de-portmany",
+      "cityId": 2511448,
+      "url": "https://wegotrip.com/sant-antoni-de-portmany-d2511448/"
+    },
+    {
+      "slug": "santa-ana-5392900",
+      "cityId": 5392900,
+      "url": "https://wegotrip.com/santa-ana-5392900-d5392900/"
+    },
+    {
+      "slug": "santa-barbara-5392952",
+      "cityId": 5392952,
+      "url": "https://wegotrip.com/santa-barbara-5392952-d5392952/"
+    },
+    {
+      "slug": "santa-cruz-de-tenerife",
+      "cityId": 2511174,
+      "url": "https://wegotrip.com/santa-cruz-de-tenerife-d2511174/"
+    },
+    {
+      "slug": "santa-fe-5490263",
+      "cityId": 5490263,
+      "url": "https://wegotrip.com/santa-fe-5490263-d5490263/"
+    },
+    {
+      "slug": "santa-marinella",
+      "cityId": 3167520,
+      "url": "https://wegotrip.com/santa-marinella-d3167520/"
+    },
+    {
+      "slug": "santa-monica-5393212",
+      "cityId": 5393212,
+      "url": "https://wegotrip.com/santa-monica-5393212-d5393212/"
+    },
+    {
+      "slug": "santander",
+      "cityId": 3109718,
+      "url": "https://wegotrip.com/santander-d3109718/"
+    },
+    {
+      "slug": "santarem-2263480",
+      "cityId": 2263480,
+      "url": "https://wegotrip.com/santarem-2263480-d2263480/"
+    },
+    {
+      "slug": "santiago-3871336",
+      "cityId": 3871336,
+      "url": "https://wegotrip.com/santiago-3871336-d3871336/"
+    },
+    {
+      "slug": "santiago-de-compostela",
+      "cityId": 3109642,
+      "url": "https://wegotrip.com/santiago-de-compostela-d3109642/"
+    },
+    {
+      "slug": "santiago-de-queretaro",
+      "cityId": 3991164,
+      "url": "https://wegotrip.com/santiago-de-queretaro-d3991164/"
+    },
+    {
+      "slug": "santo-antonio-dos-olivais",
+      "cityId": 2734585,
+      "url": "https://wegotrip.com/santo-antonio-dos-olivais-d2734585/"
+    },
+    {
+      "slug": "santo-domingo-3492908",
+      "cityId": 3492908,
+      "url": "https://wegotrip.com/santo-domingo-3492908-d3492908/"
+    },
+    {
+      "slug": "santorini",
+      "cityId": 32,
+      "url": "https://wegotrip.com/santorini-d32/"
+    },
+    {
+      "slug": "sao-luis",
+      "cityId": 3388368,
+      "url": "https://wegotrip.com/sao-luis-d3388368/"
+    },
+    {
+      "slug": "sao-paulo",
+      "cityId": 3448439,
+      "url": "https://wegotrip.com/sao-paulo-d3448439/"
+    },
+    {
+      "slug": "sarajevo",
+      "cityId": 3191281,
+      "url": "https://wegotrip.com/sarajevo-d3191281/"
+    },
+    {
+      "slug": "sarnen",
+      "cityId": 2658786,
+      "url": "https://wegotrip.com/sarnen-d2658786/"
+    },
+    {
+      "slug": "saskatoon",
+      "cityId": 6141256,
+      "url": "https://wegotrip.com/saskatoon-d6141256/"
+    },
+    {
+      "slug": "savannah",
+      "cityId": 4221552,
+      "url": "https://wegotrip.com/savannah-d4221552/"
+    },
+    {
+      "slug": "savona",
+      "cityId": 3167022,
+      "url": "https://wegotrip.com/savona-d3167022/"
+    },
+    {
+      "slug": "schaffhausen",
+      "cityId": 2658761,
+      "url": "https://wegotrip.com/schaffhausen-d2658761/"
+    },
+    {
+      "slug": "scicli",
+      "cityId": 2523192,
+      "url": "https://wegotrip.com/scicli-d2523192/"
+    },
+    {
+      "slug": "seaside",
+      "cityId": 5137529,
+      "url": "https://wegotrip.com/seaside-d5137529/"
+    },
+    {
+      "slug": "seattle",
+      "cityId": 5809844,
+      "url": "https://wegotrip.com/seattle-d5809844/"
+    },
+    {
+      "slug": "segovia-3109256",
+      "cityId": 3109256,
+      "url": "https://wegotrip.com/segovia-3109256-d3109256/"
+    },
+    {
+      "slug": "selfoss",
+      "cityId": 3413604,
+      "url": "https://wegotrip.com/selfoss-d3413604/"
+    },
+    {
+      "slug": "seoul",
+      "cityId": 1835848,
+      "url": "https://wegotrip.com/seoul-d1835848/"
+    },
+    {
+      "slug": "serravalle",
+      "cityId": 3166645,
+      "url": "https://wegotrip.com/serravalle-d3166645/"
+    },
+    {
+      "slug": "sevierville",
+      "cityId": 4656585,
+      "url": "https://wegotrip.com/sevierville-d4656585/"
+    },
+    {
+      "slug": "sevilla-2510911",
+      "cityId": 2510911,
+      "url": "https://wegotrip.com/sevilla-2510911-d2510911/"
+    },
+    {
+      "slug": "sevilla-2510911",
+      "cityId": 2510911,
+      "url": "https://wegotrip.com/sevilla-2510911-d2510911/"
+    },
+    {
+      "slug": "sevilla-2510911",
+      "cityId": 2510911,
+      "url": "https://wegotrip.com/sevilla-2510911-d2510911/"
+    },
+    {
+      "slug": "sevilla-2510911",
+      "cityId": 2510911,
+      "url": "https://wegotrip.com/sevilla-2510911-d2510911/"
+    },
+    {
+      "slug": "sevilla-2510911",
+      "cityId": 2510911,
+      "url": "https://wegotrip.com/sevilla-2510911-d2510911/"
+    },
+    {
+      "slug": "shanghai",
+      "cityId": 1796236,
+      "url": "https://wegotrip.com/shanghai-d1796236/"
+    },
+    {
+      "slug": "sharjah",
+      "cityId": 292672,
+      "url": "https://wegotrip.com/sharjah-d292672/"
+    },
+    {
+      "slug": "sibenik",
+      "cityId": 3190941,
+      "url": "https://wegotrip.com/sibenik-d3190941/"
+    },
+    {
+      "slug": "siem-reap",
+      "cityId": 1822214,
+      "url": "https://wegotrip.com/siem-reap-d1822214/"
+    },
+    {
+      "slug": "siena",
+      "cityId": 3166548,
+      "url": "https://wegotrip.com/siena-d3166548/"
+    },
+    {
+      "slug": "simons-town",
+      "cityId": 47,
+      "url": "https://wegotrip.com/simons-town-d47/"
+    },
+    {
+      "slug": "singapore",
+      "cityId": 1880252,
+      "url": "https://wegotrip.com/singapore-d1880252/"
+    },
+    {
+      "slug": "sintra",
+      "cityId": 2262912,
+      "url": "https://wegotrip.com/sintra-d2262912/"
+    },
+    {
+      "slug": "sintra",
+      "cityId": 2262912,
+      "url": "https://wegotrip.com/sintra-d2262912/"
+    },
+    {
+      "slug": "sintra",
+      "cityId": 2262912,
+      "url": "https://wegotrip.com/sintra-d2262912/"
+    },
+    {
+      "slug": "siracusa",
+      "cityId": 2523083,
+      "url": "https://wegotrip.com/siracusa-d2523083/"
+    },
+    {
+      "slug": "sirmione",
+      "cityId": 3166499,
+      "url": "https://wegotrip.com/sirmione-d3166499/"
+    },
+    {
+      "slug": "sitges",
+      "cityId": 3108877,
+      "url": "https://wegotrip.com/sitges-d3108877/"
+    },
+    {
+      "slug": "sitten",
+      "cityId": 2658576,
+      "url": "https://wegotrip.com/sitten-d2658576/"
+    },
+    {
+      "slug": "skopje",
+      "cityId": 785842,
+      "url": "https://wegotrip.com/skopje-d785842/"
+    },
+    {
+      "slug": "sneek",
+      "cityId": 2747063,
+      "url": "https://wegotrip.com/sneek-d2747063/"
+    },
+    {
+      "slug": "sofia",
+      "cityId": 727011,
+      "url": "https://wegotrip.com/sofia-d727011/"
+    },
+    {
+      "slug": "soller",
+      "cityId": 2510821,
+      "url": "https://wegotrip.com/soller-d2510821/"
+    },
+    {
+      "slug": "soller",
+      "cityId": 2510821,
+      "url": "https://wegotrip.com/soller-d2510821/"
+    },
+    {
+      "slug": "soller",
+      "cityId": 2510821,
+      "url": "https://wegotrip.com/soller-d2510821/"
+    },
+    {
+      "slug": "soller",
+      "cityId": 2510821,
+      "url": "https://wegotrip.com/soller-d2510821/"
+    },
+    {
+      "slug": "solothurn",
+      "cityId": 2658564,
+      "url": "https://wegotrip.com/solothurn-d2658564/"
+    },
+    {
+      "slug": "soltau",
+      "cityId": 2831486,
+      "url": "https://wegotrip.com/soltau-d2831486/"
+    },
+    {
+      "slug": "solvang",
+      "cityId": 5397059,
+      "url": "https://wegotrip.com/solvang-d5397059/"
+    },
+    {
+      "slug": "sopron",
+      "cityId": 3045190,
+      "url": "https://wegotrip.com/sopron-d3045190/"
+    },
+    {
+      "slug": "sorrento",
+      "cityId": 3166350,
+      "url": "https://wegotrip.com/sorrento-d3166350/"
+    },
+    {
+      "slug": "south-tucson",
+      "cityId": 5315313,
+      "url": "https://wegotrip.com/south-tucson-d5315313/"
+    },
+    {
+      "slug": "southampton",
+      "cityId": 2637487,
+      "url": "https://wegotrip.com/southampton-d2637487/"
+    },
+    {
+      "slug": "speightstown",
+      "cityId": 3373505,
+      "url": "https://wegotrip.com/speightstown-d3373505/"
+    },
+    {
+      "slug": "speyer",
+      "cityId": 2830582,
+      "url": "https://wegotrip.com/speyer-d2830582/"
+    },
+    {
+      "slug": "split",
+      "cityId": 3190261,
+      "url": "https://wegotrip.com/split-d3190261/"
+    },
+    {
+      "slug": "st-louis",
+      "cityId": 4407066,
+      "url": "https://wegotrip.com/st-louis-d4407066/"
+    },
+    {
+      "slug": "stawell",
+      "cityId": 2148431,
+      "url": "https://wegotrip.com/stawell-d2148431/"
+    },
+    {
+      "slug": "stellenbosch",
+      "cityId": 3361025,
+      "url": "https://wegotrip.com/stellenbosch-d3361025/"
+    },
+    {
+      "slug": "stockholm",
+      "cityId": 2673730,
+      "url": "https://wegotrip.com/stockholm-d2673730/"
+    },
+    {
+      "slug": "stoke-on-trent",
+      "cityId": 2636841,
+      "url": "https://wegotrip.com/stoke-on-trent-d2636841/"
+    },
+    {
+      "slug": "stralsund",
+      "cityId": 2826287,
+      "url": "https://wegotrip.com/stralsund-d2826287/"
+    },
+    {
+      "slug": "strasbourg",
+      "cityId": 2973783,
+      "url": "https://wegotrip.com/strasbourg-d2973783/"
+    },
+    {
+      "slug": "stratford-upon-avon",
+      "cityId": 2636713,
+      "url": "https://wegotrip.com/stratford-upon-avon-d2636713/"
+    },
+    {
+      "slug": "stretford",
+      "cityId": 2636663,
+      "url": "https://wegotrip.com/stretford-d2636663/"
+    },
+    {
+      "slug": "stuttgart",
+      "cityId": 2825297,
+      "url": "https://wegotrip.com/stuttgart-d2825297/"
+    },
+    {
+      "slug": "sucre",
+      "cityId": 3903987,
+      "url": "https://wegotrip.com/sucre-d3903987/"
+    },
+    {
+      "slug": "surfers-paradise",
+      "cityId": 63,
+      "url": "https://wegotrip.com/surfers-paradise-d63/"
+    },
+    {
+      "slug": "sydney",
+      "cityId": 2147714,
+      "url": "https://wegotrip.com/sydney-d2147714/"
+    },
+    {
+      "slug": "sylt-ost",
+      "cityId": 3208571,
+      "url": "https://wegotrip.com/sylt-ost-d3208571/"
+    },
+    {
+      "slug": "syracuse",
+      "cityId": 5140405,
+      "url": "https://wegotrip.com/syracuse-d5140405/"
+    },
+    {
+      "slug": "szczecin",
+      "cityId": 3083829,
+      "url": "https://wegotrip.com/szczecin-d3083829/"
+    },
+    {
+      "slug": "szeged",
+      "cityId": 715429,
+      "url": "https://wegotrip.com/szeged-d715429/"
+    },
+    {
+      "slug": "taipei",
+      "cityId": 1668341,
+      "url": "https://wegotrip.com/taipei-d1668341/"
+    },
+    {
+      "slug": "takayama",
+      "cityId": 1850892,
+      "url": "https://wegotrip.com/takayama-d1850892/"
+    },
+    {
+      "slug": "tallinn",
+      "cityId": 588409,
+      "url": "https://wegotrip.com/tallinn-d588409/"
+    },
+    {
+      "slug": "tampa",
+      "cityId": 4174757,
+      "url": "https://wegotrip.com/tampa-d4174757/"
+    },
+    {
+      "slug": "taormina",
+      "cityId": 2522975,
+      "url": "https://wegotrip.com/taormina-d2522975/"
+    },
+    {
+      "slug": "taranto",
+      "cityId": 3165926,
+      "url": "https://wegotrip.com/taranto-d3165926/"
+    },
+    {
+      "slug": "tarazona",
+      "cityId": 3108308,
+      "url": "https://wegotrip.com/tarazona-d3108308/"
+    },
+    {
+      "slug": "tarragona",
+      "cityId": 3108288,
+      "url": "https://wegotrip.com/tarragona-d3108288/"
+    },
+    {
+      "slug": "tartu",
+      "cityId": 588335,
+      "url": "https://wegotrip.com/tartu-d588335/"
+    },
+    {
+      "slug": "tashkent",
+      "cityId": 1512569,
+      "url": "https://wegotrip.com/tashkent-d1512569/"
+    },
+    {
+      "slug": "tauranga",
+      "cityId": 2208032,
+      "url": "https://wegotrip.com/tauranga-d2208032/"
+    },
+    {
+      "slug": "tbilisi",
+      "cityId": 611717,
+      "url": "https://wegotrip.com/tbilisi-d611717/"
+    },
+    {
+      "slug": "tel-aviv",
+      "cityId": 293397,
+      "url": "https://wegotrip.com/tel-aviv-d293397/"
+    },
+    {
+      "slug": "telc",
+      "cityId": 3064316,
+      "url": "https://wegotrip.com/telc-d3064316/"
+    },
+    {
+      "slug": "termoli",
+      "cityId": 3165773,
+      "url": "https://wegotrip.com/termoli-d3165773/"
+    },
+    {
+      "slug": "teruel",
+      "cityId": 3108126,
+      "url": "https://wegotrip.com/teruel-d3108126/"
+    },
+    {
+      "slug": "the-hague",
+      "cityId": 2747373,
+      "url": "https://wegotrip.com/the-hague-d2747373/"
+    },
+    {
+      "slug": "thessaloniki",
+      "cityId": 734077,
+      "url": "https://wegotrip.com/thessaloniki-d734077/"
+    },
+    {
+      "slug": "tilaran",
+      "cityId": 3621278,
+      "url": "https://wegotrip.com/tilaran-d3621278/"
+    },
+    {
+      "slug": "timisoara",
+      "cityId": 665087,
+      "url": "https://wegotrip.com/timisoara-d665087/"
+    },
+    {
+      "slug": "tirana",
+      "cityId": 3183875,
+      "url": "https://wegotrip.com/tirana-d3183875/"
+    },
+    {
+      "slug": "tiraspol",
+      "cityId": 617239,
+      "url": "https://wegotrip.com/tiraspol-d617239/"
+    },
+    {
+      "slug": "titusville",
+      "cityId": 4175437,
+      "url": "https://wegotrip.com/titusville-d4175437/"
+    },
+    {
+      "slug": "tivoli",
+      "cityId": 3165624,
+      "url": "https://wegotrip.com/tivoli-d3165624/"
+    },
+    {
+      "slug": "tokyo",
+      "cityId": 1850147,
+      "url": "https://wegotrip.com/tokyo-d1850147/"
+    },
+    {
+      "slug": "toledo-2510409",
+      "cityId": 2510409,
+      "url": "https://wegotrip.com/toledo-2510409-d2510409/"
+    },
+    {
+      "slug": "toledo-5174035",
+      "cityId": 5174035,
+      "url": "https://wegotrip.com/toledo-5174035-d5174035/"
+    },
+    {
+      "slug": "tomar",
+      "cityId": 2262644,
+      "url": "https://wegotrip.com/tomar-d2262644/"
+    },
+    {
+      "slug": "toronto",
+      "cityId": 6167865,
+      "url": "https://wegotrip.com/toronto-d6167865/"
+    },
+    {
+      "slug": "torre-del-mar",
+      "cityId": 2510309,
+      "url": "https://wegotrip.com/torre-del-mar-d2510309/"
+    },
+    {
+      "slug": "torremolinos",
+      "cityId": 2510281,
+      "url": "https://wegotrip.com/torremolinos-d2510281/"
+    },
+    {
+      "slug": "torrevieja",
+      "cityId": 2510253,
+      "url": "https://wegotrip.com/torrevieja-d2510253/"
+    },
+    {
+      "slug": "torun",
+      "cityId": 3083271,
+      "url": "https://wegotrip.com/torun-d3083271/"
+    },
+    {
+      "slug": "toulouse",
+      "cityId": 2972315,
+      "url": "https://wegotrip.com/toulouse-d2972315/"
+    },
+    {
+      "slug": "tournai",
+      "cityId": 2785341,
+      "url": "https://wegotrip.com/tournai-d2785341/"
+    },
+    {
+      "slug": "tours",
+      "cityId": 2972191,
+      "url": "https://wegotrip.com/tours-d2972191/"
+    },
+    {
+      "slug": "trani",
+      "cityId": 3165322,
+      "url": "https://wegotrip.com/trani-d3165322/"
+    },
+    {
+      "slug": "trento",
+      "cityId": 3165243,
+      "url": "https://wegotrip.com/trento-d3165243/"
+    },
+    {
+      "slug": "trenton-5105496",
+      "cityId": 5105496,
+      "url": "https://wegotrip.com/trenton-5105496-d5105496/"
+    },
+    {
+      "slug": "treviso",
+      "cityId": 3165201,
+      "url": "https://wegotrip.com/treviso-d3165201/"
+    },
+    {
+      "slug": "trieste",
+      "cityId": 3165185,
+      "url": "https://wegotrip.com/trieste-d3165185/"
+    },
+    {
+      "slug": "trogir",
+      "cityId": 3188763,
+      "url": "https://wegotrip.com/trogir-d3188763/"
+    },
+    {
+      "slug": "troms",
+      "cityId": 3133895,
+      "url": "https://wegotrip.com/troms-d3133895/"
+    },
+    {
+      "slug": "trondheim",
+      "cityId": 3133880,
+      "url": "https://wegotrip.com/trondheim-d3133880/"
+    },
+    {
+      "slug": "trujillo-2510145",
+      "cityId": 2510145,
+      "url": "https://wegotrip.com/trujillo-2510145-d2510145/"
+    },
+    {
+      "slug": "tuba-city",
+      "cityId": 5318279,
+      "url": "https://wegotrip.com/tuba-city-d5318279/"
+    },
+    {
+      "slug": "tucson",
+      "cityId": 5318313,
+      "url": "https://wegotrip.com/tucson-d5318313/"
+    },
+    {
+      "slug": "tulle",
+      "cityId": 2971482,
+      "url": "https://wegotrip.com/tulle-d2971482/"
+    },
+    {
+      "slug": "tulsa",
+      "cityId": 4553433,
+      "url": "https://wegotrip.com/tulsa-d4553433/"
+    },
+    {
+      "slug": "tulum",
+      "cityId": 3515040,
+      "url": "https://wegotrip.com/tulum-d3515040/"
+    },
+    {
+      "slug": "tunis",
+      "cityId": 2464470,
+      "url": "https://wegotrip.com/tunis-d2464470/"
+    },
+    {
+      "slug": "turin",
+      "cityId": 3165524,
+      "url": "https://wegotrip.com/turin-d3165524/"
+    },
+    {
+      "slug": "turin",
+      "cityId": 3165524,
+      "url": "https://wegotrip.com/turin-d3165524/"
+    },
+    {
+      "slug": "turku",
+      "cityId": 633679,
+      "url": "https://wegotrip.com/turku-d633679/"
+    },
+    {
+      "slug": "tyler",
+      "cityId": 4738214,
+      "url": "https://wegotrip.com/tyler-d4738214/"
+    },
+    {
+      "slug": "ubeda",
+      "cityId": 2510116,
+      "url": "https://wegotrip.com/ubeda-d2510116/"
+    },
+    {
+      "slug": "udaipur-1253986",
+      "cityId": 1253986,
+      "url": "https://wegotrip.com/udaipur-1253986-d1253986/"
+    },
+    {
+      "slug": "ufa",
+      "cityId": 479561,
+      "url": "https://wegotrip.com/ufa-d479561/"
+    },
+    {
+      "slug": "ulm",
+      "cityId": 2820256,
+      "url": "https://wegotrip.com/ulm-d2820256/"
+    },
+    {
+      "slug": "urbino",
+      "cityId": 3165035,
+      "url": "https://wegotrip.com/urbino-d3165035/"
+    },
+    {
+      "slug": "utrecht",
+      "cityId": 2745912,
+      "url": "https://wegotrip.com/utrecht-d2745912/"
+    },
+    {
+      "slug": "valeggio-sul-mincio",
+      "cityId": 3164924,
+      "url": "https://wegotrip.com/valeggio-sul-mincio-d3164924/"
+    },
+    {
+      "slug": "valencia-2509954",
+      "cityId": 2509954,
+      "url": "https://wegotrip.com/valencia-2509954-d2509954/"
+    },
+    {
+      "slug": "valencia-2509954",
+      "cityId": 2509954,
+      "url": "https://wegotrip.com/valencia-2509954-d2509954/"
+    },
+    {
+      "slug": "valencia-2509954",
+      "cityId": 2509954,
+      "url": "https://wegotrip.com/valencia-2509954-d2509954/"
+    },
+    {
+      "slug": "valencia-2509954",
+      "cityId": 2509954,
+      "url": "https://wegotrip.com/valencia-2509954-d2509954/"
+    },
+    {
+      "slug": "valencia-2509954",
+      "cityId": 2509954,
+      "url": "https://wegotrip.com/valencia-2509954-d2509954/"
+    },
+    {
+      "slug": "valle-de-banderas",
+      "cityId": 3980622,
+      "url": "https://wegotrip.com/valle-de-banderas-d3980622/"
+    },
+    {
+      "slug": "valletta",
+      "cityId": 2562305,
+      "url": "https://wegotrip.com/valletta-d2562305/"
+    },
+    {
+      "slug": "valparaiso-3868626",
+      "cityId": 3868626,
+      "url": "https://wegotrip.com/valparaiso-3868626-d3868626/"
+    },
+    {
+      "slug": "vancouver",
+      "cityId": 6173331,
+      "url": "https://wegotrip.com/vancouver-d6173331/"
+    },
+    {
+      "slug": "vatican-city",
+      "cityId": 6691831,
+      "url": "https://wegotrip.com/vatican-city-d6691831/"
+    },
+    {
+      "slug": "vatican-city",
+      "cityId": 6691831,
+      "url": "https://wegotrip.com/vatican-city-d6691831/"
+    },
+    {
+      "slug": "vejer-de-la-frontera",
+      "cityId": 2509783,
+      "url": "https://wegotrip.com/vejer-de-la-frontera-d2509783/"
+    },
+    {
+      "slug": "vejle",
+      "cityId": 2610613,
+      "url": "https://wegotrip.com/vejle-d2610613/"
+    },
+    {
+      "slug": "venice",
+      "cityId": 3164603,
+      "url": "https://wegotrip.com/venice-d3164603/"
+    },
+    {
+      "slug": "venice",
+      "cityId": 3164603,
+      "url": "https://wegotrip.com/venice-d3164603/"
+    },
+    {
+      "slug": "venice",
+      "cityId": 3164603,
+      "url": "https://wegotrip.com/venice-d3164603/"
+    },
+    {
+      "slug": "venice",
+      "cityId": 3164603,
+      "url": "https://wegotrip.com/venice-d3164603/"
+    },
+    {
+      "slug": "venice",
+      "cityId": 3164603,
+      "url": "https://wegotrip.com/venice-d3164603/"
+    },
+    {
+      "slug": "verona",
+      "cityId": 3164527,
+      "url": "https://wegotrip.com/verona-d3164527/"
+    },
+    {
+      "slug": "versailles",
+      "cityId": 2969679,
+      "url": "https://wegotrip.com/versailles-d2969679/"
+    },
+    {
+      "slug": "versailles",
+      "cityId": 2969679,
+      "url": "https://wegotrip.com/versailles-d2969679/"
+    },
+    {
+      "slug": "versailles",
+      "cityId": 2969679,
+      "url": "https://wegotrip.com/versailles-d2969679/"
+    },
+    {
+      "slug": "versailles",
+      "cityId": 2969679,
+      "url": "https://wegotrip.com/versailles-d2969679/"
+    },
+    {
+      "slug": "versailles",
+      "cityId": 2969679,
+      "url": "https://wegotrip.com/versailles-d2969679/"
+    },
+    {
+      "slug": "vestmannaeyjabaer",
+      "cityId": 70,
+      "url": "https://wegotrip.com/vestmannaeyjabaer-d70/"
+    },
+    {
+      "slug": "victoria-6174041",
+      "cityId": 6174041,
+      "url": "https://wegotrip.com/victoria-6174041-d6174041/"
+    },
+    {
+      "slug": "vienna",
+      "cityId": 2761369,
+      "url": "https://wegotrip.com/vienna-d2761369/"
+    },
+    {
+      "slug": "vienna",
+      "cityId": 2761369,
+      "url": "https://wegotrip.com/vienna-d2761369/"
+    },
+    {
+      "slug": "vienna",
+      "cityId": 2761369,
+      "url": "https://wegotrip.com/vienna-d2761369/"
+    },
+    {
+      "slug": "vienna",
+      "cityId": 2761369,
+      "url": "https://wegotrip.com/vienna-d2761369/"
+    },
+    {
+      "slug": "vienna",
+      "cityId": 2761369,
+      "url": "https://wegotrip.com/vienna-d2761369/"
+    },
+    {
+      "slug": "vienne",
+      "cityId": 2969284,
+      "url": "https://wegotrip.com/vienne-d2969284/"
+    },
+    {
+      "slug": "vila-vicosa",
+      "cityId": 2261577,
+      "url": "https://wegotrip.com/vila-vicosa-d2261577/"
+    },
+    {
+      "slug": "viljandi",
+      "cityId": 587577,
+      "url": "https://wegotrip.com/viljandi-d587577/"
+    },
+    {
+      "slug": "villefranche-sur-mer",
+      "cityId": 2968749,
+      "url": "https://wegotrip.com/villefranche-sur-mer-d2968749/"
+    },
+    {
+      "slug": "villers-cotterets",
+      "cityId": 2968405,
+      "url": "https://wegotrip.com/villers-cotterets-d2968405/"
+    },
+    {
+      "slug": "vilnius",
+      "cityId": 593116,
+      "url": "https://wegotrip.com/vilnius-d593116/"
+    },
+    {
+      "slug": "vista",
+      "cityId": 5406602,
+      "url": "https://wegotrip.com/vista-d5406602/"
+    },
+    {
+      "slug": "viterbo-3164039",
+      "cityId": 3164039,
+      "url": "https://wegotrip.com/viterbo-3164039-d3164039/"
+    },
+    {
+      "slug": "vladivostok",
+      "cityId": 2013348,
+      "url": "https://wegotrip.com/vladivostok-d2013348/"
+    },
+    {
+      "slug": "volterra",
+      "cityId": 3163962,
+      "url": "https://wegotrip.com/volterra-d3163962/"
+    },
+    {
+      "slug": "warren-5218023",
+      "cityId": 5218023,
+      "url": "https://wegotrip.com/warren-5218023-d5218023/"
+    },
+    {
+      "slug": "warsaw",
+      "cityId": 756135,
+      "url": "https://wegotrip.com/warsaw-d756135/"
+    },
+    {
+      "slug": "warwick-2634725",
+      "cityId": 2634725,
+      "url": "https://wegotrip.com/warwick-2634725-d2634725/"
+    },
+    {
+      "slug": "washington-dc",
+      "cityId": 4140963,
+      "url": "https://wegotrip.com/washington-dc-d4140963/"
+    },
+    {
+      "slug": "washington-dc",
+      "cityId": 4140963,
+      "url": "https://wegotrip.com/washington-dc-d4140963/"
+    },
+    {
+      "slug": "washington-dc",
+      "cityId": 4140963,
+      "url": "https://wegotrip.com/washington-dc-d4140963/"
+    },
+    {
+      "slug": "washington-dc",
+      "cityId": 4140963,
+      "url": "https://wegotrip.com/washington-dc-d4140963/"
+    },
+    {
+      "slug": "washington-dc",
+      "cityId": 4140963,
+      "url": "https://wegotrip.com/washington-dc-d4140963/"
+    },
+    {
+      "slug": "wavre",
+      "cityId": 2783941,
+      "url": "https://wegotrip.com/wavre-d2783941/"
+    },
+    {
+      "slug": "weimar",
+      "cityId": 2812482,
+      "url": "https://wegotrip.com/weimar-d2812482/"
+    },
+    {
+      "slug": "wellington-3359510",
+      "cityId": 3359510,
+      "url": "https://wegotrip.com/wellington-3359510-d3359510/"
+    },
+    {
+      "slug": "west-dundee",
+      "cityId": 4915977,
+      "url": "https://wegotrip.com/west-dundee-d4915977/"
+    },
+    {
+      "slug": "west-ilsley",
+      "cityId": 11747336,
+      "url": "https://wegotrip.com/west-ilsley-d11747336/"
+    },
+    {
+      "slug": "west-mifflin",
+      "cityId": 5218802,
+      "url": "https://wegotrip.com/west-mifflin-d5218802/"
+    },
+    {
+      "slug": "west-palm-beach",
+      "cityId": 4177887,
+      "url": "https://wegotrip.com/west-palm-beach-d4177887/"
+    },
+    {
+      "slug": "wetzlar",
+      "cityId": 2809889,
+      "url": "https://wegotrip.com/wetzlar-d2809889/"
+    },
+    {
+      "slug": "wheaton-4916288",
+      "cityId": 4916288,
+      "url": "https://wegotrip.com/wheaton-4916288-d4916288/"
+    },
+    {
+      "slug": "wheeling-5280854",
+      "cityId": 5280854,
+      "url": "https://wegotrip.com/wheeling-5280854-d5280854/"
+    },
+    {
+      "slug": "whitby",
+      "cityId": 2634135,
+      "url": "https://wegotrip.com/whitby-d2634135/"
+    },
+    {
+      "slug": "white-plains",
+      "cityId": 5144336,
+      "url": "https://wegotrip.com/white-plains-d5144336/"
+    },
+    {
+      "slug": "wiesbaden",
+      "cityId": 2809346,
+      "url": "https://wegotrip.com/wiesbaden-d2809346/"
+    },
+    {
+      "slug": "willemstad",
+      "cityId": 3513090,
+      "url": "https://wegotrip.com/willemstad-d3513090/"
+    },
+    {
+      "slug": "williamsburg-4793846",
+      "cityId": 4793846,
+      "url": "https://wegotrip.com/williamsburg-4793846-d4793846/"
+    },
+    {
+      "slug": "winchester",
+      "cityId": 2633858,
+      "url": "https://wegotrip.com/winchester-d2633858/"
+    },
+    {
+      "slug": "wittenberg",
+      "cityId": 7303020,
+      "url": "https://wegotrip.com/wittenberg-d7303020/"
+    },
+    {
+      "slug": "worcester-4956184",
+      "cityId": 4956184,
+      "url": "https://wegotrip.com/worcester-4956184-d4956184/"
+    },
+    {
+      "slug": "worms",
+      "cityId": 2806142,
+      "url": "https://wegotrip.com/worms-d2806142/"
+    },
+    {
+      "slug": "wroclaw",
+      "cityId": 3081368,
+      "url": "https://wegotrip.com/wroclaw-d3081368/"
+    },
+    {
+      "slug": "wurzburg",
+      "cityId": 2805615,
+      "url": "https://wegotrip.com/wurzburg-d2805615/"
+    },
+    {
+      "slug": "yalova",
+      "cityId": 738025,
+      "url": "https://wegotrip.com/yalova-d738025/"
+    },
+    {
+      "slug": "yazd",
+      "cityId": 111822,
+      "url": "https://wegotrip.com/yazd-d111822/"
+    },
+    {
+      "slug": "yerevan",
+      "cityId": 616052,
+      "url": "https://wegotrip.com/yerevan-d616052/"
+    },
+    {
+      "slug": "yerevan",
+      "cityId": 616052,
+      "url": "https://wegotrip.com/yerevan-d616052/"
+    },
+    {
+      "slug": "yerevan",
+      "cityId": 616052,
+      "url": "https://wegotrip.com/yerevan-d616052/"
+    },
+    {
+      "slug": "yerevan",
+      "cityId": 616052,
+      "url": "https://wegotrip.com/yerevan-d616052/"
+    },
+    {
+      "slug": "yerevan",
+      "cityId": 616052,
+      "url": "https://wegotrip.com/yerevan-d616052/"
+    },
+    {
+      "slug": "yogyakarta",
+      "cityId": 1621177,
+      "url": "https://wegotrip.com/yogyakarta-d1621177/"
+    },
+    {
+      "slug": "yokohama",
+      "cityId": 1848354,
+      "url": "https://wegotrip.com/yokohama-d1848354/"
+    },
+    {
+      "slug": "york",
+      "cityId": 2633352,
+      "url": "https://wegotrip.com/york-d2633352/"
+    },
+    {
+      "slug": "zaandam",
+      "cityId": 2744118,
+      "url": "https://wegotrip.com/zaandam-d2744118/"
+    },
+    {
+      "slug": "zaandijk",
+      "cityId": 2744116,
+      "url": "https://wegotrip.com/zaandijk-d2744116/"
+    },
+    {
+      "slug": "zabbar",
+      "cityId": 2562266,
+      "url": "https://wegotrip.com/zabbar-d2562266/"
+    },
+    {
+      "slug": "zadar",
+      "cityId": 3186952,
+      "url": "https://wegotrip.com/zadar-d3186952/"
+    },
+    {
+      "slug": "zagreb",
+      "cityId": 3186886,
+      "url": "https://wegotrip.com/zagreb-d3186886/"
+    },
+    {
+      "slug": "zakopane",
+      "cityId": 3080866,
+      "url": "https://wegotrip.com/zakopane-d3080866/"
+    },
+    {
+      "slug": "zalau",
+      "cityId": 662334,
+      "url": "https://wegotrip.com/zalau-d662334/"
+    },
+    {
+      "slug": "zaragoza-3104324",
+      "cityId": 3104324,
+      "url": "https://wegotrip.com/zaragoza-3104324-d3104324/"
+    },
+    {
+      "slug": "zonnebeke",
+      "cityId": 2783184,
+      "url": "https://wegotrip.com/zonnebeke-d2783184/"
+    },
+    {
+      "slug": "zschopau",
+      "cityId": 2803798,
+      "url": "https://wegotrip.com/zschopau-d2803798/"
+    },
+    {
+      "slug": "zurich",
+      "cityId": 2657896,
+      "url": "https://wegotrip.com/zurich-d2657896/"
+    },
+    {
+      "slug": "zurich",
+      "cityId": 2657896,
+      "url": "https://wegotrip.com/zurich-d2657896/"
+    }
+  ]
+}

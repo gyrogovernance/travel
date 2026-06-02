@@ -30,7 +30,7 @@ You come for the food, the multicultural urban experience, the Gardens by the Ba
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for Singapore for short stays; verify on the official **Immigration & Checkpoints Authority (ICA)** portal. The **SG Arrival Card** is required before arrival; complete online.
 - **MRT and bus** use **EZ-Link** card or **contactless payment** (Visa, Mastercard, Amex, Apple Pay, Google Pay) on most lines.
@@ -38,7 +38,7 @@ You come for the food, the multicultural urban experience, the Gardens by the Ba
 - **Singapore Zoo, Night Safari, River Wonders, Bird Paradise** are operated by **Mandai Wildlife Reserve**; sell tickets on official portals.
 - **Strict laws:** verify current rules on **chewing gum, smoking zones, vaping, drug penalties, jaywalking, vandalism**; Singapore enforces them.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Straits Times** and **Channel News Asia** for serious Singaporean and Asian news.
 - **Visit Singapore** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the food, the multicultural urban experience, the Gardens by the Ba
 - A locally led food walking tour (Wok 'n' Stroll, Eat Pray Love Singapore).
 - **Wikivoyage Singapore** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the food strategy.** A serious hawker-centre-focused trip is the right Singapore food approach; a Marina-Bay-Sands-only food trip misses the point.
 - **You decide on Gardens by the Bay.** The outdoor Supertree Grove is free; the indoor Cloud Forest and Flower Dome are ticketed; both reward visits.
@@ -54,7 +54,7 @@ You come for the food, the multicultural urban experience, the Gardens by the Ba
 - **You decide on the neighbourhood depth.** Chinatown, Little India, Kampong Glam (Arab Street and the Sultan Mosque), Tiong Bahru each give a different Singapore.
 - **You decide on day-trips.** Pulau Ubin (the rustic island), Bintan (Indonesia, ferry), Johor Bahru (Malaysia, causeway) are all reachable.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Singapore weather is equatorial; warm and humid year-round (typically 25-32°C with high humidity); afternoon thunderstorms are routine; haze (forest-fire smoke from Indonesia) occasionally affects air quality.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Singapore experiences I should not miss given my interests, and one I should consider skipping (an Orchard Road luxury-mall day that misses hawker culture, a Sentosa-only trip, an Indonesian-haze outdoor plan). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the SG Arrival Card, ICA visa rules, EZ-Link or contactless MRT, Gardens by the Bay timed tickets, Mandai Wildlife portal, and strict-law verification.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Singapore source, one Singapore news outlet (Straits Times or Channel News Asia), one Singaporean author, and one Singapore food walking tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (hawker focus, Gardens by the Bay paid vs free, Sentosa commitment, neighbourhood depth, day-trip).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (downpour, haze day, F1 weekend, a hawker centre renovation).
+> - **Governance Management.** What assumptions should I check before I book? Include the SG Arrival Card, ICA visa rules, EZ-Link or contactless MRT, Gardens by the Bay timed tickets, Mandai Wildlife portal, and strict-law verification.
+> - **Information Curation.** Suggest at least four different source types: one official Singapore source, one Singapore news outlet (Straits Times or Channel News Asia), one Singaporean author, and one Singapore food walking tour.
+> - **Inference Interaction.** List the decisions I personally need to make (hawker focus, Gardens by the Bay paid vs free, Sentosa commitment, neighbourhood depth, day-trip).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (downpour, haze day, F1 weekend, a hawker centre renovation).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, MRT lines, and named neighbourhoods. Include at least one hawker-centre meal and one multicultural-neighbourhood walk. Mark each business as confidently locally owned, or flag for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the art, the food, the late-night energy, and a city that has earne
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Prado, Reina Sofía, Thyssen-Bornemisza** sell timed tickets on official portals; the Prado has free entry in late afternoon (verify current times); the Reina Sofía has free entry on certain weekday evenings and Sunday afternoons.
@@ -38,7 +38,7 @@ You come for the art, the food, the late-night energy, and a city that has earne
 - **Short-term rental licensing** in Madrid is regulated; verify the VUT registration number on any listing.
 - **Bernabéu Stadium** tour and Real Madrid matches sell on the official Real Madrid portal; Atlético Madrid similarly on its official site.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El País** and **The Local Spain** (English) for current news.
 - **EsMadrid** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the art, the food, the late-night energy, and a city that has earne
 - A locally led Lavapiés or Malasaña walking tour with a resident guide.
 - **Wikivoyage Madrid** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Golden Triangle pace.** Three serious museums in three half-days is the right rhythm; doing all three in one day burns out.
 - **You decide on the Prado free hours.** Free entry late afternoon is the deal but the museum is crowded; book a paid timed slot for a calmer visit.
@@ -54,7 +54,7 @@ You come for the art, the food, the late-night energy, and a city that has earne
 - **You decide on a flamenco show.** Choose a tablao with a focus on the music (Corral de la Morería, Casa Patas, Cardamomo) rather than a dinner-show; flamenco originated in Andalucía, but Madrid's tablaos are serious.
 - **You decide on Sunday La Latina.** Cava Baja and the surrounding streets for *vermut* (sweet vermouth) before lunch is one of Madrid's great Sunday rituals.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Madrid weather is dry-continental; very cold winter mornings, very hot summer afternoons, dramatic shoulder seasons. Major events (San Isidro festival in May, Real Madrid Champions League nights) reshape the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Madrid experiences I should not miss given my interests, and one I should consider skipping (a Plaza Mayor tourist restaurant, an 8 pm dinner when Madrileños eat at 10, a flamenco dinner show when a real tablao is steps better). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official Prado/Reina Sofía/Thyssen ticketing and free-hours, VUT rental registration, Royal Palace free-entry times, and AVE Renfe booking for day trips.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Madrid source, one Spanish news outlet, one Spanish author, and one Lavapiés or Malasaña walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (museum pacing, free vs paid hours, dinner timing, flamenco venue choice, Sunday La Latina commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (August heat, a Bernabéu match closure, a strike, a closed restaurant for staff holidays).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official Prado/Reina Sofía/Thyssen ticketing and free-hours, VUT rental registration, Royal Palace free-entry times, and AVE Renfe booking for day trips.
+> - **Information Curation.** Suggest at least four different source types: one official Madrid source, one Spanish news outlet, one Spanish author, and one Lavapiés or Malasaña walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (museum pacing, free vs paid hours, dinner timing, flamenco venue choice, Sunday La Latina commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (August heat, a Bernabéu match closure, a strike, a closed restaurant for staff holidays).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one La Latina Sunday or a Lavapiés evening if my dates allow. Mark each business as confidently locally owned, or flag for me to verify.
 >

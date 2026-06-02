@@ -1,0 +1,52 @@
+{
+  "slug": "hong-kong",
+  "name": "Hong Kong",
+  "country": "China",
+  "region": "Asia",
+  "image": "/destinations/hong-kong.jpg",
+  "teaser": "Hong Kong is a special administrative region of China and one of the world's most densely built cities, a Cantonese-speaking, British-colonial-shaped harbour metropolis of roughly 7.5 million packed onto Hong Kong Island, Kowloon, the New Territories, and 200 smaller islands. The skyline, the dim sum, the trams, and the protected country parks (40 percent of the territory) all share the same compact geography.",
+  "intro": "Hong Kong is a special administrative region of China and one of the world's most densely built cities, a Cantonese-speaking, British-colonial-shaped harbour metropolis of roughly 7.5 million packed onto Hong Kong Island, Kowloon, the New Territories, and 200 smaller islands. The skyline, the dim sum, the trams, and the protected country parks (40 percent of the territory) all share the same compact geography.",
+  "whyVisit": "Hong Kong is a working East-meets-East city. The Victoria Harbour skyline at night is one of the planet's iconic urban views. The Star Ferry, the Peak tram, and the double-decker trams are functioning historic transport. Cantonese cuisine reaches its global peak here; dim sum is breakfast, congee is comfort food, roast goose is a destination.\n\nThe city is also smaller than its skyline suggests, and 40 percent of its land is protected country park. A 30-minute bus from Central drops you in Sai Kung's hiking country; the Dragon's Back trail rivals any urban hike on Earth.",
+  "ethicalCompass": {
+    "economy": "Eat at cha chaan teng (Hong Kong-style diners), small dim sum houses (Tim Ho Wan, Lin Heung Tea House), and family roast-meat shops in Sham Shui Po, Sai Ying Pun, and Yau Ma Tei. Buy at wet markets and small electronics shops rather than only major malls.",
+    "employment": "Tipping is small; 10 percent service charge is often added at sit-down restaurants. Use the Octopus card (the most beautifully integrated payment system in Asia) for everything from MTR to corner-store snacks.",
+    "education": "Read about the British handover and the post-2020 changes in Hong Kong's political landscape. Be aware that political conversation has changed; locals may not engage on the same topics they would have years ago. The Hong Kong Museum of History (verify current opening status) covers six thousand years of regional history.",
+    "ecology": "Walk and use public transport; cars are penalised by design. Hike the country parks; the MacLehose, Wilson, and Lantau Trails are world-class. The harbour has been cleaned dramatically in recent decades; the swimming beaches on Hong Kong Island's south side (Repulse Bay, Stanley) and Lantau are real."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most visitors are visa-exempt for Hong Kong (separate from mainland China rules); verify on the official Hong Kong Immigration Department portal.",
+      "The Octopus card is the universal payment system; buy at any MTR station or at the airport. Contactless bank cards work on most MTR lines as well.",
+      "The Peak Tram and Ngong Ping 360 cable car sell timed tickets on official portals; both sell out in peak season.",
+      "Hong Kong Disneyland and Ocean Park sell tickets on official portals.",
+      "For hiking (Dragon's Back, Lion Rock, MacLehose Stages), verify current trail status on the official AFCD (Agriculture, Fisheries and Conservation Department) portal."
+    ],
+    "icu": [
+      "South China Morning Post for serious English-language coverage.",
+      "The official Hong Kong Tourism Board for events, openings, and current advisories.",
+      "A Hong Kong-set book: Han Suyin's A Many-Splendoured Thing (classic); Dorothy Lai for more recent fiction; Louisa Lim's Indelible City for the political context.",
+      "A locally led food tour or neighbourhood walk in Sham Shui Po or Kowloon City.",
+      "Wikivoyage Hong Kong for district orientation."
+    ],
+    "iinter": [
+      "You decide on the harbour view. The Symphony of Lights at 8 pm from the Tsim Sha Tsui waterfront is free; from the Peak, it is more expensive and the same view from above; from Star Ferry, it is the best moving picture.",
+      "You decide on hiking. Dragon's Back, Victoria Peak Circle, Lantau Trail Stage 2 (above Tai O), and Sai Kung's MacLehose are all achievable in a half day; the country parks transform your understanding of Hong Kong.",
+      "You decide on dim sum strategy. Tim Ho Wan is the famous one (and good); Lin Heung Tea House is more traditional (and chaotic); the wider scene is hundreds of small places. Sample widely.",
+      "You decide your political-conversation register. Things have changed in recent years. Listen to what locals do and do not bring up.",
+      "You decide on Macau as a day-trip. One hour by ferry; the colonial Portuguese centre is UNESCO-listed; the casinos are mostly skippable."
+    ],
+    "ico": "Hong Kong weather is subtropical; typhoons can shut the city on short notice in summer and autumn. Air quality on still days can be poor. The MTR is one of the world's best metros but is occasionally affected by political events or maintenance.\n\nBring a soft plan. If a typhoon signal goes up, museums, malls, and indoor markets are excellent typhoon-day refuges. If air quality is red, push the country park hike to a clearer morning. If your Peak Tram is sold out, the bus to the Peak or the Circle walk works."
+  },
+  "anchorSpots": [
+    "Victoria Peak by tram or bus. Sunset at the Peak Circle Walk. The tram is more atmospheric; the bus is reliable when the tram is sold out.",
+    "Tsim Sha Tsui waterfront and Star Ferry. Walk the Avenue of Stars at sunset; cross to Central or Wan Chai by Star Ferry; watch the Symphony of Lights.",
+    "A dim sum lunch and a wet-market walk in Sham Shui Po. The most local Cantonese district still affordable to live in.",
+    "A country-park hike: Dragon's Back, the Peak Circle, or a MacLehose stage. Half a day, transformative.",
+    "Lantau Island day: Ngong Ping cable car, the Big Buddha, Tai O fishing village. A full day; the cable car is spectacular if heights are fine."
+  ],
+  "recommendedLength": "Three to five days for the city and at least one island day. Add a day for Macau.",
+  "transportHint": "The MTR is excellent; Octopus card or contactless. The Star Ferry is both transport and tourist experience. The tram (ding ding) on Hong Kong Island is a slow but charming way to see the north shore. Buses cover everywhere else. Hong Kong International Airport (HKG) is connected to Central in 24 minutes by the Airport Express.",
+  "prompt": "Please help me plan an ethical visit to Hong Kong for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Cantonese food, harbour views, hiking, Chinese-British history, shopping]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Hong Kong experiences I should not miss given my interests, and one I should consider skipping (a Peak Tram queue when the bus is steps better, the casinos in Macau, an overpriced harbour cruise when the Star Ferry covers it). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the Hong Kong visa portal, Octopus card or contactless setup, the Peak Tram and Ngong Ping 360 official portals, country-park trail status, and typhoon signals.\n- **Information Curation.** Suggest at least four different source types: one official Hong Kong source, the South China Morning Post or a serious English-language outlet, a Hong Kong author, and a local food or neighbourhood walking guide.\n- **Inference Interaction.** List the decisions I personally need to make (harbour view from where, hiking commitment, dim sum strategy, political conversation register, Macau add-on).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (typhoon signal 8 closing the city, red air-quality day, sold-out Peak Tram, an MTR line closure).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, MTR lines, and named districts. Include at least one country-park hike and one Sham Shui Po food walk. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Hong Kong Tourism Board, MTR, AFCD for country parks, and the Hong Kong Immigration Department.\n2. Real people: a local resident, a Hong Kong food guide, or hotel staff who live in Hong Kong now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 1819729,
+  "order": 10
+}

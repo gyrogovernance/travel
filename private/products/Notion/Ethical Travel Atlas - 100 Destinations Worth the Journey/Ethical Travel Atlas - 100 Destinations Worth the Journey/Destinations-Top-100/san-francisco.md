@@ -30,7 +30,7 @@ You come for the bridge, the food (the city has more Michelin stars per capita t
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Alcatraz Island** tickets sell only through the official **Alcatraz City Cruises** portal; sell out 2 to 8 weeks ahead.
@@ -38,7 +38,7 @@ You come for the bridge, the food (the city has more Michelin stars per capita t
 - **Muni and BART** use **Clipper card** or contactless on most lines.
 - **De Young Museum, SFMOMA, Asian Art Museum, the California Academy of Sciences** sell timed tickets on official portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **San Francisco Chronicle** and **Mission Local** (neighbourhood-focused) for local journalism.
 - **San Francisco Travel** (the official tourism site) for events.
@@ -46,7 +46,7 @@ You come for the bridge, the food (the city has more Michelin stars per capita t
 - A locally led Mission, Chinatown, or Castro walking tour with a resident guide.
 - **Wikivoyage San Francisco** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Alcatraz.** Book weeks ahead; the day or night tour are both excellent; the audio tour (Antenna's) is one of the best in any museum.
 - **You decide on the cable car.** The Powell-Hyde line is the iconic ride; the California Street line is the calmer alternative. The fixed fare is part of the experience.
@@ -54,7 +54,7 @@ You come for the bridge, the food (the city has more Michelin stars per capita t
 - **You decide on the neighbourhood depth.** A trip that never leaves Union Square misses 90 percent of SF. Add at least one full day in the Mission, Chinatown, Castro, or Haight.
 - **You decide on the tech-history engagement.** Apple Park (Cupertino), the Computer History Museum (Mountain View), or just a Mission Bay walk give different angles.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 SF weather is famously cool-summer, mild winter, with the city's signature fog (Karl, who has his own Twitter) rolling through July and August. Earthquake awareness is part of city life. Major events (Outside Lands music festival, Pride in June, Chinese New Year) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three SF experiences I should not miss given my interests, and one I should consider skipping (a Fisherman's Wharf tourist restaurant, an attempt at same-day Alcatraz tickets, a wine-country day if my time is limited to two days). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, official Alcatraz City Cruises, museum portals, Clipper or contactless on Muni and BART, and wildfire-season air quality.
-> - **Information Curation Variety.** Suggest at least four different source types: one official SF source, one local news outlet, one SF author (Maupin, Solnit, or Tan), and one neighbourhood-led walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Alcatraz timing, bridge walk vs bike, neighbourhood depth, tech-history engagement, day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer fog, wildfire smoke, sold-out Alcatraz, a BART delay).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official Alcatraz City Cruises, museum portals, Clipper or contactless on Muni and BART, and wildfire-season air quality.
+> - **Information Curation.** Suggest at least four different source types: one official SF source, one local news outlet, one SF author (Maupin, Solnit, or Tan), and one neighbourhood-led walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Alcatraz timing, bridge walk vs bike, neighbourhood depth, tech-history engagement, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer fog, wildfire smoke, sold-out Alcatraz, a BART delay).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Mission and one Chinatown experience, plus the bridge. Mark each business as confidently locally owned, or flag for me to verify.
 >

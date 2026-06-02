@@ -30,7 +30,7 @@ You come for the subtropical river city, the contemporary art, the food, and as 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor visa** is required for most travellers; verify your nationality on the Australian Department of Home Affairs portal.
 - **Translink** runs all Brisbane public transport (train, bus, CityCat ferry); contactless payment is accepted on most services.
@@ -38,7 +38,7 @@ You come for the subtropical river city, the contemporary art, the food, and as 
 - For day trips to **Moreton Island or North Stradbroke**, confirm ferry operators (SeaLink for Stradbroke, MICAT for Moreton) on official sites.
 - Any **wildlife encounter** (koala sanctuary, dolphin feeding) should be licensed by Queensland Parks and Wildlife; verify before booking.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Brisbane Times** and **ABC Brisbane** for current city news.
 - **Visit Brisbane** (the official city tourism site) for events, openings, and seasonal advisories.
@@ -46,7 +46,7 @@ You come for the subtropical river city, the contemporary art, the food, and as 
 - A First Nations-led Brisbane tour: BlackCard or Yura Tours for in-city; Quandamooka tours on Minjerribah.
 - **Wikivoyage Brisbane** for area orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Olympics overlay.** Brisbane is hosting in coming years; construction is already reshaping parts of the city. Your visit can support or bypass the displacement that often comes with mega-events.
 - **You decide on Quandamooka and Minjerribah.** A day on North Stradbroke with Quandamooka-led tourism is a different Australia from the riverside CBD; it is also a longer day.
@@ -54,7 +54,7 @@ You come for the subtropical river city, the contemporary art, the food, and as 
 - **You decide on koala interactions.** Lone Pine Koala Sanctuary allows holding; many ethical voices argue against this. Decide on your principles.
 - **You decide your river engagement.** The CityCat (or the free CityHopper inner-city route) is one of the great public-transport experiences. Use it.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Brisbane weather is subtropical; thunderstorms arrive fast in summer, the river floods periodically (most recently with serious damage), and humidity drives the rhythm of the day. Major events (festivals, sport, eventually the Olympics) reshape transport at short notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Brisbane experiences I should not miss given my interests, and one I should consider skipping. Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Translink contactless payments, ferry operators to Stradbroke and Moreton, and licensing of any wildlife-encounter operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Australian or Queensland source, one Brisbane news outlet, one First Nations author or tour operator, and one neighbourhood-based food or walking host.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Olympics-overlay considerations, Quandamooka engagement, Reef-from-Brisbane reality, koala ethics, river engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, cancelled CityCat, ferry weather cancellation, a closed wing at GOMA).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Translink contactless payments, ferry operators to Stradbroke and Moreton, and licensing of any wildlife-encounter operators.
+> - **Information Curation.** Suggest at least four different source types: one official Australian or Queensland source, one Brisbane news outlet, one First Nations author or tour operator, and one neighbourhood-based food or walking host.
+> - **Inference Interaction.** List the decisions I personally need to make (Olympics-overlay considerations, Quandamooka engagement, Reef-from-Brisbane reality, koala ethics, river engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, cancelled CityCat, ferry weather cancellation, a closed wing at GOMA).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one First Nations-led experience and one full CityCat run. Mark each business as confidently locally owned, or flag it for me to verify.
 >

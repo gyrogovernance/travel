@@ -30,7 +30,7 @@ You come for the literature, the music, the Guinness, the conversation, and a ci
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for Ireland; verify on the official Department of Justice portal. Ireland is not in Schengen.
 - **Book of Kells and the Long Room at Trinity College** require timed tickets on the official Trinity portal; book days ahead.
@@ -38,7 +38,7 @@ You come for the literature, the music, the Guinness, the conversation, and a ci
 - **Guinness Storehouse** sells timed tickets on its official portal.
 - For **Cliffs of Moher or Wicklow day trips**, verify operator legitimacy; multiple reliable companies operate.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Irish Times** and **RTÉ News** for serious Irish journalism.
 - The official **Visit Dublin** portal for events and openings.
@@ -46,7 +46,7 @@ You come for the literature, the music, the Guinness, the conversation, and a ci
 - A locally led Dublin literary or pub-music walking tour with an Irish guide.
 - **Wikivoyage Dublin** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Temple Bar.** Temple Bar is famous, central, and largely a tourist zone with inflated drink prices. The actual Dublin pubs are everywhere else.
 - **You decide on the Book of Kells.** The exhibition has been redesigned recently; verify current format on the official Trinity portal before queuing.
@@ -54,7 +54,7 @@ You come for the literature, the music, the Guinness, the conversation, and a ci
 - **You decide on music.** A trad session at Cobblestone (Smithfield) or O'Donoghue's (Merrion Row) is real working Irish music; a "trad show" in Temple Bar is something else.
 - **You decide on day-trips.** Howth, Bray, Glendalough, or the Cliffs of Moher are all reachable; commit to one and do it properly.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Dublin weather is changeable; "four seasons in an hour" applies. Pubs fill on weekends and during rugby internationals or major Irish sporting events. Bank Holiday weekends shift transport.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Dublin experiences I should not miss given my interests, and one I should consider skipping (Temple Bar inflated pints, a packaged "trad show" when a real session is steps away, a Cliffs of Moher day that becomes a 14-hour bus). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Irish visa-exempt status on the Department of Justice portal, official Trinity College and Kilmainham Gaol ticketing, the Leap Visitor Card, and major event dates (St Patrick's, Bloomsday, rugby internationals).
-> - **Information Curation Variety.** Suggest at least four different source types: one official Irish source, one Irish news outlet, one Irish author, and one locally led Dublin literary or music walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Temple Bar trade-off, Book of Kells format, music venue choice, day-trip choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rain, sold-out major attractions, a rugby weekend clogging pubs, transport strikes).
+> - **Governance Management.** What assumptions should I check before I book? Include the Irish visa-exempt status on the Department of Justice portal, official Trinity College and Kilmainham Gaol ticketing, the Leap Visitor Card, and major event dates (St Patrick's, Bloomsday, rugby internationals).
+> - **Information Curation.** Suggest at least four different source types: one official Irish source, one Irish news outlet, one Irish author, and one locally led Dublin literary or music walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Temple Bar trade-off, Book of Kells format, music venue choice, day-trip choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rain, sold-out major attractions, a rugby weekend clogging pubs, transport strikes).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one trad music session and one serious museum or memorial. Mark each business as confidently locally owned, or flag it for me to verify.
 >

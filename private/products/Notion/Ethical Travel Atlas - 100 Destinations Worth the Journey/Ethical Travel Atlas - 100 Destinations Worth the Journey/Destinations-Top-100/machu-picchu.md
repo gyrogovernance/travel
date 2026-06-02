@@ -30,7 +30,7 @@ You come because not visiting is unthinkable if you are in this part of the worl
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most travellers are **visa-exempt** for Peru; verify on the Migraciones Peru portal.
 - **Machu Picchu tickets** are sold on the official Peruvian Ministry of Culture portal (tuboleto.cultura.pe). Multiple **circuits** exist with route restrictions; the rules have changed repeatedly. Verify **current circuits, capacities, time slots, and which circuits combine with Huayna Picchu, Machu Picchu Mountain, or Huchuy Picchu** before booking.
@@ -38,7 +38,7 @@ You come because not visiting is unthinkable if you are in this part of the worl
 - The **Inca Trail** is permit-controlled with a strict daily quota; permits sell out months ahead; book through a **SERNANP-registered operator** (official list on SERNANP portal).
 - **Train tickets to Aguas Calientes** are run by **PeruRail** and **Inca Rail**; book on official portals weeks ahead in peak season.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - The **Peruvian Ministry of Culture** portal for site rules and circuits.
 - **SERNANP** for the Inca Trail permits and trekking rules.
@@ -46,7 +46,7 @@ You come because not visiting is unthinkable if you are in this part of the worl
 - A book on Inca history: Kim MacQuarrie's *The Last Days of the Incas* (popular); Richard Burger and Lucy Salazar (academic on Machu Picchu specifically).
 - A MINCETUR-licensed guide and the **Centro de Textiles Tradicionales del Cusco** for Andean cultural context.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the number of visits.** Two days at the site (with two separate timed tickets and two different circuits) gives you a complete read. One visit can feel rushed. The half-price next-day option historically existed; verify current rules.
 - **You decide on the trek vs train.** The classic Inca Trail (4 days, permit, book months ahead) is the most meaningful approach. Salkantay (4 to 5 days, no permit cap) is alternative. The train-only option is fine for the time-limited.
@@ -54,7 +54,7 @@ You come because not visiting is unthinkable if you are in this part of the worl
 - **You decide on the dawn first-bus.** Bus from Aguas Calientes starts before 6 am; queue early to ride the first up. Or the late-afternoon slot for the empty-site experience.
 - **You decide on your guide.** A serious Peruvian guide changes the experience; freelancers may misinform.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 The Sacred Valley and Machu Picchu region have unpredictable weather. Wet season (December to March) closes the Inca Trail in February for restoration; the site itself stays open but circuits may be slick. Dry season (May to September) is the practical visitor window. Strikes (*paros*) occasionally close roads or rail lines.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of circuit, Huayna Picchu or Machu Picchu Mountain, single visit vs two visits, and trek vs train approach. Identify one I should consider skipping (a one-day in-and-out without a guide, an unlicensed gate guide, an Inca Trail without proper acclimatisation). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the official Ministry of Culture portal for circuits and capacities, SERNANP-registered Inca Trail operators, PeruRail and Inca Rail official portals, the personalised-ticket rule, and current paro (strike) reports.
-> - **Information Curation Variety.** Suggest at least four different source types: the Ministry of Culture, SERNANP, an Inca history book (Kim MacQuarrie or Richard Burger), and a MINCETUR-licensed Peruvian guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (one visit vs two, trek vs train, circuit choice, guide commitment, dawn first-bus vs late-afternoon).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a paro closing the train, a wet-morning fog, sold-out Huayna Picchu, altitude problems delaying the trip).
+> - **Governance Management.** What assumptions should I check before I book? Include the official Ministry of Culture portal for circuits and capacities, SERNANP-registered Inca Trail operators, PeruRail and Inca Rail official portals, the personalised-ticket rule, and current paro (strike) reports.
+> - **Information Curation.** Suggest at least four different source types: the Ministry of Culture, SERNANP, an Inca history book (Kim MacQuarrie or Richard Burger), and a MINCETUR-licensed Peruvian guide.
+> - **Inference Interaction.** List the decisions I personally need to make (one visit vs two, trek vs train, circuit choice, guide commitment, dawn first-bus vs late-afternoon).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a paro closing the train, a wet-morning fog, sold-out Huayna Picchu, altitude problems delaying the trip).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, train booking, shuttle, and the named circuit I should book. Include at least one MINCETUR-licensed guide for the site itself. Mark each operator and ticket as confidently aligned with official rules, or flag for me to verify.
 >

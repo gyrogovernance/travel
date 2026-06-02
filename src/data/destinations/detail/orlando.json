@@ -1,0 +1,52 @@
+{
+  "slug": "orlando",
+  "name": "Orlando",
+  "country": "United States",
+  "region": "Americas",
+  "image": "/destinations/orlando.jpg",
+  "teaser": "Orlando is a 2.7-million-person central Florida metropolitan area, home to Walt Disney World, Universal Orlando, SeaWorld, and the densest cluster of major theme parks on Earth. The world's most-visited theme-park destination, with the wider central-Florida natural landscape (springs, swamps, the Kennedy Space Center) within reach.",
+  "intro": "Orlando is a 2.7-million-person central Florida metropolitan area, home to Walt Disney World, Universal Orlando, SeaWorld, and the densest cluster of major theme parks on Earth. The world's most-visited theme-park destination, with the wider central-Florida natural landscape (springs, swamps, the Kennedy Space Center) within reach.",
+  "whyVisit": "Orlando is the global capital of theme parks. Walt Disney World alone is four parks (Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom) plus two water parks and a vast resort complex. Universal Orlando is three parks (Universal Studios, Islands of Adventure, Volcano Bay, plus the new Epic Universe). SeaWorld and LEGOLAND round out the cluster.\n\nThe destination is also home to one of the largest concentrations of springs in the world, the Kennedy Space Center (45 minutes east), and surprisingly good Vietnamese and Latin American food scenes outside the resort bubble.",
+  "ethicalCompass": {
+    "economy": "Beyond the parks: visit the Kennedy Space Center for actual American space history, the Orlando Museum of Art for visual culture, or learn about central Florida's Seminole and Timucua histories. Read about how Disney's Orlando arrival in the 1970s reshaped the central-Florida economy and ecology.",
+    "employment": "Tip 20 percent at sit-down restaurants; tip housekeeping, valet, theme-park sit-down servers. Theme-park hospitality wages are at the low end of US service wages.",
+    "education": "Beyond the parks: visit the Kennedy Space Center for actual American space history, the Orlando Museum of Art for visual culture, or learn about central Florida's Seminole and Timucua histories. Read about how Disney's Orlando arrival in the 1970s reshaped the central-Florida economy and ecology.",
+    "ecology": "Choose springs over crowded beaches for natural Florida (Wekiwa Springs, Blue Spring, Silver Springs, Rainbow Springs). Reef-safe sunscreen if you swim in the springs (the manatees and clear water depend on it). Do not feed any wildlife."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most international visitors need ESTA (visa waiver) or a B-2 visa for the US; verify on the official US State Department portal.",
+      "Walt Disney World tickets and park reservations book on the official Disney portal; verify current ticket types (date-based, park-hopper, Genie+) and any park-reservation requirement.",
+      "Universal Orlando tickets and Express Pass book on the official Universal portal.",
+      "Kennedy Space Center tickets book on the official KSC Visitor Complex portal; book ahead for launch days.",
+      "State park entry (Wekiwa, Blue Spring) is small fee at the gate; verify on the Florida State Parks portal."
+    ],
+    "icu": [
+      "Orlando Sentinel for local news.",
+      "Visit Orlando (the official tourism site) for events and openings.",
+      "A central Florida book or resource: Carl Hiaasen's Florida novels (set elsewhere but capturing the state); local-business or environmental journalism on the springs.",
+      "A theme-park strategy resource (Touring Plans, Allears.net) for park-specific planning.",
+      "Wikivoyage Orlando for non-park orientation."
+    ],
+    "iinter": [
+      "You decide on the theme-park strategy. Disney plus Universal in one trip needs at least four days at the parks. Doing both in two days is exhausting and incomplete. Genie+ at Disney and Express Pass at Universal change the experience but cost.",
+      "You decide on the on-site vs off-site hotel. Disney and Universal on-site hotels give early-park access; off-site is cheaper. The trade-off depends on park-day count.",
+      "You decide on the springs. A day at a central Florida spring is the antidote to a theme-park week. Wekiwa is closest; Silver Springs has glass-bottom boats; Blue Spring has manatees in winter.",
+      "You decide on the Kennedy Space Center. A full day if you have any interest in space; a launch day if your dates align.",
+      "You decide on the rest of Florida. Tampa, St Petersburg, the Atlantic beaches, the Everglades, and Miami are all reachable; consider extending."
+    ],
+    "ico": "Orlando weather is subtropical with daily afternoon thunderstorms in summer (June to September). Hurricane season runs through November. Major holidays (Christmas/New Year, Easter, Thanksgiving) and school breaks fill the parks to capacity.\n\nBring a soft plan. If a thunderstorm closes outdoor park rides, the indoor rides and shows continue. If a hurricane warning approaches, the parks close orderly and reschedule. If a sold-out day catches you, the off-park downtown is open."
+  },
+  "anchorSpots": [
+    "Magic Kingdom (Disney) at opening. The flagship Disney park; rope-drop strategy and an evening parade.",
+    "Universal's Islands of Adventure (Wizarding World of Harry Potter half) + Universal Studios. The Universal parks' headline experience.",
+    "Kennedy Space Center. Full day; the Saturn V rocket, the Atlantis shuttle, possibly a launch.",
+    "A central Florida spring day (Wekiwa, Blue Spring, Silver Springs, or Rainbow Springs). A real natural Florida.",
+    "A Mills 50 (Orlando's Vietnamese district) dinner or a Winter Park afternoon. Real local Orlando."
+  ],
+  "recommendedLength": "Four to seven days minimum for a meaningful theme-park trip; longer for a more thorough park-and-Florida combination.",
+  "transportHint": "Renting a car is the practical default; theme-park transit is comprehensive within Disney and Universal but doesn't connect the city. Lynx bus and SunRail are limited. Uber and Lyft are reliable. Orlando International Airport (MCO) is 20 minutes to the parks.",
+  "prompt": "Please help me plan an ethical visit to Orlando, United States for [NUMBER] days in [MONTH]. I am travelling with [WHO including children's ages if any] and my interests are [INTERESTS, e.g. Disney parks, Universal/Harry Potter, water parks, Kennedy Space Center, Florida springs]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the best mix of Disney parks, Universal parks, springs, and Kennedy Space Center given my interests and time, and one I should consider skipping (an over-packed two-day Disney + Universal attempt, an on-site hotel I do not need, a launch day I cannot reach). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, official Disney and Universal ticketing and Lightning Lane/Express Pass rules, Kennedy Space Center official tickets, and Florida State Parks for springs.\n- **Information Curation.** Suggest at least four different source types: one official Orlando source, one theme-park planning resource (Touring Plans or Allears), one non-park Orlando food or neighbourhood guide, and one Florida springs or central-Florida environmental source.\n- **Inference Interaction.** List the decisions I personally need to make (park count, on-site vs off-site, springs day, Kennedy Space Center, Mills 50 or Winter Park dinner).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer thunderstorm, hurricane warning, a sold-out park-reservation day, a launch scrub).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named parks/lands. Include at least one non-park day (springs or Kennedy Space Center or downtown Orlando). Mark each business as confidently locally owned where possible, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Orlando, the Disney and Universal official ticketing portals, Kennedy Space Center Visitor Complex, and Florida State Parks.\n2. Real people: a recent theme-park visitor, an Orlando food guide outside the parks, or hotel staff.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 4167147,
+  "order": 79
+}

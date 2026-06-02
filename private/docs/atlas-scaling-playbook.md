@@ -46,10 +46,10 @@ Every destination file must use exactly these emojis, in these positions, with n
 
 | Emoji | Heading |
 | --- | --- |
-| 🔍 | `### 🔍 Governance Management Traceability` |
-| 📡 | `### 📡 Information Curation Variety` |
-| 🎯 | `### 🎯 Inference Interaction Accountability` |
-| 🔄 | `### 🔄 Intelligence Cooperation Integrity` |
+| 🔍 | `### 🔍 Governance Management` |
+| 📡 | `### 📡 Information Curation` |
+| 🎯 | `### 🎯 Inference Interaction` |
+| 🔄 | `### 🔄 Intelligence Cooperation` |
 | 📍 | `### 📍 Top 5 Anchor Spots` |
 | 🧰 | `### 🧰 Practical Essentials` |
 
@@ -73,7 +73,7 @@ Every destination file must follow this exact skeleton. Fill the bracketed slots
 Country: [Country]
 Region: [Asia | Africa | Europe | Americas | Oceania]
 
-![[Destination Name], [Country]](../Destinations-Top-100-assets/[slug].jpg)
+![[Destination Name], [Country]](assets/[slug].jpg)
 
 [A short, evocative opening paragraph. Two to four sentences. Concrete, place-specific, no clichés.]
 
@@ -96,21 +96,21 @@ Region: [Asia | Africa | Europe | Americas | Oceania]
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - [3 to 5 bullets. Assumptions to check before booking.]
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - [3 to 5 bullets. At least four different source types: one official, one local-authored news outlet, one resident voice, one book / podcast / documentary by a local creator.]
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - [3 to 5 bullets. Each begins with "You decide" or equivalent. Names a decision the traveller owns.]
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
-[1 to 3 short paragraphs. Intelligence Cooperation Integrity: cooperate with integrity when local conditions change. Soft plan, not a fixed one.]
+[1 to 3 short paragraphs. Trust the traveller's judgment and local advice over algorithmic defaults when conditions change. Soft plan, not a fixed one.]
 
 ### 📍 Top 5 Anchor Spots
 
@@ -145,10 +145,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** [Destination-specific framing.]
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** [Destination-specific assumptions to check.]
-> - **Information Curation Variety.** [At least four source types.]
-> - **Inference Interaction Accountability.** [Decisions the traveller owns.]
-> - **Intelligence Cooperation Integrity.** [Default plan plus two alternates for likely local disruptions.]
+> - **Governance Management.** [Destination-specific assumptions to check.]
+> - **Information Curation.** [At least four source types.]
+> - **Inference Interaction.** [Decisions the traveller owns.]
+> - **Intelligence Cooperation.** [How to trust judgment and local advice over algorithmic defaults; default plan plus two alternates for likely local disruptions.]
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Where you recommend a business, mark clearly whether you are confident it is currently open and locally owned, or whether I need to verify.
 >
@@ -227,7 +227,7 @@ This turns the Atlas into a funnel whether it is shared free, gated behind an em
 Before marking a destination as Drafted, confirm:
 
 - [ ] File metadata header present: `Country:` and `Region:` lines.
-- [ ] Hero Image block present with relative path `../Destinations-Top-100-assets/[slug].jpg`.
+- [ ] Hero Image block present with relative path `assets/[slug].jpg`.
 - [ ] All three locked step headings present, in order, with correct emojis: 🧭 🎒 ✈️.
 - [ ] All four Ethical Compass bullets present, in order, with correct emojis: 💰 👥 📚 🌱.
 - [ ] All four Gyroscope operations present, in order, with correct emojis: 🔍 📡 🎯 🔄.
@@ -262,9 +262,8 @@ LOCKED EMOJIS (do not substitute):
 - Steps: 🧭 Step 1: Choices | 🎒 Step 2: Preparation | ✈️ Step 3: Delivery
 - Step 1 subs: ✨ Why Visit | 🌍 Ethical Compass
 - Compass bullets: 💰 Economy | 👥 Employment | 📚 Education | 🌱 Ecology
-- Step 2 subs: 🔍 Governance Management Traceability | 📡 Information
-  Variety Curation | 🎯 Inference Interaction Accountability | 🔄
-  Intelligence Cooperation Integrity | 📍 Top 5 Anchor Spots | 🧰
+- Step 2 subs: 🔍 Governance Management | 📡 Information Curation | 🎯
+  Inference Interaction | 🔄 Intelligence Cooperation | 📍 Top 5 Anchor Spots | 🧰
   Practical Essentials
 - Step 3 sub: 🤖 AI Prompt
 

@@ -30,7 +30,7 @@ You come for the migration, the cats, the savannah, and a chance to engage with 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many visitors are **visa-eligible via the eTA (Electronic Travel Authorization)**; verify on the official Kenyan government eTA portal. Yellow fever vaccination may be required from certain origins.
 - **Reserve and conservancy fees** are separate and substantial; verify current pricing on the official Narok County or specific-conservancy portal. Reserve fee at the entrance gate; conservancy fees included in lodge rate.
@@ -38,7 +38,7 @@ You come for the migration, the cats, the savannah, and a chance to engage with 
 - For **migration timing**, river crossings cannot be guaranteed on a given day; verify recent reports with your operator before committing to dates.
 - **Hot-air balloon safari:** verify operator certification and safety record on the official Kenya Civil Aviation Authority portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Daily Nation** (Kenyan English daily) and **BBC Africa** for regional news.
 - The official **Kenya Wildlife Service** and **Magical Kenya** (official tourism) portals.
@@ -46,7 +46,7 @@ You come for the migration, the cats, the savannah, and a chance to engage with 
 - A Maasai community-conservancy guide (Naboisho, Mara North, or Ol Kinyei conservancy lodges arrange these).
 - **Wikivoyage Maasai Mara** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the conservancy.** Reserve-side lodges (Sekenani, Talek areas) are cheaper and busier; conservancy lodges (Mara North, Naboisho, Olare Motorogi, Ol Kinyei) are more expensive, less crowded, with off-road and walking and night-drive privileges, and direct community-lease-fee benefit.
 - **You decide on migration timing.** July to October is the classic window; the river crossings are unpredictable within that window. Be honest with yourself about the risk that you may not see one.
@@ -54,7 +54,7 @@ You come for the migration, the cats, the savannah, and a chance to engage with 
 - **You decide on a Maasai village visit.** Through your camp with proper protocol is meaningful; a roadside performance village is not.
 - **You decide on flight vs drive.** A small bush flight from Nairobi (Wilson Airport) takes 45 minutes; the drive is six to eight hours. The flight costs more; the drive is wearing.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Mara weather is two-season: long rains (March to May), short rains (October to early December), dry seasons in between. The migration is in the Mara roughly July to October, in the Serengeti the rest of the year. River crossings cannot be predicted on a daily basis; flexibility is essential.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of reserve and conservancy and the two or three experiences I should not miss, and one I should consider skipping (a high-volume reserve-edge lodge when a conservancy is steps better for ethics, a balloon safari if my budget is tight, a Maasai village performance that exists purely for tourists). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Kenyan eTA portal, current reserve and conservancy fees, yellow-fever requirement, hot-air balloon certification, and the plastic-bag ban.
-> - **Information Curation Variety.** Suggest at least four different source types: Magical Kenya official, Kenyan news (Daily Nation), a book on the Mara or East African conservation, and a Maasai-community-conservancy lodge or guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (reserve vs conservancy, migration timing risk, balloon, Maasai village engagement, fly-in vs drive-in).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (no migration river crossings on my dates, boggy tracks in rains, a balloon weather cancellation, a sighting jam).
+> - **Governance Management.** What assumptions should I check before I book? Include the Kenyan eTA portal, current reserve and conservancy fees, yellow-fever requirement, hot-air balloon certification, and the plastic-bag ban.
+> - **Information Curation.** Suggest at least four different source types: Magical Kenya official, Kenyan news (Daily Nation), a book on the Mara or East African conservation, and a Maasai-community-conservancy lodge or guide.
+> - **Inference Interaction.** List the decisions I personally need to make (reserve vs conservancy, migration timing risk, balloon, Maasai village engagement, fly-in vs drive-in).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (no migration river crossings on my dates, boggy tracks in rains, a balloon weather cancellation, a sighting jam).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named camps or conservancies. Include at least one conservancy night and one Maasai-guide-led experience. Mark each camp as confidently community-benefit-aligned, or flag for me to verify.
 >

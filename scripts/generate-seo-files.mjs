@@ -2,14 +2,18 @@
  * Generates public/sitemap.xml, llms.txt, and llms-full.txt from site data.
  * Run before build: npm run seo (or via the build script).
  */
-import { writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { POSTS } from "../src/data/posts.js";
-import { DESTINATIONS } from "../src/data/destinations.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const publicDir = join(__dirname, "..", "public");
+const root = join(__dirname, "..");
+const publicDir = join(root, "public");
+
+const { destinations: DESTINATIONS } = JSON.parse(
+  readFileSync(join(root, "src/data/destinations/index.json"), "utf8")
+);
 
 const SITE_URL = "https://travel.gyrogovernance.com";
 
@@ -25,6 +29,7 @@ const STATIC_PAGES = [
   { path: "/guides", priority: "0.9", changefreq: "weekly", title: "Guides hub" },
   { path: "/destinations", priority: "0.9", changefreq: "weekly", title: "Destinations Atlas" },
   { path: "/resources", priority: "0.8", changefreq: "monthly", title: "Travel Resources" },
+  { path: "/search/flights", priority: "0.85", changefreq: "weekly", title: "Search Flights" },
   { path: "/prompts", priority: "0.8", changefreq: "monthly", title: "AI Prompts" },
   { path: "/about", priority: "0.7", changefreq: "monthly", title: "About" },
   { path: "/privacy", priority: "0.3", changefreq: "yearly", title: "Privacy" },

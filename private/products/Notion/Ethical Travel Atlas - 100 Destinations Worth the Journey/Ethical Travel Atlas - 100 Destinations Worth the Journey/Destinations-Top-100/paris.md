@@ -30,7 +30,7 @@ You come for the museums, the food, the Seine walks, the boulangeries, and a cit
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official portals.
 - **Louvre, Musée d'Orsay, Orangerie, Centre Pompidou, Sainte-Chapelle, Catacombes** sell timed tickets on official portals; book ahead in peak season. The **Louvre** in particular requires advance booking.
@@ -39,7 +39,7 @@ You come for the museums, the food, the Seine walks, the boulangeries, and a cit
 - **Versailles** sells timed Palace tickets on the official portal; the gardens are free except on fountain-show days.
 - **Short-term rentals** in Paris must be registered; verify the registration number and the 120-night annual cap rule.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Le Monde** (French) and **The Local France** or **France 24** (English) for current news.
 - **Paris.fr** and the official **Visit Paris Region** sites for events and openings.
@@ -47,7 +47,7 @@ You come for the museums, the food, the Seine walks, the boulangeries, and a cit
 - A locally led food or neighbourhood walking tour (Paris by Mouth, Le Foodist, Localers).
 - **Wikivoyage Paris** for arrondissement orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on Louvre timing.** First slot of the day Wednesday or Friday evening (extended hours) are the calmest. Book on the official portal.
 - **You decide on the Eiffel Tower.** Climbing summit by lift requires advance booking; climbing the stairs to the second floor is a faster, cheaper alternative.
@@ -55,7 +55,7 @@ You come for the museums, the food, the Seine walks, the boulangeries, and a cit
 - **You decide on the food strategy.** A morning at a *marché*, a long lunch at a bistrot, a long evening at a wine bar is the Paris rhythm.
 - **You decide on Notre-Dame.** Post-fire reconstruction is significant; verify current public-access rules.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Paris weather is variable; summer can be hot (the city was unprepared for the 2003 and recent heatwaves); winter is cold and damp. Major events (Tour de France finish in late July, the Olympics retrospective, Fashion Weeks, Bastille Day July 14) reshape parts of the city briefly.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Paris experiences I should not miss given my interests, and one I should consider skipping (a Louvre midday queue when first slot is empty, an unlicensed apartment in Le Marais, an over-priced Champs-Élysées meal). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official ticketing for the Louvre, d'Orsay, Eiffel Tower, Versailles, and Notre-Dame post-reconstruction; Paris short-term rental registration and 120-night cap; Navigo/contactless transit.
-> - **Information Curation Variety.** Suggest at least four different source types: one official French source, one French news outlet (Le Monde or The Local), one French author, and one Paris-based food or neighbourhood walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Louvre slot timing, Eiffel by stairs or lift, Versailles full or half-day, food rhythm, Notre-Dame visit).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a Metro strike, a heat wave or summer rain, a sold-out major museum slot, a major event closure).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official ticketing for the Louvre, d'Orsay, Eiffel Tower, Versailles, and Notre-Dame post-reconstruction; Paris short-term rental registration and 120-night cap; Navigo/contactless transit.
+> - **Information Curation.** Suggest at least four different source types: one official French source, one French news outlet (Le Monde or The Local), one French author, and one Paris-based food or neighbourhood walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Louvre slot timing, Eiffel by stairs or lift, Versailles full or half-day, food rhythm, Notre-Dame visit).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a Metro strike, a heat wave or summer rain, a sold-out major museum slot, a major event closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named arrondissements. Include at least one neighbourhood-based food day (Marais, 10th, 11th, or 14th). Mark each business as confidently locally owned, or flag for me to verify.
 >

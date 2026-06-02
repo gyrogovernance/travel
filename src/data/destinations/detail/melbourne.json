@@ -1,0 +1,52 @@
+{
+  "slug": "melbourne",
+  "name": "Melbourne",
+  "country": "Australia",
+  "region": "Oceania",
+  "image": "/destinations/melbourne.jpg",
+  "teaser": "Melbourne (Naarm) is the capital of Victoria and Australia's second-largest city, a five-million-person grid wrapped around the Yarra River. Often ranked the world's most liveable city, the cultural and sporting capital of Australia, the home of strong coffee, laneway bars, and Australian Rules football.",
+  "intro": "Melbourne (Naarm) is the capital of Victoria and Australia's second-largest city, a five-million-person grid wrapped around the Yarra River. Often ranked the world's most liveable city, the cultural and sporting capital of Australia, the home of strong coffee, laneway bars, and Australian Rules football.",
+  "whyVisit": "Melbourne is Australia's cultural and culinary heart. The laneways of the CBD (Degraves, Centre Place, ACDC Lane, Hosier Lane) are working cafés, bars, and street-art galleries. The National Gallery of Victoria is the country's busiest museum. The MCG (Melbourne Cricket Ground) is the largest stadium in the southern hemisphere. The food scene (Italian, Greek, Vietnamese, Ethiopian, Indian) is the most diverse in Australia.\n\nThe city is also the most European-feeling in Australia: trams, theatre, sports, and bars that stay open. The Great Ocean Road, the Mornington Peninsula, the Yarra Valley wine region, and the Phillip Island penguins are all reachable on day trips.",
+  "ethicalCompass": {
+    "economy": "Eat in actual neighbourhoods: Lygon Street (Italian), Victoria Street (Vietnamese), Sydney Road (Middle Eastern and Mediterranean), Smith Street (Collingwood), Bridge Road (Richmond). Avoid the worst of Southbank's tourist set.",
+    "employment": "Tipping is not customary in Australia; service staff are paid properly. Use Myki on trams, trains, and buses; contactless is also accepted on most metropolitan services.",
+    "education": "This is the country of the Wurundjeri people of the Kulin Nation. Visit Bunjilaka (the Aboriginal Cultural Centre at Melbourne Museum) and engage with Wurundjeri-led tours or cultural experiences. Read about the Black Saturday bushfires, the Stolen Generations, and the contemporary reconciliation conversations.",
+    "ecology": "Walk and tram; the free tram zone covers most of the CBD. Cycle the Yarra Trail. Avoid driving in the CBD. Coffee culture supports a network of small, independent roasters; many use ethically sourced beans."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "ETA or eVisitor required for most visa-waiver nationals; verify on the Department of Home Affairs portal.",
+      "Public Transport Victoria uses Myki card or contactless on most metropolitan services; verify on the official PTV portal.",
+      "Free Tram Zone in the CBD requires no Myki; verify the boundary on the PTV portal.",
+      "NGV International and NGV Australia are free general admission; ticketed exhibitions on the official portal.",
+      "Sport tickets (AFL, Australian Open tennis in January, Melbourne Cup Carnival in November) on official AFL, Tennis Australia, or VRC portals."
+    ],
+    "icu": [
+      "The Age and ABC Melbourne for serious local news.",
+      "Visit Melbourne (the official tourism site) for events and openings.",
+      "A Melbourne or Aboriginal author with Victorian roots: Helen Garner (canonical Melbourne); Bruce Pascoe's Dark Emu; Tony Birch (Aboriginal Melbourne fiction).",
+      "A Wurundjeri-led walking tour or Bunjilaka-affiliated experience.",
+      "Wikivoyage Melbourne for orientation."
+    ],
+    "iinter": [
+      "You decide on the laneway walking. The CBD is small and rewards an unhurried morning walking the laneways with coffee stops.",
+      "You decide on sport. An AFL match at the MCG or Marvel Stadium is a real Australian experience; the Australian Open or Melbourne Cup depend on dates.",
+      "You decide on the day trip. Great Ocean Road (Twelve Apostles, full day), Yarra Valley wineries (full day with a driver), Mornington Peninsula (hot springs and beaches), Phillip Island penguins (evening half-day). Pick one and do it properly.",
+      "You decide on the food neighbourhood. Lygon Street is Italian-tourist; Victoria Street is Vietnamese-local; Sydney Road is Mediterranean-and-Middle-Eastern-local. Spend at least one dinner outside the CBD.",
+      "You decide on the Aboriginal cultural commitment. Bunjilaka or a Wurundjeri walking tour is the right entry into Melbourne's deep history."
+    ],
+    "ico": "Melbourne weather is famously variable; \"four seasons in one day\" is an actual local saying. Major events (Australian Open January, Melbourne International Comedy Festival March-April, AFL Grand Final September, Melbourne Cup November) reshape parts of the city.\n\nBring a soft plan. If a sudden rain ruins your outdoor plan, the NGV, the State Library, and Melbourne Museum absorb wet hours brilliantly. If a sport day clogs the MCG area, the laneways are unaffected. If a heatwave hits, Brighton beach is reachable by train."
+  },
+  "anchorSpots": [
+    "CBD laneways and coffee walk. Degraves Street, Centre Place, ACDC Lane, Hosier Lane, the Block Arcade. A morning with multiple coffee stops.",
+    "NGV International + Federation Square + a Yarra walk. Free major museum; the precinct around it is the cultural heart.",
+    "MCG (Melbourne Cricket Ground) tour or an AFL match. The MCG seats 100,000; the tour is excellent; a match is unforgettable if your dates allow.",
+    "A Lygon Street, Victoria Street, or Sydney Road dinner. Outside the CBD; book a small restaurant.",
+    "Great Ocean Road or Yarra Valley day trip. Pick one. Great Ocean Road is the iconic coast; Yarra Valley is wine and food."
+  ],
+  "recommendedLength": "Three to four days for the city. Add a day each for Great Ocean Road, Yarra Valley, and Phillip Island.",
+  "transportHint": "Walk in the CBD. Trams (the world's largest network), trains, and buses under Public Transport Victoria; Myki or contactless. The Free Tram Zone in the CBD requires no payment. Melbourne Airport (MEL) is 25 to 40 minutes from the CBD by SkyBus or rideshare.",
+  "prompt": "Please help me plan an ethical visit to Melbourne (Naarm), Australia for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. coffee and food, art, sport, Aboriginal culture, Great Ocean Road]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Melbourne experiences I should not miss given my interests, and one I should consider skipping (a Southbank chain restaurant when a neighbourhood is steps better, a Great Ocean Road one-day if it should be an overnight, a coffee at a tourist café when a roaster is two laneways over). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Myki/contactless on PTV, the Free Tram Zone boundary, NGV and major museum portals, and official sport ticketing.\n- **Information Curation.** Suggest at least four different source types: one official Melbourne or Victorian source, one local news outlet, one Aboriginal author or Bunjilaka resource, and one Melbourne food or coffee guide.\n- **Inference Interaction.** List the decisions I personally need to make (laneway walking, sport commitment, day-trip choice, neighbourhood dinner, Aboriginal cultural engagement).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden weather change, a major event closing roads, a sport-night MCG crush, a heat wave).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one dinner outside the CBD and the laneways walk. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Melbourne, Public Transport Victoria, the NGV, the AFL, and the Department of Home Affairs.\n2. Real people: a local resident, a Wurundjeri guide, or hotel staff who live in Melbourne now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 2158177,
+  "order": 97
+}

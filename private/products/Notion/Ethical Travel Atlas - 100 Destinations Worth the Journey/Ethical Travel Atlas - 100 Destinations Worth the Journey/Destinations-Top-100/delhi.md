@@ -30,7 +30,7 @@ You come for the Mughal architecture, the food, the markets, and as a gateway to
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Indian government e-Visa portal; verify your nationality's status before booking.
 - **Delhi Metro** is the cleanest, fastest way around; use a Smart Card or contactless on most lines. Verify lines on the official DMRC portal.
@@ -38,7 +38,7 @@ You come for the Mughal architecture, the food, the markets, and as a gateway to
 - For **Old Delhi food tours**, choose operators with current Tripadvisor or India-based reputations; verify before booking.
 - Avoid the **Connaught Place tourist scams** (claims that "the tourist office moved", "the metro is closed", or "I am also visiting from out of town"); the Government of India Tourist Office is in fixed locations only.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Hindu** and **The Indian Express** for serious Indian journalism in English.
 - The official **Delhi Tourism** portal for events, monument hours, and current advisories.
@@ -46,7 +46,7 @@ You come for the Mughal architecture, the food, the markets, and as a gateway to
 - A locally led Delhi walking or food tour (Reality Tours, Delhi Magic, Old Delhi Food Walks) for a resident perspective.
 - **Wikivoyage Delhi** for transport and district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your season.** October to March is dry-season weather but November to January is air-quality red. April to June is hot. July to September is monsoon. Each is a different city.
 - **You decide on Old Delhi pace.** Chandni Chowk is overwhelming the first time; a cycle-rickshaw with a guide for the morning is the right entry, walking afterwards.
@@ -54,7 +54,7 @@ You come for the Mughal architecture, the food, the markets, and as a gateway to
 - **You decide on the Taj Mahal day trip.** Agra is reachable in a long day by Gatimaan or Shatabdi Express; many travellers wish they had given it an overnight.
 - **You decide on dress.** Modest dress (shoulders, knees covered) reduces unwanted attention and matters at all temples, mosques, and gurdwaras.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Delhi weather and politics both shift the city. Monsoon (July to September) floods low areas; air-quality red days close schools. Major Hindu, Muslim, and Sikh festivals reroute traffic. Political events occasionally close central Delhi.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Delhi experiences I should not miss given my interests, and one I should consider skipping (a Connaught Place "office" scam, an unlicensed Old Delhi guide, an Agra day-trip when an overnight would serve me better). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Indian e-Visa portal, ASI ticketing for monuments, IRCTC train booking for any onward travel, Delhi Metro DMRC routes, and air-quality forecasts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Indian source, one serious Indian English newspaper, one Indian author, and one Delhi resident-led walking or food tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (season choice, Old Delhi pace, Connaught Place caution, Taj day vs overnight, dress code).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (air-quality red day, a monsoon flood, a major festival rerouting traffic, a political demonstration).
+> - **Governance Management.** What assumptions should I check before I book? Include the Indian e-Visa portal, ASI ticketing for monuments, IRCTC train booking for any onward travel, Delhi Metro DMRC routes, and air-quality forecasts.
+> - **Information Curation.** Suggest at least four different source types: one official Indian source, one serious Indian English newspaper, one Indian author, and one Delhi resident-led walking or food tour.
+> - **Inference Interaction.** List the decisions I personally need to make (season choice, Old Delhi pace, Connaught Place caution, Taj day vs overnight, dress code).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (air-quality red day, a monsoon flood, a major festival rerouting traffic, a political demonstration).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include at least one Old Delhi morning, one Sikh gurdwara visit, and one South Delhi monument afternoon. Mark each business as confidently locally owned, or flag it for me to verify.
 >

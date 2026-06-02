@@ -293,7 +293,7 @@ def main() -> None:
                 if args.inject:
                     page_path = pages_dir / f"{page_slug}.md"
                     if page_path.exists():
-                        relative_image = f"../Destinations-Top-100-assets/{local_name}"
+                        relative_image = f"assets/{local_name}"
                         inject_image_into_page(
                             page_path,
                             relative_image_path=relative_image,

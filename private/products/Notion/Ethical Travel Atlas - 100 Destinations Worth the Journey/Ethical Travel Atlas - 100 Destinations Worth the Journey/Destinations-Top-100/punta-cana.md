@@ -30,7 +30,7 @@ You come for the reliable beach week, the warm Caribbean water, and optionally t
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt** for the Dominican Republic; a **tourist card** is included in your airline ticket or paid on arrival. Verify on the DR Ministry of Foreign Affairs portal.
 - An **eTicket** through the official Dominican Republic portal is required for entry; verify before flying.
@@ -38,7 +38,7 @@ You come for the reliable beach week, the warm Caribbean water, and optionally t
 - For **Saona Island, Catalina Island, Bávaro Splash adventure park** excursions, verify operator reputation and ownership.
 - For **Samaná whale-watching** (January to March), choose **CEBSE** (Center for the Conservation and Eco-development of Samaná Bay)-accredited operators.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **DR1** and **Dominican Today** (English-language Dominican news) for current events.
 - The official **Dominican Republic Ministry of Tourism** site for events.
@@ -46,7 +46,7 @@ You come for the reliable beach week, the warm Caribbean water, and optionally t
 - A locally led Higüey or Santo Domingo walking tour with a Dominican guide.
 - **Wikivoyage Punta Cana** for resort and area orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the resort vs the country.** A week behind a resort gate is the most common Punta Cana trip; adding a Santo Domingo day or a Samaná overnight transforms it.
 - **You decide on the excursion operator.** Resort-tour-desk excursions are convenient; locally booked Dominican operators usually cost less and put more money in the country.
@@ -54,7 +54,7 @@ You come for the reliable beach week, the warm Caribbean water, and optionally t
 - **You decide on the sargassum tolerance.** Sargassum on Punta Cana beaches is heaviest April to August; verify recent beach reports.
 - **You decide on Haiti engagement.** The DR-Haiti border is a complicated political subject; understand context before commenting.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Punta Cana weather is tropical; warm year-round with afternoon thunderstorms in the wet season (May to October); hurricane season peaks August to October. Hotel rates spike at Christmas/New Year and US spring break.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best resort and the two or three experiences I should not miss given my interests, and one I should consider skipping (a resort-only week with no Dominican engagement, an unverified Saona excursion, sargassum-season beach without checking). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Dominican Republic eTicket portal, all-inclusive resort scope, CEBSE-accredited Samaná whale operators, sargassum reports, and tipping etiquette.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Dominican source, one English-language DR news outlet, one Dominican author (Díaz or Alvarez), and one Dominican-owned local operator.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (resort-only vs add Santo Domingo or Samaná, resort-tour vs local operator, tipping budget, sargassum tolerance, dates).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, heavy sargassum, a tour cancellation by weather, a heat-wave day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Dominican Republic eTicket portal, all-inclusive resort scope, CEBSE-accredited Samaná whale operators, sargassum reports, and tipping etiquette.
+> - **Information Curation.** Suggest at least four different source types: one official Dominican source, one English-language DR news outlet, one Dominican author (Díaz or Alvarez), and one Dominican-owned local operator.
+> - **Inference Interaction.** List the decisions I personally need to make (resort-only vs add Santo Domingo or Samaná, resort-tour vs local operator, tipping budget, sargassum tolerance, dates).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (hurricane warning, heavy sargassum, a tour cancellation by weather, a heat-wave day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named excursions. Include at least one day outside the resort (Santo Domingo, Higüey, or a locally booked tour). Mark each business as confidently locally owned or fairly operated, or flag for me to verify.
 >

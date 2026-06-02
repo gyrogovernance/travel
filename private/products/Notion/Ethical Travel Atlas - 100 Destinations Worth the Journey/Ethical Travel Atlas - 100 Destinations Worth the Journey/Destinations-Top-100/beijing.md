@@ -30,7 +30,7 @@ You come for the Wall, the palaces, the food, and a chance to read several thous
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Visa or transit-visa-free** status varies frequently. Verify your nationality's current rules on the Chinese embassy portal before booking. Transit-visa-free is available for many nationalities for short stays.
 - The **Forbidden City** caps daily entries and requires passport-linked online booking on the official Palace Museum portal. Sells out days ahead.
@@ -38,7 +38,7 @@ You come for the Wall, the palaces, the food, and a chance to read several thous
 - Most Chinese sites and transport require booking with passport; bring your passport everywhere.
 - **WeChat Pay or Alipay** linked to a foreign card is now possible and effectively required for everyday spending; set up before arrival.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **China Daily** (official) and **The Beijinger** (English-language expat magazine) for events and current restrictions.
 - The **Palace Museum** official site for Forbidden City booking and exhibitions.
@@ -46,7 +46,7 @@ You come for the Wall, the palaces, the food, and a chance to read several thous
 - A licensed local guide (TripAdvisor's certified Beijing guides or a hotel concierge recommendation) for the Wall and the imperial sites.
 - **Wikivoyage Beijing** for district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Great Wall section.** Badaling is closest and most crowded; Mutianyu is balanced and best for most; Jinshanling is for the hike; Jiankou is wild and only with serious guides.
 - **You decide your VPN preparation.** Most Western apps and sites are blocked; if you need WhatsApp, Google, Instagram, or Western news, set up a VPN before arrival.
@@ -54,7 +54,7 @@ You come for the Wall, the palaces, the food, and a chance to read several thous
 - **You decide on hutong tours.** Pedicab tours through hutongs are tourist theatre; a walking tour with a Beijing-born guide is meaningful. The choice is yours.
 - **You decide on air-quality days.** A bad AQI day is a museum day, not a Great Wall day.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Beijing weather and air are highly variable. A spring sandstorm, a summer thunderstorm, a winter inversion can each rewrite a day. Major political events (Party congresses, state visits) can close roads and museums on short notice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Beijing experiences I should not miss given my interests, and one I should consider skipping (Badaling Wall in midday, the worst of Wangfujing snack street, a pedicab tourist hutong tour). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include current visa or transit-visa-free rules on the Chinese embassy portal, the passport-linked Forbidden City booking, Great Wall section choice and access, WeChat Pay/Alipay set-up with a foreign card, and VPN preparation.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Chinese source, one English-language Beijing-based outlet, one author on modern China, and one licensed Beijing-based guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Wall section, VPN, political conversation comfort, hutong tour type, air-quality days).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a bad-AQI day, a sandstorm, a state event closing roads, sold-out Forbidden City slot).
+> - **Governance Management.** What assumptions should I check before I book? Include current visa or transit-visa-free rules on the Chinese embassy portal, the passport-linked Forbidden City booking, Great Wall section choice and access, WeChat Pay/Alipay set-up with a foreign card, and VPN preparation.
+> - **Information Curation.** Suggest at least four different source types: one official Chinese source, one English-language Beijing-based outlet, one author on modern China, and one licensed Beijing-based guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Wall section, VPN, political conversation comfort, hutong tour type, air-quality days).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a bad-AQI day, a sandstorm, a state event closing roads, sold-out Forbidden City slot).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, metro lines, and named neighbourhoods. Include at least one full Great Wall day and one hutong walk with a local-led guide. Mark each business as confidently locally owned, or flag it for me to verify.
 >

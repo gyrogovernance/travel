@@ -1,0 +1,39 @@
+/* Travelpayouts White Label slots on /search/flights — scoped to our layout */
+.flight-search-page {
+  --tpwl-main-text: #1a1a2e;
+  --tpwl-headline-text: #1a1a2e;
+  --tpwl-links: #0a6e7c;
+  --tpwl-search-form-background: #f5f0e8;
+  --tpwl-search-result-background: #faf6ef;
+  --tpwl-font-family: Nunito, system-ui, sans-serif;
+}
+
+.flight-search-page .tpwl-search-slot {
+  min-height: 120px;
+}
+
+.flight-search-page .tpwl-tickets-slot {
+  min-height: 80px;
+}
+
+.flight-search-page .tpwl-weedles {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 1024px) {
+  .flight-search-page .tpwl-weedles {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .flight-search-page .tpwl-weedles {
+    grid-template-columns: 1fr;
+  }
+}
+
+.flight-search-page .tpwl-weedle {
+  min-height: 200px;
+}

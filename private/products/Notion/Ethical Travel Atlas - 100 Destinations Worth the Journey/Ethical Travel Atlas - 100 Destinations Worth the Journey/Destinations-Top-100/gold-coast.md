@@ -30,7 +30,7 @@ You come for the beaches, the surf, the rainforest, the theme parks (if that is 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **ETA or eVisitor** required for most visa-waiver nationals; verify on the Department of Home Affairs portal.
 - **Translink** runs Gold Coast public transport (G:link tram, buses, train to Brisbane); contactless or go card.
@@ -38,7 +38,7 @@ You come for the beaches, the surf, the rainforest, the theme parks (if that is 
 - **Theme parks** (Movie World, Sea World, Dreamworld, Wet'n'Wild) sell timed tickets on official portals; consider the multi-park passes if doing more than one.
 - For **Currumbin Wildlife Sanctuary** and similar, verify their conservation accreditation and any animal-encounter ethics on the official portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Gold Coast Bulletin** and **ABC Gold Coast** for local news.
 - **Destination Gold Coast** (official) for events, surf reports, and beach conditions.
@@ -46,7 +46,7 @@ You come for the beaches, the surf, the rainforest, the theme parks (if that is 
 - A Burleigh Heads-resident food guide or surf school for ground-truth.
 - **Wikivoyage Gold Coast** for area orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your beach town.** Surfers Paradise is high-rise and stag-do central; Burleigh Heads is craft-coffee and family; Coolangatta-Kirra is surf-and-flat; Currumbin is wildlife and beach. Pick deliberately.
 - **You decide on theme parks.** Three to four major parks; one is enough for most visitors. Movie World and Dreamworld have had safety reviews in recent years; verify current standards.
@@ -54,7 +54,7 @@ You come for the beaches, the surf, the rainforest, the theme parks (if that is 
 - **You decide on a Yugambeh-led experience.** The Jellurgal walk up Burleigh Heads with an Aboriginal guide is a different reading of a place most visitors only sunbake on.
 - **You decide on surf school.** Beginners do well at flat Currumbin Alley or Mermaid Beach with a registered school; intermediate-onward at Burleigh or Snapper Rocks.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Gold Coast weather is subtropical with serious storms in summer; cyclones occasionally affect the coast. Schoolies Week (mid-November) turns Surfers into a teenage city. Major events (Magic Millions racing, Gold Coast Marathon, surf comps) reshape parts of the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Gold Coast experiences I should not miss given my interests, and one I should consider skipping (a high-rise Surfers Paradise base when Burleigh is steps better, two theme-park days when one is enough, a stinger-season swim without nets). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Translink go card or contactless, Queensland Parks and Wildlife trail status, official theme-park ticketing, and surf-school registration.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Gold Coast source, one local news outlet, one Aboriginal-led cultural source (Yugambeh, Jellurgal), and one Burleigh-based food or surf guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (beach town choice, theme park ethics, rainforest commitment, Yugambeh engagement, surf school).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer storm, beach stinger flag, rainforest track closure, Schoolies Week overlap).
+> - **Governance Management.** What assumptions should I check before I book? Include the ETA or eVisitor on the Department of Home Affairs portal, Translink go card or contactless, Queensland Parks and Wildlife trail status, official theme-park ticketing, and surf-school registration.
+> - **Information Curation.** Suggest at least four different source types: one official Gold Coast source, one local news outlet, one Aboriginal-led cultural source (Yugambeh, Jellurgal), and one Burleigh-based food or surf guide.
+> - **Inference Interaction.** List the decisions I personally need to make (beach town choice, theme park ethics, rainforest commitment, Yugambeh engagement, surf school).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer storm, beach stinger flag, rainforest track closure, Schoolies Week overlap).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named places. Include at least one rainforest day and one Yugambeh-led experience if possible. Mark each business as confidently locally owned, or flag it for me to verify.
 >

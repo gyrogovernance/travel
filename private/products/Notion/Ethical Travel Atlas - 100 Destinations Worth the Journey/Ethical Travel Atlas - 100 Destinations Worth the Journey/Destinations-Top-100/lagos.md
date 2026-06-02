@@ -30,7 +30,7 @@ You come for the music, the art, the Nigerian cuisine, and a window onto the fut
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need a **visa** through the official Nigerian Immigration Service portal; verify your nationality's current rules. **Yellow fever** vaccination is mandatory.
 - Check current **travel advisories** from your home government before booking. Lagos itself is broadly fine for prepared visitors with arranged transport; some other Nigerian regions are not.
@@ -38,7 +38,7 @@ You come for the music, the art, the Nigerian cuisine, and a window onto the fut
 - For **Nollywood studio visits** or other industry tours, verify the operator through your hotel or a registered Nigerian tour company.
 - **Cash:** ATM availability has improved but cash in naira is essential. Bring USD or EUR as backup; use only registered bureaux de change.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Premium Times** and **The Punch** for serious Nigerian journalism in English.
 - **Stears Business** for African business and policy perspective.
@@ -46,7 +46,7 @@ You come for the music, the art, the Nigerian cuisine, and a window onto the fut
 - A locally led art-and-music tour through a Lagos-based concierge (your hotel can recommend).
 - **Wikivoyage Lagos** for neighbourhood orientation and current safety advice.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your base.** Victoria Island (corporate, expat, secure, international restaurants), Ikoyi (residential, upmarket), Lekki (newer, beach-adjacent), Lagos Island (historic, daytime only). Each gives a different city.
 - **You decide your transport.** Hotel-arranged drivers are the secure default; Uber and Bolt operate but have varying reliability. Do not walk between neighbourhoods at night.
@@ -54,7 +54,7 @@ You come for the music, the art, the Nigerian cuisine, and a window onto the fut
 - **You decide on day-trips.** Badagry (slave-trade history, two hours west), Lekki Conservation Centre (within Lagos), or Tarkwa Bay (beach island, water taxi).
 - **You decide your art-and-music engagement.** A Nike Art Gallery visit + a live music night + an Eko Hotel suya dinner is a Lagos crash course.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Lagos weather is tropical; wet season (April to October) brings major rains and flooding in low-lying areas. Traffic is the constant; allow double or triple time for any cross-city journey. Power outages are common; verify your hotel has reliable backup.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Lagos experiences I should not miss given my interests, and one I should consider skipping (an improvised airport pickup, walking between neighbourhoods at night, a music venue without a local). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Nigerian Immigration Service visa portal, yellow-fever requirement, home-government travel advisories, hotel-arranged airport pickup, and verified Lagos tour operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Nigerian source, one Nigerian news outlet, one Nigerian author, and one Lagos-based hotel concierge or local guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, transport mode, nightlife approach, day-trip choice, art-and-music engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a flood, severe traffic, a power outage, a security advisory change).
+> - **Governance Management.** What assumptions should I check before I book? Include the Nigerian Immigration Service visa portal, yellow-fever requirement, home-government travel advisories, hotel-arranged airport pickup, and verified Lagos tour operators.
+> - **Information Curation.** Suggest at least four different source types: one official Nigerian source, one Nigerian news outlet, one Nigerian author, and one Lagos-based hotel concierge or local guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, transport mode, nightlife approach, day-trip choice, art-and-music engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a flood, severe traffic, a power outage, a security advisory change).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one music venue night, one gallery visit (Nike Art Gallery is essential), and one buka meal. Mark each business as confidently locally owned, or flag for me to verify.
 >

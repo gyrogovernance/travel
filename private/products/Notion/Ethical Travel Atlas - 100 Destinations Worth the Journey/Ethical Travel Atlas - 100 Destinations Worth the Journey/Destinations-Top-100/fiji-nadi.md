@@ -30,7 +30,7 @@ You come for the islands, the diving and snorkelling, the Fijian and Indo-Fijian
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many travellers are **visa-exempt for four months** in Fiji; verify on the official Fijian Department of Immigration portal.
 - **Yellow fever** vaccination is required if arriving from a country with risk; verify current rules.
@@ -38,7 +38,7 @@ You come for the islands, the diving and snorkelling, the Fijian and Indo-Fijian
 - For **village visits**, always go through your accommodation or a registered operator; do not improvise a village arrival.
 - **Dive shops:** verify PADI or SSI certification and ask about their reef-protection practices.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Fiji Times** and **Fiji Sun** for current local news (cyclone warnings matter).
 - **Tourism Fiji** (the official tourism site) for events, cyclone advisories, and operator lists.
@@ -46,7 +46,7 @@ You come for the islands, the diving and snorkelling, the Fijian and Indo-Fijian
 - A Fijian-owned village-stay operator (such as Tribewanted at Vorovoro historically, or current similar projects).
 - **Wikivoyage Fiji** for island orientation and inter-island transport.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on resort vs island.** A Coral Coast resort is comfortable and easy; a Yasawa island-hopping trip with a Bula Pass is rougher and more authentic; a true village stay is rarer and the most meaningful.
 - **You decide on sevusevu commitment.** If you visit any traditional village, the protocol is not optional. Engage it properly or do not visit.
@@ -54,7 +54,7 @@ You come for the islands, the diving and snorkelling, the Fijian and Indo-Fijian
 - **You decide on Indo-Fijian engagement.** Roughly a third of Fiji is Indo-Fijian (descendants of Indian indentured workers brought during British rule). The food (Suva and Nadi curry houses, *kakana ni jambu*), temples, and music are part of the country.
 - **You decide on cyclone risk.** Tropical cyclones can hit November to April; build flexibility into bookings.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Fiji weather is tropical and dramatic. Wet season (November to April) brings cyclones; dry season (May to October) is the practical visitor window. Inter-island ferries are weather-sensitive; flights from Nadi to the islands are vulnerable to wind.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Fiji experiences I should not miss given my interests, and one I should consider skipping (a budget island-hopping pass that exhausts me, a "village visit" without proper sevusevu, a chain-resort buffet that crowds out a Nadi curry house). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Fijian Department of Immigration visa portal, official inter-island ferry operators, registered dive shops with conservation certification, and village-visit protocol through registered operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Fijian source, one Fiji news outlet for cyclone awareness, one Pacific Islands author, and one Fijian-owned operator (village stay, dive shop, or guide).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (resort vs island vs village stay, sevusevu commitment, reef ethics, Indo-Fijian engagement, cyclone-season risk).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (cyclone warning, ferry cancellation by sea conditions, dive day cancelled by swell, a closed village).
+> - **Governance Management.** What assumptions should I check before I book? Include the Fijian Department of Immigration visa portal, official inter-island ferry operators, registered dive shops with conservation certification, and village-visit protocol through registered operators.
+> - **Information Curation.** Suggest at least four different source types: one official Fijian source, one Fiji news outlet for cyclone awareness, one Pacific Islands author, and one Fijian-owned operator (village stay, dive shop, or guide).
+> - **Inference Interaction.** List the decisions I personally need to make (resort vs island vs village stay, sevusevu commitment, reef ethics, Indo-Fijian engagement, cyclone-season risk).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (cyclone warning, ferry cancellation by sea conditions, dive day cancelled by swell, a closed village).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named islands or sites. Include at least one proper village experience and one reef day. Mark each business as confidently Fijian-owned or locally owned, or flag it for me to verify.
 >

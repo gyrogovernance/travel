@@ -85,11 +85,6 @@ export const POSTS = [
         a:
           "No. The three steps work on paper too. AI speeds up research for Preparation and Delivery, but Choices and verification are always human.",
       },
-      {
-        q: "Where is The Human Mark in destination pages?",
-        a:
-          "The Human Mark explains why an AI Safety Lab works on travel. It lives on the About page. Destination pages stay light so you can plan, not study theory.",
-      },
     ],
   },
   {

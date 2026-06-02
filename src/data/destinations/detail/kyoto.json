@@ -1,0 +1,52 @@
+{
+  "slug": "kyoto",
+  "name": "Kyoto",
+  "country": "Japan",
+  "region": "Asia",
+  "image": "/destinations/kyoto.jpg",
+  "teaser": "Kyoto (京都) is Japan's imperial capital for more than a thousand years, a city of around 1.4 million in central Honshu that holds the highest concentration of UNESCO-listed Buddhist temples, Shinto shrines, traditional gardens, and machiya townhouses in the country. The cultural heart of Japan, and one of the most pressure-tested by overtourism.",
+  "intro": "Kyoto (京都) is Japan's imperial capital for more than a thousand years, a city of around 1.4 million in central Honshu that holds the highest concentration of UNESCO-listed Buddhist temples, Shinto shrines, traditional gardens, and machiya townhouses in the country. The cultural heart of Japan, and one of the most pressure-tested by overtourism.",
+  "whyVisit": "Kyoto holds the densest stack of pre-modern Japanese culture anywhere. Kinkaku-ji (the Golden Pavilion), Ginkaku-ji (the Silver Pavilion), Ryōan-ji's rock garden, Fushimi Inari's thousand torii gates, and Kiyomizu-dera together define how the world pictures classical Japan. The Gion geisha district still works as it has for centuries (with caveats).\n\nThe city is also a real conversation about overtourism in Japan. Specific districts (Gion, Arashiyama, Higashiyama) are at breaking point with visitors. Local authorities have introduced bus restrictions, photography bans in certain Gion lanes, and education campaigns about geiko (Kyoto's word for geisha) etiquette. Visiting respectfully here is not optional.",
+  "ethicalCompass": {
+    "economy": "Eat at neighbourhood teishoku (set-meal) restaurants in Karasuma, Shijō side streets, and the Demachiyanagi area rather than only Gion's tourist set. Stay in licensed ryokan or machiya (registered townhouse stays) rather than illegal short-term rentals; Kyoto enforces strict licensing.",
+    "employment": "Tipping is not customary in Japan; do not tip. Use the IC card (Suica, ICOCA, PASMO) on all public transport. Hire Kyoto-licensed English-speaking guides for the temples; freelancers at gates are uncommon (this is Japan) but the licensed guides are excellent.",
+    "education": "Learn the basic temple etiquette (rinse hands and mouth at the temizuya, no flash photography, lower voice, dress modestly). Geiko and maiko (Kyoto's geisha and apprentice geisha) are working performers; do not chase them, do not block them, do not photograph without consent.",
+    "ecology": "Walk and cycle (Kyoto's flat grid is ideal). Use the bus and subway; the buses are crowded during peak season; consider the subway or a JR pass for the wider trip. Refill water; tap is excellent."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Most visitors are visa-exempt for short stays in Japan; verify on the official Ministry of Foreign Affairs portal.",
+      "Kinkaku-ji, Ginkaku-ji, Ryōan-ji, Tofukuji sell tickets at the gate; verify hours on the official temple portals. Kiyomizu-dera is most crowded; early morning is essential.",
+      "Fushimi Inari is free and 24-hour; the lower torii sections are mobbed in daytime; before 7 am or after sunset are calmer.",
+      "Geiko private banquets are bookable only through o-chaya (teahouses) with introduction; tourist-targeted \"geiko shows\" are usually staged for visitors.",
+      "Short-term rentals must be licensed under Kyoto's strict minpaku law; verify the licence number on the listing."
+    ],
+    "icu": [
+      "The Japan Times and Kyoto Shimbun (English website) for current news.",
+      "The official Kyoto City Tourism portal for events, openings, and overtourism advisories.",
+      "A Japanese author with Kyoto resonance: Yasunari Kawabata's The Old Capital; Junichiro Tanizaki's The Makioka Sisters.",
+      "A licensed Kyoto walking guide (the Walk Japan slow-walking tours, Kyoto Free Walking Tour, or InsideKyoto resources).",
+      "Wikivoyage Kyoto for ward orientation."
+    ],
+    "iinter": [
+      "You decide on Gion timing and behaviour. Specific narrow lanes in Gion (around Hanamikoji and the Shirakawa area) have photography bans and enforcement. Respect them; do not chase geiko.",
+      "You decide on Kinkaku-ji and Fushimi Inari timing. Both are best very early (Kinkaku-ji opens at 9 am; Fushimi Inari is 24-hour). Midday is brutal.",
+      "You decide on temple depth. Visiting twenty temples superficially is worse than visiting five with attention. Choose your five (the UNESCO highlights are a starting list).",
+      "You decide on a kaiseki dinner. A traditional kaiseki meal at a registered ryotei or ryokan is one of Japan's great culinary experiences; book months ahead.",
+      "You decide on Arashiyama. The bamboo grove is photographed everywhere; it is also a 200-metre stroll. The wider area (Tenryū-ji, Ōkōchi Sansō villa) is the actual destination."
+    ],
+    "ico": "Kyoto weather is four-season and intense. Cherry blossom (late March to early April) and autumn foliage (mid-November) fill the city to capacity; summer is hot and humid; winter is cold and occasionally snowy. Major matsuri (festivals) reshape specific neighbourhoods (Gion Matsuri in July, Jidai Matsuri in October).\n\nBring a soft plan. If your Kiyomizu morning is rained out, the indoor halls and the Sanjūsangen-dō nearby absorb it. If a bus is jammed in cherry-blossom season, walking is often faster. If your Fushimi Inari plan is mobbed at midday, return at sunset."
+  },
+  "anchorSpots": [
+    "Kinkaku-ji (Golden Pavilion). Arrive at opening or late afternoon. Plan 45 minutes.",
+    "Fushimi Inari Taisha. Walk up the torii gates well past the lower 30-minute loop; the trails continue for hours. Best early morning or evening.",
+    "Higashiyama walking loop: Kiyomizu-dera, Sannenzaka, Yasaka Pagoda, Maruyama Park, Yasaka Shrine, Gion. A morning walk; arrive at Kiyomizu before 7 am if you can.",
+    "Arashiyama: Tenryū-ji, the bamboo grove, Sagano walking course, Ōkōchi Sansō. Half a day; arrive early.",
+    "A kaiseki meal at a registered ryotei or ryokan. Book months ahead; this is one of Japan's great cultural experiences."
+  ],
+  "recommendedLength": "Three to five days for Kyoto. Add a day for Nara (45 minutes by train) or Osaka (15 minutes by Shinkansen).",
+  "transportHint": "Walk the central wards. The Kyoto subway has two lines (Karasuma and Tozai); city buses cover almost everywhere else but are crowded in peak season. JR Sagano Line for Arashiyama. Keihan and Hankyu private railways for specific routes. IC card (Suica, ICOCA, PASMO) covers everything. The Shinkansen from Tokyo takes about 2 hours 15 minutes to Kyoto Station.",
+  "prompt": "Please help me plan an ethical visit to Kyoto, Japan for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Zen gardens, kaiseki cuisine, traditional crafts, geiko culture, photography]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Kyoto experiences I should not miss given my interests, and one I should consider skipping (a midday Fushimi Inari lower loop, an unlicensed short-term rental, chasing geiko in Gion). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the Japanese visa-exempt status, official temple portals for hours, Kyoto minpaku licensing for any short-term rental, Gion photography ban zones, and IC card setup.\n- **Information Curation.** Suggest at least four different source types: one official Japanese or Kyoto source, one Japanese English news outlet, one Japanese author, and one licensed Kyoto guide or walking tour.\n- **Inference Interaction.** List the decisions I personally need to make (Gion timing and behaviour, temple selection, kaiseki commitment, Arashiyama timing, transport choice).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (cherry-blossom or foliage crowds, a sold-out kaiseki, a temple closure for a festival, rain on a temple-walk day).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named temples and neighbourhoods. Include at least one very early morning (Fushimi Inari or Kiyomizu before 7 am) and one kaiseki or ryokan dinner if my budget allows. Mark each business as confidently locally owned and licensed, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Kyoto City Tourism, the temple official portals, the Japan Ministry of Foreign Affairs for visa, and JR or Kyoto City Transport for transit.\n2. Real people: a licensed Kyoto guide, a ryokan or machiya host, or hotel staff who live in Kyoto now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 1857910,
+  "order": 13
+}

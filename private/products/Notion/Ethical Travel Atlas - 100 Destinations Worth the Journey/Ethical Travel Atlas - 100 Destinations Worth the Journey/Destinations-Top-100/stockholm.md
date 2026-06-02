@@ -30,7 +30,7 @@ You come for the Old Town, the Vasa, the archipelago, the design (Swedish design
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short Schengen stays**; verify on the official Swedish Migration Agency portal.
 - **Vasa Museum, ABBA Museum, Skansen, Moderna Museet, Nationalmuseum** sell tickets on official portals; the Vasa is the most-visited museum in Scandinavia and worth booking ahead.
@@ -38,7 +38,7 @@ You come for the Old Town, the Vasa, the archipelago, the design (Swedish design
 - **SL transport** (Metro, bus, tram, ferry) uses the SL access card or contactless payment.
 - **Archipelago ferries** (Waxholmsbolaget, Strömma) sell tickets and timetables on official portals.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Local Sweden** and **SVT News** (Swedish public broadcaster, has English) for current news.
 - **Visit Stockholm** (the official city tourism site) for events.
@@ -46,7 +46,7 @@ You come for the Old Town, the Vasa, the archipelago, the design (Swedish design
 - A locally led Old Town or Södermalm walking tour.
 - **Wikivoyage Stockholm** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Vasa.** A serious one-hour visit; one of Europe's most unusual museums.
 - **You decide on the archipelago.** Half-day to Vaxholm (closest, 1 hour by ferry), full day to Sandhamn or Grinda (further out, more dramatic), or an overnight in summer.
@@ -54,7 +54,7 @@ You come for the Old Town, the Vasa, the archipelago, the design (Swedish design
 - **You decide on Södermalm.** The hipster south island; SoFo cafés; Monteliusvägen sunset walk; one of the city's most pleasant evenings.
 - **You decide on the day-trip.** Drottningholm Palace (UNESCO, royal residence, hour by boat or train + bus); Birka (Viking site).
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Stockholm weather is wide-amplitude; winter (December-February) is short days and cold; summer (June-August) has very long days; spring and autumn are dramatic and short. The archipelago is best in summer when ferries are frequent.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Stockholm experiences I should not miss given my interests, and one I should consider skipping (a midday Gamla Stan main-street souvenir crawl, an archipelago day on a cloud-locked off-season day, a Drottningholm trip if I have only two days). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, official Vasa and ABBA Museum portals, Royal Palace, SL transport setup, and archipelago ferry schedules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Swedish source, one Swedish news outlet, one Swedish author, and one Stockholm-based walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Vasa visit, archipelago choice, Old Town timing, Södermalm evening, day-trip).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (winter dark, summer rain, Midsommar closures, a sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, official Vasa and ABBA Museum portals, Royal Palace, SL transport setup, and archipelago ferry schedules.
+> - **Information Curation.** Suggest at least four different source types: one official Swedish source, one Swedish news outlet, one Swedish author, and one Stockholm-based walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Vasa visit, archipelago choice, Old Town timing, Södermalm evening, day-trip).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (winter dark, summer rain, Midsommar closures, a sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named islands and neighbourhoods. Include at least one Djurgården day and one Södermalm evening. Mark each business as confidently locally owned, or flag for me to verify.
 >

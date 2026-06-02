@@ -1,0 +1,52 @@
+{
+  "slug": "seoul",
+  "name": "Seoul",
+  "country": "South Korea",
+  "region": "Asia",
+  "image": "/destinations/seoul.jpg",
+  "teaser": "Seoul is the South Korean capital, a 10-million-person city in the wider 26-million Seoul metropolitan area, the world's fifth-largest metropolitan economy. Joseon-dynasty palaces, hanok villages, K-pop and K-drama global headquarters, and one of the most digitally connected and culinarily exciting cities on the planet.",
+  "intro": "Seoul is the South Korean capital, a 10-million-person city in the wider 26-million Seoul metropolitan area, the world's fifth-largest metropolitan economy. Joseon-dynasty palaces, hanok villages, K-pop and K-drama global headquarters, and one of the most digitally connected and culinarily exciting cities on the planet.",
+  "whyVisit": "Seoul compresses 600 years of Joseon-dynasty Korea, a serious modern history (Japanese colonial period, Korean War, the post-war miracle), and twenty-first-century global pop-culture leadership into one city. Five great palaces (Gyeongbokgung, Changdeokgung, Changgyeonggung, Deoksugung, Gyeonghuigung). The Bukchon Hanok Village. Insadong's traditional crafts. Hongdae's youth culture. Gangnam's affluence.\n\nThe city is also one of the world's safest large cities, with public transport (Metro, KTX, bus) that runs late and reliably. The food (Korean barbecue, fried chicken, tteokbokki, banchan-rich stew restaurants) is one of Asia's most distinctive cuisines.",
+  "ethicalCompass": {
+    "economy": "Eat at small restaurants in Mangwon, Euljiro, Jongno, and the side streets off Hongdae rather than only the chain restaurants on the main streets. Buy at the Gwangjang Market (food), Namdaemun, and Tongin Market for working food and crafts.",
+    "employment": "Tipping is not customary in Korea. Use the Seoul Metro (one of the world's best) and tap a T-money card or contactless on most lines.",
+    "education": "Read about Korean modern history (Japanese colonial period 1910-45, the Korean War 1950-53, the post-war development, the democracy movement of the 1980s). Visit the War Memorial of Korea and the Seodaemun Prison History Hall. K-pop and K-drama context: real industry research changes how you experience the city.",
+    "ecology": "Walk and use Metro. The Hangang River parks are real urban breathing space. Bukhansan National Park is reachable by subway from the city centre."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "K-ETA (Korea Electronic Travel Authorization) is required for many visa-waiver nationalities; verify your status on the official K-ETA portal before booking flights.",
+      "Palace tickets (Gyeongbokgung, Changdeokgung) sell at the gate; the Joseon Palaces Pass bundles all five.",
+      "Changing of the Guard at Gyeongbokgung happens at set times daily; verify on the official Cultural Heritage Administration portal.",
+      "DMZ tours are bookable through licensed operators (Koridoor, USO, several private operators); some areas require advance security check.",
+      "Seoul Metro uses T-money or contactless on most lines."
+    ],
+    "icu": [
+      "Korea Herald and Korea JoongAng Daily (English-language Korean newspapers) for news.",
+      "Visit Seoul (the official tourism site) for events and openings.",
+      "A Korean author: Han Kang (Nobel laureate, Human Acts); Min Jin Lee (Pachinko); Hwang Sok-yong.",
+      "A locally led Seoul food or palace walking tour (O'ngo Food Communications, Royal Palaces of Korea cultural tours).",
+      "Wikivoyage Seoul for orientation."
+    ],
+    "iinter": [
+      "You decide on the palace strategy. Gyeongbokgung is the headline; Changdeokgung (UNESCO) and its Secret Garden (Huwon, separate timed entry) are more atmospheric. Pick one or both seriously, not all five superficially.",
+      "You decide on the DMZ. A controlled tour to Joint Security Area (JSA) is a serious half-day; verify current access (it has fluctuated with political conditions).",
+      "You decide on K-pop engagement. Studio merchandise stores in Hongdae, dance class with KPOP Dance Academy, or a real performance if your dates align.",
+      "You decide on the food walking tour. A first-night food tour through Gwangjang Market or Euljiro changes how you eat the rest of the trip.",
+      "You decide on Bukhansan. A serious half-day hike in the mountain national park, reachable by subway, that few visitors include."
+    ],
+    "ico": "Seoul has four genuine seasons; spring and autumn are spectacular and brief; summer is hot and humid; winter is cold (occasional snow). Major holidays (Chuseok in autumn, Seollal in late January or February) close many businesses for several days. Air quality can be poor in spring (yellow dust from China).\n\nBring a soft plan. If air quality is red, indoor museums and the Coex underground complex absorb a day. If a Chuseok closure surprises you, K-pop venues and chain restaurants stay open. If a sudden rain ruins a palace walk, the palace interior buildings work."
+  },
+  "anchorSpots": [
+    "Gyeongbokgung Palace + Bukchon Hanok Village + Insadong. A morning of Joseon Seoul; arrive at Gyeongbokgung at opening; combine with the Bukchon walking circuit and Insadong's traditional crafts.",
+    "Changdeokgung Palace and the Huwon (Secret Garden). UNESCO; the Secret Garden requires advance timed entry.",
+    "A food walking tour through Gwangjang Market and Euljiro. First-night food orientation.",
+    "A Hongdae or Itaewon evening. Hongdae for youth culture and K-pop dance studios; Itaewon for international food and design.",
+    "DMZ half-day (if your interests include modern history). JSA access has changed; verify current rules."
+  ],
+  "recommendedLength": "Three to five days for Seoul. Add days for Busan (KTX 2.5 hours south), Jeju Island (flight), or Andong/Gyeongju.",
+  "transportHint": "Walk in Jongno, Insadong, and Hongdae. Seoul Metro (1 main and 9+ extensions); T-money or contactless. KakaoTaxi for ride-hail. KTX for inter-city. Incheon (ICN) and Gimpo (GMP) airports both serve Seoul; AREX train is the easiest from Incheon.",
+  "prompt": "Please help me plan an ethical visit to Seoul, South Korea for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. Joseon palaces, K-pop, food, modern Korean history, hiking, design]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Seoul experiences I should not miss given my interests, and one I should consider skipping (a five-palace day that exhausts everyone, an over-marketed K-pop experience, a Myeongdong cosmetics tour if I came for culture). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the K-ETA portal, palace ticketing and the Secret Garden timed entry, DMZ tour operator licensing, T-money or contactless setup, and Chuseok/Seollal closures.\n- **Information Curation.** Suggest at least four different source types: one official Korean source, one English-language Korean newspaper, one Korean author, and one Seoul-based food or palace guide.\n- **Inference Interaction.** List the decisions I personally need to make (palace selection, DMZ commitment, K-pop engagement, food-tour first night, Bukhansan hike).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (yellow-dust air-quality day, a Chuseok closure, a sold-out Secret Garden slot, a DMZ-tour access change).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include at least one palace, one food market, and one Hongdae or Itaewon evening. Mark each business as confidently locally owned, or flag for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Visit Seoul, the K-ETA portal, the Cultural Heritage Administration for palaces, and KORAIL for KTX.\n2. Real people: a Seoul resident, a licensed Seoul guide, or hotel staff who live in Seoul now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 1835848,
+  "order": 17
+}

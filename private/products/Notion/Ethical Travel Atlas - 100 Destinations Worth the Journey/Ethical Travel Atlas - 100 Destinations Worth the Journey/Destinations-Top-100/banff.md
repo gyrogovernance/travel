@@ -30,7 +30,7 @@ You come for the mountains, the lakes, the wildlife, and a working example of pu
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - A **Parks Canada Discovery Pass** or daily park pass is required for everyone in the park. Buy on the official Parks Canada portal.
 - **Moraine Lake** is now accessible by **shuttle, mass transit, or commercial operator only**; private vehicle access is closed. Verify the current shuttle booking window on the Parks Canada portal.
@@ -38,7 +38,7 @@ You come for the mountains, the lakes, the wildlife, and a working example of pu
 - Backcountry permits (camping, certain trails) must be booked through Parks Canada in advance.
 - Confirm any guide is **ACMG certified** for technical activities (climbing, ice walks, ski touring). Verify on the official ACMG portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Parks Canada Banff** site for trail closures, wildlife reports, shuttle bookings, and fire bans.
 - **Banff and Lake Louise Tourism** for events and lodging.
@@ -46,7 +46,7 @@ You come for the mountains, the lakes, the wildlife, and a working example of pu
 - A book on the Indigenous history of the region: Trevor Herriot's writing on the prairies, or anything by Treaty 7 authors.
 - **Friends of Banff National Park** and **Yellowstone to Yukon Conservation Initiative** for the broader ecological context.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your season.** Summer means crowds and shuttle-only access; September is the quietest with the best larches; winter is a different park entirely.
 - **You decide on the shuttle.** Trying to drive to Moraine Lake is no longer possible. Trying to drive to Lake Louise in peak hours is futile. Accept the shuttle.
@@ -54,7 +54,7 @@ You come for the mountains, the lakes, the wildlife, and a working example of pu
 - **You decide on backcountry vs frontcountry.** A day hike on Plain of Six Glaciers is a serious commitment; the Bow Valley Parkway pullouts are achievable in normal shoes.
 - **You decide on Indigenous engagement.** Take the Indigenous-led tour, read the interpretive plaques, learn the names of the nations whose land this is.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Mountain weather is the boss. A blue-sky morning can turn into a snow squall by afternoon at any time of year. Wildfires close trails on short notice. Wildlife sightings close roads. The shuttle system constrains your timing.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Banff experiences I should not miss given my interests and season, and one I should consider skipping. Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Parks Canada Discovery Pass, the mandatory Moraine Lake shuttle booking, Lake Louise parking and shuttle, any backcountry permits, and ACMG certification for technical guides.
-> - **Information Curation Variety.** Suggest at least four different source types: Parks Canada Banff, Banff and Lake Louise Tourism, Avalanche Canada (in winter), a book or article on Treaty 7 Indigenous history, and a Yellowstone to Yukon or Friends of Banff ecological source.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (season, shuttle vs car, bear safety, backcountry vs frontcountry, Indigenous engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (wildfire smoke, sudden snow, trail closure for wildlife, shuttle cancellation).
+> - **Governance Management.** What assumptions should I check before I book? Include the Parks Canada Discovery Pass, the mandatory Moraine Lake shuttle booking, Lake Louise parking and shuttle, any backcountry permits, and ACMG certification for technical guides.
+> - **Information Curation.** Suggest at least four different source types: Parks Canada Banff, Banff and Lake Louise Tourism, Avalanche Canada (in winter), a book or article on Treaty 7 Indigenous history, and a Yellowstone to Yukon or Friends of Banff ecological source.
+> - **Inference Interaction.** List the decisions I personally need to make (season, shuttle vs car, bear safety, backcountry vs frontcountry, Indigenous engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (wildfire smoke, sudden snow, trail closure for wildlife, shuttle cancellation).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, shuttle bookings, and named trails. Include at least one Indigenous-led or interpretive experience if my dates allow. Mark each business as confidently locally owned, or flag it for me to verify.
 >

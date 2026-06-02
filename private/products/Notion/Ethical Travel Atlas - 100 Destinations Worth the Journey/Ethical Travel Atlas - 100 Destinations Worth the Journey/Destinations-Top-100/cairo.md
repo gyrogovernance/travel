@@ -30,7 +30,7 @@ You come for the Pyramids, the museums, the medieval Islamic city, and a Nile th
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **e-Visa** through the official Egyptian e-Visa portal, or a visa-on-arrival; verify your nationality's current rules.
 - The **Grand Egyptian Museum (GEM)** at Giza is now the primary Egyptology museum; verify hours, full opening status of all galleries, and ticketing on the official GEM portal.
@@ -38,7 +38,7 @@ You come for the Pyramids, the museums, the medieval Islamic city, and a Nile th
 - Always verify your **driver and vehicle** are arranged through your hotel or a registered company; avoid airport solicitations.
 - For **felucca rides** and **Nile dinner cruises**, verify the operator is licensed; standards vary widely.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Al-Ahram Online** and **Egypt Independent** (English-language Egyptian outlets) for current events.
 - The **Egyptian Tourism Authority** official site for current museum hours and major site rules.
@@ -46,7 +46,7 @@ You come for the Pyramids, the museums, the medieval Islamic city, and a Nile th
 - A licensed Egyptologist guide for the Pyramids and GEM; recommended through your hotel or a known operator.
 - **Wikivoyage Cairo** for transport and district orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the licensed guide.** A serious Egyptologist transforms the Pyramids from a confusing crowded site into a meaningful day; the unlicensed alternative usually does the opposite.
 - **You decide on Khan el-Khalili pricing.** Bargaining is expected; aggressive pressure is the norm at the front; the deeper alleys with workshops set fairer first prices.
@@ -54,7 +54,7 @@ You come for the Pyramids, the museums, the medieval Islamic city, and a Nile th
 - **You decide your physical pace.** Heat and air quality genuinely affect what you can do. Mornings outdoors, afternoons indoors, evenings outdoors is a sensible default.
 - **You decide on the dress code.** Modest dress at mosques (shoulders and knees covered, head covering for women in some mosques). Cairo is mixed in everyday dress but conservative outside Zamalek and Downtown.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Cairo traffic is its own weather. A 5 km journey can take 20 minutes or two hours. Friday prayers reshape the day. Ramadan reshapes the month. Sandstorms (khamsin) hit in spring. Major political moments occasionally close central streets.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cairo experiences I should not miss given my interests, and one I should consider skipping (an unlicensed Pyramids "guide", a sound-and-light show that loses to a sunrise visit, a budget Nile dinner cruise of questionable standard). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current GEM gallery openings, the Pyramids' reorganised entrance and shuttle system, licensed Egyptologist guides, and Ramadan or summer-heat scheduling.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Egyptian source, one English-language Egyptian news outlet, one Egyptian author, and one licensed Egyptologist guide or hotel concierge.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (licensed guide commitment, bargaining and baksheesh budget, physical pacing for heat and air quality, dress code).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (traffic gridlock, sandstorm, Friday prayer street closures, air-quality red day).
+> - **Governance Management.** What assumptions should I check before I book? Include the Egyptian e-Visa portal, current GEM gallery openings, the Pyramids' reorganised entrance and shuttle system, licensed Egyptologist guides, and Ramadan or summer-heat scheduling.
+> - **Information Curation.** Suggest at least four different source types: one official Egyptian source, one English-language Egyptian news outlet, one Egyptian author, and one licensed Egyptologist guide or hotel concierge.
+> - **Inference Interaction.** List the decisions I personally need to make (licensed guide commitment, bargaining and baksheesh budget, physical pacing for heat and air quality, dress code).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (traffic gridlock, sandstorm, Friday prayer street closures, air-quality red day).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one full Giza-and-GEM day with a licensed Egyptologist, and one morning walk through Islamic Cairo. Mark each business as confidently locally owned, or flag it for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the beaches, the samba, the spectacular geography, the food, and a 
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify **visa rules** on the official Brazilian Ministry of Foreign Affairs portal. Some nationalities need e-visas; some are visa-exempt.
 - **Christ the Redeemer (Corcovado)** access is by **train** (Trem do Corcovado) or van from designated points; sells timed tickets on the official portal.
@@ -38,7 +38,7 @@ You come for the beaches, the samba, the spectacular geography, the food, and a 
 - **Favela visits:** book only through socially responsible operators with current local-community connection; Favela Santa Marta has well-established community-tour models. Verify on operator and Visit Rio portals.
 - For **Carnival** (February to March, date varies), book accommodation 6 to 12 months ahead; sambódromo tickets on the official LIESA portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Brazilian Report**, **Folha de S. Paulo**, **O Globo** for current Brazilian news.
 - The official **Visit Rio** site for events and current advisories.
@@ -46,7 +46,7 @@ You come for the beaches, the samba, the spectacular geography, the food, and a 
 - A Carioca-led walking tour or favela tour (Favela Santa Marta tours via local cooperatives).
 - **Wikivoyage Rio de Janeiro** for orientation and safety advice.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on safety strategy.** Rio is fine for prepared visitors who follow local advice; do not walk certain areas at night; do not display valuables; learn the safer-neighbourhood map. The South Zone (Copacabana, Ipanema, Leblon, Botafogo, Flamengo, Lapa) is the visitor centre.
 - **You decide on the favela tour.** A community-led tour of Santa Marta (where the late Michael Jackson filmed) gives real Rio life; voyeuristic drive-through tours do not.
@@ -54,7 +54,7 @@ You come for the beaches, the samba, the spectacular geography, the food, and a 
 - **You decide on Christ the Redeemer timing.** Sunrise is calm and dramatic; sunset is glowing; midday is mobbed.
 - **You decide on samba.** A serious *roda* (informal samba circle) at Pedra do Sal on Monday or a school rehearsal is real samba; the stage shows at Plataforma 1 are tourist samba.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Rio weather is tropical; summer (December to March) is hot and rainy; winter (June to August) is mild and dry. Carnival fills the city. Major events (the Olympics retrospective, New Year's Réveillon at Copacabana with 2+ million people) reshape the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Rio experiences I should not miss given my interests, and one I should consider skipping (a midday Corcovado, a voyeuristic drive-through favela tour, a tourist samba dinner-show when Pedra do Sal is steps better). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Brazilian visa portal, yellow-fever requirement, official Corcovado and Bondinho ticketing, community-led favela tour operators, and home-government safety advisories.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Brazilian source, one Brazilian news outlet, one Brazilian author, and one Carioca-led walking or community tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safety strategy, favela tour ethics, Carnival commitment, Corcovado timing, samba venue choice).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Sugarloaf wind cancellation, summer thunderstorm, a major event street closure, an Olympics-era construction inconvenience).
+> - **Governance Management.** What assumptions should I check before I book? Include the Brazilian visa portal, yellow-fever requirement, official Corcovado and Bondinho ticketing, community-led favela tour operators, and home-government safety advisories.
+> - **Information Curation.** Suggest at least four different source types: one official Brazilian source, one Brazilian news outlet, one Brazilian author, and one Carioca-led walking or community tour.
+> - **Inference Interaction.** List the decisions I personally need to make (safety strategy, favela tour ethics, Carnival commitment, Corcovado timing, samba venue choice).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Sugarloaf wind cancellation, summer thunderstorm, a major event street closure, an Olympics-era construction inconvenience).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Santa Teresa or Lapa evening and one community-led favela or culture experience. Mark each business as confidently locally owned, or flag for me to verify.
 >

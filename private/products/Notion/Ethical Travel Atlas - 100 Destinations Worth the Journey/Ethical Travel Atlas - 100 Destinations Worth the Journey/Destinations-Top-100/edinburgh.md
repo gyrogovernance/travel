@@ -30,7 +30,7 @@ You come for the Old Town, the festivals (if your dates allow), the museums, and
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors need an **ETA (UK Electronic Travel Authorization)** or a visa; verify your nationality's current status on the official UK government portal.
 - **Edinburgh Castle** requires timed tickets on the official Historic Environment Scotland (HES) portal; sells out days ahead in summer.
@@ -38,7 +38,7 @@ You come for the Old Town, the festivals (if your dates allow), the museums, and
 - The **Edinburgh Festival Fringe** has thousands of shows on its own ticketing platform (edfringe.com); the official Edinburgh International Festival has its own.
 - **Lothian Buses** accept contactless tap-and-cap; a daily cap applies. Verify on the official Lothian Buses portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Scotsman** and **The Herald** for Scottish journalism.
 - The official **Visit Scotland** and **Forever Edinburgh** portals for events and openings.
@@ -46,7 +46,7 @@ You come for the Old Town, the festivals (if your dates allow), the museums, and
 - A locally led literary walking tour (the Edinburgh Literary Pub Tour is famous) or a guided Real Mary King's Close.
 - **Wikivoyage Edinburgh** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on August.** The festivals are extraordinary; they also fill the city to bursting and triple accommodation prices. Either commit (book months ahead) or pick another month deliberately.
 - **You decide on the Castle.** Worth it, but timed entry only, and crowded; the morning of opening is the calm option.
@@ -54,7 +54,7 @@ You come for the Old Town, the festivals (if your dates allow), the museums, and
 - **You decide on whisky.** A serious distillery tour (visit a proper distillery on a day trip, not the Royal Mile experience) is more meaningful than a generic tasting.
 - **You decide on Leith.** Once the working port, now a serious food and music neighbourhood. Worth a full evening.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Edinburgh weather is dramatic; "four seasons in twenty minutes" actually applies. August Fringe weather can be anything. Winter days are short. The Royal Mile becomes hazardous in ice.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Edinburgh experiences I should not miss given my interests, and one I should consider skipping (a Royal Mile shop "tartan and shortbread" trap, an over-priced Castle midday, an Arthur's Seat climb in driving sleet). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the UK ETA on the official portal, Edinburgh Castle timed entry on HES, the Tattoo and Fringe ticketing, and Lothian Buses contactless cap.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Scottish source, one Scottish news outlet, one Scottish author, and one locally led literary or history walking tour.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (whether to come in August, Castle timing, Arthur's Seat ambition, whisky depth, Leith vs Stockbridge time).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (sudden weather, sold-out Fringe show, a Castle closure for state events, a winter slip-day on cobbles).
+> - **Governance Management.** What assumptions should I check before I book? Include the UK ETA on the official portal, Edinburgh Castle timed entry on HES, the Tattoo and Fringe ticketing, and Lothian Buses contactless cap.
+> - **Information Curation.** Suggest at least four different source types: one official Scottish source, one Scottish news outlet, one Scottish author, and one locally led literary or history walking tour.
+> - **Inference Interaction.** List the decisions I personally need to make (whether to come in August, Castle timing, Arthur's Seat ambition, whisky depth, Leith vs Stockbridge time).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sudden weather, sold-out Fringe show, a Castle closure for state events, a winter slip-day on cobbles).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Arthur's Seat or hilltop walk (weather allowing), one museum, and one evening in Stockbridge or Leith. Mark each business as confidently locally owned, or flag it for me to verify.
 >

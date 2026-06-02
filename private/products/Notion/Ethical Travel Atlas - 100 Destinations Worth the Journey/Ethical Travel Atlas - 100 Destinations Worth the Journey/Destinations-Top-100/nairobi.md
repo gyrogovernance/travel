@@ -30,7 +30,7 @@ You come for the giraffes and elephants, the food, the museums, and as the pract
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many travellers are **eligible for the eTA** (Electronic Travel Authorization); verify on the official Kenyan government eTA portal. Yellow fever may be required from certain origins.
 - **Nairobi National Park** entry: use the SafariCard (cashless system) at the gate or pre-load online; verify on the Kenya Wildlife Service portal.
@@ -38,7 +38,7 @@ You come for the giraffes and elephants, the food, the museums, and as the pract
 - **Giraffe Centre** open daily; verify hours on the official portal.
 - **Plastic bags are banned** in Kenya; do not bring any.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Daily Nation** and **The Standard** (Kenyan dailies in English) for current news.
 - The official **Magical Kenya** site for events and openings.
@@ -46,7 +46,7 @@ You come for the giraffes and elephants, the food, the museums, and as the pract
 - A locally led Nairobi walking or food tour (Bonfire Adventures, Stalwart Tours).
 - **Wikivoyage Nairobi** for orientation and safety advice.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on safety strategy.** Nairobi is broadly fine for prepared visitors using ride-hail and licensed transport; do not walk at night in unfamiliar areas; do not display valuables.
 - **You decide on the park early-morning game drive.** Nairobi National Park is best at opening (6 am); afternoons are typically less productive.
@@ -54,7 +54,7 @@ You come for the giraffes and elephants, the food, the museums, and as the pract
 - **You decide on Karen vs Westlands base.** Karen is leafy, near the wildlife sites, quieter; Westlands is urban, restaurant-rich, central.
 - **You decide on the SGR train to Mombasa.** A real Kenyan experience, 5 hours, both transport and sightseeing.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Nairobi weather is mild year-round (1,795 metres altitude); long rains (March to May), short rains (October to early December). Loadshedding is rare but possible. Major events (UN conferences, the Magical Kenya Open) occasionally fill hotels.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Nairobi experiences I should not miss given my interests, and one I should consider skipping (a Nairobi National Park afternoon when morning is better, the Sheldrick if I miss the 11 am to noon window, walking at night in an unfamiliar area). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Kenyan eTA, yellow-fever requirement, Sheldrick Wildlife Trust opening hour, Kenya Wildlife Service SafariCard for Nairobi NP, and the plastic-bag ban.
-> - **Information Curation Variety.** Suggest at least four different source types: Magical Kenya official, a Kenyan newspaper, a Kenyan author, and a Nairobi-based walking or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (safety strategy, morning park visit, Sheldrick timing, base in Karen vs Westlands, SGR to Mombasa).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (long-rains park-road closure, a sold-out Giraffe Manor, traffic to the airport, a public-event closure).
+> - **Governance Management.** What assumptions should I check before I book? Include the Kenyan eTA, yellow-fever requirement, Sheldrick Wildlife Trust opening hour, Kenya Wildlife Service SafariCard for Nairobi NP, and the plastic-bag ban.
+> - **Information Curation.** Suggest at least four different source types: Magical Kenya official, a Kenyan newspaper, a Kenyan author, and a Nairobi-based walking or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (safety strategy, morning park visit, Sheldrick timing, base in Karen vs Westlands, SGR to Mombasa).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (long-rains park-road closure, a sold-out Giraffe Manor, traffic to the airport, a public-event closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named sites. Include at least one early-morning Nairobi NP game drive and the Sheldrick 11 am window. Mark each business as confidently locally owned, or flag for me to verify.
 >

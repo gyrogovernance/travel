@@ -30,7 +30,7 @@ You come for the colonial architecture, the Caribbean, the Afro-Colombian herita
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **visa or visa-exempt** status on the official Colombian Cancillería portal.
 - **Castillo San Felipe** and the main museums are publicly run; verify pricing and hours on official Cartagena tourism portals.
@@ -38,7 +38,7 @@ You come for the colonial architecture, the Caribbean, the Afro-Colombian herita
 - Beach resort all-inclusives on islands (Isla Múcura, Tierra Bomba) operate under various regulatory regimes; verify the operator's status before booking.
 - For **chiva (party bus)** evening tours, verify the operator's licence and the route; some routes pass through neighbourhoods that warrant local advice after dark.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **El Universal** (Cartagena's main daily; Spanish, partial English) and **El Tiempo Caribe** for local news.
 - **Cartagena de Indias Travel** (official city tourism site) for events and current rules.
@@ -46,7 +46,7 @@ You come for the colonial architecture, the Caribbean, the Afro-Colombian herita
 - A locally led Getsemaní walking tour with a neighbourhood resident, or a Palenque day with an Afro-Colombian guide.
 - **Wikivoyage Cartagena** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide where you sleep.** A walled-city palace boutique is a different city from a Getsemaní guesthouse; both are fine, with different economic implications.
 - **You decide your beach.** Bocagrande is convenient and average; the Rosario Islands are beautiful and a real day commitment; Playa Blanca is over-touristed by day but quiet at sunset.
@@ -54,7 +54,7 @@ You come for the colonial architecture, the Caribbean, the Afro-Colombian herita
 - **You decide your engagement with Afro-Colombian heritage.** Cartagena's African inheritance is everywhere in the music, food, and dance; a Palenque day or a dedicated Afro-Cartagena walking tour brings it into focus.
 - **You decide on the heat.** Outdoor exploration is best 6 am to 10 am and 4 pm to 8 pm; midday is for shade, museums, and pools.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 The Caribbean coast runs hot and humid year-round. Rainy season (August to November) brings afternoon downpours; the start of the year is the dry, breezy, peak-tourist window. Cruise-ship schedules reshape the walled city's daytime crowds completely.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Cartagena experiences I should not miss given my interests, and one I should consider skipping (the walled city at midday on a cruise day, an over-priced plaza restaurant, an unregistered boat to Playa Blanca). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Colombian Cancillería visa portal, registered Rosario Islands operators, the port tax for boat trips, cruise-ship schedules, and licensed chiva tour operators.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Colombian source, one Cartagena local outlet, one Colombian author with Caribbean roots, and one Afro-Colombian or Getsemaní-based guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (where I sleep, which beach, cruise-hour avoidance, Afro-Colombian engagement, heat pacing).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (heavy rain, a cruise-day flood of plazas, sea conditions cancelling Rosario, a heat advisory).
+> - **Governance Management.** What assumptions should I check before I book? Include the Colombian Cancillería visa portal, registered Rosario Islands operators, the port tax for boat trips, cruise-ship schedules, and licensed chiva tour operators.
+> - **Information Curation.** Suggest at least four different source types: one official Colombian source, one Cartagena local outlet, one Colombian author with Caribbean roots, and one Afro-Colombian or Getsemaní-based guide.
+> - **Inference Interaction.** List the decisions I personally need to make (where I sleep, which beach, cruise-hour avoidance, Afro-Colombian engagement, heat pacing).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (heavy rain, a cruise-day flood of plazas, sea conditions cancelling Rosario, a heat advisory).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one Getsemaní evening, one early-morning walled-city walk, and one Afro-Colombian-led experience or Palenque day. Mark each business as confidently locally owned, or flag it for me to verify.
 >

@@ -30,7 +30,7 @@ You come for the museums, the design, the waterfront, the Vikings (Viking Ship M
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors are **visa-exempt for short Schengen stays**; verify on the official Norwegian Directorate of Immigration portal.
 - **National Museum, Munch Museum, Vigeland Museum, Fram Museum** sell timed tickets on official portals.
@@ -38,7 +38,7 @@ You come for the museums, the design, the waterfront, the Vikings (Viking Ship M
 - **Ruter** (the integrated transport authority) uses tickets on the Ruter app, single tickets, or 24-hour/7-day passes; verify on the official portal.
 - The **Oslo Pass** bundles transport and museum entries; verify whether it suits your itinerary on the official Visit Oslo portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Local Norway** and **Aftenposten** (Norwegian) for current news.
 - **Visit Oslo** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the museums, the design, the waterfront, the Vikings (Viking Ship M
 - A Sámi-led cultural source or the Norwegian Museum of Cultural History for Indigenous Norwegian context.
 - **Wikivoyage Oslo** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Oslo Pass.** Run the numbers: if you plan 2+ museums per day plus full transport use, it often pays off; if you have a slow trip, single tickets may be cheaper.
 - **You decide on the fjord boat trip.** A summer fjord cruise or hop-on ferry to the Oslofjord islands (Hovedøya, Lindøya, Langøyene) is a genuine Oslo experience.
@@ -54,7 +54,7 @@ You come for the museums, the design, the waterfront, the Vikings (Viking Ship M
 - **You decide on Vigeland Park.** Free, open 24 hours; 200 sculptures by Gustav Vigeland in a Frogner park.
 - **You decide on the Nobel Peace Center.** Genuinely thoughtful; check what current exhibition is.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Oslo weather is wide-amplitude; winter (December to March) is dark and snowy; summer (June to August) has very long days (midnight twilight); shoulder seasons are short.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Oslo experiences I should not miss given my interests, and one I should consider skipping (a high-end waterfront restaurant if budget is tight, the Viking museum if it is closed for reconstruction, a Marka winter trip without proper gear). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, the Museum of the Viking Age reconstruction status, official museum and Ruter portals, the Oslo Pass cost-benefit, and Nobel Peace Prize ceremony timing if December.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Norwegian source, one Norwegian news outlet, one Norwegian author, and a Sámi-related resource.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Oslo Pass yes/no, fjord ferry, Marka day, Vigeland Park time, Nobel Peace Center).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rainy summer day, winter snow, a closed museum wing, a sold-out Maaemo).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, the Museum of the Viking Age reconstruction status, official museum and Ruter portals, the Oslo Pass cost-benefit, and Nobel Peace Prize ceremony timing if December.
+> - **Information Curation.** Suggest at least four different source types: one official Norwegian source, one Norwegian news outlet, one Norwegian author, and a Sámi-related resource.
+> - **Inference Interaction.** List the decisions I personally need to make (Oslo Pass yes/no, fjord ferry, Marka day, Vigeland Park time, Nobel Peace Center).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rainy summer day, winter snow, a closed museum wing, a sold-out Maaemo).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one fjord-or-forest day. Mark each business as confidently locally owned, or flag for me to verify.
 >

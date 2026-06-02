@@ -30,7 +30,7 @@ You come for the skyline, the food, the French Concession walks, the modern art,
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Visa or transit-visa-free** status varies frequently; verify your nationality's current rules on the Chinese embassy portal before booking. Transit-visa-free is available for many nationalities for short Shanghai stays.
 - **WeChat Pay or Alipay** linked to a foreign card is now possible and effectively required for everyday spending; set up before arrival.
@@ -38,7 +38,7 @@ You come for the skyline, the food, the French Concession walks, the modern art,
 - **Major museums and observation decks** (Shanghai Museum, Shanghai Tower, World Financial Center, Jin Mao) sell tickets on official portals.
 - **VPN:** most Western apps and sites are blocked; set up before arrival.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Shanghai Daily** (English Chinese paper) and **SHINE** for current news; **South China Morning Post** for outside-China perspective.
 - The official **Meet Shanghai** site for events.
@@ -46,7 +46,7 @@ You come for the skyline, the food, the French Concession walks, the modern art,
 - A licensed Shanghai walking guide for the French Concession or Old Town.
 - **Wikivoyage Shanghai** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the skyline view.** Shanghai Tower's observation deck is the tallest in the world; Jin Mao is the second; the rooftop bars across Lujiazui give the framed view of Tower itself.
 - **You decide on the French Concession depth.** Walking Anfu Lu, Wukang Lu, Yongkang Lu, and Donghu Lu is the most pleasant urban walking in China.
@@ -54,7 +54,7 @@ You come for the skyline, the food, the French Concession walks, the modern art,
 - **You decide on the VPN.** If you need WhatsApp, Google, Instagram, or Western news, set up a VPN before arrival.
 - **You decide your political conversation register.** China has clear limits on what foreigners can discuss publicly. Listen first.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Shanghai weather is humid-subtropical; hot summer, cold-damp winter, beautiful spring and autumn. Typhoons occasionally affect the city late summer. Air quality varies.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Shanghai experiences I should not miss given my interests, and one I should consider skipping (a Yuyuan Bazaar overpaid souvenir, a tourist-river-cruise when the Metro and ferry do it better, midday observation deck). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include current visa or transit-visa-free rules, WeChat Pay/Alipay foreign-card setup, VPN preparation, Shanghai Museum hours, and air-quality forecasts.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Chinese source, one Shanghai-based English news outlet, one Shanghai author, and one Shanghai-based walking or food guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (skyline view spot, French Concession depth, day-trip choice, VPN, political conversation comfort).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a typhoon, air-quality red day, a state event closure, sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include current visa or transit-visa-free rules, WeChat Pay/Alipay foreign-card setup, VPN preparation, Shanghai Museum hours, and air-quality forecasts.
+> - **Information Curation.** Suggest at least four different source types: one official Chinese source, one Shanghai-based English news outlet, one Shanghai author, and one Shanghai-based walking or food guide.
+> - **Inference Interaction.** List the decisions I personally need to make (skyline view spot, French Concession depth, day-trip choice, VPN, political conversation comfort).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a typhoon, air-quality red day, a state event closure, sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, Metro lines, and named neighbourhoods. Include the Bund-and-Pudong crossing and one French Concession afternoon. Mark each business as confidently locally owned, or flag for me to verify.
 >

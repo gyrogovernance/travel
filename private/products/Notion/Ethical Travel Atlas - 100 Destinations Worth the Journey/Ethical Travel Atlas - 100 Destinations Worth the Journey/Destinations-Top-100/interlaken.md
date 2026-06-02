@@ -30,7 +30,7 @@ You come for the Alps in their textbook form, for serious hiking and skiing, and
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify your nationality on official Swiss portals.
 - The **Swiss Travel Pass** or the **Jungfrau Travel Pass** can be cost-effective for multi-day stays; verify on the official SBB and Jungfrau Railways portals.
@@ -38,7 +38,7 @@ You come for the Alps in their textbook form, for serious hiking and skiing, and
 - **Lauterbrunnen valley** has introduced visitor management measures in recent years to handle peak crowds; verify any current shuttle or parking rules.
 - For **paragliding, canyoning, skydiving, and bungee** operators, verify Swiss certification (SVOLT, SkiInstructorSwiss); Interlaken has accidents from time to time. Choose only certified operators.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Swissinfo** for English-language Swiss news.
 - The official **Interlaken Tourism** and **Jungfrau Region** portals for events, openings, and trail status.
@@ -46,7 +46,7 @@ You come for the Alps in their textbook form, for serious hiking and skiing, and
 - A locally certified Swiss Mountain Guide for any technical experience.
 - **Wikivoyage Interlaken** and **Wikivoyage Jungfrau Region** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Jungfraujoch.** It is expensive (one of the most expensive train rides in the world per kilometre) and crowded; it is also genuinely once-in-a-lifetime. A clear-weather day is essential.
 - **You decide on your base.** Interlaken (town, cheaper, longer commutes to peaks) versus Wengen, Mürren, or Grindelwald (mountain villages, expensive, you wake up to the view).
@@ -54,7 +54,7 @@ You come for the Alps in their textbook form, for serious hiking and skiing, and
 - **You decide on adventure sports.** Interlaken is one of Europe's largest paragliding and canyoning bases; the safety record is mostly good but not perfect. Choose certified operators.
 - **You decide on the cogwheel railways.** They are part of the experience, not a cheat. Use them.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Alpine weather is the boss. A clear morning can become snow by afternoon at any time of year. The Jungfraujoch can be in cloud and zero visibility on a sunny valley day; conversely, the valleys can be socked in fog while the peaks are brilliant.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Jungfrau-region experiences I should not miss given my interests, and one I should consider skipping (the Jungfraujoch on a cloud-locked day, paragliding with an unverified operator, a helicopter sightseeing flight if alpine quiet matters to me). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen rules, the Jungfrau Railways and SBB portals, Swiss Travel Pass vs Jungfrau Pass cost-benefit, current Lauterbrunnen valley visitor management, and Swiss Mountain Guide Association certification for technical activities.
-> - **Information Curation Variety.** Suggest at least four different source types: Swiss government tourism, Interlaken Tourism, Swissinfo for news, and a Swiss alpine writer or certified Mountain Guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Jungfraujoch weather commitment, base location, hiking ambition, adventure-sport operator, cogwheel approach).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (peak cloud-locked, sudden snow, paragliding grounded by wind, a Lauterbrunnen day-overload).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen rules, the Jungfrau Railways and SBB portals, Swiss Travel Pass vs Jungfrau Pass cost-benefit, current Lauterbrunnen valley visitor management, and Swiss Mountain Guide Association certification for technical activities.
+> - **Information Curation.** Suggest at least four different source types: Swiss government tourism, Interlaken Tourism, Swissinfo for news, and a Swiss alpine writer or certified Mountain Guide.
+> - **Inference Interaction.** List the decisions I personally need to make (Jungfraujoch weather commitment, base location, hiking ambition, adventure-sport operator, cogwheel approach).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (peak cloud-locked, sudden snow, paragliding grounded by wind, a Lauterbrunnen day-overload).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, train and cable-car routes, and named hikes. Include at least one Jungfraujoch day on a clear-weather window and one alternative panoramic day. Mark each operator as confidently certified (SBV, SVOLT), or flag for me to verify.
 >

@@ -24,10 +24,10 @@ This document is the combined preview of the rewritten Atlas. Each destination a
 
 Every Preparation section uses these four, in this order:
 
-1. 🔍 **Governance Management Traceability.** What assumptions should be checked?
-2. 📡 **Information Curation Variety.** Whose sources will you consult?
-3. 🎯 **Inference Interaction Accountability.** Which decisions do you own?
-4. 🔄 **Intelligence Cooperation Integrity.** How will you adapt to changing local reality?
+1. 🔍 **Governance Management.** What assumptions should be checked?
+2. 📡 **Information Curation.** Whose sources will you consult?
+3. 🎯 **Inference Interaction.** Which decisions do you own?
+4. 🔄 **Intelligence Cooperation.** How will you adapt to changing local reality?
 
 ---
 
@@ -71,7 +71,7 @@ You come for the obvious reasons (the Parthenon, the museums, the food) and stay
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Buy Acropolis and other archaeological-site tickets on the official Hellenic Heritage portal rather than third-party resellers. The bundled combination ticket for multiple Athens sites has been discontinued, so any offer still listing "the combo" is either outdated or marking up single-site entries.
 - Check that any short-term rental you book carries a valid registration number in its listing. Central Athens (the historic districts around Plaka, Monastiraki, Syntagma, Kolonaki, Exarchia, and Koukaki) restricts new registrations to protect housing for residents. Undeclared listings can be cancelled on arrival.
@@ -79,7 +79,7 @@ You come for the obvious reasons (the Parthenon, the museums, the food) and stay
 - When booking a "skip-the-line" tour, confirm in writing whether the price actually includes the timed-entry ticket. Many guided tours add it on top, and the queue you skip is rarely the one you imagined.
 - At the airport and Piraeus port, use only licensed taxis (yellow body, TAXI sign, working meter). Flat rates to central Athens are regulated and posted at the rank; anything quoted off-meter is unofficial.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Wikivoyage Athens** and **thisisathens.org** (the official municipal site) for orientation and current event listings.
 - **Kathimerini English edition** for housing, transport, strikes, and heat advisories before and during your trip.
@@ -87,7 +87,7 @@ You come for the obvious reasons (the Parthenon, the museums, the food) and stay
 - One neighbourhood-led walking experience hosted by a resident of Exarchia, Kypseli, or Pangrati. The perspective you get in those neighbourhoods is not the perspective you get in Plaka.
 - A short read on the geology of the Acropolis rock itself. You will see different stones once you know what you are looking at.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide when to visit.** Choose July or August and you own the consequence of midday Acropolis closures during heatwaves. The mitigation is to book the earliest opening slot or the last evening slot, not to be surprised.
 - **You decide where to sleep.** A licensed hotel, a registered guesthouse, or a legally listed apartment with a visible registration number are all fair choices. Booking an undeclared rental in a restricted district is a choice too, and a different one.
@@ -95,7 +95,7 @@ You come for the obvious reasons (the Parthenon, the museums, the food) and stay
 - **You decide whether to escape the heat the way locals do**, by heading to the southern coast for a swim, and whether that crowding matters to you.
 - **You decide your position on the Parthenon Marbles** after seeing the empty cases on the Acropolis Museum's top floor. No guide, no algorithm, and no AI assistant can make that call for you.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Athens changes hour to hour. The wind can flip a heat warning, a transport strike can shutter the metro on the morning you planned your big day, an Orthodox feast can close half the museums, and the Acropolis itself may close at noon. Bring a soft plan, not a fixed one.
 
@@ -141,10 +141,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Athens experiences I should not miss given my interests, and one I should consider skipping to protect my time, my budget, or the city. For each, briefly explain the trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Acropolis timed entry on the official Hellenic Heritage portal, the discontinued combination ticket, the restriction on new short-term rentals in central districts, the importance of a visible registration number on legal listings, and any Orthodox holidays or strikes in my dates.
-> - **Information Curation Variety.** Suggest at least four different source types for me to consult: one official Greek government source, one Greek-authored news outlet, one local resident voice such as a neighbourhood walking host, and one book, podcast, or documentary by a Greek creator.
-> - **Inference Interaction Accountability.** List the specific decisions I personally need to make (timing, neighbourhood, accommodation type, how I read anti-tourism messaging, the Parthenon Marbles debate, city days vs southern-coast days) so I cannot offload them to you.
-> - **Intelligence Cooperation Integrity.** Build me a soft plan, not a fixed itinerary. Show me a default day and at least two alternates for likely disruptions (a midday Acropolis closure during a heatwave, a transport strike, an unexpected Orthodox feast closure).
+> - **Governance Management.** What assumptions should I check before I book? Include Acropolis timed entry on the official Hellenic Heritage portal, the discontinued combination ticket, the restriction on new short-term rentals in central districts, the importance of a visible registration number on legal listings, and any Orthodox holidays or strikes in my dates.
+> - **Information Curation.** Suggest at least four different source types for me to consult: one official Greek government source, one Greek-authored news outlet, one local resident voice such as a neighbourhood walking host, and one book, podcast, or documentary by a Greek creator.
+> - **Inference Interaction.** List the specific decisions I personally need to make (timing, neighbourhood, accommodation type, how I read anti-tourism messaging, the Parthenon Marbles debate, city days vs southern-coast days) so I cannot offload them to you.
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan, not a fixed itinerary. Show me a default day and at least two alternates for likely disruptions (a midday Acropolis closure during a heatwave, a transport strike, an unexpected Orthodox feast closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic walking times, meal windows, and named neighbourhoods. Include at least one half-day on the southern coast if my dates allow. Where you recommend a restaurant, shop, or tour operator, mark clearly whether you are confident it is currently open and locally owned, or whether I need to verify.
 >

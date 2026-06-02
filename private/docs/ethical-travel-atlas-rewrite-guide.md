@@ -63,39 +63,39 @@ Each bullet must be destination-specific, practical, and actionable.
 
 ## Step 2: Preparation
 
-Use all four Gyroscope operations by their full official names only:
+Use all four Gyroscope Protocol work categories by name only:
 
-- Governance Management Traceability
-- Information Curation Variety
-- Inference Interaction Accountability
-- Intelligence Cooperation Integrity
+- Governance Management
+- Information Curation
+- Inference Interaction
+- Intelligence Cooperation
 
-Do not use shortened labels (for example Traceability, Variety, Accountability, or Adaptation).
+These are Gyroscope Protocol categories (GGG Employment domain). Do not append THM suffixes (Traceability, Variety, Accountability, Integrity). Do not use shortened labels (for example Traceability, Variety, Accountability, or Adaptation).
 
-Do not mention The Human Mark.
+Do not mention The Human Mark in destination pages.
 
 Do not use symbols in operation names.
 
-### Governance Management Traceability
+### Governance Management
 
 - 3 to 5 destination-specific bullets.
 - Focus on assumptions that should be checked.
 
-### Information Curation Variety
+### Information Curation
 
 - 3 to 5 destination-specific bullets.
 - Include multiple source types and perspectives.
 
-### Inference Interaction Accountability
+### Inference Interaction
 
 - 3 to 5 destination-specific bullets.
 - Clearly identify decisions the traveler owns.
 
-### Intelligence Cooperation Integrity
+### Intelligence Cooperation
 
 - 1 to 3 short paragraphs.
-- Emphasize cooperating with integrity when local conditions change. The plan supports the traveler's judgment; it does not replace it.
-- Do not shorten this operation to "Adaptation" or any label other than Intelligence Cooperation Integrity.
+- Emphasize trusting the traveler's judgment and local advice over algorithmic defaults when conditions change. The plan supports the traveler's judgment; it does not replace it.
+- Do not shorten this operation to "Adaptation" or any label other than Intelligence Cooperation.
 
 ### Top 5 Anchor Spots
 
@@ -136,10 +136,10 @@ Step 3: Delivery
   - Step 2: Preparation
   - Step 3: Delivery
 - Step 2 must explicitly include:
-  - Governance Management Traceability
-  - Information Curation Variety
-  - Inference Interaction Accountability
-  - Intelligence Cooperation Integrity
+  - Governance Management
+  - Information Curation
+  - Inference Interaction
+  - Intelligence Cooperation
 - Every prompt must end with verification guidance that asks to verify with official sources and local people.
 
 ## Writing Style Rules

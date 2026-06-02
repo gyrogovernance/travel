@@ -30,7 +30,7 @@ You come for the tiles, the fado, the bacalhau, the Atlantic light, and a city t
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - **Schengen** rules apply; verify on official Portuguese consulate portals.
 - **Tram 28** is a working public tram, not a tourist line; expect pickpocket activity in tourist-dense sections. Buy a Viva Viagem or contactless on all public transport.
@@ -38,7 +38,7 @@ You come for the tiles, the fado, the bacalhau, the Atlantic light, and a city t
 - **Short-term rental licensing** in Lisbon has tightened in recent years; verify the AL (Alojamento Local) registration number on any listing.
 - **Fado houses:** distinguish between tourist fado dinner shows and small Alfama or Mouraria houses where Lisboetas actually go.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Público** and **The Portugal News** (English) for current news.
 - **Visit Lisboa** (the official city tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the tiles, the fado, the bacalhau, the Atlantic light, and a city t
 - A locally led fado-and-Alfama walking tour with a Lisbon resident.
 - **Wikivoyage Lisbon** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on your accommodation.** Licensed hotels and AL-registered apartments are fine; unlicensed lets undermine the housing policy and may be cancelled.
 - **You decide on tram 28 timing.** Crowded all day in season; early morning or after 10 pm are calmer; consider tram 12 (smaller loop) as an alternative.
@@ -54,7 +54,7 @@ You come for the tiles, the fado, the bacalhau, the Atlantic light, and a city t
 - **You decide on Sintra.** A day-trip works but is very crowded; consider going midweek or in shoulder season. Train from Rossio.
 - **You decide on the fado.** A small Alfama or Mouraria fado house with no tourist menu is the real experience; the larger venues are spectacle.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Lisbon weather is Mediterranean-Atlantic; summers hot but dry, winters mild but rainy. Trams are crowded year-round in tourist season. Major events (Festas de Lisboa in June, the Lisbon Web Summit in November) reshape the city briefly.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Lisbon experiences I should not miss given my interests, and one I should consider skipping (a midday tram 28, a tourist fado dinner show, an unlicensed AL apartment). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include Schengen, the AL (Alojamento Local) registration number on any rental, official ticketing for Jerónimos and Belém Tower, fado-house authenticity, and Sintra Pena Palace timed entry.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Portuguese source, one Lisbon news outlet (Portuguese or English), one Portuguese author, and one Alfama or Mouraria fado-and-walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (accommodation licensing, tram 28 timing, Belém depth, Sintra commitment, fado venue type).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a Sintra rain day, sold-out Jerónimos slot, a Festas-de-Santo-António week overlap, a tram closure).
+> - **Governance Management.** What assumptions should I check before I book? Include Schengen, the AL (Alojamento Local) registration number on any rental, official ticketing for Jerónimos and Belém Tower, fado-house authenticity, and Sintra Pena Palace timed entry.
+> - **Information Curation.** Suggest at least four different source types: one official Portuguese source, one Lisbon news outlet (Portuguese or English), one Portuguese author, and one Alfama or Mouraria fado-and-walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (accommodation licensing, tram 28 timing, Belém depth, Sintra commitment, fado venue type).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a Sintra rain day, sold-out Jerónimos slot, a Festas-de-Santo-António week overlap, a tram closure).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one fado evening, one Belém half-day, and one Alfama walking loop. Mark each business as confidently locally owned, or flag it for me to verify.
 >

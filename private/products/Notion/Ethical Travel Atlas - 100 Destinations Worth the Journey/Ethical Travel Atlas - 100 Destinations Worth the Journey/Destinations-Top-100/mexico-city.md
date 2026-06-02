@@ -30,7 +30,7 @@ You come for the museums, the food, the pre-Columbian context, and a city that h
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most visitors get an **FMM tourist card** automatically with their flight or on arrival; verify current rules on the INM portal.
 - **Museo Nacional de Antropología** and **Museo Frida Kahlo (Casa Azul)** sell timed tickets on official portals; Casa Azul sells out days ahead; book in advance.
@@ -38,7 +38,7 @@ You come for the museums, the food, the pre-Columbian context, and a city that h
 - **Short-term rentals** in Roma and Condesa are increasingly regulated; verify the listing's status and the local rules.
 - **Metro** (12 lines) and **Metrobús** (BRT) use rechargeable cards; verify on the official CDMX Metrobús portal.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Reforma** and **El Universal** (Mexican dailies, Spanish) for current news; **Mexico News Daily** for English.
 - The official **CDMX Turismo** site for events and current rules.
@@ -46,7 +46,7 @@ You come for the museums, the food, the pre-Columbian context, and a city that h
 - A locally led CDMX food or neighbourhood walking tour (Eat Mexico, Sabores Mexico, Club Tengo Hambre).
 - **Wikivoyage Mexico City** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide your neighbourhood.** Roma and Condesa are leafy, walkable, and gentrifying fast; Polanco is upmarket; Centro Histórico is the colonial heart; Coyoacán is bohemian and quieter. Each gives a different city.
 - **You decide on altitude.** 2,250 metres is real altitude; an easy first day is the right move.
@@ -54,7 +54,7 @@ You come for the museums, the food, the pre-Columbian context, and a city that h
 - **You decide on Teotihuacán timing.** Arrive at opening; the heat and crowds build through morning; consider a guide for the archaeology.
 - **You decide on Frida.** Book Casa Azul days ahead; pair with the Coyoacán market and the Diego Rivera Studio Museum (also nearby).
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 CDMX weather is high-altitude tropical-mild; rainy season (June to September) brings dramatic afternoon storms; dry season (November to May) is sunny. Earthquake awareness is part of city life. Major events (Independence Day September 15-16, Day of the Dead late October to early November, the Grand Prix in October) reshape parts of the city.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three CDMX experiences I should not miss given my interests, and one I should consider skipping (an informal street taxi when Uber or sitio is steps safer, a Casa Azul attempt without an advance ticket, an over-packed first day at altitude). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the INM FMM tourist card, official ticketing for Casa Azul and the Anthropology Museum, INAH for Teotihuacán, short-term-rental status in Roma and Condesa, and Hoy No Circula schedules.
-> - **Information Curation Variety.** Suggest at least four different source types: one official Mexican source, one Mexican news outlet, one Mexico City author, and one CDMX food or walking guide.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood base, altitude pacing, food-tour commitment, Teotihuacán timing, Frida Kahlo advance ticket).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (rainy-season storm, a Hoy No Circula day affecting rideshare, a Day of the Dead crowd, a sold-out top restaurant).
+> - **Governance Management.** What assumptions should I check before I book? Include the INM FMM tourist card, official ticketing for Casa Azul and the Anthropology Museum, INAH for Teotihuacán, short-term-rental status in Roma and Condesa, and Hoy No Circula schedules.
+> - **Information Curation.** Suggest at least four different source types: one official Mexican source, one Mexican news outlet, one Mexico City author, and one CDMX food or walking guide.
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood base, altitude pacing, food-tour commitment, Teotihuacán timing, Frida Kahlo advance ticket).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (rainy-season storm, a Hoy No Circula day affecting rideshare, a Day of the Dead crowd, a sold-out top restaurant).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include one Teotihuacán morning, one Anthropology Museum half-day, and at least one food walking tour. Mark each business as confidently locally owned, or flag for me to verify.
 >

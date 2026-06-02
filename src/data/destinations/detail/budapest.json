@@ -1,0 +1,52 @@
+{
+  "slug": "budapest",
+  "name": "Budapest",
+  "country": "Hungary",
+  "region": "Europe",
+  "image": "/destinations/budapest.jpg",
+  "teaser": "Budapest is two old cities (hilly Buda and flat Pest) on opposite banks of the Danube, stitched together by nine bridges and a parliament that looks like a wedding cake. Roman bones, Ottoman thermal baths, Habsburg facades, Soviet-era housing, and one of Central Europe's most active food and ruin-bar scenes.",
+  "intro": "Budapest is two old cities (hilly Buda and flat Pest) on opposite banks of the Danube, stitched together by nine bridges and a parliament that looks like a wedding cake. Roman bones, Ottoman thermal baths, Habsburg facades, Soviet-era housing, and one of Central Europe's most active food and ruin-bar scenes.",
+  "whyVisit": "Budapest is more affordable than its Western European peers and architecturally as dense as any of them. The Parliament is one of the largest in the world. The Buda Castle and Fisherman's Bastion give one of Europe's great urban panoramas. The thermal baths (Széchenyi, Gellért, Rudas) are working public infrastructure, not just attractions; Hungarians actually use them.\n\nThe city also has a sharp political weather. Hungary's national politics has drawn international attention in recent years; Budapest itself has been more contested. Visiting respectfully means reading some history and listening to locals rather than assuming.",
+  "ethicalCompass": {
+    "economy": "Eat at étkezde (working-class lunch canteens) and small family restaurants in District VII, VIII, and IX rather than the tourist traps around the Castle. Use the Central Market Hall's upper floor for souvenirs but its ground floor for actual food shopping.",
+    "employment": "Tipping at sit-down meals is 10 to 12 percent; check whether service is already added. Use BKK public transport rather than taxis where possible. Avoid the unofficial taxis at the airport; book Főtaxi or use Bolt.",
+    "education": "Read about Hungary's twentieth century: the World War II occupation, the Holocaust (one of the most rapid and complete in Europe), 1956, and the post-1989 transition. The House of Terror and the Holocaust Memorial Centre are essential.",
+    "ecology": "Walk, use the BKK trams and metros, and the riverside paths. The thermal baths use natural geothermal water; respect the rules and the bathing-pool etiquette (no swimwear in some pools, swim caps required in others)."
+  },
+  "gyroscopePrep": {
+    "gm": [
+      "Schengen visa rules apply; verify your nationality's current status on the official Hungarian government or your home consulate portal.",
+      "The Parliament offers guided tours only; book on the official portal with passport. Sells out days ahead in peak season.",
+      "Thermal baths (Széchenyi, Gellért, Rudas, Lukács) each have different rules; check the official bath portal for hours, pool closures, and swimwear requirements.",
+      "Confirm any boat cruise on the Danube is operated by a licensed Hungarian company; the river has had safety incidents in recent years and standards vary.",
+      "Verify any food tour or wine tour operator (Hungary has serious wine regions reachable as day trips) is registered."
+    ],
+    "icu": [
+      "Telex and Hungary Today (English coverage of Hungarian news) for current politics and city events.",
+      "Budapest Info (the official city tourism site) for events, rules, and pass options.",
+      "A Hungarian author: Imre Kertész's Fatelessness, Magda Szabó's The Door, or Péter Nádas for ambition.",
+      "A locally led Jewish Quarter walking tour with a Jewish-Hungarian guide for a non-superficial reading of District VII.",
+      "Wikivoyage Budapest for transport and district orientation."
+    ],
+    "iinter": [
+      "You decide on Parliament timing. The tour is short, ticketed, and sells out. Book days ahead in the language you want.",
+      "You decide on which bath, on which day. Széchenyi is the postcard; Gellért is Art Nouveau; Rudas has Turkish-era pools and male/female-only days. Read the rules of your chosen bath.",
+      "You decide your ruin-bar approach. Szimpla Kert and the District VII ruin bars are a real scene but also overrun in summer. The smaller ones one street over are often better.",
+      "You decide how you engage Hungarian politics. Avoid lectures. Listen to locals; many are themselves divided.",
+      "You decide on Buda vs Pest as a base. Pest is dense, walkable, and where the nightlife is. Buda is quieter, leafier, and where the castle and many baths are."
+    ],
+    "ico": "Budapest weather is continental; summers are hot and humid (the baths help), winters are bitter (the indoor baths still help). Major events (national holidays, Sziget Festival in August) reshape the city. Renovations rotate through the major historic buildings.\n\nBring a soft plan. If your Parliament slot is full, the Hungarian National Museum or the House of Terror absorb a city-history afternoon. If summer heat is brutal, an evening bath under stars at Széchenyi is unforgettable. If winter snow closes Castle Hill paths, the metro to Heroes' Square solves it."
+  },
+  "anchorSpots": [
+    "Hungarian Parliament Building. Tour-only, official portal, book days ahead. The Crown Jewels are inside.",
+    "Buda Castle, Fisherman's Bastion, and Matthias Church. Walk up Castle Hill in the morning; the panorama over the Danube is the city's signature image.",
+    "Széchenyi or Gellért Thermal Baths. A morning or evening soak. Bring flip-flops, a towel, and the willingness to learn the etiquette.",
+    "Jewish Quarter (District VII) and the Dohány Street Synagogue. The largest synagogue in Europe; the surrounding district holds ruin bars, kosher restaurants, and street art.",
+    "Central Market Hall and a long walk down Váci utca or across the Liberty Bridge. Ground floor for food, upper floor for sober souvenir shopping; cross the river for Gellért Hill."
+  ],
+  "recommendedLength": "Three to four days for the city. Add a day for Szentendre (riverside town), Eger (wine), or the Lake Balaton region.",
+  "transportHint": "Walk in District V, VI, and VII. The BKK metro (four lines), trams (the 4/6 ring tram runs all night), and buses are excellent and cheap; buy a 24- or 72-hour pass. Bolt for ride-hail. Avoid unofficial airport taxis; the 100E airport bus or pre-booked Főtaxi are reliable.",
+  "prompt": "Please help me plan an ethical visit to Budapest, Hungary for [NUMBER] days in [MONTH]. I am travelling with [WHO] and my interests are [INTERESTS, e.g. thermal baths, Habsburg architecture, Jewish history, food, ruin bars]. My total budget is around [AMOUNT] and my comfort level is [budget / mid-range / higher-comfort].\n\nPlease structure your answer in three steps.\n\n**Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Budapest experiences I should not miss given my interests, and one I should consider skipping (the tourist traps on Castle Hill, an unofficial airport taxi, the worst of Váci utca). Briefly explain each trade-off.\n\n**Step 2: Preparation.** Cover all four of the following:\n- **Governance Management.** What assumptions should I check before I book? Include the Parliament tour passport booking, thermal-bath rules and hours on each official portal, Schengen visa rules for my nationality, and licensed Danube cruise operators.\n- **Information Curation.** Suggest at least four different source types: one official Hungarian source, one English-language Hungarian news outlet, one Hungarian author, and one Jewish Quarter or neighbourhood-led walking host.\n- **Inference Interaction.** List the decisions I personally need to make (Parliament tour timing, which bath and when, Buda vs Pest base, how I engage Hungarian politics).\n- **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (sold-out Parliament slot, a summer heatwave, a winter snowstorm, a closed wing at a major museum).\n\n**Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named districts. Include at least one thermal bath visit, one Jewish Quarter walk, and one étkezde or family-restaurant meal. Mark each business as confidently locally owned, or flag it for me to verify.\n\nFinally, please remind me at the end to verify your suggestions against:\n1. Official sources: Budapest Info, the Parliament tour portal, the specific bath's official site, and BKK for transport.\n2. Real people: a local resident, a licensed Hungarian guide, or hotel staff who live in Budapest now.\n\nTreat your output as a researcher's draft. I will make the final calls.",
+  "toursCityId": 3054643,
+  "order": 40
+}

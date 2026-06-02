@@ -30,7 +30,7 @@ You come for the museums, the memorials, the architecture of American government
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Smithsonian museums** are all free; **National Museum of African American History and Culture** requires timed free tickets booked on its official portal; sells out weeks ahead.
@@ -39,7 +39,7 @@ You come for the museums, the memorials, the architecture of American government
 - **White House** tours are very limited and require advance request through your home Congress or embassy.
 - **Washington Metro** uses SmarTrip card or contactless on most lines.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **The Washington Post** and **DCist** for serious local journalism.
 - **Destination DC** (the official tourism site) for events and openings.
@@ -47,7 +47,7 @@ You come for the museums, the memorials, the architecture of American government
 - A locally led U Street, Anacostia, or African-American DC walking tour.
 - **Wikivoyage Washington DC** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Smithsonian strategy.** A trip can't see all 17; pick 3 or 4 carefully: Air and Space (the original on the Mall), Natural History, American History, African American History and Culture, the Hirshhorn (modern), the Freer/Sackler (Asian art).
 - **You decide on the African American History and Culture commitment.** Book timed free tickets weeks ahead; it is one of the most powerful museums in America.
@@ -55,7 +55,7 @@ You come for the museums, the memorials, the architecture of American government
 - **You decide on the Capitol vs White House tour.** The Capitol tour is easier to book; the White House tour is very limited.
 - **You decide on neighbourhood depth.** A Mall-only DC misses the most interesting contemporary city.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 DC weather is four-season; hot humid summer, cold winter (occasional snow), beautiful but brief spring (cherry blossom in late March or early April) and autumn. Major events (Cherry Blossom Festival, inauguration in January every four years, major protests) reshape parts of the city.
 
@@ -99,10 +99,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three DC experiences I should not miss given my interests, and one I should consider skipping (a Mall-only itinerary, a Capitol Hill tourist restaurant, an attempt at all 17 Smithsonians). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, free timed tickets for the National Museum of African American History and Culture, Capitol tour booking, Metro SmarTrip or contactless, and government-shutdown status.
-> - **Information Curation Variety.** Suggest at least four different source types: one official DC source, one Washington Post or DCist news outlet, one DC author, and one neighbourhood-led tour (U Street, Anacostia, or Latin DC).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Smithsonian selection, NMAAHC commitment, memorial walk timing, Capitol or White House priority, neighbourhood depth).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (summer heat-wave on Mall, a major protest closing roads, snow on the Mall, a government shutdown).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, free timed tickets for the National Museum of African American History and Culture, Capitol tour booking, Metro SmarTrip or contactless, and government-shutdown status.
+> - **Information Curation.** Suggest at least four different source types: one official DC source, one Washington Post or DCist news outlet, one DC author, and one neighbourhood-led tour (U Street, Anacostia, or Latin DC).
+> - **Inference Interaction.** List the decisions I personally need to make (Smithsonian selection, NMAAHC commitment, memorial walk timing, Capitol or White House priority, neighbourhood depth).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (summer heat-wave on Mall, a major protest closing roads, snow on the Mall, a government shutdown).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one neighbourhood beyond the Mall (U Street, Adams Morgan, H Street, or Anacostia). Mark each business as confidently locally owned, or flag for me to verify.
 >

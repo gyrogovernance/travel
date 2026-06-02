@@ -30,7 +30,7 @@ You come for the adventure, the mountains, Milford Sound, and a base for the Sou
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Verify your **NZeTA (Electronic Travel Authority)** requirement and the **International Visitor Conservation and Tourism Levy** on the official Immigration New Zealand portal.
 - **Milford Sound** boat cruises are operated by several companies (Real Journeys, Mitre Peak, JUCY Cruize); book on official portals.
@@ -38,7 +38,7 @@ You come for the adventure, the mountains, Milford Sound, and a base for the Sou
 - **AJ Hackett bungy, Shotover Jet, paragliding, ski-field passes** sell on official operator portals.
 - The **Queenstown Trail** (45 km of cycle path) is free; bike hire from local shops.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Otago Daily Times** and **NZ Herald** for current news.
 - **Queenstown NZ** (official) for events and operator info.
@@ -46,7 +46,7 @@ You come for the adventure, the mountains, Milford Sound, and a base for the Sou
 - A Ngāi Tahu-led cultural experience (Te Atamira, Mana Tāhuna).
 - **Department of Conservation (DOC)** for trail status, hut bookings, and avalanche advisories.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on the Milford Sound approach.** Day trip from Queenstown is 12 to 14 hours (bus + boat + bus); fly-in is dramatically faster (and more expensive); overnight in Te Anau breaks the journey.
 - **You decide on the adventure mix.** Bungy, jet boat, skydive, paraglide all available; choose one big-ticket per day max.
@@ -54,7 +54,7 @@ You come for the adventure, the mountains, Milford Sound, and a base for the Sou
 - **You decide on the season.** Winter (June-August) is ski season; summer (December-February) is hiking season; shoulder seasons can be unpredictable.
 - **You decide on the helicopter.** Sounds-and-glaciers heli-flights are spectacular and loud; the impact on wilderness experience is a real conversation.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Queenstown weather can be dramatic at any season. Fiordland is one of the world's wettest places; Milford Sound is best in any weather (rain creates waterfalls) but boats may be affected. Avalanche risk in winter backcountry is real.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three Queenstown experiences I should not miss given my interests, and one I should consider skipping (a helicopter when a bus + boat works, a packed multi-adventure day that exhausts everyone, an unverified operator). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the NZeTA and conservation levy, DOC Great Walk bookings, official Milford boat operators, ski-pass portals, and Tiaki Promise.
-> - **Information Curation Variety.** Suggest at least four different source types: one official New Zealand source, one local news outlet, one New Zealand author, and one Ngāi Tahu-led cultural source.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (Milford approach, adventure mix, Great Walk commitment, season, helicopter ethics).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (Milford boat cancellation, avalanche advisory closing backcountry, helicopter weather, sudden snow or rain).
+> - **Governance Management.** What assumptions should I check before I book? Include the NZeTA and conservation levy, DOC Great Walk bookings, official Milford boat operators, ski-pass portals, and Tiaki Promise.
+> - **Information Curation.** Suggest at least four different source types: one official New Zealand source, one local news outlet, one New Zealand author, and one Ngāi Tahu-led cultural source.
+> - **Inference Interaction.** List the decisions I personally need to make (Milford approach, adventure mix, Great Walk commitment, season, helicopter ethics).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (Milford boat cancellation, avalanche advisory closing backcountry, helicopter weather, sudden snow or rain).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named operators where bookings are needed. Include the Milford trip, one adventure, and one Arrowtown or Ngāi Tahu cultural day. Mark each operator as confidently certified, or flag for me to verify.
 >

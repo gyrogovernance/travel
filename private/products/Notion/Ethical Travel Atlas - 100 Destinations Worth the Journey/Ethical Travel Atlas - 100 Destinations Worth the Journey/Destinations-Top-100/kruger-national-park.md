@@ -30,7 +30,7 @@ You come for the wildlife, the African bush at scale, and a chance to engage wit
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Many visitors are **visa-exempt** for South Africa; verify on the Department of Home Affairs portal.
 - **SANParks Kruger** reservations (accommodation and gate entry) are made on the official SANParks portal; rest-camps book months ahead in peak season.
@@ -38,7 +38,7 @@ You come for the wildlife, the African bush at scale, and a chance to engage wit
 - **Private reserves** (Sabi Sand, Timbavati, Klaserie) have their own access rules; verify with the specific lodge.
 - **Malaria** is endemic in parts of Kruger; verify current prophylaxis advice with a travel-medicine specialist before going.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **SANParks** official site for park rules, road status, and conservation context.
 - **Africa Geographic** and **Daily Maverick** environmental coverage for wider context on poaching and conservation.
@@ -46,7 +46,7 @@ You come for the wildlife, the African bush at scale, and a chance to engage wit
 - An on-the-ground guide with field-guide qualification (FGASA Levels) for any walking safari or technical experience.
 - **Wikivoyage Kruger National Park** for self-drive practicalities.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on self-drive vs lodge.** Self-drive (SANParks rest-camps) gives independence and is far cheaper; you also have to find your own animals, drive on the right (UK-style, left in South Africa actually), and have less expert interpretation. A guided lodge stay has the opposite trade-offs.
 - **You decide on the private reserve.** Sabi Sand and Timbavati offer off-road driving, walking safaris, and exceptional big-cat density at high prices; the SANParks side is on-road only and cheaper.
@@ -54,7 +54,7 @@ You come for the wildlife, the African bush at scale, and a chance to engage wit
 - **You decide on north vs south.** South Kruger (Skukuza, Lower Sabie, Berg-en-Dal) has higher animal density and is busier; north Kruger (Letaba, Mopani, Pafuri) is quieter and more wilderness-feeling.
 - **You decide on community engagement.** Several lodges fund schools, clinics, and conservancies on the park edge; choosing one of these is the most tangible way to make the trip support the place.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 Bushveld weather is hot summer (October to April, wet, lush, harder to spot wildlife), cool dry winter (May to September, sparse vegetation, easier wildlife viewing, cold mornings). Loadshedding has reached even park camps; most lodges have backup power. Gate hours change seasonally.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the best combination of SANParks self-drive, SANParks guided drives, or a private-reserve lodge given my interests and budget, and one I should consider skipping (a one-night Kruger visit that loses a day to transfers, a lodge without demonstrated community engagement, a self-drive day with no plan). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, SANParks official reservations, the Wild Card cost-benefit, private-reserve lodge access rules, FGASA-qualified guides for any walking safari, and current malaria prophylaxis advice.
-> - **Information Curation Variety.** Suggest at least four different source types: SANParks, a serious African conservation journalism source (Africa Geographic, Daily Maverick environmental), a book on African conservation, and an FGASA-qualified guide or lodge with field-guide expertise.
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (self-drive vs lodge, north vs south Kruger, gate choice, private vs SANParks, community engagement).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (a closed park road, a wet-season day with poor visibility, a sold-out rest-camp, malaria-prophylaxis side effect).
+> - **Governance Management.** What assumptions should I check before I book? Include the Department of Home Affairs visa portal, SANParks official reservations, the Wild Card cost-benefit, private-reserve lodge access rules, FGASA-qualified guides for any walking safari, and current malaria prophylaxis advice.
+> - **Information Curation.** Suggest at least four different source types: SANParks, a serious African conservation journalism source (Africa Geographic, Daily Maverick environmental), a book on African conservation, and an FGASA-qualified guide or lodge with field-guide expertise.
+> - **Inference Interaction.** List the decisions I personally need to make (self-drive vs lodge, north vs south Kruger, gate choice, private vs SANParks, community engagement).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (a closed park road, a wet-season day with poor visibility, a sold-out rest-camp, malaria-prophylaxis side effect).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings, named gates and camps, and named lodges with community engagement. Include at least one specific game drive route and one rest at a SANParks picnic site. Mark each lodge or operator as confidently community-partnered, or flag for me to verify.
 >

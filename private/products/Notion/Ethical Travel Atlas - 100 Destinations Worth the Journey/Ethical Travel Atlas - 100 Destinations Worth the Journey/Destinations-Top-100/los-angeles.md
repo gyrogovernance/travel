@@ -30,7 +30,7 @@ You come for the museums, the food (one of the country's most diverse), the beac
 
 ## 🎒 Step 2: Preparation
 
-### 🔍 Governance Management Traceability
+### 🔍 Governance Management
 
 - Most international visitors need **ESTA (visa waiver) or a B-2 visa** for the US; verify on the official US State Department portal.
 - **Getty Center and Getty Villa** are free, but require advance parking reservations (Getty Center) or timed tickets (Getty Villa); book on official portals.
@@ -38,7 +38,7 @@ You come for the museums, the food (one of the country's most diverse), the beac
 - **Studio tours** (Warner Bros., Sony, Paramount, Universal) sell official tickets through the studios; verify timed entry.
 - **LA Metro** (rail and bus) uses TAP cards or contactless; the LAX/Metro Transit Center connection is the easiest airport transit option.
 
-### 📡 Information Curation Variety
+### 📡 Information Curation
 
 - **Los Angeles Times** and **LAist** for serious local journalism.
 - **Discover Los Angeles** (the official tourism site) for events and openings.
@@ -46,7 +46,7 @@ You come for the museums, the food (one of the country's most diverse), the beac
 - A neighbourhood food guide or walking tour focused on Boyle Heights, Koreatown, or Leimert Park.
 - **Wikivoyage Los Angeles** for orientation.
 
-### 🎯 Inference Interaction Accountability
+### 🎯 Inference Interaction
 
 - **You decide on neighbourhood depth.** A trip that never leaves Hollywood, Beverly Hills, and Santa Monica is incomplete. Add at least one day in Boyle Heights, Koreatown, Little Tokyo, or Leimert Park.
 - **You decide on the car.** Renting a car gives flexibility; Metro Rail covers more than it used to; Uber and Lyft for short hops. The right answer depends on where you stay.
@@ -54,7 +54,7 @@ You come for the museums, the food (one of the country's most diverse), the beac
 - **You decide on the beach.** Santa Monica is the postcard, Venice is the scene, El Matador in Malibu is the dramatic photo, Hermosa or Manhattan are the local-feel.
 - **You decide on Disneyland.** It is in Anaheim (Orange County), a separate full-day trip; book official tickets.
 
-### 🔄 Intelligence Cooperation Integrity
+### 🔄 Intelligence Cooperation
 
 LA weather is Mediterranean and reliable; the rare rain shuts the city briefly. Wildfires increasingly affect the region in late summer and autumn; air quality varies. Major events (Oscars, awards-season red carpets, the LA Marathon, Coachella nearby) reshape traffic and neighbourhoods.
 
@@ -98,10 +98,10 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 > **Step 1: Choices.** Help me decide what to prioritise. Recommend the two or three LA experiences I should not miss given my interests, and one I should consider skipping (the Walk of Fame area itself, a Westside-only itinerary, a freeway commute when a Metro Rail trip works). Briefly explain each trade-off.
 >
 > **Step 2: Preparation.** Cover all four of the following:
-> - **Governance Management Traceability.** What assumptions should I check before I book? Include the US State Department ESTA, advance reservations for Getty Center parking and the Broad, official studio-tour portals, LA Metro TAP/contactless, and wildfire-season air quality.
-> - **Information Curation Variety.** Suggest at least four different source types: one official LA tourism source, one local news outlet (LA Times or LAist), one LA author, and one neighbourhood-led food or walking guide (Boyle Heights, Koreatown, Little Tokyo, or Leimert Park).
-> - **Inference Interaction Accountability.** List the decisions I personally need to make (neighbourhood depth, rental car vs Metro, Hollywood tour ethics, beach choice, Disneyland day commitment).
-> - **Intelligence Cooperation Integrity.** Build me a soft plan with at least two alternates for likely disruptions (wildfire smoke, a freeway closure, May Gray/June Gloom coastal fog, a sold-out studio tour).
+> - **Governance Management.** What assumptions should I check before I book? Include the US State Department ESTA, advance reservations for Getty Center parking and the Broad, official studio-tour portals, LA Metro TAP/contactless, and wildfire-season air quality.
+> - **Information Curation.** Suggest at least four different source types: one official LA tourism source, one local news outlet (LA Times or LAist), one LA author, and one neighbourhood-led food or walking guide (Boyle Heights, Koreatown, Little Tokyo, or Leimert Park).
+> - **Inference Interaction.** List the decisions I personally need to make (neighbourhood depth, rental car vs Metro, Hollywood tour ethics, beach choice, Disneyland day commitment).
+> - **Intelligence Cooperation.** How should I trust my own judgment and local advice over algorithmic defaults when conditions change? Build me a soft plan with at least two alternates for likely disruptions (wildfire smoke, a freeway closure, May Gray/June Gloom coastal fog, a sold-out studio tour).
 >
 > **Step 3: Delivery.** Give me the actual itinerary, day by day, with realistic timings and named neighbourhoods. Include at least one neighbourhood beyond the Westside (Boyle Heights, Koreatown, Little Tokyo, or Leimert Park) and the Griffith Observatory at sunset. Mark each business as confidently locally owned, or flag for me to verify.
 >
