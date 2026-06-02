@@ -16,7 +16,9 @@ export default function TravelWidget({ widgetKey }) {
 
   const shellClass = featured
     ? "relative overflow-hidden rounded-4xl bg-gradient-to-br from-[#d98c2b]/25 via-cream to-ocean/15 p-6 sm:p-8 shadow-soft ring-1 ring-[#d98c2b]/30 flex flex-col"
-    : "card p-6 flex flex-col h-full";
+    : hasEmbed
+      ? "card p-6 flex flex-col h-full"
+      : "card p-6";
 
   const iconShellClass = featured
     ? "inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#d98c2b]/20 text-[#b87424]"
@@ -44,7 +46,11 @@ export default function TravelWidget({ widgetKey }) {
         </div>
       </div>
 
-      <div className={`relative ${featured ? "mt-5" : "mt-auto pt-5"} flex flex-col gap-3`}>
+      <div
+        className={`relative flex flex-col gap-3 ${
+          featured || !hasEmbed ? "mt-5" : "mt-auto pt-5"
+        }`}
+      >
         {hasEmbed ? (
           <TravelpayoutsScript
             src={widget.src}

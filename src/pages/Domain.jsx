@@ -6,6 +6,7 @@ import { DOMAIN_FEATURED_DESTINATIONS } from "../data/domainDestinations.js";
 import Icon from "../components/Icon.jsx";
 import AffiliateBanner from "../components/AffiliateBanner.jsx";
 import TravelWidget from "../components/TravelWidget.jsx";
+import ExperiencesCta from "../components/ExperiencesCta.jsx";
 import Seo from "../components/Seo.jsx";
 import NotFound from "./NotFound.jsx";
 
@@ -20,7 +21,6 @@ export default function Domain() {
   const featuredDestinations = featuredSlugs
     .map((s) => getDestination(s))
     .filter(Boolean);
-
   return (
     <div>
       <Seo
@@ -113,7 +113,11 @@ export default function Domain() {
         </div>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-          {domain.widgetKey && <TravelWidget widgetKey={domain.widgetKey} />}
+          {domain.experiencesCta ? (
+            <ExperiencesCta />
+          ) : domain.widgetKey ? (
+            <TravelWidget widgetKey={domain.widgetKey} />
+          ) : null}
 
           {featuredDestinations.length > 0 ? (
             <div className="card p-6">

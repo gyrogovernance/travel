@@ -82,7 +82,7 @@ export const DOMAINS = [
       "Use AI to draft a short message asking operators about their labor practices before you commit.",
     ],
     offerKeys: ["tours", "insurance"],
-    widgetKey: "toursSearch",
+    experiencesCta: true,
   },
   {
     slug: "education",
@@ -121,7 +121,7 @@ export const DOMAINS = [
       "Ask AI for a quick cultural briefing, then verify what it tells you with people who live there.",
     ],
     offerKeys: ["tours", "esim"],
-    widgetKey: "toursSearch",
+    experiencesCta: true,
   },
   {
     slug: "ecology",

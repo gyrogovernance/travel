@@ -56,7 +56,7 @@ export const AFFILIATE_OFFERS = {
   tours: {
     label: "Book Ethical Experiences",
     note: "Tours that pay guides fairly.",
-    url: brandLink("https://www.getyourguide.com"),
+    url: brandLink("https://wegotrip.com"),
   },
   esim: {
     label: "Get a Travel eSIM",
@@ -130,14 +130,6 @@ export const WIDGETS = {
     icon: "compass",
     src: "",
     fallbackKey: "hotels",
-  },
-  // Experiences and tours search.
-  toursSearch: {
-    title: "Find experiences",
-    note: "Choose tours run by local guides who are paid fairly.",
-    icon: "compass",
-    src: "",
-    fallbackKey: "tours",
   },
 };
 

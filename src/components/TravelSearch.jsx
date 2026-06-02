@@ -1,4 +1,5 @@
 import TravelWidget from "./TravelWidget.jsx";
+import ExperiencesCta from "./ExperiencesCta.jsx";
 import { DISCLOSURE } from "../affiliate.js";
 
 // A grid of Travelpayouts search widgets. Pass an array of widget keys
@@ -6,7 +7,7 @@ import { DISCLOSURE } from "../affiliate.js";
 export default function TravelSearch({
   title = "Plan and book in one place",
   subtitle = "Search flights, stays, and experiences through partners that fit our ethical travel principles.",
-  keys = ["flightSearch", "hotelSearch", "toursSearch", "flightCompensation"],
+  keys = ["flightSearch", "hotelSearch", "flightCompensation"],
   showDisclosure = false,
 }) {
   const primaryKeys = keys.filter((k) => k !== "flightCompensation");
@@ -26,6 +27,7 @@ export default function TravelSearch({
         {primaryKeys.map((k) => (
           <TravelWidget key={k} widgetKey={k} />
         ))}
+        <ExperiencesCta />
       </div>
 
       {showCompensation ? (

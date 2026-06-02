@@ -15,7 +15,7 @@ function parseIframeSizerHeight(data) {
  * The partner script sets a fixed iframe height; WeGoTrip sends [iFrameSizer]
  * messages when content size changes — we apply those here.
  */
-export default function ToursWidgetEmbed({ src }) {
+export default function ToursWidgetEmbed({ src, className = "tours-widget-embed" }) {
   const containerRef = useRef(null);
 
   useEffect(() => {
@@ -56,5 +56,5 @@ export default function ToursWidgetEmbed({ src }) {
 
   if (!src) return null;
 
-  return <div ref={containerRef} className="tours-widget-embed" />;
+  return <div ref={containerRef} className={className} />;
 }
