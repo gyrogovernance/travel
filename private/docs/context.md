@@ -371,7 +371,7 @@ Curated partners by category (each mapped to a domain): stays, tours/experiences
 
 | Surface | Location | Config |
 | --- | --- | --- |
-| Travelpayouts **Drive** | `index.html` (auto-converts brand links) | Project marker `535198` |
+| Travelpayouts **Drive** | `index.html` (auto-converts brand links) | Project marker `535657` |
 | **Affiliate offers** | `src/affiliate.js` → `OfferCard`, banners | `AFFILIATE_OFFERS`, `DISCLOSURE` |
 | **Search widgets** | Home, domain pages, `/search/flights` | `WIDGETS`, `FLIGHT_META_SEARCH` |
 | **Per-destination tours** | Destination pages when `toursCityId` set | `TOURS_WIDGET`, `DestinationToursWidget.jsx` |

@@ -3,9 +3,9 @@
 A working reference for how this site monetizes through Travelpayouts, what is
 already set up, and what to use in the future.
 
-Project id (marker): **535198**
+Project id (marker): **535657**
 Dashboard: https://app.travelpayouts.com/dashboard
-Content analytics: https://app.travelpayouts.com/statistics/content_analytics?source=535198
+Content analytics: https://app.travelpayouts.com/statistics/content_analytics?source=535657
 Affiliate tools docs: https://support.travelpayouts.com/hc/en-us/categories/200359097-Affiliate-tools
 
 ---
@@ -21,7 +21,7 @@ installed once, first inside `<head>` in `index.html`:
   (function () {
     var script = document.createElement("script");
     script.async = 1;
-    script.src = "https://emrldtp.cc/NTM1MTk4.js?t=535198";
+    script.src = 'https://emrldtp.cc/NTM1NjU3.js?t=535657';
     document.head.appendChild(script);
   })();
 </script>
