@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import Seo from "../components/Seo.jsx";
 import TravelWidget from "../components/TravelWidget.jsx";
-import { DISCLOSURE, FLIGHT_META_SEARCH, mountFlightMetaSearch } from "../affiliate.js";
+import { FLIGHT_META_SEARCH, mountFlightMetaSearch } from "../affiliate.js";
 import "../styles/flight-search-tpwl.css";
 
 function loadPopularDestinationWeedles(container) {
@@ -130,7 +130,6 @@ export default function FlightSearch() {
         <div className="max-w-xl">
           <TravelWidget widgetKey="flightCompensation" />
         </div>
-        <p className="mt-6 text-xs text-slate-500 max-w-3xl font-medium">{DISCLOSURE}</p>
       </section>
     </div>
   );

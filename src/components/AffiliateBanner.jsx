@@ -5,9 +5,9 @@ import OfferCard from "./OfferCard.jsx";
 // or leave empty to show a default selection.
 export default function AffiliateBanner({
   title = "Book Your Trip the Ethical Way",
-  subtitle = "These are the partners we trust for fair, low harm travel. Booking through them supports this site.",
+  subtitle = "These are the partners we trust for fair, low harm travel.",
   keys = ["flights", "hotels", "trains", "tours", "esim", "insurance"],
-  showDisclosure = true,
+  showDisclosure = false,
 }) {
   const valid = keys.filter((k) => AFFILIATE_OFFERS[k]);
 

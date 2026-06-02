@@ -8,7 +8,6 @@ import CtaBand from "../components/CtaBand.jsx";
 import Seo from "../components/Seo.jsx";
 import Icon from "../components/Icon.jsx";
 import { SITE, absoluteUrl, defaultOgImageUrl } from "../site.js";
-import { DISCLOSURE } from "../affiliate.js";
 import NotFound from "./NotFound.jsx";
 
 function Block({ block }) {
@@ -147,9 +146,6 @@ export default function Post() {
           <div className="mt-12">
             <CtaBand />
           </div>
-          <p className="text-xs text-slate-500 border-t border-black/10 pt-5 mt-10">
-            {DISCLOSURE}
-          </p>
         </div>
         <aside className="space-y-6">
           <div className="card p-6">

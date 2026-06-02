@@ -77,7 +77,8 @@ export const AFFILIATE_OFFERS = {
 
 
 
-// Short affiliate note for footer, banners, and inline placements.
+// Site-wide affiliate note (footer on every page). Pass showDisclosure to
+// AffiliateBanner or TravelSearch only if a page has no footer.
 export const DISCLOSURE =
   "Some booking links may earn us a small commission at no extra cost to you, which helps support our research. We only suggest partners that fit our ethical travel principles.";
 
@@ -119,6 +120,8 @@ export const WIDGETS = {
     icon: "shield",
     src: `https://tpemb.com/content?trs=${TP_MARKER}&shmarker=${TP_SHMARKER}&lang=en&powered_by=true&campaign_id=120&promo_id=8679`,
     fallbackKey: "compensation",
+    embedClass: "compensation-widget-embed",
+    featured: true,
   },
   // Hotel search form.
   hotelSearch: {

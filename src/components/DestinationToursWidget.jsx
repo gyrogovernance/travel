@@ -1,4 +1,4 @@
-import { buildToursWidgetSrc, DISCLOSURE } from "../affiliate.js";
+import { buildToursWidgetSrc } from "../affiliate.js";
 import ToursWidgetEmbed from "./ToursWidgetEmbed.jsx";
 
 /** WeGoTrip specific-tours widget for one destination (Travelpayouts promo 4489). */
@@ -20,7 +20,6 @@ export default function DestinationToursWidget({ destinationName, cityId }) {
       <div className="mt-4 rounded-2xl bg-cream p-4 sm:p-6 ring-1 ring-black/5">
         <ToursWidgetEmbed src={src} />
       </div>
-      <p className="mt-3 text-xs text-slate-500 font-medium max-w-3xl">{DISCLOSURE}</p>
     </section>
   );
 }

@@ -17,7 +17,7 @@ export default function DestinationsStrip() {
               Start with a place you already know
             </h2>
             <p className="mt-3 text-slate-200 font-medium leading-relaxed">
-              Five anchor spots, ethical context, four Gyroscope operations, then a
+              Five anchor spots, domain context, four prep steps, then a
               destination-specific prompt. Pick one and plan in minutes.
             </p>
           </div>

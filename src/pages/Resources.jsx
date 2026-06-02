@@ -1,5 +1,4 @@
 import { PROGRAM_CATEGORIES } from "../data/programs.js";
-import { DISCLOSURE } from "../affiliate.js";
 import CtaBand from "../components/CtaBand.jsx";
 import Icon from "../components/Icon.jsx";
 import Seo from "../components/Seo.jsx";
@@ -86,8 +85,6 @@ export default function Resources() {
           ctaLabel="Read the guides"
           to="/guides"
         />
-
-        <p className="text-xs text-slate-500 font-medium">{DISCLOSURE}</p>
       </section>
     </div>
   );

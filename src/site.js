@@ -14,6 +14,7 @@ export const SITE = {
   tagline: "AI-Empowered Guides for Human Adventures",
   // Set this to your live domain, with no trailing slash.
   siteUrl: "https://travel.gyrogovernance.com",
+  labUrl: "https://gyrogovernance.com",
   description:
     "Ethical travel guidance across Economy, Employment, Education, and Ecology. Gyro Governance helps you use AI to plan moral travel, make friends locally and abroad, and empower the communities you visit.",
   locale: "en",

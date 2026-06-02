@@ -5,12 +5,17 @@
  * THM (Education), BU dual (Ecology). Visitor-facing preparation uses Gyroscope
  * work categories only (Governance Management, Information Curation, Inference
  * Interaction, Intelligence Cooperation). THM alignment principles (GMT, ICV, IIA,
- * ICI) and displacements (GTD, IVD, IAD, IID) are documented on the About page.
+ * ICI) and displacements (GTD, IVD, IAD, IID) are documented on the About page and in
  *
  * Keys gm, icu, iinter, ico match Gyroscope Protocol abbreviations (GGG Employment).
+ * Visitor-facing label: PREP_STEPS_HEADING ("Four prep steps"). Do not expose
+ * "Gyroscope" in UI copy; research names stay in private docs and atlas markdown headings.
  */
 
-export const GYROSCOPE_OPERATIONS_HEADING = "Four Gyroscope operations";
+export const PREP_STEPS_HEADING = "Four prep steps";
+
+/** @deprecated Use PREP_STEPS_HEADING. Kept for existing imports. */
+export const GYROSCOPE_OPERATIONS_HEADING = PREP_STEPS_HEADING;
 
 /** Operation whose prep field is prose (string), not a bullet list. */
 export const GYROSCOPE_PROSE_KEY = "ico";
@@ -19,12 +24,12 @@ export const ATLAS_STEPS = [
   {
     step: 1,
     label: "Choices",
-    summary: "Why this place matters and the four Ethical Compass domains.",
+    summary: "Why this place matters and four domain questions.",
   },
   {
     step: 2,
     label: "Preparation",
-    summary: `${GYROSCOPE_OPERATIONS_HEADING}, anchor spots, and practical essentials.`,
+    summary: `${PREP_STEPS_HEADING}, anchor spots, and practical essentials.`,
   },
   {
     step: 3,

@@ -161,7 +161,7 @@ Hub: https://travel.gyrogovernance.com/destinations
 - URL: https://travel.gyrogovernance.com/guides/how-to-plan-ethical-travel-with-ai
 - Domain: Education
 - Published: 2026-06-02
-- Summary: Choices, Preparation, Delivery. A simple loop for using AI as a researcher while you keep the final call.
+- Summary: Choices, Preparation, Delivery. A simple loop for partnering with AI on research while you keep judgment and verification.
 
 ### Where Does Your Travel Money Actually Go?
 
@@ -182,7 +182,7 @@ Hub: https://travel.gyrogovernance.com/destinations
 - URL: https://travel.gyrogovernance.com/guides/why-you-should-talk-to-locals-not-just-read-reviews
 - Domain: Education
 - Published: 2026-06-05
-- Summary: Online reviews and AI summaries are indirect sources. Real knowledge comes from people with lived experience. Here is how to find it.
+- Summary: Online reviews and AI summaries are useful, but they are secondhand. Real knowledge comes from people with lived experience. Here is how to find it.
 
 ### A Practical Guide to Lowering Your Travel Carbon Footprint
 

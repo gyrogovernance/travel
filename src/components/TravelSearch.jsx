@@ -6,9 +6,12 @@ import { DISCLOSURE } from "../affiliate.js";
 export default function TravelSearch({
   title = "Plan and book in one place",
   subtitle = "Search flights, stays, and experiences through partners that fit our ethical travel principles.",
-  keys = ["flightSearch", "flightCompensation", "hotelSearch", "toursSearch"],
-  showDisclosure = true,
+  keys = ["flightSearch", "hotelSearch", "toursSearch", "flightCompensation"],
+  showDisclosure = false,
 }) {
+  const primaryKeys = keys.filter((k) => k !== "flightCompensation");
+  const showCompensation = keys.includes("flightCompensation");
+
   return (
     <section aria-labelledby="travel-search-heading">
       <div className="max-w-2xl">
@@ -19,11 +22,17 @@ export default function TravelSearch({
         <p className="mt-3 text-lg text-slate-700 font-medium">{subtitle}</p>
       </div>
 
-      <div className="mt-8 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
-        {keys.map((k) => (
+      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 items-stretch">
+        {primaryKeys.map((k) => (
           <TravelWidget key={k} widgetKey={k} />
         ))}
       </div>
+
+      {showCompensation ? (
+        <div className="mt-6">
+          <TravelWidget widgetKey="flightCompensation" />
+        </div>
+      ) : null}
 
       {showDisclosure && (
         <p className="mt-6 text-xs text-slate-500 max-w-3xl font-medium">{DISCLOSURE}</p>

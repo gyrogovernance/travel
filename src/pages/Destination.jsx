@@ -6,7 +6,7 @@ import {
   loadDestinationDetail,
 } from "../data/destinations.js";
 import { DOMAINS } from "../data/domains.js";
-import { GYROSCOPE_OPERATIONS_HEADING } from "../data/atlasMethod.js";
+import { PREP_STEPS_HEADING } from "../data/atlasMethod.js";
 import PromptCard from "../components/PromptCard.jsx";
 import EthicalCompassBlock from "../components/EthicalCompassBlock.jsx";
 import GyroscopePrepBlock from "../components/GyroscopePrepBlock.jsx";
@@ -113,7 +113,7 @@ export default function Destination() {
           <span className="eyebrow">Step 2: Preparation</span>
           <h2 className="mt-3 text-2xl sm:text-3xl text-ink">Plan before you go</h2>
           <p className="mt-2 text-slate-700 font-medium">
-            Work through the {GYROSCOPE_OPERATIONS_HEADING.toLowerCase()}, then use the anchor
+            Work through the {PREP_STEPS_HEADING.toLowerCase()} below, then use the anchor
             spots and essentials as your skeleton itinerary.
           </p>
           <GyroscopePrepBlock prep={dest.gyroscopePrep} />

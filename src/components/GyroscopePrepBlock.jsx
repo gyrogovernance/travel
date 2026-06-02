@@ -1,6 +1,6 @@
 import {
   GYROSCOPE_OPS,
-  GYROSCOPE_OPERATIONS_HEADING,
+  PREP_STEPS_HEADING,
   GYROSCOPE_PROSE_KEY,
 } from "../data/atlasMethod.js";
 import Icon from "./Icon.jsx";
@@ -27,9 +27,9 @@ export default function GyroscopePrepBlock({ prep }) {
 
   return (
     <div className="mt-6">
-      <h3 className="text-lg text-ink">{GYROSCOPE_OPERATIONS_HEADING}</h3>
+      <h3 className="text-lg text-ink">{PREP_STEPS_HEADING}</h3>
       <p className="mt-1 text-sm text-slate-600 font-medium leading-relaxed">
-        Work through each operation in order before you copy the AI prompt.
+        Work through each step in order before you copy the AI prompt.
       </p>
 
       <ul className="mt-4 space-y-4">

@@ -84,6 +84,38 @@ h1, h2, h3, .font-display {
     display: block;
   }
 
+  /* AirHelp compensation form (Travelpayouts promo 8679) */
+  .compensation-widget-embed {
+    width: 100%;
+    max-height: 140px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .compensation-widget-embed [id^="airhelp_wrapper"] {
+    height: auto !important;
+    max-height: 140px !important;
+  }
+
+  .compensation-widget-embed [id^="airhelp_wrapper"] > div {
+    height: 140px !important;
+    max-height: 140px !important;
+  }
+
+  .compensation-widget-embed iframe {
+    width: 100% !important;
+    max-width: 100%;
+    height: 140px !important;
+    max-height: 140px !important;
+    border: 0;
+    display: block;
+  }
+
+  .compensation-widget-embed .tp_powered_by {
+    display: none !important;
+  }
+
   /* Embed injects duplicate TP badges; we disclose in-page instead */
   .tours-widget-embed .tp_powered_by {
     display: none !important;

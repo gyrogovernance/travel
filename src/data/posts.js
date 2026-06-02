@@ -11,7 +11,7 @@ export const POSTS = [
     slug: "how-to-plan-ethical-travel-with-ai",
     title: "How to Plan Ethical Travel with AI: The 3-Step Method",
     excerpt:
-      "Choices, Preparation, Delivery. A simple loop for using AI as a researcher while you keep the final call.",
+      "Choices, Preparation, Delivery. A simple loop for partnering with AI on research while you keep judgment and verification.",
     domain: "education",
     date: "2026-06-02",
     readMinutes: 8,
@@ -26,7 +26,7 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "Before you book anything, clarify why you are going and what trade-offs you accept. Each Atlas destination page opens with Why visit and an Ethical Compass: four short, place-specific notes across Economy, Employment, Education, and Ecology.",
+          "Before you book anything, clarify why you are going and what trade-offs you accept. Each Atlas destination page opens with Why visit and an Ethical Compass: four short, place-specific notes on Economy, Employment, Education, and Ecology.",
       },
       {
         type: "ul",
@@ -41,7 +41,7 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "Preparation is where Collective Superintelligence shows up in practice. AI can gather options fast. You decide. Each destination page includes the four Gyroscope operations with local detail: Governance Management, Information Curation, Inference Interaction, and Intelligence Cooperation.",
+          "Preparation is where cooperation pays off. Let AI gather options fast, then check what matters locally. Each destination page includes four prep steps with place-specific detail: check assumptions (Governance Management), compare sources (Information Curation), note choices that need your judgment (Inference Interaction), and plan how you will adapt on the ground (Intelligence Cooperation).",
       },
       {
         type: "ul",
@@ -61,7 +61,7 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "Delivery is the copy-ready prompt. It always starts with Please, follows the same three steps inside the instruction, names all four Gyroscope operations, and ends with a reminder to verify against official sources and local people. Treat the output as a draft, not a final plan.",
+          "Delivery is the copy-ready prompt. It always starts with Please, follows the same three steps inside the instruction, walks through all four prep checks, and ends with a reminder to verify against official sources and local people. Treat the output as a draft, not a final plan.",
       },
       { type: "h2", text: "What to do next" },
       {
@@ -76,7 +76,7 @@ export const POSTS = [
       {
         type: "ai",
         text:
-          "Want a domain-focused prompt instead of a city-specific one? Browse our AI Prompts page. Each prompt follows the same verification rule: AI researches, you decide, locals confirm.",
+          "Want a domain-focused prompt instead of a city-specific one? Browse our AI Prompts page. Each prompt follows the same verification rule: AI plans, you decide, locals confirm.",
       },
     ],
     faq: [
@@ -234,21 +234,21 @@ export const POSTS = [
     slug: "why-you-should-talk-to-locals-not-just-read-reviews",
     title: "Why You Should Talk to Locals, Not Just Read Reviews",
     excerpt:
-      "Online reviews and AI summaries are indirect sources. Real knowledge comes from people with lived experience. Here is how to find it.",
+      "Online reviews and AI summaries are useful, but they are secondhand. Real knowledge comes from people with lived experience. Here is how to find it.",
     domain: "education",
     date: "2026-06-05",
     readMinutes: 5,
     blocks: [
-      { type: "h2", text: "The problem with indirect sources" },
+      { type: "h2", text: "The problem with secondhand advice" },
       {
         type: "p",
         text:
-          "When you read a travel blog, an AI-generated summary, or a thousand online reviews, you are consuming indirect information. Someone else observed something, wrote it down, and now you are reading their account. That is useful, but it is not the same as knowing something directly.",
+          "When you read a travel blog, an AI-generated summary, or a thousand online reviews, you are reading someone else's account of a place. That is useful, but it is not the same as knowing something directly from the people who live there.",
       },
       {
         type: "p",
         text:
-          "Indirect sources have a specific weakness: they compress reality into what is popular. The restaurant with the most reviews is not necessarily the best one. It is the most reviewed one. The experience that shows up first in search results is not the most meaningful. It is the most optimized for search.",
+          "Secondhand sources have a specific weakness: they compress reality into what is popular. The restaurant with the most reviews is not necessarily the best one. It is the most reviewed one. The experience that shows up first in search results is not the most meaningful. It is the most optimized for search.",
       },
       { type: "h2", text: "What locals know that algorithms do not" },
       {
@@ -405,7 +405,7 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "AI can help you plan better trips. It can compare carbon footprints, find locally owned businesses, and translate conversations. But AI is an indirect source. It processes patterns from data. It does not have lived experience. Use it as a starting point, then verify with real people. That is how collective superintelligence works: humans and tools cooperating, with humans keeping the final say.",
+          "AI can help you plan better trips. It can compare carbon footprints, find locally owned businesses, and translate conversations. It works from patterns in data, not lived experience. Let it draft options, then check with real people before you book. That is cooperation done right: machine speed, human judgment.",
       },
       {
         type: "ai",

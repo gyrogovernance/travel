@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ATLAS_STEPS, GYROSCOPE_OPERATIONS_HEADING } from "../data/atlasMethod.js";
+import { ATLAS_STEPS, PREP_STEPS_HEADING } from "../data/atlasMethod.js";
 
 export default function AtlasIntro() {
   return (
@@ -10,8 +10,8 @@ export default function AtlasIntro() {
           Pick a place. Get the bones of a great trip.
         </h2>
         <p className="mt-4 text-lg text-slate-700 font-medium leading-relaxed">
-          One hundred mainstream destinations. Each page gives you five anchor spots, ethical
-          context for that place, the {GYROSCOPE_OPERATIONS_HEADING.toLowerCase()}, and a
+          One hundred mainstream destinations. Each page gives you five anchor spots,
+          ethical context for that place, {PREP_STEPS_HEADING.toLowerCase()}, and a
           copy-ready AI prompt you can paste into any assistant.
         </p>
       </div>
