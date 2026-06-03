@@ -38,7 +38,7 @@ export default function AudioGuidesPromo({
         className="overflow-hidden rounded-4xl bg-cream ring-1 ring-black/5"
         aria-labelledby="audio-guides-promo-heading"
       >
-        <div className="relative w-full aspect-[2/1] sm:aspect-[5/2] min-h-[180px] sm:min-h-[220px]">
+        <div className="relative w-full aspect-[5/2] sm:aspect-[12/4] min-h-[160px] sm:min-h-[200px]">
           <img
             src={audioGuidesImg}
             alt="Traveler with a smartphone on a city street near the Eiffel Tower"
