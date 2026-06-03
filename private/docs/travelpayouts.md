@@ -183,6 +183,22 @@ Every Atlas destination page can show a **Specific Tours** widget (WeGoTrip via
 Travelpayouts, `promo_id=4489`, three tours). The widget URL is built in code;
 each destination gets a WeGoTrip **`city_id`** at build time.
 
+### On-site WeGoTrip CTAs (no extra widget)
+
+Plain links to `https://wegotrip.com` with optional `sub_id` via `wegotripLink()` in
+`src/affiliate.js`. Drive converts them at click time. Placements:
+
+| Variant | Component | Where |
+| --- | --- | --- |
+| Featured (image + bullets) | `AudioGuidesPromo` | Home, after AI Prompts section |
+| Banner | `AudioGuidesPromo` | `/destinations` index |
+| Inline (per city) | `AudioGuidesPromo` | Atlas destination pages (after prompt) |
+| Compact | `AudioGuidesPromo` | `/prompts` |
+| Text link | `AtlasIntro`, `ExperiencesCta` | Home Atlas block, domain sidebars |
+
+Asset: `src/assets/audio_guides.webp`. Highest commission tier is custom AI on-demand
+tours; payout confirms after the user downloads the tour on mobile.
+
 ### How it works
 
 | Piece | Location |

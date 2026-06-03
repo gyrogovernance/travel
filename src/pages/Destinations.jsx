@@ -8,6 +8,7 @@ import {
 import DestinationCard from "../components/DestinationCard.jsx";
 import Seo from "../components/Seo.jsx";
 import Icon from "../components/Icon.jsx";
+import AudioGuidesPromo from "../components/AudioGuidesPromo.jsx";
 
 export default function Destinations() {
   const [region, setRegion] = useState("all");
@@ -49,7 +50,8 @@ export default function Destinations() {
       </section>
 
       <section className="container-content section-pad">
-        <div className="flex flex-wrap gap-2">
+        <AudioGuidesPromo variant="banner" subId="destinations-index-audio" />
+        <div className="mt-10 flex flex-wrap gap-2">
           <button
             type="button"
             onClick={() => setRegion("all")}

@@ -72,7 +72,7 @@ h1, h2, h3, .font-display {
 
   /* Shared hover lift for interactive cards. Subtle and uniform. */
   .card-hover {
-    @apply hover:-translate-y-1 hover:shadow-soft;
+    @apply hover:-translate-y-1.5 hover:shadow-[0_16px_44px_-12px_rgba(12,21,36,0.22)];
   }
 
   .eyebrow {

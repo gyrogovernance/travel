@@ -54,9 +54,9 @@ export const AFFILIATE_OFFERS = {
     url: brandLink("https://www.omio.com"),
   },
   tours: {
-    label: "Book Ethical Experiences",
-    note: "Tours that pay guides fairly.",
-    url: brandLink("https://wegotrip.com"),
+    label: "AI Audio Tours",
+    note: "Self-guided routes on your phone. Offline after download.",
+    url: brandLink("https://wegotrip.com", "offer-tours"),
   },
   esim: {
     label: "Get a Travel eSIM",
@@ -75,7 +75,12 @@ export const AFFILIATE_OFFERS = {
   },
 };
 
+// WeGoTrip brand site (Drive converts to affiliate links). Optional sub_id per placement.
+export const WEGOTRIP_URL = "https://wegotrip.com";
 
+export function wegotripLink(subId) {
+  return brandLink(WEGOTRIP_URL, subId);
+}
 
 // Site-wide affiliate note (footer on every page). Pass showDisclosure to
 // AffiliateBanner or TravelSearch only if a page has no footer.

@@ -11,6 +11,7 @@ import PromptCard from "../components/PromptCard.jsx";
 import EthicalCompassBlock from "../components/EthicalCompassBlock.jsx";
 import GyroscopePrepBlock from "../components/GyroscopePrepBlock.jsx";
 import DestinationToursWidget from "../components/DestinationToursWidget.jsx";
+import AudioGuidesPromo from "../components/AudioGuidesPromo.jsx";
 import Seo from "../components/Seo.jsx";
 import Icon from "../components/Icon.jsx";
 import NotFound from "./NotFound.jsx";
@@ -159,8 +160,23 @@ export default function Destination() {
             <div className="mt-6">
               <PromptCard title={`Plan ${dest.name}`} prompt={dest.prompt} />
             </div>
+            <div className="mt-8">
+              <AudioGuidesPromo
+                variant="inline"
+                destinationName={dest.name}
+                destinationSlug={dest.slug}
+              />
+            </div>
           </section>
-        ) : null}
+        ) : (
+          <div className="mt-10">
+            <AudioGuidesPromo
+              variant="inline"
+              destinationName={dest.name}
+              destinationSlug={dest.slug}
+            />
+          </div>
+        )}
 
         <aside className="mt-10 rounded-2xl bg-sand p-5 sm:p-6 ring-1 ring-black/5">
           <h2 className="text-lg text-ink">Go deeper</h2>
@@ -188,7 +204,11 @@ export default function Destination() {
 
       {dest.toursCityId ? (
         <section className="container-content section-pad pt-0">
-          <DestinationToursWidget destinationName={dest.name} cityId={dest.toursCityId} />
+          <DestinationToursWidget
+            destinationName={dest.name}
+            destinationSlug={dest.slug}
+            cityId={dest.toursCityId}
+          />
         </section>
       ) : null}
 

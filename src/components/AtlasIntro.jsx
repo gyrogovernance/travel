@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import { ATLAS_STEPS, PREP_STEPS_HEADING } from "../data/atlasMethod.js";
+import { wegotripLink } from "../affiliate.js";
+import Icon from "./Icon.jsx";
 
 export default function AtlasIntro() {
   return (
@@ -35,7 +37,17 @@ export default function AtlasIntro() {
         <Link to="/guides/how-to-plan-ethical-travel-with-ai" className="text-ocean font-bold hover:underline">
           Read the 3-step guide
         </Link>
-        , then open a destination below.
+        , then open a destination below. When your itinerary is ready,{" "}
+        <a
+          href={wegotripLink("atlas-intro-audio")}
+          target="_blank"
+          rel="noopener sponsored nofollow"
+          className="text-ocean font-bold hover:underline inline-flex items-center gap-1"
+        >
+          build a self-guided audio tour
+          <Icon name="arrow" className="w-3.5 h-3.5" />
+        </a>{" "}
+        on WeGoTrip.
       </p>
     </section>
   );

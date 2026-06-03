@@ -9,6 +9,7 @@ import Chip from "../components/Chip.jsx";
 import Seo from "../components/Seo.jsx";
 import AtlasIntro from "../components/AtlasIntro.jsx";
 import DestinationsStrip from "../components/DestinationsStrip.jsx";
+import AudioGuidesPromo from "../components/AudioGuidesPromo.jsx";
 import { SITE } from "../site.js";
 import heroImg from "../assets/hero.webp";
 const steps = [
@@ -192,6 +193,9 @@ Browse the prompts
 </Link>
 </div>
 </div>
+</section>
+<section className="container-content section-pad pt-0">
+<AudioGuidesPromo variant="featured" />
 </section>
 {/* Search, partners, guides — one white band to avoid double section padding */}
 <section className="bg-white">

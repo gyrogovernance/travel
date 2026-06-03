@@ -23,19 +23,19 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "Booking.com",
-        reward: "varies",
+        icon: "bed",
         note: "Huge inventory including many small, family-run stays.",
         url: link("https://www.booking.com"),
       },
       {
         name: "Hostelworld",
-        reward: "up to high",
+        icon: "users",
         note: "Hostels and social stays, often locally run.",
         url: link("https://www.hostelworld.com"),
       },
       {
         name: "Agoda",
-        reward: "varies",
+        icon: "building",
         note: "Strong coverage across Asia for local properties.",
         url: link("https://www.agoda.com"),
       },
@@ -50,25 +50,25 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "GetYourGuide",
-        reward: "up to 8%",
+        icon: "compass",
         note: "Wide range of local tours and activities.",
         url: link("https://www.getyourguide.com"),
       },
       {
         name: "Viator",
-        reward: "varies",
+        icon: "map",
         note: "Large catalog of guided experiences worldwide.",
         url: link("https://www.viator.com"),
       },
       {
         name: "WeGoTrip",
-        reward: "up to 41.5%",
-        note: "Self-guided audio tours, low overhead and high reward.",
+        icon: "headphones",
+        note: "AI custom audio tours and offline self-guided routes worldwide.",
         url: link("https://wegotrip.com"),
       },
       {
         name: "Tiqets",
-        reward: "3.5 to 8%",
+        icon: "ticket",
         note: "Skip-the-line tickets for museums and attractions.",
         url: link("https://www.tiqets.com"),
       },
@@ -83,25 +83,25 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "Omio",
-        reward: "varies",
+        icon: "train",
         note: "Compare trains, buses, and ferries across Europe.",
         url: link("https://omio.com"),
       },
       {
         name: "12Go",
-        reward: "varies",
+        icon: "bus",
         note: "Trains, buses, and ferries across Asia.",
         url: link("https://12go.asia"),
       },
       {
         name: "Welcome Pickups",
-        reward: "8 to 9%",
+        icon: "car",
         note: "Friendly local airport transfers.",
         url: link("https://www.welcomepickups.com"),
       },
       {
         name: "Kiwitaxi",
-        reward: "9 to 11%",
+        icon: "taxi",
         note: "Pre-booked transfers in many countries.",
         url: link("https://kiwitaxi.com"),
       },
@@ -116,19 +116,19 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "Airalo",
-        reward: "12%",
+        icon: "smartphone",
         note: "Popular eSIM marketplace with country and regional plans.",
         url: link("https://www.airalo.com"),
       },
       {
         name: "Yesim",
-        reward: "18%",
-        note: "High reward and a long 90-day cookie.",
+        icon: "wifi",
+        note: "Regional and global data plans with a long booking window.",
         url: link("https://yesim.app"),
       },
       {
         name: "Saily",
-        reward: "15%",
+        icon: "smartphone",
         note: "Simple regional and global data plans.",
         url: link("https://saily.com"),
       },
@@ -143,19 +143,19 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "EKTA",
-        reward: "25%",
-        note: "Travel medical insurance, strong reward rate.",
+        icon: "shield",
+        note: "Travel medical insurance for international trips.",
         url: link("https://ekta.travel"),
       },
       {
         name: "AirHelp",
-        reward: "15 to 16.6%",
+        icon: "scale",
         note: "Help claiming compensation for delayed or canceled flights.",
         url: link("https://www.airhelp.com"),
       },
       {
         name: "Compensair",
-        reward: "fixed fee",
+        icon: "receipt",
         note: "Flight delay and cancellation compensation.",
         url: link("https://compensair.com"),
       },
@@ -170,13 +170,13 @@ export const PROGRAM_CATEGORIES = [
     programs: [
       {
         name: "Aviasales",
-        reward: "up to 40%",
-        note: "Flight metasearch with the highest reward in the network.",
+        icon: "plane",
+        note: "Flight metasearch to compare fares across airlines.",
         url: link("https://aviasales.com"),
       },
       {
         name: "Kiwi.com",
-        reward: "3%",
+        icon: "route",
         note: "Creative routings that can cut cost and layovers.",
         url: link("https://www.kiwi.com"),
       },

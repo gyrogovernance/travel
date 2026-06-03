@@ -3,6 +3,7 @@ import { PROMPT_CATEGORIES } from "../data/prompts.js";
 import GyroscopeOpsOverview from "../components/GyroscopeOpsOverview.jsx";
 import PromptCard from "../components/PromptCard.jsx";
 import CtaBand from "../components/CtaBand.jsx";
+import AudioGuidesPromo from "../components/AudioGuidesPromo.jsx";
 import Icon from "../components/Icon.jsx";
 import Seo from "../components/Seo.jsx";
 
@@ -79,6 +80,8 @@ export default function Prompts() {
             </div>
           </div>
         ))}
+
+        <AudioGuidesPromo variant="compact" subId="prompts-audio" />
 
         <div className="card p-6 flex items-start gap-4 bg-cream">
           <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-ocean/10 text-ocean">
