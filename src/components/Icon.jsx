@@ -2,10 +2,14 @@ import {
   ArrowRight,
   BookOpen,
   Check,
+  ChevronDown,
   Coins,
   Compass,
   Copy,
   Handshake,
+  House,
+  Info,
+  Languages,
   Leaf,
   Mail,
   Plane,
@@ -26,9 +30,13 @@ const ICONS = {
   copy: Copy,
   spark: Sparkles,
   mail: Mail,
+  home: House,
+  about: Info,
+  chevron: ChevronDown,
+  languages: Languages,
 };
 
-/** Semantic icons used across the site (domains, nav, CTAs). */
+/** Semantic icons used across the site (domains, nav, CTAs). Brand logos: SocialIcon. */
 export default function Icon({
   name,
   className = "w-6 h-6",

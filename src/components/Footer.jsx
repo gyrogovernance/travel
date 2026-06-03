@@ -3,6 +3,7 @@ import { DOMAINS } from "../data/domains.js";
 import { DISCLOSURE } from "../affiliate.js";
 import { SITE } from "../site.js";
 import BrandLockup from "./BrandLockup.jsx";
+import SocialLinks from "./SocialLinks.jsx";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -23,6 +24,7 @@ export default function Footer() {
           <p className="text-sm leading-relaxed text-slate-400">
             Ethical travel, AI-empowered. Guides for human adventures that respect people and planet.
           </p>
+          <SocialLinks className="mt-4 -ml-2" />
         </div>
 
         <div>

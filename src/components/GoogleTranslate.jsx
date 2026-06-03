@@ -1,6 +1,7 @@
 import { useEffect, useId, useRef, useState } from "react";
 import { TRANSLATE_LANGUAGES, TRANSLATE_LANGUAGE_CODES } from "../data/translateLanguages.js";
 import { applyLanguage, getGoogTransCookie } from "../utils/googTransCookies.js";
+import Icon from "./Icon.jsx";
 
 const SCRIPT_ID = "google-translate-script";
 const INIT_CALLBACK = "__ggGoogleTranslateInit";
@@ -96,7 +97,7 @@ export default function GoogleTranslate({ className = "" }) {
 
   const activeCookie = getGoogTransCookie();
   const navPill =
-    "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
+    "inline-flex items-center gap-2 px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
 
   return (
     <div ref={rootRef} className={`relative notranslate ${className}`.trim()}>
@@ -104,22 +105,17 @@ export default function GoogleTranslate({ className = "" }) {
 
       <button
         type="button"
-        className={`${navPill} inline-flex items-center gap-1.5 text-slate-300 hover:text-white hover:bg-white/10`}
+        className={`${navPill} text-slate-300 hover:text-white hover:bg-white/10`}
         aria-haspopup="listbox"
         aria-expanded={open}
         onClick={() => setOpen((v) => !v)}
       >
+        <Icon name="languages" className="w-4 h-4 shrink-0" />
         Translate
-        <svg
-          viewBox="0 0 24 24"
-          className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.4"
-          aria-hidden="true"
-        >
-          <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
-        </svg>
+        <Icon
+          name="chevron"
+          className={`w-4 h-4 shrink-0 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
+        />
       </button>
 
       {open && (

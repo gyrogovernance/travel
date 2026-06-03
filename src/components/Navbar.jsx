@@ -11,9 +11,10 @@ import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
 import BrandLockup from "./BrandLockup.jsx";
 import GoogleTranslate from "./GoogleTranslate.jsx";
+import SocialLinks from "./SocialLinks.jsx";
 
 const navBase =
-  "px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
+  "inline-flex items-center gap-2 px-3.5 py-2 text-sm font-bold rounded-full transition-colors duration-200";
 
 function linkClass({ isActive }) {
   return `${navBase} ${
@@ -21,6 +22,15 @@ function linkClass({ isActive }) {
       ? "text-white bg-white/15"
       : "text-slate-300 hover:text-white hover:bg-white/10"
   }`;
+}
+
+function NavItem({ to, end, icon, children, onClick }) {
+  return (
+    <NavLink to={to} end={end} className={linkClass} onClick={onClick}>
+      <Icon name={icon} className="w-4 h-4 shrink-0" />
+      {children}
+    </NavLink>
+  );
 }
 
 function isGuidesSectionActive(pathname) {
@@ -89,10 +99,9 @@ function GuidesMenu() {
     closeTimer.current = setTimeout(() => setOpen(false), 120);
   };
 
-  const triggerClass =
-    open || sectionActive
-      ? "text-white bg-white/15"
-      : "text-slate-300 hover:text-white hover:bg-white/10";
+  const ctaShellClass = `nav-guides-cta ${
+    open || sectionActive ? "nav-guides-cta-active" : ""
+  }`;
 
   return (
     <div
@@ -101,41 +110,33 @@ function GuidesMenu() {
       onMouseEnter={openNow}
       onMouseLeave={closeSoon}
     >
-      <div className={`inline-flex items-center rounded-full ${triggerClass}`}>
+      <div className={ctaShellClass}>
         <NavLink
           to="/guides"
-          className={() =>
-            `${linkClass({ isActive: sectionActive })} rounded-r-none !bg-transparent pr-2`
-          }
+          className="inline-flex items-center gap-2 pl-4 pr-2 py-2 text-sm font-bold rounded-l-full"
           onClick={() => setOpen(false)}
         >
+          <Icon name="compass" className="w-4 h-4 shrink-0" />
           Guides
         </NavLink>
         <button
           type="button"
-          className={`px-2 py-2 rounded-l-none rounded-r-full inline-flex items-center ${
-            open || sectionActive ? "text-white" : "text-slate-300 hover:text-white"
-          }`}
+          className="px-2.5 py-2 rounded-r-full inline-flex items-center"
           aria-haspopup="true"
           aria-expanded={open}
           aria-label="Open guides menu"
           onClick={() => setOpen((v) => !v)}
           onFocus={openNow}
         >
-          <svg
-            viewBox="0 0 24 24"
+          <Icon
+            name="chevron"
             className={`w-4 h-4 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2.4"
-          >
-            <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
+          />
         </button>
       </div>
 
       <div
-        className={`absolute left-0 top-full pt-2 transition duration-200 ease-smooth ${
+        className={`absolute right-0 top-full pt-2 transition duration-200 ease-smooth ${
           open ? "opacity-100 translate-y-0 visible" : "opacity-0 -translate-y-1 invisible"
         }`}
       >
@@ -202,14 +203,15 @@ export default function Navbar() {
           className="hidden md:flex items-center justify-center gap-1 md:justify-self-center"
           aria-label="Primary"
         >
-          <NavLink to="/" end className={linkClass}>Home</NavLink>
-          <NavLink to="/about" className={linkClass}>About</NavLink>
+          <NavItem to="/" end icon="home">Home</NavItem>
+          <NavItem to="/about" icon="about">About</NavItem>
+          <NavItem to="/prompts" icon="spark">AI Prompts</NavItem>
           <GuidesMenu />
-          <NavLink to="/prompts" className={linkClass}>AI Prompts</NavLink>
         </nav>
 
-        <div className="flex items-center gap-2 shrink-0 ml-1 md:ml-0 md:justify-self-end">
+        <div className="flex items-center gap-1 shrink-0 ml-1 md:ml-0 md:justify-self-end">
           <GoogleTranslate />
+          <SocialLinks variant="nav" className="hidden md:flex" />
           <button
           className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"
           aria-label={open ? "Close menu" : "Open menu"}
@@ -226,23 +228,35 @@ export default function Navbar() {
       {open && (
         <div className="md:hidden border-t border-white/10 bg-ink">
           <div className="container-content py-3 flex flex-col gap-1">
-            <NavLink to="/" end className={linkClass} onClick={() => setOpen(false)}>Home</NavLink>
-            <NavLink to="/about" className={linkClass} onClick={() => setOpen(false)}>About</NavLink>
+            <NavItem to="/" end icon="home" onClick={() => setOpen(false)}>Home</NavItem>
+            <NavItem to="/about" icon="about" onClick={() => setOpen(false)}>About</NavItem>
+            <NavItem to="/prompts" icon="spark" onClick={() => setOpen(false)}>AI Prompts</NavItem>
 
             <p className="px-3.5 pt-3 pb-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
               Guides
             </p>
-            <NavLink to="/guides" className={linkClass} onClick={() => setOpen(false)}>Guides hub</NavLink>
-            <NavLink to="/guides#articles" className={linkClass} onClick={() => setOpen(false)}>
+            <NavLink
+              to="/guides"
+              className="nav-guides-cta w-full justify-center gap-2 px-5 py-3 text-sm font-bold"
+              onClick={() => setOpen(false)}
+            >
+              <Icon name="compass" className="w-4 h-4 shrink-0" />
+              Guides
+            </NavLink>
+            <NavLink to={GUIDES_TRAVEL.to} className={linkClass} onClick={() => setOpen(false)}>
+              <Icon name={GUIDES_TRAVEL.icon} className="w-4 h-4 shrink-0" />
               {GUIDES_TRAVEL.title}
             </NavLink>
-            <NavLink to="/destinations" className={linkClass} onClick={() => setOpen(false)}>
+            <NavLink to={GUIDES_DESTINATIONS.to} className={linkClass} onClick={() => setOpen(false)}>
+              <Icon name={GUIDES_DESTINATIONS.icon} className="w-4 h-4 shrink-0" />
               {GUIDES_DESTINATIONS.title}
             </NavLink>
-            <NavLink to="/resources" className={linkClass} onClick={() => setOpen(false)}>
+            <NavLink to={GUIDES_RESOURCES.to} className={linkClass} onClick={() => setOpen(false)}>
+              <Icon name={GUIDES_RESOURCES.icon} className="w-4 h-4 shrink-0" />
               {GUIDES_RESOURCES.title}
             </NavLink>
-            <NavLink to="/search/flights" className={linkClass} onClick={() => setOpen(false)}>
+            <NavLink to={GUIDES_FLIGHT_SEARCH.to} className={linkClass} onClick={() => setOpen(false)}>
+              <Icon name={GUIDES_FLIGHT_SEARCH.icon} className="w-4 h-4 shrink-0" />
               {GUIDES_FLIGHT_SEARCH.title}
             </NavLink>
 
@@ -268,7 +282,12 @@ export default function Navbar() {
               </NavLink>
             ))}
 
-            <NavLink to="/prompts" className={linkClass} onClick={() => setOpen(false)}>AI Prompts</NavLink>
+            <div className="border-t border-white/10 mt-3 pt-3 pb-1 flex flex-col items-center gap-2">
+              <p className="text-[11px] font-extrabold uppercase tracking-[0.14em] text-slate-500">
+                Follow us
+              </p>
+              <SocialLinks variant="nav" />
+            </div>
           </div>
         </div>
       )}

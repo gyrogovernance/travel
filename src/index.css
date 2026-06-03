@@ -53,6 +53,19 @@ h1, h2, h3, .font-display {
     @apply btn bg-sky text-ink hover:bg-skylight shadow-glow hover:-translate-y-0.5;
   }
 
+  /* Primary nav CTA: light blue to light green; hover deepens gradient only. */
+  .nav-guides-cta {
+    @apply inline-flex items-center rounded-full text-ink shadow-glow;
+    background: linear-gradient(135deg, #c8ecff 0%, #b8f0d4 100%);
+    transition: background 0.35s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  .nav-guides-cta:hover,
+  .nav-guides-cta:focus-within,
+  .nav-guides-cta-active {
+    background: linear-gradient(135deg, #a6dcff 0%, #8ee8b8 100%);
+  }
+
   .card {
     @apply rounded-3xl bg-cream shadow-soft ring-1 ring-black/5 transition duration-300 ease-smooth;
   }

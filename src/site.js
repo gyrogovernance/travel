@@ -25,6 +25,25 @@ export const SITE = {
   labIcon,
 };
 
+/** External social profiles (footer and other site chrome). */
+export const SOCIAL_LINKS = [
+  {
+    id: "tiktok",
+    label: "TikTok",
+    href: "https://www.tiktok.com/@travel.gyrogovernance",
+  },
+  {
+    id: "instagram",
+    label: "Instagram",
+    href: "https://www.instagram.com/travel.gyrogovernance",
+  },
+  {
+    id: "youtube",
+    label: "YouTube",
+    href: "https://www.youtube.com/channel/UCD1klKVXk2FPQkLRZSyXXjw",
+  },
+];
+
 /** Absolute URL for a site path (BrowserRouter, no hash). */
 export function absoluteUrl(path = "/") {
   const base = SITE.siteUrl.replace(/\/$/, "");
