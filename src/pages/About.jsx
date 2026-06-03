@@ -133,31 +133,25 @@ export default function About() {
         </div>
       </section>
 
-      {/* Core idea */}
+      {/* Main contenxt */}
       <section className="container-content py-6 prose-site">
         <h2>About Safety</h2>
-        <p>
-          Safety is not just about preventing harm from machines. It is about
-          steering powerful systems toward outcomes that help people and the
-          planet. Tourism moves trillions of dollars, employs one in ten workers
-          worldwide, and produces eight percent of global carbon emissions. Small
-          changes in how we travel add up to large effects.
+        <p><strong>True safety goes beyond preventing AI Risks. It means steering powerful systems toward outcomes that benefit people and the planet.</strong>
         </p>
         <p>
-          Our research identifies principles that keep cooperative systems
-          healthy. This travel site is one place we put that work into practice.
+          Tourism drives trillions of dollars, employs one in ten workers worldwide, and generates eight percent of global carbon emissions. Because of this massive scale, even small changes in how we travel create large effects.
+        </p>
+        <p>
+          Our research identifies the principles that keep cooperative systems healthy, and this travel site puts that work into practice.
         </p>
 
         <h2>Core Thesis</h2>
         <p>
-          Collective Superintelligence is central to our research at the Gyro Governance Lab. Our work defines it as not another AI model, but as humans
-          getting better together with the help of technology. 
-        </p>         
-        <p>
-          Applied to travel, it means people and AI working together through clear roles to create a better experience for everyone.
-          The assistant handles research at speed, and you bring judgment and context. Together, the system is smarter 
-          than either part alone.
+          Collective Superintelligence is central to our research at Gyro Governance Lab. Rather than another AI model, it is the infrastructure that helps humans get better together through technology.
         </p>
+        <p>
+          Applied to travel, AI provides speed and scale in matters of operationalization while you provide judgment and context. This partnership creates an experience smarter than either part alone.
+        </p>         
 
         <h2 id="domains">The Four Domains</h2>
         <p>
@@ -210,11 +204,13 @@ export default function About() {
               At the core is a distinction between types of sources, not brands
               or platforms. <strong>Authority</strong> and <strong>Agency</strong>{" "}
               name categories in information flows (Direct versus Indirect), not
-              titles for a person, company, or AI. All artificial Authority and
-              Agency are Indirect and trace back to human intelligence. Governance
-              is operational alignment through traceability of information
-              variety, inference accountability, and intelligence integrity to
-              Direct Authority and Agency.
+              titles for a person, company, or AI. 
+              </p>
+              <p className="mt-4 text-slate-700 font-medium leading-relaxed">
+              <strong>All artificial Authority and Agency are Indirect and trace back to human intelligence.</strong>
+              </p>
+              <p className="mt-4 text-slate-700 font-medium leading-relaxed">
+              Governance is operational alignment through traceability of information variety, inference accountability, and intelligence integrity to Direct Authority and Agency.
             </p>
           </div>
 
