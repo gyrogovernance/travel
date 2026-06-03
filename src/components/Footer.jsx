@@ -1,8 +1,7 @@
 import { Link } from "react-router-dom";
 import { DOMAINS } from "../data/domains.js";
 import { DISCLOSURE } from "../affiliate.js";
-import { SITE } from "../site.js";
-import BrandLockup from "./BrandLockup.jsx";
+import SiteLogo from "./SiteLogo.jsx";
 import SocialLinks from "./SocialLinks.jsx";
 
 export default function Footer() {
@@ -11,16 +10,7 @@ export default function Footer() {
     <footer className="bg-ink text-slate-300">
       <div className="container-content py-12 grid gap-10 md:grid-cols-4">
         <div>
-          <Link to="/" className="flex items-center gap-3 mb-3 w-fit" aria-label="Gyro Governance Ethical Travel home">
-            <img
-              src={SITE.travelIcon}
-              alt=""
-              width="40"
-              height="40"
-              className="h-10 w-10 shrink-0 rounded-full"
-            />
-            <BrandLockup />
-          </Link>
+          <SiteLogo className="mb-3 w-fit" />
           <p className="text-sm leading-relaxed text-slate-400">
             Ethical travel, AI-empowered. Guides for human adventures that respect people and planet.
           </p>

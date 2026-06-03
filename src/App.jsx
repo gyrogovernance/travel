@@ -23,7 +23,7 @@ export default function App() {
   useEffect(() => watchGoogleTranslateBanner(), []);
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col overflow-x-clip">
       <a
         href="#main"
         className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-ocean focus:px-4 focus:py-2 focus:text-white"

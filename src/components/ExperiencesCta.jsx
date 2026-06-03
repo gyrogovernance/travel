@@ -12,7 +12,7 @@ export default function ExperiencesCta() {
         <div className="min-w-0">
           <h3 className="text-lg text-ink">Self-guided audio tours</h3>
           <p className="text-sm text-slate-600 mt-1 font-medium">
-            Turn Atlas anchor spots into a personalized route you listen to on your phone,
+            Turn destination anchor spots into a personalized route you listen to on your phone,
             offline at your pace.
           </p>
         </div>

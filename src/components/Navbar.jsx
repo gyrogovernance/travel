@@ -7,9 +7,8 @@ import {
   GUIDES_RESOURCES,
   GUIDES_TRAVEL,
 } from "../data/guidesMenu.js";
-import { SITE } from "../site.js";
 import Icon from "./Icon.jsx";
-import BrandLockup from "./BrandLockup.jsx";
+import SiteLogo from "./SiteLogo.jsx";
 import GoogleTranslate from "./GoogleTranslate.jsx";
 import SocialLinks from "./SocialLinks.jsx";
 
@@ -182,25 +181,11 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 bg-ink border-b border-white/10">
-      <div className="container-content flex items-center justify-between h-18 py-3 md:grid md:grid-cols-[1fr_auto_1fr] md:gap-3">
-        <Link
-          to="/"
-          className="flex items-center gap-3 shrink-0 md:justify-self-start"
-          onClick={goHome}
-          aria-label="Gyro Governance Ethical Travel home"
-        >
-          <img
-            src={SITE.travelIcon}
-            alt=""
-            width="40"
-            height="40"
-            className="h-10 w-10 shrink-0 rounded-full"
-          />
-          <BrandLockup />
-        </Link>
+      <div className="container-content flex items-center justify-between h-18 py-3 nav:grid nav:grid-cols-[1fr_auto_1fr] nav:gap-3">
+        <SiteLogo className="min-w-0 nav:justify-self-start" onClick={goHome} />
 
         <nav
-          className="hidden md:flex items-center justify-center gap-1 md:justify-self-center"
+          className="hidden nav:flex items-center justify-center gap-1 nav:justify-self-center"
           aria-label="Primary"
         >
           <NavItem to="/" end icon="home">Home</NavItem>
@@ -209,11 +194,11 @@ export default function Navbar() {
           <GuidesMenu />
         </nav>
 
-        <div className="flex items-center gap-1 shrink-0 ml-1 md:ml-0 md:justify-self-end">
+        <div className="flex items-center gap-1 shrink-0 ml-1 nav:ml-0 nav:justify-self-end">
           <GoogleTranslate />
-          <SocialLinks variant="nav" className="hidden md:flex" />
+          <SocialLinks variant="nav" className="hidden nav:flex" />
           <button
-          className="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"
+          className="nav:hidden inline-flex items-center justify-center h-11 w-11 rounded-xl text-white hover:bg-white/10"
           aria-label={open ? "Close menu" : "Open menu"}
           aria-expanded={open}
           onClick={() => setOpen((v) => !v)}
@@ -226,7 +211,7 @@ export default function Navbar() {
       </div>
 
       {open && (
-        <div className="md:hidden border-t border-white/10 bg-ink">
+        <div className="nav:hidden border-t border-white/10 bg-ink">
           <div className="container-content py-3 flex flex-col gap-1">
             <NavItem to="/" end icon="home" onClick={() => setOpen(false)}>Home</NavItem>
             <NavItem to="/about" icon="about" onClick={() => setOpen(false)}>About</NavItem>

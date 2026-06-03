@@ -52,7 +52,7 @@ You come here for the architecture, the museums, and a window onto a Gulf identi
 - **You decide on Ramadan.** Travelling during the fast is a different city, more contemplative, with reduced daytime hours. It is a choice worth making with eyes open.
 - **You decide where to direct your dirhams.** Five-star resort or local guesthouse, chain mall or Madinat Zayed canteen, ticketed desert spectacle or smaller Emirati-run camp.
 - **You decide your dress.** Modest dress is required at religious sites and expected at heritage sites and traditional neighbourhoods. The city is more relaxed on beaches and in malls. The judgement is yours, in context.
-- **You decide whether to engage the harder questions** about labour conditions, freedom of expression, and regional politics. The Atlas will not pretend they do not exist.
+- **You decide whether to engage the harder questions** about labour conditions, freedom of expression, and regional politics. We do not pretend they do not exist.
 
 ### 🔄 Intelligence Cooperation
 

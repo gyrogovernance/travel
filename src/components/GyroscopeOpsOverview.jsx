@@ -6,7 +6,7 @@ export default function GyroscopeOpsOverview({ className = "" }) {
     <div className={className}>
       <h2 className="text-2xl sm:text-3xl text-ink">{PREP_STEPS_HEADING}</h2>
       <p className="mt-2 text-slate-700 font-medium max-w-3xl leading-relaxed">
-        Every Atlas destination walks through these checks in Step 2: Preparation.
+        Every destination page walks through these checks in Step 2: Preparation.
         Use them as a checklist before you copy a prompt.
       </p>
       <ul className="mt-5 space-y-3">

@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{js,jsx}"],
   theme: {
     extend: {
+      screens: {
+        nav: "940px",
+      },
       colors: {
         ink: "#0c1524",
         slate2: "#16233a",

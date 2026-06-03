@@ -281,7 +281,7 @@ export default function About() {
                   Gyroscope Protocol: four prep categories on destination pages
                 </h3>
                 <p className="mt-2 text-sm text-slate-600 font-medium leading-relaxed">
-                  Atlas destination pages use these in Step 2: Preparation:
+                  Destination pages use these in Step 2: Preparation:
                 </p>
               </div>
             </div>

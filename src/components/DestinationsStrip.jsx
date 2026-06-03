@@ -27,29 +27,31 @@ export default function DestinationsStrip() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 max-h-[420px] overflow-y-auto pr-1">
-          {featured.map((d) => (
-            <Link
-              key={d.slug}
-              to={`/destinations/${d.slug}`}
-              className="group flex items-center gap-3 rounded-xl bg-white/10 ring-1 ring-white/15 px-3 py-2.5 hover:bg-white/20 transition"
-            >
-              <img
-                src={d.image}
-                alt=""
-                loading="lazy"
-                className="h-12 w-12 rounded-lg object-cover shrink-0"
-              />
-              <span className="min-w-0 flex-1">
-                <span className="block text-sm font-bold truncate">{d.name}</span>
-                <span className="block text-xs text-slate-300 truncate">{d.country}</span>
-              </span>
-              <Icon
-                name="arrow"
-                className="w-4 h-4 shrink-0 opacity-60 group-hover:opacity-100 group-hover:translate-x-0.5 transition"
-              />
-            </Link>
-          ))}
+        <div className="scrollbar-on-dark max-h-[min(28rem,70vh)] overflow-y-auto overscroll-y-contain py-2 px-1 pr-2 scroll-pt-1 scroll-pb-4 sm:max-h-[36rem] lg:max-h-none lg:overflow-visible lg:p-0">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 pb-3 sm:pb-2 lg:pb-0">
+            {featured.map((d) => (
+              <Link
+                key={d.slug}
+                to={`/destinations/${d.slug}`}
+                className="group flex items-center gap-3 rounded-xl bg-white/10 ring-1 ring-white/15 px-3 py-2.5 hover:bg-white/20 transition"
+              >
+                <img
+                  src={d.image}
+                  alt=""
+                  loading="lazy"
+                  className="h-12 w-12 rounded-lg object-cover shrink-0"
+                />
+                <span className="min-w-0 flex-1">
+                  <span className="block text-sm font-bold truncate">{d.name}</span>
+                  <span className="block text-xs text-slate-300 truncate">{d.country}</span>
+                </span>
+                <Icon
+                  name="arrow"
+                  className="w-4 h-4 shrink-0 opacity-60 group-hover:opacity-100 group-hover:translate-x-0.5 transition"
+                />
+              </Link>
+            ))}
+          </div>
         </div>
       </div>
     </section>

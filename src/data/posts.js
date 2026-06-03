@@ -20,13 +20,13 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "Most travel AI advice stops at \"paste this prompt and get an itinerary.\" That works for speed, but it skips the part that makes travel ethical: deciding what matters, checking your assumptions, and verifying with real people. Our Ethical Travel Atlas uses a three-step loop so AI assists research while you stay accountable.",
+          "Most travel AI advice stops at \"paste this prompt and get an itinerary.\" That works for speed, but it skips the part that makes travel ethical: deciding what matters, checking your assumptions, and verifying with real people. A simple three-step loop keeps AI useful while you stay accountable.",
       },
       { type: "h2", text: "Step 1: Choices" },
       {
         type: "p",
         text:
-          "Before you book anything, clarify why you are going and what trade-offs you accept. Each Atlas destination page opens with Why visit and an Ethical Compass: four short, place-specific notes on Economy, Employment, Education, and Ecology.",
+          "Before you book anything, clarify why you are going and what trade-offs you accept. Ask four questions about the place you are visiting:",
       },
       {
         type: "ul",
@@ -37,11 +37,16 @@ export const POSTS = [
           "Ecology: What environmental pressure matters most?",
         ],
       },
+      {
+        type: "p",
+        text:
+          "Our destination pages spell these out city by city so you are not starting from a blank page. The goal is not a perfect score on all four. It is knowing which trade-offs matter to you before money changes hands.",
+      },
       { type: "h2", text: "Step 2: Preparation" },
       {
         type: "p",
         text:
-          "Preparation is where cooperation pays off. Let AI gather options fast, then check what matters locally. Each destination page includes four prep steps with place-specific detail: check assumptions (Governance Management), compare sources (Information Curation), note choices that need your judgment (Inference Interaction), and plan how you will adapt on the ground (Intelligence Cooperation).",
+          "Preparation is where human-AI cooperation pays off. Let AI gather options fast, then check what matters locally. Work through four checks before you ask for an itinerary:",
       },
       {
         type: "ul",
@@ -55,22 +60,27 @@ export const POSTS = [
       {
         type: "p",
         text:
-          "You also get five anchor spots and practical essentials (length, transport) so the trip has bones before you open an AI chat.",
+          "Pull together five anchor spots and practical essentials (how long to stay, how to get around) so the trip has bones before you open an AI chat. Our destination pages list these for each city.",
       },
       { type: "h2", text: "Step 3: Delivery" },
       {
         type: "p",
         text:
-          "Delivery is the copy-ready prompt. It always starts with Please, follows the same three steps inside the instruction, walks through all four prep checks, and ends with a reminder to verify against official sources and local people. Treat the output as a draft, not a final plan.",
+          "Once you know what matters and what to verify, ask AI to draft a day-by-day plan. Use a prompt that walks through the same three steps: clarify your choices, run the four prep checks, then build the itinerary. Fill in your dates, travel companions, budget, and interests.",
+      },
+      {
+        type: "p",
+        text:
+          "Whatever comes back is a starting point, not a final plan. Check visas, safety, opening hours, and bookings on official sites. Ask one local person (a guide, host, or shopkeeper) whether your plan makes sense before you commit.",
       },
       { type: "h2", text: "What to do next" },
       {
         type: "ul",
         items: [
-          "Open a destination in the Atlas that matches your trip.",
-          "Read Step 1 and Step 2 on that page before you copy the prompt.",
-          "Paste the prompt into your AI tool, fill in the brackets, then check visas, safety, and bookings on official sites.",
-          "Ask one local person (guide, host, shopkeeper) whether your plan makes sense.",
+          "Pick a destination that matches your trip.",
+          "Read the ethical context and prep notes on that page before you copy the prompt.",
+          "Paste the prompt into your AI tool, fill in the brackets, then verify on official sites.",
+          "Ask one local person whether your plan makes sense.",
         ],
       },
       {

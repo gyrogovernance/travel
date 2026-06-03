@@ -61,10 +61,10 @@ export default function Guides() {
 
       <section className="container-content section-pad">
         <div className="max-w-3xl">
-          <span className="eyebrow">Atlas and resources</span>
+          <span className="eyebrow">Destinations and resources</span>
           <h2 className="mt-4 text-3xl sm:text-4xl text-ink leading-tight">Plan your trip</h2>
           <p className="mt-3 text-lg text-slate-700 font-medium leading-relaxed">
-            Start with a destination from the Atlas, read domain articles, or open booking tools.
+            Start with a destination, read domain articles, or open booking tools.
           </p>
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4">

@@ -7,14 +7,14 @@ export default function AtlasIntro() {
   return (
     <section className="container-content pt-10 sm:pt-12 pb-8 sm:pb-10">
       <div className="max-w-3xl">
-        <span className="eyebrow">Ethical Travel Atlas</span>
+        <span className="eyebrow">Destinations</span>
         <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight text-balance">
           Pick a place. Get the bones of a great trip.
         </h2>
         <p className="mt-4 text-lg text-slate-700 font-medium leading-relaxed">
           One hundred mainstream destinations. Each page gives you five anchor spots,
           ethical context for that place, {PREP_STEPS_HEADING.toLowerCase()}, and a
-          copy-ready AI prompt you can paste into any assistant.
+          destination-specific AI prompt you can paste into any assistant.
         </p>
       </div>
       <ol className="mt-6 grid gap-3 sm:grid-cols-3 max-w-4xl">

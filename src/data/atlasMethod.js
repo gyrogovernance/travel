@@ -34,7 +34,7 @@ export const ATLAS_STEPS = [
   {
     step: 3,
     label: "Delivery",
-    summary: "Copy-ready AI prompt plus verification with real people.",
+    summary: "Draft your plan with AI, then verify with real people.",
   },
 ];
 

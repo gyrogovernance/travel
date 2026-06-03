@@ -51,7 +51,7 @@ You come for the architecture, the global food, the desert, the malls (if that i
 - **You decide your season.** Visit May through September and you accept indoor-only days; visit October through April and the city is fully usable.
 - **You decide on Ramadan.** During the fast, restaurants outside hotels are closed during daylight, and behaviour rules are tighter. Evenings (iftar) are spectacular.
 - **You decide where your dirhams go.** Five-star hotel, local guesthouse, mall food court, Karama canteen, branded desert tour, conservation-reserve safari are all real choices with different impacts.
-- **You decide your engagement with the harder questions.** Labour conditions, freedom of expression, regional politics, and migrant rights are real subjects. The Atlas does not pretend they are not.
+- **You decide your engagement with the harder questions.** Labour conditions, freedom of expression, regional politics, and migrant rights are real subjects. We do not pretend they are not.
 - **You decide on the desert experience.** A conservation-reserve safari is fundamentally different from a budget dune-bashing tour with quad bikes.
 
 ### 🔄 Intelligence Cooperation

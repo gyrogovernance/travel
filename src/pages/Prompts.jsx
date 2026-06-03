@@ -50,7 +50,7 @@ export default function Prompts() {
           <p className="mt-5 text-sm text-slate-600 font-medium">
             Destination pages include these checks with local detail.{" "}
             <Link to="/destinations" className="text-ocean font-bold hover:underline">
-              Open the Atlas
+              Browse destinations
             </Link>
             {" or "}
             <Link

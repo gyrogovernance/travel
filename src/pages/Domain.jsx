@@ -121,7 +121,7 @@ export default function Domain() {
 
           {featuredDestinations.length > 0 ? (
             <div className="card p-6">
-              <h3 className="font-display text-lg text-ink mb-3">Atlas destinations</h3>
+              <h3 className="font-display text-lg text-ink mb-3">Featured destinations</h3>
               <p className="text-xs text-slate-500 mb-3">
                 Places where the {domain.name} domain shows up clearly.
               </p>

@@ -27,7 +27,7 @@ const DOMAINS = [
 const STATIC_PAGES = [
   { path: "/", priority: "1.0", changefreq: "weekly", title: "Home" },
   { path: "/guides", priority: "0.9", changefreq: "weekly", title: "Guides hub" },
-  { path: "/destinations", priority: "0.9", changefreq: "weekly", title: "Destinations Atlas" },
+  { path: "/destinations", priority: "0.9", changefreq: "weekly", title: "Destinations" },
   { path: "/resources", priority: "0.8", changefreq: "monthly", title: "Travel Resources" },
   { path: "/search/flights", priority: "0.85", changefreq: "weekly", title: "Search Flights" },
   { path: "/prompts", priority: "0.8", changefreq: "monthly", title: "AI Prompts" },
@@ -128,7 +128,7 @@ function buildLlmsTxt({ full }) {
     lines.push(`- [${d.name}](${pageUrl(`/domains/${d.slug}`)}): ${d.tagline}`);
   }
 
-  lines.push("", "## Destinations (Ethical Travel Atlas)", "");
+  lines.push("", "## Destinations", "");
   if (full) {
     lines.push(`Hub: ${pageUrl("/destinations")}`, "");
     for (const d of DESTINATIONS.slice(0, 20)) {
@@ -142,7 +142,7 @@ function buildLlmsTxt({ full }) {
     }
   } else {
     lines.push(
-      `- [Destinations Atlas](${pageUrl("/destinations")}): ${DESTINATIONS.length} mainstream destinations with ethical planning prompts`
+      `- [Destinations](${pageUrl("/destinations")}): ${DESTINATIONS.length} mainstream destinations with ethical planning prompts`
     );
   }
 

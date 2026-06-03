@@ -12,7 +12,7 @@ export const GUIDES_DESTINATIONS = {
   icon: "leaf",
   iconClass: "bg-leaf",
   title: "Destinations",
-  description: "Ethical Travel Atlas, 100 places",
+  description: "100 places with ethical planning prompts",
 };
 
 export const GUIDES_RESOURCES = {

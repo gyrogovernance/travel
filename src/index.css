@@ -183,6 +183,33 @@ h1, h2, h3, .font-display {
   .blob {
     border-radius: 42% 58% 63% 37% / 41% 44% 56% 59%;
   }
+
+  /* Scroll areas on dark gradients (e.g. home destinations strip) */
+  .scrollbar-on-dark {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.35) transparent;
+  }
+
+  .scrollbar-on-dark::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-on-dark::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-on-dark::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.35);
+    border-radius: 9999px;
+  }
+
+  .scrollbar-on-dark::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .scrollbar-on-dark::-webkit-scrollbar-corner {
+    background: transparent;
+  }
 }
 
 /* Plain transform (not Tailwind vars) so scale animates smoothly on hover. */

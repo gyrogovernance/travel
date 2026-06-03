@@ -22,7 +22,7 @@ export default function Destinations() {
     <div>
       <Seo
         title="Destinations"
-        description="Ethical Travel Atlas: 100 mainstream destinations with anchor spots, practical essentials, and copy-ready AI planning prompts."
+        description="100 mainstream destinations with anchor spots, practical essentials, and AI planning prompts you can copy into your own assistant."
         path="/destinations"
         breadcrumbs={[
           { name: "Home", path: "/" },
@@ -34,7 +34,7 @@ export default function Destinations() {
         <div className="pointer-events-none absolute -right-20 -top-16 h-72 w-72 rounded-full bg-ocean/40 blur-3xl" />
         <div className="pointer-events-none absolute -left-16 bottom-0 h-64 w-64 rounded-full bg-leaf/30 blur-3xl" />
         <div className="container-content py-20 relative">
-          <span className="eyebrow bg-white/10 text-white">Ethical Travel Atlas</span>
+          <span className="eyebrow bg-white/10 text-white">Destinations</span>
           <h1 className="mt-4 text-4xl sm:text-6xl leading-tight">
             100 destinations worth the <span className="text-sky">journey</span>
           </h1>

@@ -80,7 +80,7 @@ export default function Destination() {
             All destinations
           </Link>
           <p className="mt-6 text-xs font-extrabold uppercase tracking-[0.14em] text-sky">
-            Ethical Travel Atlas
+            Destination guide
           </p>
           <h1 className="mt-2 text-4xl sm:text-5xl leading-tight">{dest.name}</h1>
           <p className="mt-2 text-lg text-slate-200 font-medium">{dest.country}</p>
