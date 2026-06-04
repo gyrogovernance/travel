@@ -3,20 +3,37 @@ import { ATLAS_STEPS, PREP_STEPS_HEADING } from "../data/atlasMethod.js";
 import { wegotripLink } from "../affiliate.js";
 import Icon from "./Icon.jsx";
 
-export default function AtlasIntro() {
+export function AtlasDestinationsHeader({ variant = "light", className = "" }) {
+  const dark = variant === "dark";
+
   return (
-    <section className="container-content pt-10 sm:pt-12 pb-8 sm:pb-10">
-      <div className="max-w-3xl">
-        <span className="eyebrow">Destinations</span>
-        <h2 className="mt-4 text-3xl sm:text-5xl text-ink leading-tight text-balance">
-          Pick a place. Get the bones of a great trip.
-        </h2>
-        <p className="mt-4 text-lg text-slate-700 font-medium leading-relaxed">
-          One hundred mainstream destinations. Each page gives you five anchor spots,
-          ethical context for that place, {PREP_STEPS_HEADING.toLowerCase()}, and a
-          destination-specific AI prompt you can paste into any assistant.
-        </p>
-      </div>
+    <div className={className}>
+      <span className={dark ? "eyebrow bg-white/15 text-white" : "eyebrow"}>
+        Destinations
+      </span>
+      <h2
+        className={`mt-4 text-3xl sm:text-5xl leading-tight text-balance ${
+          dark ? "text-white" : "text-ink"
+        }`}
+      >
+        Pick a place. Get the bones of a great trip.
+      </h2>
+      <p
+        className={`mt-4 text-lg font-medium leading-relaxed ${
+          dark ? "text-slate-200" : "text-slate-700"
+        }`}
+      >
+        One hundred mainstream destinations. Each page gives you five anchor spots,
+        ethical context for that place, {PREP_STEPS_HEADING.toLowerCase()}, and a
+        destination-specific AI prompt you can paste into any assistant.
+      </p>
+    </div>
+  );
+}
+
+export function AtlasMethodSteps({ className = "" }) {
+  return (
+    <div className={className}>
       <ol className="mt-6 grid gap-3 sm:grid-cols-3 max-w-4xl">
         {ATLAS_STEPS.map((s) => (
           <li
@@ -49,6 +66,6 @@ export default function AtlasIntro() {
         </a>{" "}
         on WeGoTrip.
       </p>
-    </section>
+    </div>
   );
 }

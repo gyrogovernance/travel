@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { DESTINATIONS, FEATURED_SLUGS } from "../data/destinations.js";
+import { AtlasDestinationsHeader } from "./AtlasIntro.jsx";
 import Icon from "./Icon.jsx";
 
 export default function DestinationsStrip() {
@@ -12,15 +13,7 @@ export default function DestinationsStrip() {
       <div className="pointer-events-none absolute -right-24 top-0 h-64 w-64 rounded-full bg-sky/20 blur-3xl" />
       <div className="container-content py-12 sm:py-14 relative">
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-6 mb-8">
-          <div className="max-w-xl">
-            <h2 className="text-3xl sm:text-4xl leading-tight">
-              Start with a place you already know
-            </h2>
-            <p className="mt-3 text-slate-200 font-medium leading-relaxed">
-              Five anchor spots, domain context, four prep steps, then a
-              destination-specific prompt. Pick one and plan in minutes.
-            </p>
-          </div>
+          <AtlasDestinationsHeader variant="dark" className="max-w-3xl" />
           <Link to="/destinations" className="btn bg-white text-ink hover:bg-slate-100 shrink-0">
             Browse all {DESTINATIONS.length} destinations
             <Icon name="arrow" className="w-4 h-4" />

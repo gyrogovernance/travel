@@ -1,5 +1,6 @@
 import TravelWidget from "./TravelWidget.jsx";
 import ExperiencesCta from "./ExperiencesCta.jsx";
+import { AtlasMethodSteps } from "./AtlasIntro.jsx";
 import { DISCLOSURE } from "../affiliate.js";
 
 // A grid of Travelpayouts search widgets. Pass an array of widget keys
@@ -9,6 +10,7 @@ export default function TravelSearch({
   subtitle = "Search flights, stays, and experiences through partners that fit our ethical travel principles.",
   keys = ["flightSearch", "hotelSearch", "flightCompensation"],
   showDisclosure = false,
+  showAtlasMethod = false,
 }) {
   const primaryKeys = keys.filter((k) => k !== "flightCompensation");
   const showCompensation = keys.includes("flightCompensation");
@@ -22,6 +24,8 @@ export default function TravelSearch({
         </h2>
         <p className="mt-3 text-lg text-slate-700 font-medium">{subtitle}</p>
       </div>
+
+      {showAtlasMethod ? <AtlasMethodSteps /> : null}
 
       <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 items-stretch">
         {primaryKeys.map((k) => (
