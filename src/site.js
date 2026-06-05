@@ -10,8 +10,8 @@ export const SITE = {
   name: "Gyro Governance Ethical Travel",
   shortName: "Gyro Governance Ethical Travel",
   // Full title used on the home page and as the default SEO title.
-  fullTitle: "Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures",
-  tagline: "AI-Empowered Guides for Human Adventures",
+  fullTitle: "Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures",
+  tagline: "AI-Empowered Guides for Humane Adventures",
   // Set this to your live domain, with no trailing slash.
   siteUrl: "https://travel.gyrogovernance.com",
   labUrl: "https://gyrogovernance.com",

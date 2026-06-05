@@ -1,6 +1,6 @@
 # Ethical Travel Atlas: 100 Destinations Worth the Journey
 
-*An AI-Empowered Atlas for Human Adventures, by Gyro Governance.*
+*An AI-Empowered Atlas for Humane Adventures, by Gyro Governance.*
 
 One hundred globally recognizable places. This list is designed for travelers who want iconic destinations first, with practical planning and ethical context layered in.
 

@@ -126,7 +126,7 @@ export default function About() {
                 Ethical Travel
               </h1>
               <p className="mt-3 text-lg text-slate-100 max-w-xl leading-relaxed font-medium">
-                AI-Empowered Guides for Sustainable Tourism and Human Adventures
+                AI-Empowered Guides for Sustainable Tourism and Humane Adventures
               </p>
             </div>
           </div>

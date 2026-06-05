@@ -160,7 +160,7 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 
 ---
 
-Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**.
+Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures**.
 
 Explore more destinations, ethical domains, and AI prompts at [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).
 ```
@@ -213,7 +213,7 @@ Every destination file ends with the same two-line block, no variations:
 ```
 ---
 
-Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**.
+Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures**.
 
 Explore more destinations, ethical domains, and AI prompts at [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).
 ```
@@ -292,7 +292,7 @@ SCALING RULES:
    ---
 
    Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for
-   Human Adventures**.
+   Humane Adventures**.
 
    Explore more destinations, ethical domains, and AI prompts at
    [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).

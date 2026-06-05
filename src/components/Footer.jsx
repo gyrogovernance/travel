@@ -12,7 +12,7 @@ export default function Footer() {
         <div>
           <SiteLogo className="mb-3 w-fit" />
           <p className="text-sm leading-relaxed text-slate-400">
-            Ethical travel, AI-empowered. Guides for human adventures that respect people and planet.
+            Ethical travel, AI-empowered. Guides for Humane Adventures that respect people and planet.
           </p>
           <SocialLinks className="mt-4 -ml-2" />
         </div>

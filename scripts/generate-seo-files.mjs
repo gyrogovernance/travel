@@ -105,7 +105,7 @@ function buildLlmsTxt({ full }) {
     "# Gyro Governance Ethical Travel",
     "",
     "> Ethical travel guidance across Economy, Employment, Education, and Ecology.",
-    "> AI-empowered guides for human adventures from Gyro Governance.",
+    "> AI-empowered guides for Humane Adventures from Gyro Governance.",
     "",
     `Site: ${SITE_URL}`,
     `Canonical pattern: ${SITE_URL}/<path>`,

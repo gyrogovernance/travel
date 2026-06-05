@@ -1,7 +1,7 @@
 # Gyro Governance Ethical Travel
 
 > Ethical travel guidance across Economy, Employment, Education, and Ecology.
-> AI-empowered guides for human adventures from Gyro Governance.
+> AI-empowered guides for Humane Adventures from Gyro Governance.
 
 Site: https://travel.gyrogovernance.com
 Canonical pattern: https://travel.gyrogovernance.com/<path>

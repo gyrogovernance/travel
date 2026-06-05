@@ -20,7 +20,7 @@ A single reference for what this site is, how it is built, what content exists, 
 
 ## Who we are
 
-**Gyro Governance** is an AI Safety Lab. This site, **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**, applies the same careful, principled thinking we use in AI safety to the challenges travelers face. The hero line on Home is **Humans Getting Better Together**: Collective Superintelligence in plain language.
+**Gyro Governance** is an AI Safety Lab. This site, **Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures**, applies the same careful, principled thinking we use in AI safety to the challenges travelers face. The hero line on Home is **Humans Getting Better Together**: Collective Superintelligence in plain language.
 
 - **Mission:** Help people use AI to plan moral travel, make friends locally and abroad, and empower the communities they visit.
 - **Promise:** Practical, honest guidance. No guilt, no doom, no greenwashing. Start where you are; progress over perfection.
@@ -30,12 +30,12 @@ A single reference for what this site is, how it is built, what content exists, 
 
 Use the full title once per page (SEO title, home hero). Elsewhere, vary among:
 
-- Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures (full)
-- AI-Empowered Guides for Human Adventures
-- AI-Empowered Human Adventures
+- Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures (full)
+- AI-Empowered Guides for Humane Adventures
+- AI-Empowered Humane Adventures
 - AI-Empowered Ethical Travel
 
-Always hyphenate **AI-Empowered**. Do not use "AI Guides for Human Adventures" alone.
+Always hyphenate **AI-Empowered**. Do not use "AI Guides for Humane Adventures" alone.
 
 ### Brand assets (`src/assets`)
 

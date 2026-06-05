@@ -1,6 +1,6 @@
 # Ethical Travel Atlas: 100 Destinations Worth the Journey
 
-*An AI-Empowered Atlas for Human Adventures, by Gyro Governance.*
+*An AI-Empowered Atlas for Humane Adventures, by Gyro Governance.*
 
 This document is the combined preview of the rewritten Atlas. Each destination also lives as its own file under `private/docs/destinations/` so it can be published individually on the site.
 
@@ -156,7 +156,7 @@ Copy this into your own AI assistant, fill in the brackets, and treat the answer
 
 ---
 
-Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Human Adventures**.
+Part of **Gyro Governance Ethical Travel: AI-Empowered Guides for Humane Adventures**.
 
 Explore more destinations, ethical domains, and AI prompts at [travel.gyrogovernance.com](https://travel.gyrogovernance.com/).
 

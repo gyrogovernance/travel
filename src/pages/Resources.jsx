@@ -70,7 +70,7 @@ export default function Resources() {
         <div className="container-content py-20 relative">
           <span className="eyebrow bg-white/10 text-white">Resources</span>
           <h1 className="mt-4 text-4xl sm:text-6xl leading-tight">
-            AI-Empowered <span className="text-sky">Human Adventures</span>
+            AI-Empowered <span className="text-sky">Humane Adventures</span>
           </h1>
           <p className="mt-4 text-lg text-slate-200 max-w-2xl font-medium">
             The booking partners we trust, grouped by what you need and matched to

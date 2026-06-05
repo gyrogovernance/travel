@@ -1,6 +1,6 @@
 # Gyro Governance Ethical Travel
 
-**AI Guides for Human Adventures.**
+**AI Guides for Humane Adventures.**
 
 Gyro Governance is an AI Safety Lab. This site shares practical guidance for
 traveling in ways that respect people and the planet, organized around four
